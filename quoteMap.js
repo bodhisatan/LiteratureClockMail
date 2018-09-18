@@ -3,176 +3,176 @@ const quoteMap = {
         {
             "author": "Oscar Wilde",
             "quote_former": "As ",
-			"time": "midnight",
-			"quote_latter": " was striking bronze blows upon the dusky air, Dorian Gray, dressed commonly, and with a muffler wrapped round his throat, crept quietly out of his house.",
+            "time": "midnight",
+            "quote_latter": " was striking bronze blows upon the dusky air, Dorian Gray, dressed commonly, and with a muffler wrapped round his throat, crept quietly out of his house.",
             "work": "The Picture of Dorian Gray"
         },
         {
             "author": "James Joyce",
             "quote_former": "\"But wait till I tell you,\" he said. :We had a ",
-			"time": "midnight",
-			"quote_latter": " lunch too after all the jollification and when we sallied forth it was blue o'clock the morning after the night before\"",
+            "time": "midnight",
+            "quote_latter": " lunch too after all the jollification and when we sallied forth it was blue o'clock the morning after the night before\"",
             "work": "Ulysses"
         },
         {
             "author": "Vladimir Nabokov",
             "quote_former": "\"Midnight,\" you said. What is ",
-			"time": "midnight",
-			"quote_latter": " to the young? And suddenly a festive blaze was flung Across five cedar trunks, snow patches showed, And a patrol car on our bumpy road Came to a crunching stop. Retake, retake!",
+            "time": "midnight",
+            "quote_latter": " to the young? And suddenly a festive blaze was flung Across five cedar trunks, snow patches showed, And a patrol car on our bumpy road Came to a crunching stop. Retake, retake!",
             "work": "Pale Fire"
         },
         {
             "author": "Ike Oguine",
             "quote_former": "That a man who could hardly see anything more than two feet away from him could be employed as a security guard suggested to me that our job was not to secure anything but to report for work every night, fill the bulky ledger with cryptic remarks like 'Patrolled perimeter ",
-			"time": "12.00 pm",
-			"quote_latter": ", No Incident' and go to the office every fortnight for our wages and listen to the talkative Ms Elgassier.",
+            "time": "12.00 pm",
+            "quote_latter": ", No Incident' and go to the office every fortnight for our wages and listen to the talkative Ms Elgassier.",
             "work": "A Squatter's Tale"
         },
         {
             "author": "John Donne",
             "quote_former": "'Tis the year's ",
-			"time": "midnight",
-			"quote_latter": ", and it is the day's, Lucy's, who scarce seven hours herself unmasks; The sun is spent, and now his flasks Send forth light squibs, no constant rays;",
+            "time": "midnight",
+            "quote_latter": ", and it is the day's, Lucy's, who scarce seven hours herself unmasks; The sun is spent, and now his flasks Send forth light squibs, no constant rays;",
             "work": "A Nocturnal upon St Lucy's Day"
         },
         {
             "author": "Yasunari Kawabata",
             "quote_former": "At ",
-			"time": "midnight",
-			"quote_latter": " his wife and daughter might still be bustling about, preparing holiday delicacies in the kitchen, straightening up the house, or perhaps getting their kimonos ready or arranging flowers. Oki would sit in the living room and listen to the radio. As the bells rang he would look back at the departing year. He always found it a moving experience.",
+            "time": "midnight",
+            "quote_latter": " his wife and daughter might still be bustling about, preparing holiday delicacies in the kitchen, straightening up the house, or perhaps getting their kimonos ready or arranging flowers. Oki would sit in the living room and listen to the radio. As the bells rang he would look back at the departing year. He always found it a moving experience.",
             "work": "Beauty and Sadness"
         },
         {
             "author": "Shakespeare",
             "quote_former": "Bernardo: 'Tis now struck ",
-			"time": "twelve",
-			"quote_latter": "; get thee to bed, Francisco.",
+            "time": "twelve",
+            "quote_latter": "; get thee to bed, Francisco.",
             "work": "Hamlet"
         },
         {
             "author": "Angela Carter",
             "quote_former": "Big Ben concluded the run-up, struck and went on striking. (...) But, odder still - Big Ben had once again struck ",
-			"time": "midnight",
-			"quote_latter": ". The time outside still corresponded to that registered by the stopped gilt clock, inside. Inside and outside matched exactly, but both were badly wrong. H'm.",
+            "time": "midnight",
+            "quote_latter": ". The time outside still corresponded to that registered by the stopped gilt clock, inside. Inside and outside matched exactly, but both were badly wrong. H'm.",
             "work": "Nights At The Circus"
         },
         {
             "author": "Samuel Beckett",
             "quote_former": "But in the end I understood this language. I understood it, I understood it, all wrong perhaps. That is not what matters. It told me to write the report. Does this mean I am freer now than I was? I do not know. I shall learn. Then I went back into the house and wrote, It is ",
-			"time": "midnight",
-			"quote_latter": ". The rain is beating on the windows. It was not midnight. It was not raining.",
+            "time": "midnight",
+            "quote_latter": ". The rain is beating on the windows. It was not midnight. It was not raining.",
             "work": "Molloy"
         },
         {
             "author": "David Foster Wallace",
             "quote_former": "Cartridges not allowed after ",
-			"time": "0000h.",
-			"quote_latter": ", to encourage sleep.",
+            "time": "0000h.",
+            "quote_latter": ", to encourage sleep.",
             "work": "Infinite Jest"
         },
         {
             "author": "William Shakespeare",
             "quote_former": "Francisco. You come most carefully upon your hour. Bernardo. 'Tis now struck ",
-			"time": "twelve",
-			"quote_latter": ". Get thee to bed, Francisco.",
+            "time": "twelve",
+            "quote_latter": ". Get thee to bed, Francisco.",
             "work": "Hamlet"
         },
         {
             "author": "David Foster Wallace",
             "quote_former": "Gately can hear the horns and raised voices and u-turn squeals way down below on Wash. That indicate it's around ",
-			"time": "0000h",
-			"quote_latter": "., the switching hour.",
+            "time": "0000h",
+            "quote_latter": "., the switching hour.",
             "work": "Infinite Jest"
         },
         {
             "author": "William Shakespeare",
             "quote_former": "Hamlet: What hour now? Horatio: I think it lacks of ",
-			"time": "twelve",
-			"quote_latter": ". Marcellus: No, it is struck.",
+            "time": "twelve",
+            "quote_latter": ". Marcellus: No, it is struck.",
             "work": "Hamlet"
         },
         {
             "author": "Marcel Proust",
             "quote_former": "He is certain he heard footsteps: they come nearer, and then die away. The ray of light beneath his door is extinguished. It is ",
-			"time": "midnight",
-			"quote_latter": "; some one has turned out the gas; the last servant has gone to bed, and he must lie all night in agony with no one to bring him any help.",
+            "time": "midnight",
+            "quote_latter": "; some one has turned out the gas; the last servant has gone to bed, and he must lie all night in agony with no one to bring him any help.",
             "work": "Swann's Way"
         },
         {
             "author": "Kate Atkinson",
             "quote_former": "I am conceived to the chimes of ",
-			"time": "midnight",
-			"quote_latter": " on the clock on the mantelpiece in the room across the hall. The clock once belonged to my great-grandmother (a woman called Alice) and its tired chime counts me into the world.",
+            "time": "midnight",
+            "quote_latter": " on the clock on the mantelpiece in the room across the hall. The clock once belonged to my great-grandmother (a woman called Alice) and its tired chime counts me into the world.",
             "work": "Behind the Scenes at the Museum"
         },
         {
             "author": "Emily Bront\u00eb",
             "quote_former": "I took her hand in mine, and bid her be composed; for a succession of shudders convulsed her frame, and she would keep straining her gaze towards the glass. 'There's nobody here!' I insisted. 'It was YOURSELF, Mrs. Linton: you knew it a while since.' 'Myself!' she gasped, 'and the clock is striking ",
-			"time": "twelve",
-			"quote_latter": "! It's true, then! that's dreadful!'",
+            "time": "twelve",
+            "quote_latter": "! It's true, then! that's dreadful!'",
             "work": "Wuthering Heights"
         },
         {
             "author": "Salman Rushdie",
             "quote_former": "I was born in the city of Bombay ... On the stroke of ",
-			"time": "midnight",
-			"quote_latter": ", as a matter of fact. Clock-hands joined palms in respectful greeting as I came. Oh, spell it out, spell it out: at the precise instant of India's arrival at independence, I tumbled forth into the world.",
+            "time": "midnight",
+            "quote_latter": ", as a matter of fact. Clock-hands joined palms in respectful greeting as I came. Oh, spell it out, spell it out: at the precise instant of India's arrival at independence, I tumbled forth into the world.",
             "work": "Midnight's Children"
         },
         {
             "author": "Samuel Beckett",
             "quote_former": "It is ",
-			"time": "midnight",
-			"quote_latter": ". The rain is beating on the windows. I am calm. All is sleeping. Nevertheless I get up and go to my desk. I can't sleep. ...",
+            "time": "midnight",
+            "quote_latter": ". The rain is beating on the windows. I am calm. All is sleeping. Nevertheless I get up and go to my desk. I can't sleep. ...",
             "work": "Molloy"
         },
         {
             "author": "JK Rowling",
             "quote_former": "It was nearing ",
-			"time": "midnight",
-			"quote_latter": " and the Prime Minister was sitting alone in his office, reading a long memo that was slipping through his brain without leaving the slightest trace of meaning behind.",
+            "time": "midnight",
+            "quote_latter": " and the Prime Minister was sitting alone in his office, reading a long memo that was slipping through his brain without leaving the slightest trace of meaning behind.",
             "work": "Harry Potter and the Half-Blood Prince"
         },
         {
             "author": "Charles Dickens",
             "quote_former": "Midnight had come upon the crowded city. The palace, the night-cellar, the jail, the madhouse; the chambers of birth and death, of health and sickness; the rigid face of the corpse and the calm sleep of the child - ",
-			"time": "midnight",
-			"quote_latter": " was upon them all.",
+            "time": "midnight",
+            "quote_latter": " was upon them all.",
             "work": "Oliver Twist"
         },
         {
             "author": "Edgar Allan Poe",
             "quote_former": "Once upon a ",
-			"time": "midnight",
-			"quote_latter": " dreary, while I pondered weak and weary, Over many a quaint and curious volume of forgotten lore, While I nodded, nearly napping, suddenly there came a tapping, As of some one gently rapping, rapping at my chamber door. `'Tis some visitor,' I muttered, `tapping at my chamber door - Only this, and nothing more.'",
+            "time": "midnight",
+            "quote_latter": " dreary, while I pondered weak and weary, Over many a quaint and curious volume of forgotten lore, While I nodded, nearly napping, suddenly there came a tapping, As of some one gently rapping, rapping at my chamber door. `'Tis some visitor,' I muttered, `tapping at my chamber door - Only this, and nothing more.'",
             "work": "The Raven"
         },
         {
             "author": "Christopher Marlowe",
             "quote_former": "The clock striketh ",
-			"time": "twelve",
-			"quote_latter": " O it strikes, it strikes! Now body, turn to air, Or Lucifer will bear thee quick to hell. O soul, be changed into little water drops, And fall into the ocean, ne'er to be found. My God, my God, look not so fierce on me!",
+            "time": "twelve",
+            "quote_latter": " O it strikes, it strikes! Now body, turn to air, Or Lucifer will bear thee quick to hell. O soul, be changed into little water drops, And fall into the ocean, ne'er to be found. My God, my God, look not so fierce on me!",
             "work": "Dr Faustus"
         },
         {
             "author": "Laurence Sterne",
             "quote_former": "The first night, as soon as the corporal had conducted my uncle Toby up stairs, which was about 10 - Mrs. Wadman threw herself into her arm chair, and crossing her left knee with her right, which formed a resting-place for her elbow, she reclin'd her cheek upon the palm of her hand, and leaning forwards, ruminated until ",
-			"time": "midnight",
-			"quote_latter": " upon both sides of the question.'",
+            "time": "midnight",
+            "quote_latter": " upon both sides of the question.'",
             "work": "The Life and Opinions of Tristram Shandy, Gentleman"
         },
         {
             "author": "Charles Dickens",
             "quote_former": "To begin my life with the beginning of my life, I record that I was born (as I have been informed an believe) on a Friday, at ",
-			"time": "twelve o'clock",
-			"quote_latter": " at night. It was remarked that the clock began to strike, and I began to cry, simultaneously.",
+            "time": "twelve o'clock",
+            "quote_latter": " at night. It was remarked that the clock began to strike, and I began to cry, simultaneously.",
             "work": "David Copperfield"
         },
         {
             "author": "William Shakespeare",
             "quote_former": "We have heard the chimes at ",
-			"time": "midnight",
-			"quote_latter": ".",
+            "time": "midnight",
+            "quote_latter": ".",
             "work": "Henry IV"
         }
     ],
@@ -180,8 +180,8 @@ const quoteMap = {
         {
             "author": "Donald A. Cabana",
             "quote_former": "With the appointed execution time of ",
-			"time": "one minute past midnight",
-			"quote_latter": " just seconds away, I knocked on the metal door twice. The lock turned and the door swiftly swung open.",
+            "time": "one minute past midnight",
+            "quote_latter": " just seconds away, I knocked on the metal door twice. The lock turned and the door swiftly swung open.",
             "work": "Death at Midnight"
         }
     ],
@@ -189,22 +189,22 @@ const quoteMap = {
         {
             "author": "Robert Tressell",
             "quote_former": "It was ",
-			"time": "after twelve o'clock",
-			"quote_latter": " when Easton came home. Ruth recognised his footsteps before he reached the house, and her heart seemed to stop beating when she heard the clang of the gate, as it closed after he had passed through.",
+            "time": "after twelve o'clock",
+            "quote_latter": " when Easton came home. Ruth recognised his footsteps before he reached the house, and her heart seemed to stop beating when she heard the clang of the gate, as it closed after he had passed through.",
             "work": "The Ragged Trousered Philanthropists"
         },
         {
             "author": "George Jean Nathan",
             "quote_former": "It was just ",
-			"time": "three minutes past midnight",
-			"quote_latter": " when I last saw Archer Harrison alive. I remember, because I said it was two minutes past and he looked at his watch and said it was three minutes past.",
+            "time": "three minutes past midnight",
+            "quote_latter": " when I last saw Archer Harrison alive. I remember, because I said it was two minutes past and he looked at his watch and said it was three minutes past.",
             "work": "Since Ibsen"
         },
         {
             "author": "Elizabeth Kostova",
             "quote_former": "Suddenly I felt a great stillness in the air, then a snapping of tension. I glanced at my watch. ",
-			"time": "Three minutes after midnight.",
-			"quote_latter": " I was breathing normally and my pen moved freely across the page. Whatever stalked me wasn\u2019t quite as clever as I\u2019d feared, I thought, careful not to pause in my work.",
+            "time": "Three minutes after midnight.",
+            "quote_latter": " I was breathing normally and my pen moved freely across the page. Whatever stalked me wasn\u2019t quite as clever as I\u2019d feared, I thought, careful not to pause in my work.",
             "work": "The Historian"
         }
     ],
@@ -212,8 +212,8 @@ const quoteMap = {
         {
             "author": "Fred Sheehan",
             "quote_former": "At ",
-			"time": "four minutes past midnight",
-			"quote_latter": ", January 22, Admiral Lowry's armada of more than 250 ships reached the transport area off Anzio. The sea was calm, the night was black.",
+            "time": "four minutes past midnight",
+            "quote_latter": ", January 22, Admiral Lowry's armada of more than 250 ships reached the transport area off Anzio. The sea was calm, the night was black.",
             "work": "Anzio: Epic of Bravery"
         }
     ],
@@ -221,8 +221,8 @@ const quoteMap = {
         {
             "author": "David Foster Wallace",
             "quote_former": "E.M. Security, normally so scrupulous with their fucking trucks at ",
-			"time": "0005h",
-			"quote_latter": "., is nowhere around, lending weight to yet another clich\u00e9. If you asked Gately what he was feeling right this second he'd have no idea.",
+            "time": "0005h",
+            "quote_latter": "., is nowhere around, lending weight to yet another clich\u00e9. If you asked Gately what he was feeling right this second he'd have no idea.",
             "work": "Infinite Jest"
         }
     ],
@@ -230,8 +230,8 @@ const quoteMap = {
         {
             "author": "Glenn Shirley",
             "quote_former": "At ",
-			"time": "six minutes past midnight",
-			"quote_latter": ", death relieved the sufferer.",
+            "time": "six minutes past midnight",
+            "quote_latter": ", death relieved the sufferer.",
             "work": "West of Hell's Fringe"
         }
     ],
@@ -239,8 +239,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "It was ",
-			"time": "seven minutes after midnight",
-			"quote_latter": ". The dog was lying on the grass in the middle of the lawn in front of Mrs Shears' house. Its eyes were closed. It looked as if it was running on its side, the way dogs run when they think they are chasing a cat in a dream.",
+            "time": "seven minutes after midnight",
+            "quote_latter": ". The dog was lying on the grass in the middle of the lawn in front of Mrs Shears' house. Its eyes were closed. It looked as if it was running on its side, the way dogs run when they think they are chasing a cat in a dream.",
             "work": "The Curious Incident of the Dog in the Night-Time"
         }
     ],
@@ -248,8 +248,8 @@ const quoteMap = {
         {
             "author": "James Pascoe",
             "quote_former": "\"Hour of the night!\" exclaimed the priest; \"it is day, not night, and the hour is ",
-			"time": "eight past midnight",
-			"quote_latter": "!\"",
+            "time": "eight past midnight",
+            "quote_latter": "!\"",
             "work": "The Brigantine"
         }
     ],
@@ -257,8 +257,8 @@ const quoteMap = {
         {
             "author": "Amir Mir",
             "quote_former": "At ",
-			"time": "12.09am",
-			"quote_latter": " on 18 October, the cavalcade had reached the Karsaz Bridge, still ten kilometres from her destination.",
+            "time": "12.09am",
+            "quote_latter": " on 18 October, the cavalcade had reached the Karsaz Bridge, still ten kilometres from her destination.",
             "work": "The Bhutto Murder Trail: From Waziristan to GHQ"
         }
     ],
@@ -266,8 +266,8 @@ const quoteMap = {
         {
             "author": "Jonathan Barrow",
             "quote_former": "It was at ",
-			"time": "ten minutes past midnight",
-			"quote_latter": ". Three police cars, Alsations and a black maria arrive at the farmhouse. The farmer clad only in a jock-strap, refused them entry.",
+            "time": "ten minutes past midnight",
+            "quote_latter": ". Three police cars, Alsations and a black maria arrive at the farmhouse. The farmer clad only in a jock-strap, refused them entry.",
             "work": "The Queue"
         }
     ],
@@ -275,8 +275,8 @@ const quoteMap = {
         {
             "author": "Gavin Mortimer",
             "quote_former": "The first incendiaries to hit St Thomas's Hospital had splattered Riddell House at ",
-			"time": "eleven minutes past midnight",
-			"quote_latter": ", from where a few hours earlier the Archbishop of Canterbury had given 'an inspiring address'.",
+            "time": "eleven minutes past midnight",
+            "quote_latter": ", from where a few hours earlier the Archbishop of Canterbury had given 'an inspiring address'.",
             "work": "The Longest Night"
         }
     ],
@@ -284,15 +284,15 @@ const quoteMap = {
         {
             "author": "Thomas Pynchon",
             "quote_former": "Clock time is ",
-			"time": "0 Hours, 12 Minutes",
-			"quote_latter": ", 0 Seconds. Twenty three minutes later, they have their first sight of Venus. Each lies with his Eye clapp'd to the Snout of an identical two and a half foot Gregorian reflector made by Mr Short, with Darkening-Nozzles by Mr Bird.",
+            "time": "0 Hours, 12 Minutes",
+            "quote_latter": ", 0 Seconds. Twenty three minutes later, they have their first sight of Venus. Each lies with his Eye clapp'd to the Snout of an identical two and a half foot Gregorian reflector made by Mr Short, with Darkening-Nozzles by Mr Bird.",
             "work": "Mason & Dixon"
         },
         {
             "author": "Fern Michaels",
             "quote_former": "It was ",
-			"time": "twelve minutes past midnight",
-			"quote_latter": " when mother and daughter saw the first lightning strike. It hit the main barn with such force the ground trembled under their feet.",
+            "time": "twelve minutes past midnight",
+            "quote_latter": " when mother and daughter saw the first lightning strike. It hit the main barn with such force the ground trembled under their feet.",
             "work": "Kentucky heat"
         }
     ],
@@ -300,8 +300,8 @@ const quoteMap = {
         {
             "author": "Robert Ludlum",
             "quote_former": "It was exactly ",
-			"time": "fourteen minutes past midnight",
-			"quote_latter": " when he completed the final call. Among the men he had reched were honourable men. Their voices would be heard by the President.",
+            "time": "fourteen minutes past midnight",
+            "quote_latter": " when he completed the final call. Among the men he had reched were honourable men. Their voices would be heard by the President.",
             "work": "The Matarese Circle"
         }
     ],
@@ -309,15 +309,15 @@ const quoteMap = {
         {
             "author": "Dean Koontz",
             "quote_former": "At ",
-			"time": "twelve-fifteen",
-			"quote_latter": " he got out of the van. He tucked the pistol under the waistband of his trousers and crossed the silent, deserted street to the Hudston house.",
+            "time": "twelve-fifteen",
+            "quote_latter": " he got out of the van. He tucked the pistol under the waistband of his trousers and crossed the silent, deserted street to the Hudston house.",
             "work": "Watchers"
         },
         {
             "author": "Dean Koontz",
             "quote_former": "At ",
-			"time": "twelve-fifteen",
-			"quote_latter": " he got out of the van. He tucked the pistol under the waistband of his trousers and crossed the silent, deserted street to the Hudston house. He let himself through an unlocked wooden gate onto a side patio brightened only by moonlight filtered through the leafy branches of an enormous sheltering coral tree. He paused to pull on a pair of supple leather gloves.",
+            "time": "twelve-fifteen",
+            "quote_latter": " he got out of the van. He tucked the pistol under the waistband of his trousers and crossed the silent, deserted street to the Hudston house. He let himself through an unlocked wooden gate onto a side patio brightened only by moonlight filtered through the leafy branches of an enormous sheltering coral tree. He paused to pull on a pair of supple leather gloves.",
             "work": "Watchers"
         }
     ],
@@ -325,8 +325,8 @@ const quoteMap = {
         {
             "author": "Gavin Mortimer",
             "quote_former": "At ",
-			"time": "sixteen minutes past midnight",
-			"quote_latter": ", Block 4 was hit and the roof set alight.",
+            "time": "sixteen minutes past midnight",
+            "quote_latter": ", Block 4 was hit and the roof set alight.",
             "work": "The Longest Night"
         }
     ],
@@ -334,8 +334,8 @@ const quoteMap = {
         {
             "author": "Isaac Bashevis Singer",
             "quote_former": "Kava ordered two glasses of coffee for himself and his beloved and some cake. When the pair left, exactly ",
-			"time": "seventeen minutes after twelve",
-			"quote_latter": ", the club began to buzz with excitement.",
+            "time": "seventeen minutes after twelve",
+            "quote_latter": ", the club began to buzz with excitement.",
             "work": "Vanvild Kava"
         }
     ],
@@ -343,8 +343,8 @@ const quoteMap = {
         {
             "author": "Mary Horlock",
             "quote_former": "21st December 1985, ",
-			"time": "12.18am",
-			"quote_latter": " [In bed] Michael doesn\u2019t believe in Heaven or Hell. He\u2019s got closer to death than most living people and he tells me there was no tunnel of light or dancing angels. I\u2019m a bit disappointed, to be honest.",
+            "time": "12.18am",
+            "quote_latter": " [In bed] Michael doesn\u2019t believe in Heaven or Hell. He\u2019s got closer to death than most living people and he tells me there was no tunnel of light or dancing angels. I\u2019m a bit disappointed, to be honest.",
             "work": "The Book of Lies"
         }
     ],
@@ -352,8 +352,8 @@ const quoteMap = {
         {
             "author": "Graham Greene",
             "quote_former": "Now she was kneading the little ball of hot paste on the convex margin of the bowl and I could smell the opium. There is no smell like it. Beside the bed the alarm-clock showed ",
-			"time": "twelve-twenty",
-			"quote_latter": ", but already my tension was over. Pyle had diminished.",
+            "time": "twelve-twenty",
+            "quote_latter": ", but already my tension was over. Pyle had diminished.",
             "work": "The Quiet American"
         }
     ],
@@ -361,8 +361,8 @@ const quoteMap = {
         {
             "author": "Steven Hall",
             "quote_former": "Nobody had been one of Mycroft Ward's most important operatives and for sixty seconds every day, between ",
-			"time": "12.21am",
-			"quote_latter": " and 12.22am., his laptop was permitted to connect directly with the gigantic online database of self that was Mycroft Ward's mind.",
+            "time": "12.21am",
+            "quote_latter": " and 12.22am., his laptop was permitted to connect directly with the gigantic online database of self that was Mycroft Ward's mind.",
             "work": "The Raw Shark Texts"
         }
     ],
@@ -370,8 +370,8 @@ const quoteMap = {
         {
             "author": "Steven Hall",
             "quote_former": "Nobody had been one of Mycroft Ward's most important operatives and for sixty seconds every day, between 12.21am and ",
-			"time": "12.22am.",
-			"quote_latter": ", his laptop was permitted to connect directly with the gigantic online database of self that was Mycroft Ward's mind.",
+            "time": "12.22am.",
+            "quote_latter": ", his laptop was permitted to connect directly with the gigantic online database of self that was Mycroft Ward's mind.",
             "work": "The Raw Shark Texts"
         }
     ],
@@ -379,8 +379,8 @@ const quoteMap = {
         {
             "author": "G\u00fcnter Grass",
             "quote_former": "Oskar weighed the wristwatch in his hand, then gave the rather fine piece with its luminous dial showing ",
-			"time": "twenty-three minutes past midnight",
-			"quote_latter": " to little Pinchcoal. He looked up inquiringly at his chief. St\u00f6rtebeker nodded his assent. And Oskar said, as he adjusted his drum snugly for the trip home: 'Jesus will lead the way. Follow thou me!'",
+            "time": "twenty-three minutes past midnight",
+            "quote_latter": " to little Pinchcoal. He looked up inquiringly at his chief. St\u00f6rtebeker nodded his assent. And Oskar said, as he adjusted his drum snugly for the trip home: 'Jesus will lead the way. Follow thou me!'",
             "work": "The Tin Drum"
         }
     ],
@@ -388,8 +388,8 @@ const quoteMap = {
         {
             "author": "Gavin Mortimer",
             "quote_former": "Sanders with Sutton as his gunner began their patrol at ",
-			"time": "12.24am",
-			"quote_latter": ", turning south towards Beachy Head at 10,000 ft.",
+            "time": "12.24am",
+            "quote_latter": ", turning south towards Beachy Head at 10,000 ft.",
             "work": "The Longest Night"
         }
     ],
@@ -397,8 +397,8 @@ const quoteMap = {
         {
             "author": "Emile Zola",
             "quote_former": "Charlotte remembered that she had heard Gregoire go downstairs again, almost immediately after entering his bedroom, and before the servants had even bolted the house-doors for the night. He had certainly rushed off to join Therese in some coppice, whence they must have hurried away to Vieux-Bourg station which the last train to Paris quitted at ",
-			"time": "five-and-twenty minutes past midnight",
-			"quote_latter": ". And it was indeed this which had taken place.",
+            "time": "five-and-twenty minutes past midnight",
+            "quote_latter": ". And it was indeed this which had taken place.",
             "work": "Fruitfulness"
         }
     ],
@@ -406,8 +406,8 @@ const quoteMap = {
         {
             "author": "Christopher Fowler",
             "quote_former": "\"A Mr Dutta from King's Cross called and told me you were on your way. He said you wanted to see the arrival of yesterday's ",
-			"time": "12.26am.",
-			"quote_latter": " It'll take me a few minutes to cue up the footage. Our regular security bloke isn't here today; he's up before Haringey Magistrates' Court for gross indecency outside the headquarters of the Dagenham Girl Pipers.\"",
+            "time": "12.26am.",
+            "quote_latter": " It'll take me a few minutes to cue up the footage. Our regular security bloke isn't here today; he's up before Haringey Magistrates' Court for gross indecency outside the headquarters of the Dagenham Girl Pipers.\"",
             "work": "Bryant & May Off the Rails"
         }
     ],
@@ -415,8 +415,8 @@ const quoteMap = {
         {
             "author": "Stephen King",
             "quote_former": "The DRINK CHEER-UP COFFEE wall clock read ",
-			"time": "12.28",
-			"quote_latter": ".",
+            "time": "12.28",
+            "quote_latter": ".",
             "work": "11/22/63"
         }
     ],
@@ -424,8 +424,8 @@ const quoteMap = {
         {
             "author": "E.W. Hornung",
             "quote_former": "It was ",
-			"time": "half-past twelve",
-			"quote_latter": " when I returned to the Albany as a last desperate resort. The scene of my disaster was much as I had left it. The baccarat-counters still strewed the table, with the empty glasses and the loaded ash-trays. A window had been opened to let the smoke out, and was letting in the fog instead.",
+            "time": "half-past twelve",
+            "quote_latter": " when I returned to the Albany as a last desperate resort. The scene of my disaster was much as I had left it. The baccarat-counters still strewed the table, with the empty glasses and the loaded ash-trays. A window had been opened to let the smoke out, and was letting in the fog instead.",
             "work": "The Amateur Cracksman"
         }
     ],
@@ -433,8 +433,8 @@ const quoteMap = {
         {
             "author": "Stephen Jones",
             "quote_former": "Third individual approaches unnoticed and without caution. Once within reach, individual reaches out toward subjects. Recording terminates: timecode: ",
-			"time": "00:31",
-			"quote_latter": ":02.",
+            "time": "00:31",
+            "quote_latter": ":02.",
             "work": "Zombie Apocalypse! Fightback"
         }
     ],
@@ -442,8 +442,8 @@ const quoteMap = {
         {
             "author": "P.D. James",
             "quote_former": "\"So that at twelve-thirty-three you bolted the south door?\" \"Yes,\" replied Stephen Maxie easily. \"At ",
-			"time": "thirty-three minutes past midnight",
-			"quote_latter": ".\"",
+            "time": "thirty-three minutes past midnight",
+            "quote_latter": ".\"",
             "work": "Cover her Face"
         }
     ],
@@ -451,8 +451,8 @@ const quoteMap = {
         {
             "author": "John Betjeman",
             "quote_former": "We sat in the car park till ",
-			"time": "twenty to one",
-			"quote_latter": "/ And now I'm engaged to Miss Joan Hunter Dunn.",
+            "time": "twenty to one",
+            "quote_latter": "/ And now I'm engaged to Miss Joan Hunter Dunn.",
             "work": "A Subaltern's Love Song"
         }
     ],
@@ -460,8 +460,8 @@ const quoteMap = {
         {
             "author": "Herman Wouk",
             "quote_former": "The butt had been growing warm in her fingers; now the glowing end stung her skin. She crushed the cigarette out and stood, brushing ash from her black skirt. It was ",
-			"time": "eighteen minutes to one",
-			"quote_latter": ". She went to the house phone and called his room. The telephone rang and rang, but there was no answer.",
+            "time": "eighteen minutes to one",
+            "quote_latter": ". She went to the house phone and called his room. The telephone rang and rang, but there was no answer.",
             "work": "Marjorie Morningstar"
         }
     ],
@@ -469,15 +469,15 @@ const quoteMap = {
         {
             "author": "David Footman",
             "quote_former": "At ",
-			"time": "12.45",
-			"quote_latter": ", during a lull, Mr Yoshogi told me that owing to the war there were now many more women in England than men.",
+            "time": "12.45",
+            "quote_latter": ", during a lull, Mr Yoshogi told me that owing to the war there were now many more women in England than men.",
             "work": "Pig and Pepper: A Comedy of Youth"
         },
         {
             "author": "Edith Wharton",
             "quote_former": "At the thought he jumped to his feet and took down from its hook the coat in which he had left Miss Viner's letter. The clock marked the ",
-			"time": "third quarter after midnight",
-			"quote_latter": ", and he knew it would make no difference if he went down to the post-box now or early the next morning; but he wanted to clear his conscience, and having found the letter he went to the door.",
+            "time": "third quarter after midnight",
+            "quote_latter": ", and he knew it would make no difference if he went down to the post-box now or early the next morning; but he wanted to clear his conscience, and having found the letter he went to the door.",
             "work": "The Reef"
         }
     ],
@@ -485,8 +485,8 @@ const quoteMap = {
         {
             "author": "Andrew X. Pham",
             "quote_former": "At ",
-			"time": "12:47a.m",
-			"quote_latter": ", Uncle Ho left us forever.",
+            "time": "12:47a.m",
+            "quote_latter": ", Uncle Ho left us forever.",
             "work": "Last Night I Dreamed Of Peace"
         }
     ],
@@ -494,8 +494,8 @@ const quoteMap = {
         {
             "author": "Jerome K Jerome",
             "quote_former": "The packing was done at ",
-			"time": "12.50",
-			"quote_latter": "; and Harris sat on the big hamper, and said he hoped nothing would be found broken. George said that if anything was broken it was broken, which reflection seemed to comfort him. He also said he was ready for bed.",
+            "time": "12.50",
+            "quote_latter": "; and Harris sat on the big hamper, and said he hoped nothing would be found broken. George said that if anything was broken it was broken, which reflection seemed to comfort him. He also said he was ready for bed.",
             "work": "Three Men in a Boat"
         }
     ],
@@ -503,8 +503,8 @@ const quoteMap = {
         {
             "author": "Mark Twain",
             "quote_former": "Everybody was happy; everybody was complimentary; the ice was soon broken; songs, anecdotes, and more drinks followed, and the pregnant minutes flew. At ",
-			"time": "six minutes to one",
-			"quote_latter": ", when the jollity was at its highest\u2014 BOOM! There was silence instantly.",
+            "time": "six minutes to one",
+            "quote_latter": ", when the jollity was at its highest\u2014 BOOM! There was silence instantly.",
             "work": "A Double Barrelled Detective Story"
         }
     ],
@@ -512,15 +512,15 @@ const quoteMap = {
         {
             "author": "Jonathan Safran Foer",
             "quote_former": "It was ",
-			"time": "12:56 A.M.",
-			"quote_latter": " when Gerald drove up onto the grass and pulled the limousine right next to the cemetery.",
+            "time": "12:56 A.M.",
+            "quote_latter": " when Gerald drove up onto the grass and pulled the limousine right next to the cemetery.",
             "work": "Extremely Loud and Incredibly Close"
         },
         {
             "author": "Dana Standridge",
             "quote_former": "Teacher used to lie awake at night facing that clock, batting his eyelashes against his pillowcase to mimic the sound of the rolling drop action. One night, and this first night is lost in the countless later nights of compounding wonder, he discovered a game. Say the time was ",
-			"time": "12:56",
-			"quote_latter": ".",
+            "time": "12:56",
+            "quote_latter": ".",
             "work": "Lessons in Essence"
         }
     ],
@@ -528,8 +528,8 @@ const quoteMap = {
         {
             "author": "Dana Standridge",
             "quote_former": "A minute had passed, and the roller dropped a new leaf. ",
-			"time": "12:57",
-			"quote_latter": ". 12 + 57 = 69; 6 + 9 = 15; 1 + 5 = 6. 712 + 5 = 717; 71 + 7 = 78; 7 + 8 = 15; 1 + 5 = 6 again.",
+            "time": "12:57",
+            "quote_latter": ". 12 + 57 = 69; 6 + 9 = 15; 1 + 5 = 6. 712 + 5 = 717; 71 + 7 = 78; 7 + 8 = 15; 1 + 5 = 6 again.",
             "work": "Lessons in Essence"
         }
     ],
@@ -537,8 +537,8 @@ const quoteMap = {
         {
             "author": "Fyodor Dostoyevsky",
             "quote_former": "It was downright shameless on his part to come visiting them, especially at night, ",
-			"time": "almost at one in the morning",
-			"quote_latter": ", after all that had happened.",
+            "time": "almost at one in the morning",
+            "quote_latter": ", after all that had happened.",
             "work": "The Idiot"
         }
     ],
@@ -546,8 +546,8 @@ const quoteMap = {
         {
             "author": "Jonathan Frantzen",
             "quote_former": "\u2018What time is it now?\u2019 she said. \u2018",
-			"time": "About one o\u2019clock",
-			"quote_latter": "\u2019. \u2018In the morning?\u2019 Herera\u2019s friend leered at her. \u2018No, there\u2019s a total eclipse of the sun\u2019.",
+            "time": "About one o\u2019clock",
+            "quote_latter": "\u2019. \u2018In the morning?\u2019 Herera\u2019s friend leered at her. \u2018No, there\u2019s a total eclipse of the sun\u2019.",
             "work": "Freedom"
         }
     ],
@@ -555,50 +555,50 @@ const quoteMap = {
         {
             "author": "Rosamund Lupton",
             "quote_former": "",
-			"time": "1.00 am.",
-			"quote_latter": " I felt the surrounding quietness suffocating me.",
+            "time": "1.00 am.",
+            "quote_latter": " I felt the surrounding quietness suffocating me.",
             "work": "Sister"
         },
         {
             "author": "Michel Houellebecq",
             "quote_former": "He didn\u2019t know what was at the end of the chute. The opening was narrow (though large enough to take the canary). He dreamed that the chute opened onto vast garbage bins filled with old coffee filters, ravioli in tomato sauce and mangled genitalia. Huge worms, as big as the canary, armed with terrible beaks, would attack the body. Tear off the feet, rip out its intestines, burst the eyeballs. He woke up, trembling; it was only ",
-			"time": "one o\u2019clock",
-			"quote_latter": ". He swallowed three Xanax. So ended his first night of freedom.",
+            "time": "one o\u2019clock",
+            "quote_latter": ". He swallowed three Xanax. So ended his first night of freedom.",
             "work": "Atomised"
         },
         {
             "author": "Wilkie Collins",
             "quote_former": "I looked attentively at her, as she put that singular question to me. It was then ",
-			"time": "nearly one o'clock",
-			"quote_latter": ". All I could discern distinctly by the moonlight was a colourless, youthful face, meagre and sharp to look at about the cheeks and chin; large, grave, wistfully attentive eyes; nervous, uncertain lips; and light hair of a pale, brownish-yellow hue.",
+            "time": "nearly one o'clock",
+            "quote_latter": ". All I could discern distinctly by the moonlight was a colourless, youthful face, meagre and sharp to look at about the cheeks and chin; large, grave, wistfully attentive eyes; nervous, uncertain lips; and light hair of a pale, brownish-yellow hue.",
             "work": "The Woman in White"
         },
         {
             "author": "Graham Swift",
             "quote_former": "I'm the only one awake in this house on this night before the day that will change all our lives. Though it's already that day: the little luminous hands on my alarm clock (which I haven't set) show just gone ",
-			"time": "one in the morning",
-			"quote_latter": ".",
+            "time": "one in the morning",
+            "quote_latter": ".",
             "work": "Tomorrow"
         },
         {
             "author": "Norman Collins",
             "quote_former": "It was the thirtieth of May by now. ",
-			"time": "One am",
-			"quote_latter": " on the thirtieth of May 1940. Quite a famous date on which to be lying awake and staring at the ceiling. Already in the creeks and tidal estuaries of England the pleasure-boats and paddle-steamers were casting their moorings for the day trip to Dunkirk. And, over on the other side, Ted stood as a good a chance as anyone else.",
+            "time": "One am",
+            "quote_latter": " on the thirtieth of May 1940. Quite a famous date on which to be lying awake and staring at the ceiling. Already in the creeks and tidal estuaries of England the pleasure-boats and paddle-steamers were casting their moorings for the day trip to Dunkirk. And, over on the other side, Ted stood as a good a chance as anyone else.",
             "work": "London Belongs to Me"
         },
         {
             "author": "William Shakespeare",
             "quote_former": "Last night of all, When yon same star that's westward from the pole Had made his course t'illume that part of heaven Where now it burns, Marcellus and myself, The bell then beating ",
-			"time": "one ",
-			"quote_latter": "-",
+            "time": "one ",
+            "quote_latter": "-",
             "work": "Hamlet"
         },
         {
             "author": "Douglas Adams",
             "quote_former": "The station was more crowded than he had expected to find it at - what was it? he looked up at the clock - ",
-			"time": "one o'clock in the morning",
-			"quote_latter": ". What in the name of God was he doing on King's Cross station at one o'clock in the morning, with no cigarette and no home that he could reasonably expect to get into without being hacked to death by a homicidal bird?",
+            "time": "one o'clock in the morning",
+            "quote_latter": ". What in the name of God was he doing on King's Cross station at one o'clock in the morning, with no cigarette and no home that he could reasonably expect to get into without being hacked to death by a homicidal bird?",
             "work": "The Long Dark Tea-time of the Soul"
         }
     ],
@@ -606,8 +606,8 @@ const quoteMap = {
         {
             "author": "Jonathan Frantzen",
             "quote_former": "\u2018What time is it now?\u2019 she said. \u2018",
-			"time": "About one o\u2019clock",
-			"quote_latter": "\u2019. \u2018In the morning?\u2019 Herera\u2019s friend leered at her. \u2018No, there\u2019s a total eclipse of the sun\u2019.",
+            "time": "About one o\u2019clock",
+            "quote_latter": "\u2019. \u2018In the morning?\u2019 Herera\u2019s friend leered at her. \u2018No, there\u2019s a total eclipse of the sun\u2019.",
             "work": "Freedom"
         }
     ],
@@ -615,8 +615,8 @@ const quoteMap = {
         {
             "author": "Cormac McCarthy",
             "quote_former": "When he woke it was ",
-			"time": "1:06",
-			"quote_latter": " by the digital clock on the bedside table. He lay there looking at the ceiling, the raw glare of the vaporlamp outside bathing the bedroom in a cold and bluish light. Like a winter moon.",
+            "time": "1:06",
+            "quote_latter": " by the digital clock on the bedside table. He lay there looking at the ceiling, the raw glare of the vaporlamp outside bathing the bedroom in a cold and bluish light. Like a winter moon.",
             "work": "No Country for Old Men"
         }
     ],
@@ -624,8 +624,8 @@ const quoteMap = {
         {
             "author": "Graeme Simsion",
             "quote_former": "It was ",
-			"time": "1.08a.m.",
-			"quote_latter": " but he had left the ball at the same time as I did, and had further to travel.",
+            "time": "1.08a.m.",
+            "quote_latter": " but he had left the ball at the same time as I did, and had further to travel.",
             "work": "The Rosie Project"
         }
     ],
@@ -633,8 +633,8 @@ const quoteMap = {
         {
             "author": "Louis Joseph Vance",
             "quote_former": "They made an unostentatious exit from their coach, finding themselves, when the express had rolled on into the west, upon a station platform in a foreign city at ",
-			"time": "nine minutes past one",
-			"quote_latter": " o'clock in the morning - but at length without their shadow.",
+            "time": "nine minutes past one",
+            "quote_latter": " o'clock in the morning - but at length without their shadow.",
             "work": "The Black Bag"
         }
     ],
@@ -642,8 +642,8 @@ const quoteMap = {
         {
             "author": "Ernest Shackleton",
             "quote_former": "February 26, Saturday - Richards went out ",
-			"time": "1.10am",
-			"quote_latter": " and found it clearing a bit, so we got under way as soon as possible, which was 2:10a.m.",
+            "time": "1.10am",
+            "quote_latter": " and found it clearing a bit, so we got under way as soon as possible, which was 2:10a.m.",
             "work": "South: The Endurance Expedition"
         }
     ],
@@ -651,8 +651,8 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "Declares one of the waiters was the worse for liquor, and that he was giving him a dressing down. Also that it was ",
-			"time": "nearer to one than half past",
-			"quote_latter": ".",
+            "time": "nearer to one than half past",
+            "quote_latter": ".",
             "work": "The Affair at the Victory Ball"
         }
     ],
@@ -660,8 +660,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "It was ",
-			"time": "1:12am",
-			"quote_latter": " when Father arrived at the police station. I did not see him until 1:28am but I knew he was there because I could hear him. He was shouting, 'I want to see my son,' and 'Why the hell is he locked up?' and, 'Of course I'm bloody angry.'",
+            "time": "1:12am",
+            "quote_latter": " when Father arrived at the police station. I did not see him until 1:28am but I knew he was there because I could hear him. He was shouting, 'I want to see my son,' and 'Why the hell is he locked up?' and, 'Of course I'm bloody angry.'",
             "work": "The Curious Incident of the Dog in the Night-Time"
         }
     ],
@@ -669,22 +669,22 @@ const quoteMap = {
         {
             "author": "James Thurber",
             "quote_former": "I am sorry, therefore, as I have said, that I ever paid any attention to the footsteps. They began about a ",
-			"time": "quarter past one",
-			"quote_latter": " o'clock in the morning, a rhythmic, quick-cadenced walking around the dining-room table.",
+            "time": "quarter past one",
+            "quote_latter": " o'clock in the morning, a rhythmic, quick-cadenced walking around the dining-room table.",
             "work": "My Life and Hard Times: \"The Night the Ghost Got In\""
         },
         {
             "author": "Timothy Mo",
             "quote_former": "Lily Chen always prepared an 'evening' snack for her husband to consume on his return at ",
-			"time": "1.15am.",
-			"quote_latter": "",
+            "time": "1.15am.",
+            "quote_latter": "",
             "work": "Sour Sweet"
         },
         {
             "author": "James Thurber",
             "quote_former": "The ghost that got into our house on the night of November 17, 1915, raised such a hullabaloo of misunderstandings that I am sorry I didn't just let it keep on walking, and go to bed. Its advent caused my mother to throw a shoe through a window of the house next door and ended up with my grandfather shooting a patrolman. I am sorry, therefore, as I have said, that I ever paid any attention to the footsteps. They began about a ",
-			"time": "quarter past one",
-			"quote_latter": " o'clock in the morning, a rhythmic, quick-cadenced walking around the dining-room table.",
+            "time": "quarter past one",
+            "quote_latter": " o'clock in the morning, a rhythmic, quick-cadenced walking around the dining-room table.",
             "work": "My Life and Hard Times: \"The Night the Ghost Got In\""
         }
     ],
@@ -692,15 +692,15 @@ const quoteMap = {
         {
             "author": "Dana Stabenow",
             "quote_former": "At ",
-			"time": "sixteen past one",
-			"quote_latter": ", they walked into the interview room.",
+            "time": "sixteen past one",
+            "quote_latter": ", they walked into the interview room.",
             "work": "Nothing Gold Can Stay"
         },
         {
             "author": "Agatha Christie",
             "quote_former": "From 1am to ",
-			"time": "1.16am",
-			"quote_latter": " vouched for by other two conductors.",
+            "time": "1.16am",
+            "quote_latter": " vouched for by other two conductors.",
             "work": "Murder on the Orient Express"
         }
     ],
@@ -708,15 +708,15 @@ const quoteMap = {
         {
             "author": "Jules Verne",
             "quote_former": "At that moment (it was ",
-			"time": "seventeen minutes past one",
-			"quote_latter": " in the morning) Lieutenant Bronsfield was preparing to leave the watch and return to his cabin, when his attention was attracted by a distant hissing noise.",
+            "time": "seventeen minutes past one",
+            "quote_latter": " in the morning) Lieutenant Bronsfield was preparing to leave the watch and return to his cabin, when his attention was attracted by a distant hissing noise.",
             "work": "A voyage round the moon"
         },
         {
             "author": "Cormac McCarthy",
             "quote_former": "The clocks stopped at ",
-			"time": "1:17",
-			"quote_latter": ". A long shear of light and then a series of low concussions. He got up and went to the window. What is it? she said. He didnt answer. He went into the bathroom and threw the lightswitch but the power was already gone. A dull rose glow in the windowglass. He dropped to one knee and raised the lever to stop the tub and then turned on both taps as far as they would go. She was standing in the doorway in her nightwear, clutching the jamb, cradling her belly in one hand. What is it? she said. What is happening?",
+            "time": "1:17",
+            "quote_latter": ". A long shear of light and then a series of low concussions. He got up and went to the window. What is it? she said. He didnt answer. He went into the bathroom and threw the lightswitch but the power was already gone. A dull rose glow in the windowglass. He dropped to one knee and raised the lever to stop the tub and then turned on both taps as far as they would go. She was standing in the doorway in her nightwear, clutching the jamb, cradling her belly in one hand. What is it? she said. What is happening?",
             "work": "The Road"
         }
     ],
@@ -724,15 +724,15 @@ const quoteMap = {
         {
             "author": "P.G. Wodehouse",
             "quote_former": "\"Well!\" she said, looking like a minor female prophet about to curse the sins of the people. \"May I trespass on your valuable time long enough to ask what in the name of everything bloodsome you think you're playing at, young piefaced Bertie? It is now some ",
-			"time": "twenty minutes past one",
-			"quote_latter": " o'clock in the morning, and not a spot of action on your part.\"",
+            "time": "twenty minutes past one",
+            "quote_latter": " o'clock in the morning, and not a spot of action on your part.\"",
             "work": "Jeeves and the Feudal Spirit"
         },
         {
             "author": "Mark Haddon",
             "quote_former": "Then it was ",
-			"time": "1.20am",
-			"quote_latter": ", but I hadn't heard Father come upstairs to bed. I wondered if he was asleep downstairs or whether he was waiting to come in and kill me. So I got out my Swiss Army Knife and opened the saw blade so that I could defend myself.",
+            "time": "1.20am",
+            "quote_latter": ", but I hadn't heard Father come upstairs to bed. I wondered if he was asleep downstairs or whether he was waiting to come in and kill me. So I got out my Swiss Army Knife and opened the saw blade so that I could defend myself.",
             "work": "The Curious Incident Of The Dog In The Night-Time"
         }
     ],
@@ -740,8 +740,8 @@ const quoteMap = {
         {
             "author": "Jonathan Safran Foer",
             "quote_former": "It was ",
-			"time": "1:22",
-			"quote_latter": " when we found Dad's grave.",
+            "time": "1:22",
+            "quote_latter": " when we found Dad's grave.",
             "work": "Extremely Loud and Incredibly Close"
         }
     ],
@@ -749,8 +749,8 @@ const quoteMap = {
         {
             "author": "Anatole France",
             "quote_former": "The clock marked ",
-			"time": "twenty-three minutes past one",
-			"quote_latter": ". He was suddenly full of agitation, yet hopeful. She had come! Who could tell what she would say? She might offer the most natural explanation of her late arrival.",
+            "time": "twenty-three minutes past one",
+            "quote_latter": ". He was suddenly full of agitation, yet hopeful. She had come! Who could tell what she would say? She might offer the most natural explanation of her late arrival.",
             "work": "A Mummer's Tale"
         }
     ],
@@ -758,8 +758,8 @@ const quoteMap = {
         {
             "author": "Hermione Lee",
             "quote_former": "Larkin had died at ",
-			"time": "1.24am",
-			"quote_latter": ", turning to the nurse who was with him, squeezing her hand, and saying faintly, 'I am going to the inevitable.'",
+            "time": "1.24am",
+            "quote_latter": ", turning to the nurse who was with him, squeezing her hand, and saying faintly, 'I am going to the inevitable.'",
             "work": "Body Parts: Essays on Life-Writing"
         }
     ],
@@ -767,8 +767,8 @@ const quoteMap = {
         {
             "author": "Wilkie Collins",
             "quote_former": "He made a last effort; he tried to rise, and sank back. His head fell on the sofa cushions. It was then ",
-			"time": "twenty-five minutes past one",
-			"quote_latter": " o'clock.",
+            "time": "twenty-five minutes past one",
+            "quote_latter": " o'clock.",
             "work": "The Moonstone"
         }
     ],
@@ -776,8 +776,8 @@ const quoteMap = {
         {
             "author": "Tanith Lee",
             "quote_former": "When I reached the stop and got off, it was already ",
-			"time": "one twenty-six A.M.",
-			"quote_latter": " by the bus's own clock. I had been gone over ten hours.",
+            "time": "one twenty-six A.M.",
+            "quote_latter": " by the bus's own clock. I had been gone over ten hours.",
             "work": "The Silver Metal Lover"
         }
     ],
@@ -785,8 +785,8 @@ const quoteMap = {
         {
             "author": "Deon Meyer",
             "quote_former": "At ",
-			"time": "twenty-seven minutes past one",
-			"quote_latter": " she felt as if she was levitating out of her body.",
+            "time": "twenty-seven minutes past one",
+            "quote_latter": " she felt as if she was levitating out of her body.",
             "work": "Trackers"
         }
     ],
@@ -794,8 +794,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "It was 1:12 am when Father arrived at the police station. I did not see him until ",
-			"time": "1:28 am",
-			"quote_latter": " but I knew he was there because I could hear him. He was shouting, 'I want to see my son,' and 'Why the hell is he locked up?' and, 'Of course I'm bloody angry.'",
+            "time": "1:28 am",
+            "quote_latter": " but I knew he was there because I could hear him. He was shouting, 'I want to see my son,' and 'Why the hell is he locked up?' and, 'Of course I'm bloody angry.'",
             "work": "The Curious Incident Of The Dog In The Night-Time"
         }
     ],
@@ -803,8 +803,8 @@ const quoteMap = {
         {
             "author": "William Edmund Butterworth",
             "quote_former": "He exited the men's room at ",
-			"time": "one-twenty-nine A.M.",
-			"quote_latter": "",
+            "time": "one-twenty-nine A.M.",
+            "quote_latter": "",
             "work": "The Narc"
         }
     ],
@@ -812,22 +812,22 @@ const quoteMap = {
         {
             "author": "Douglas Coupland",
             "quote_former": "Around ",
-			"time": "1:30 A.M.",
-			"quote_latter": " the door opened and I thought it was Karla, but it was Bug, saying Karla and Laura had gone out for a stag night after they ran out of paint.",
+            "time": "1:30 A.M.",
+            "quote_latter": " the door opened and I thought it was Karla, but it was Bug, saying Karla and Laura had gone out for a stag night after they ran out of paint.",
             "work": "Microserfs"
         },
         {
             "author": "Lee Child",
             "quote_former": "The late hour helped. It simplified things. It categorized the population. Innocent bystanders were mostly home in bed. I walked for half an hour, but nothing happened. Until ",
-			"time": "one thirty",
-			"quote_latter": " in the morning. Until I looped around to 22nd and Broadway.",
+            "time": "one thirty",
+            "quote_latter": " in the morning. Until I looped around to 22nd and Broadway.",
             "work": "Gone Tomorrow"
         },
         {
             "author": "David Mitchell",
             "quote_former": "The radio alarm clock glowed ",
-			"time": "1:30 a.m.",
-			"quote_latter": " Bad karaoke throbbed through walls. I was wide awake, straightjacketed by my sweaty sheets. A headache dug its thumbs into my temples. My gut pulsed with gamma interference: I lurched to the toilet.",
+            "time": "1:30 a.m.",
+            "quote_latter": " Bad karaoke throbbed through walls. I was wide awake, straightjacketed by my sweaty sheets. A headache dug its thumbs into my temples. My gut pulsed with gamma interference: I lurched to the toilet.",
             "work": "Ghostwritten"
         }
     ],
@@ -835,8 +835,8 @@ const quoteMap = {
         {
             "author": "William Edmund Butterworth",
             "quote_former": "At ",
-			"time": "one-thirty-eight",
-			"quote_latter": " am suspect left the Drive-In and drove to seven hundred and twenty three North Walnut, to the rear of the residence, and parked the car.",
+            "time": "one-thirty-eight",
+            "quote_latter": " am suspect left the Drive-In and drove to seven hundred and twenty three North Walnut, to the rear of the residence, and parked the car.",
             "work": "The Narc"
         }
     ],
@@ -844,8 +844,8 @@ const quoteMap = {
         {
             "author": "Kathy Reichs",
             "quote_former": "March twelfth, ",
-			"time": "one-forty am",
-			"quote_latter": ", she leaves a group of drinking buddies to catch a bus home. She never makes it.",
+            "time": "one-forty am",
+            "quote_latter": ", she leaves a group of drinking buddies to catch a bus home. She never makes it.",
             "work": "Bones to Ashes"
         }
     ],
@@ -853,8 +853,8 @@ const quoteMap = {
         {
             "author": "Deon Meyer",
             "quote_former": "She knew it was the stress, two long days of stress, and she looked at her watch, ",
-			"time": "sixteen minutes to two",
-			"quote_latter": ", and she almost leaped with fright, a shock wave rippling through her body, where had the time gone?",
+            "time": "sixteen minutes to two",
+            "quote_latter": ", and she almost leaped with fright, a shock wave rippling through her body, where had the time gone?",
             "work": "Trackers"
         }
     ],
@@ -862,8 +862,8 @@ const quoteMap = {
         {
             "author": "J.W. Stockton",
             "quote_former": "That particular phenomenom got Presto up at ",
-			"time": "one forty-six a.m.",
-			"quote_latter": "; silently, he painted his face and naked body with camouflage paint. He opened the door to his room and stepped out into the common lobby.",
+            "time": "one forty-six a.m.",
+            "quote_latter": "; silently, he painted his face and naked body with camouflage paint. He opened the door to his room and stepped out into the common lobby.",
             "work": "Fardnock's Revenge"
         }
     ],
@@ -871,8 +871,8 @@ const quoteMap = {
         {
             "author": "Michelle Herman",
             "quote_former": "No, she thought: every spinster legal secretary, bartender, and orthodontist had a cat or two\u2014and she could not tolerate (not even as a lark, not even for a moment at ",
-			"time": "ten minutes before two AM",
-			"quote_latter": "), embodying clich\u00e9.",
+            "time": "ten minutes before two AM",
+            "quote_latter": "), embodying clich\u00e9.",
             "work": "Dog"
         }
     ],
@@ -880,8 +880,8 @@ const quoteMap = {
         {
             "author": "Deon Meyer",
             "quote_former": "At ",
-			"time": "nine minutes to two",
-			"quote_latter": " the other vehicle arrived. At first Milla didn't believe her eyes: that shape, those markings.",
+            "time": "nine minutes to two",
+            "quote_latter": " the other vehicle arrived. At first Milla didn't believe her eyes: that shape, those markings.",
             "work": "Trackers"
         }
     ],
@@ -889,43 +889,43 @@ const quoteMap = {
         {
             "author": "Carola Dunn",
             "quote_former": "\"The middle of the night?\" Alec asked sharply.\"Can you be more definite?\" \"",
-			"time": "About two",
-			"quote_latter": ". Just past.\" Daisy noted that he expressed no concern for her safety.",
+            "time": "About two",
+            "quote_latter": ". Just past.\" Daisy noted that he expressed no concern for her safety.",
             "work": "Dead in the water"
         },
         {
             "author": "Victor Hugo",
             "quote_former": "As ",
-			"time": "two o'clock",
-			"quote_latter": " pealed from the cathedral bell, Jean Valjean awoke.",
+            "time": "two o'clock",
+            "quote_latter": " pealed from the cathedral bell, Jean Valjean awoke.",
             "work": "Les Miserables"
         },
         {
             "author": "J. Updike",
             "quote_former": "Get on plane at ",
-			"time": "2 A.M.",
-			"quote_latter": ", amid bundles, chickens, gypsies, sit opposite pair of plump fortune tellers who groan and (very discreetly) throw up all the way to Tbilisi.",
+            "time": "2 A.M.",
+            "quote_latter": ", amid bundles, chickens, gypsies, sit opposite pair of plump fortune tellers who groan and (very discreetly) throw up all the way to Tbilisi.",
             "work": "Bech: A Book"
         },
         {
             "author": "Shakespeare",
             "quote_former": "Lady Macbeth: Out, damned spot! out, I say!\u2014One: ",
-			"time": "two",
-			"quote_latter": ": why, then, 'tis time to do't.\u2014Hell is murky!\u2014Fie, my lord, fie! a soldier, and afeard? What need we fear who knows it, when none can call our power to account?\u2014Yet who would have thought the old man to have had so much blood in him.",
+            "time": "two",
+            "quote_latter": ": why, then, 'tis time to do't.\u2014Hell is murky!\u2014Fie, my lord, fie! a soldier, and afeard? What need we fear who knows it, when none can call our power to account?\u2014Yet who would have thought the old man to have had so much blood in him.",
             "work": "Macbeth"
         },
         {
             "author": "Fyodor Dostoyevsky",
             "quote_former": "Somewhere behind a screen a clock began wheezing, as though oppressed by something, as though someone were strangling it. After an unnaturally prolonged wheezing there followed a shrill, nasty, and as it were unexpectedly rapid, chime - as though someone were suddenly jumping forward. ",
-			"time": "It struck two.",
-			"quote_latter": " I woke up, though I had indeed not been asleep but lying half-conscious.",
+            "time": "It struck two.",
+            "quote_latter": " I woke up, though I had indeed not been asleep but lying half-conscious.",
             "work": "Notes from the underground"
         },
         {
             "author": "Fyodor Dostoyevsky",
             "quote_former": "When all had grown quiet and Fyodor Pavlovich went to bed at around ",
-			"time": "two o'clock",
-			"quote_latter": ", Ivan Fyodorovich also went to bed with the firm resolve of falling quickly asleep, as he felt horribly exhausted.'",
+            "time": "two o'clock",
+            "quote_latter": ", Ivan Fyodorovich also went to bed with the firm resolve of falling quickly asleep, as he felt horribly exhausted.'",
             "work": "The Brothers Karamazov"
         }
     ],
@@ -933,8 +933,8 @@ const quoteMap = {
         {
             "author": "Reif Larsen",
             "quote_former": "I checked my watch. ",
-			"time": "2.01am.",
-			"quote_latter": " The cheeseburger Happy Meal was now only a distant memory. I cursed myself for not also ordering a breakfast sandwich for the morning.",
+            "time": "2.01am.",
+            "quote_latter": " The cheeseburger Happy Meal was now only a distant memory. I cursed myself for not also ordering a breakfast sandwich for the morning.",
             "work": "The Selected Works of T.S. Spivet"
         }
     ],
@@ -942,8 +942,8 @@ const quoteMap = {
         {
             "author": "David Foster Wallace",
             "quote_former": "\"Wake up.\" \"Having the worst dream.\" \"I should certainly say you were.\" \"It was awful. It just went on and on.\" \"I shook you and shook you and.\" \"Time is it.\" \"It's nearly - ",
-			"time": "almost 2:04",
-			"quote_latter": ".\u201d",
+            "time": "almost 2:04",
+            "quote_latter": ".\u201d",
             "work": "Oblivion"
         }
     ],
@@ -951,8 +951,8 @@ const quoteMap = {
         {
             "author": "David Foster Wallace",
             "quote_former": "\"Wake up.\" \"Having the worst dream.\" \"I should certainly say you were.\" \"It was awful. It just went on and on.\" \"I shook you and shook you and.\" \"Time is it.\" \"It's nearly - almost ",
-			"time": "2:04",
-			"quote_latter": ".\u201d",
+            "time": "2:04",
+            "quote_latter": ".\u201d",
             "work": "Oblivion"
         }
     ],
@@ -960,8 +960,8 @@ const quoteMap = {
         {
             "author": "Martin Amis",
             "quote_former": "At ",
-			"time": "2.05",
-			"quote_latter": " the fizzy tights came crackling off.",
+            "time": "2.05",
+            "quote_latter": " the fizzy tights came crackling off.",
             "work": "London Fields"
         }
     ],
@@ -969,22 +969,22 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "At ",
-			"time": "2:07 a.m.",
-			"quote_latter": " I decided that I wanted a drink of orange squash before I brushed my teeth and got into bed, so I went downstairs to the kitchen. Father was sitting on the sofa watching snooker on the television and drinking whisky. There were tears coming out of his eyes.",
+            "time": "2:07 a.m.",
+            "quote_latter": " I decided that I wanted a drink of orange squash before I brushed my teeth and got into bed, so I went downstairs to the kitchen. Father was sitting on the sofa watching snooker on the television and drinking whisky. There were tears coming out of his eyes.",
             "work": "The Curious Incident of the Dog in the Night-Time"
         },
         {
             "author": "Mark Haddon",
             "quote_former": "But I couldn't sleep. And I got out of bed at ",
-			"time": "2.07 am",
-			"quote_latter": " and I felt scared of Mr. Shears so I went downstairs and out of the front door into Chapter Road.",
+            "time": "2.07 am",
+            "quote_latter": " and I felt scared of Mr. Shears so I went downstairs and out of the front door into Chapter Road.",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "S. J. Watson",
             "quote_former": "Saturday, 17 November \u2014 ",
-			"time": "2.07 a.m.",
-			"quote_latter": " I cannot sleep. Ben is upstairs, back in bed, and I am writing this in the kitchen. He thinks I am drinking a cup of cocoa that he has just made for me. He thinks I will come back to bed soon. I will, but first I must write again.",
+            "time": "2.07 a.m.",
+            "quote_latter": " I cannot sleep. Ben is upstairs, back in bed, and I am writing this in the kitchen. He thinks I am drinking a cup of cocoa that he has just made for me. He thinks I will come back to bed soon. I will, but first I must write again.",
             "work": "Before I Go to Sleep"
         }
     ],
@@ -992,8 +992,8 @@ const quoteMap = {
         {
             "author": "Ernest Shackleton",
             "quote_former": "Decided to get under way again as soon as there is any clearance. Snowing and blowing, force about fifty or sixty miles an hour. February 26, Saturday - Richards went out 1:10am and found it clearing a bit, so we got under way as soon as possible, which was ",
-			"time": "2:10am",
-			"quote_latter": "",
+            "time": "2:10am",
+            "quote_latter": "",
             "work": "South: The Endurance Expedition"
         }
     ],
@@ -1001,8 +1001,8 @@ const quoteMap = {
         {
             "author": "HP Lovecraft",
             "quote_former": "Then the lights went out all over the city. It happened at ",
-			"time": "2.12am",
-			"quote_latter": " according to power-house records, but Blake's diary gives no indication of the time. The entry is merely, 'Lights out - God help me.'",
+            "time": "2.12am",
+            "quote_latter": " according to power-house records, but Blake's diary gives no indication of the time. The entry is merely, 'Lights out - God help me.'",
             "work": "The Haunter of the Dark"
         }
     ],
@@ -1010,8 +1010,8 @@ const quoteMap = {
         {
             "author": "Chris James",
             "quote_former": "Now, listen: your destination is Friday, 4 August 1944, and the window will punch through at 22.30 hours. You're going to a dimension that diverged from our own at ",
-			"time": "02.13",
-			"quote_latter": " on the morning of Wednesday 20 February 1918, over twenty-six years earlier. You don't know what it's going to be like...",
+            "time": "02.13",
+            "quote_latter": " on the morning of Wednesday 20 February 1918, over twenty-six years earlier. You don't know what it's going to be like...",
             "work": "The Second Internet Cafe, Part 1: The Dimension Researcher"
         }
     ],
@@ -1019,15 +1019,15 @@ const quoteMap = {
         {
             "author": "H.P. Lovecraft",
             "quote_former": "At ",
-			"time": "2.15am",
-			"quote_latter": " a policeman observed the place in darkness, but with the stranger's motor still at the curb.",
+            "time": "2.15am",
+            "quote_latter": " a policeman observed the place in darkness, but with the stranger's motor still at the curb.",
             "work": "The Shadow Out of Time"
         },
         {
             "author": "Jack Finney",
             "quote_former": "It did. When the alarm rang at ",
-			"time": "two fifteen",
-			"quote_latter": ", Lew shut it off, snapped on the little bedside lamp, then swung his feet to the floor to sit on the edge of the bed, holding his eyes open.",
+            "time": "two fifteen",
+            "quote_latter": ", Lew shut it off, snapped on the little bedside lamp, then swung his feet to the floor to sit on the edge of the bed, holding his eyes open.",
             "work": "The Night People"
         }
     ],
@@ -1035,8 +1035,8 @@ const quoteMap = {
         {
             "author": "Len Deighton",
             "quote_former": "One of the \"choppers\" stopped, did an about-turn and came back to me. The flare spluttered and faded, and now the glare of the spotlight blinded me. I sat very still. It was ",
-			"time": "2.17",
-			"quote_latter": ". Against the noise of the blades a deeper resonant sound bit into the chill black air.",
+            "time": "2.17",
+            "quote_latter": ". Against the noise of the blades a deeper resonant sound bit into the chill black air.",
             "work": "The Ipcress File"
         }
     ],
@@ -1044,8 +1044,8 @@ const quoteMap = {
         {
             "author": "Jane Smiley",
             "quote_former": "It was ",
-			"time": "2:18 in the morning",
-			"quote_latter": ", and Donna could see no one else in any other office working so late.",
+            "time": "2:18 in the morning",
+            "quote_latter": ", and Donna could see no one else in any other office working so late.",
             "work": "Moo"
         }
     ],
@@ -1053,8 +1053,8 @@ const quoteMap = {
         {
             "author": "Jack Finney",
             "quote_former": "The night of his third walk Lew slept in his own apartment. When his eyes opened at ",
-			"time": "two twenty",
-			"quote_latter": ", by the green hands of his alarm, he knew that this time he'd actually been waiting for it in his sleep.",
+            "time": "two twenty",
+            "quote_latter": ", by the green hands of his alarm, he knew that this time he'd actually been waiting for it in his sleep.",
             "work": "The Night People"
         }
     ],
@@ -1062,8 +1062,8 @@ const quoteMap = {
         {
             "author": "Hans Hellmut Kirst",
             "quote_former": "",
-			"time": "2:21 a.m.",
-			"quote_latter": " Lance-Corporal Hartmann emerged from the house in the Rue de Londres.",
+            "time": "2:21 a.m.",
+            "quote_latter": " Lance-Corporal Hartmann emerged from the house in the Rue de Londres.",
             "work": "The Night of the Generals"
         }
     ],
@@ -1071,8 +1071,8 @@ const quoteMap = {
         {
             "author": "Maggie O\u2019Farrell",
             "quote_former": "It was ",
-			"time": "2.24am.",
-			"quote_latter": " She stumbled out of bed, tripping on her shoes that she\u2019d kicked off earlier and pulled on a jumper.",
+            "time": "2.24am.",
+            "quote_latter": " She stumbled out of bed, tripping on her shoes that she\u2019d kicked off earlier and pulled on a jumper.",
             "work": "After You\u2019d Gone"
         }
     ],
@@ -1080,8 +1080,8 @@ const quoteMap = {
         {
             "author": "David Peace",
             "quote_former": "You see it is time: ",
-			"time": "2.25am.",
-			"quote_latter": " You get out of bed.",
+            "time": "2.25am.",
+            "quote_latter": " You get out of bed.",
             "work": "Nineteen Eighty-Three: The Red Riding Quartet, Book Four"
         }
     ],
@@ -1089,8 +1089,8 @@ const quoteMap = {
         {
             "author": "Richard Mason",
             "quote_former": "Listened to a voicemail message left at ",
-			"time": "2.26am",
-			"quote_latter": " by Claude.",
+            "time": "2.26am",
+            "quote_latter": " by Claude.",
             "work": "The Lighted Rooms"
         }
     ],
@@ -1098,8 +1098,8 @@ const quoteMap = {
         {
             "author": "Henning Mankell",
             "quote_former": "The moon didn\u2019t shine again until ",
-			"time": "2.27am.",
-			"quote_latter": " It was enough to show Wallander that he was positioned some distance below the tree.",
+            "time": "2.27am.",
+            "quote_latter": " It was enough to show Wallander that he was positioned some distance below the tree.",
             "work": "One Step Behind"
         }
     ],
@@ -1107,8 +1107,8 @@ const quoteMap = {
         {
             "author": "Mike Gayle",
             "quote_former": "",
-			"time": "2.28am",
-			"quote_latter": ": Ran out of sheep and began counting other farmyard animals.",
+            "time": "2.28am",
+            "quote_latter": ": Ran out of sheep and began counting other farmyard animals.",
             "work": "Mr Commitment"
         }
     ],
@@ -1116,29 +1116,29 @@ const quoteMap = {
         {
             "author": "Jack Finney",
             "quote_former": "\"Get into the mood, Shirl!\" Lew said. \"The party's already started! Yippee! You dressed for a party, Harry?\" \"Yep. Something told me to put on dinner clothes when I went to bed tonight.\" \"I'm in mufti myself: white gloves and matching tennis shoes. But I'm sorry to report that Jo is still in her Dr. Dentons. What're you wearing, Shirl?\" \"My old drum majorette's outfit. The one I wore to the State Finals. Listen, we can't tie up the phones like this.\" \"Why not?\" said Harry. \"Who's going to call at ",
-			"time": "2:30 a.m.",
-			"quote_latter": " with a better idea? Yippee, to quote_former Lew, we're having a party! What're we serving, Lew?\" \"Beer, I guess. Haven't got any wine, have we, Jo?\" \"Just for cooking.\"",
+            "time": "2:30 a.m.",
+            "quote_latter": " with a better idea? Yippee, to quote_former Lew, we're having a party! What're we serving, Lew?\" \"Beer, I guess. Haven't got any wine, have we, Jo?\" \"Just for cooking.\"",
             "work": "The Night People"
         },
         {
             "author": "Sarah Waters",
             "quote_former": "At about ",
-			"time": "half past two",
-			"quote_latter": " she had been woken by the creak of footsteps out on the stairs. At first she had been frightened.",
+            "time": "half past two",
+            "quote_latter": " she had been woken by the creak of footsteps out on the stairs. At first she had been frightened.",
             "work": "The Little Stranger"
         },
         {
             "author": "David Foster Wallace",
             "quote_former": "Inc, I tried to pull her off about 0",
-			"time": "230",
-			"quote_latter": ", and there was this fucking\u2026 sound.",
+            "time": "230",
+            "quote_latter": ", and there was this fucking\u2026 sound.",
             "work": "Infinite Jest"
         },
         {
             "author": "William Boyd",
             "quote_former": "It is ",
-			"time": "2.30am",
-			"quote_latter": " and I am tight. As a tick, as a lord, as a newt. Must write this down before the sublime memories fade and blur.",
+            "time": "2.30am",
+            "quote_latter": " and I am tight. As a tick, as a lord, as a newt. Must write this down before the sublime memories fade and blur.",
             "work": "Any Human Heart"
         }
     ],
@@ -1146,8 +1146,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "And then I woke up because there were people shouting in the flat and it was ",
-			"time": "2.31am.",
-			"quote_latter": " And one of the people was Father and I was frightened.",
+            "time": "2.31am.",
+            "quote_latter": " And one of the people was Father and I was frightened.",
             "work": "The Curious Incident Of The Dog In The Night-Time"
         }
     ],
@@ -1155,8 +1155,8 @@ const quoteMap = {
         {
             "author": "Graeme Simsion",
             "quote_former": "The last guests departed at ",
-			"time": "2.32 a.m.",
-			"quote_latter": ", two hours and two minutes after the scheduled completion time.",
+            "time": "2.32 a.m.",
+            "quote_latter": ", two hours and two minutes after the scheduled completion time.",
             "work": "The Rosie Project"
         }
     ],
@@ -1164,8 +1164,8 @@ const quoteMap = {
         {
             "author": "Jim Thompson",
             "quote_former": "But it wasn't going on! It was ",
-			"time": "two-thirty-four",
-			"quote_latter": ", well. Two-thirty-three and nothing had happened. Suppose he got a room call, or the elevator night-bell rang, now.",
+            "time": "two-thirty-four",
+            "quote_latter": ", well. Two-thirty-three and nothing had happened. Suppose he got a room call, or the elevator night-bell rang, now.",
             "work": "A Swell-looking Babe"
         }
     ],
@@ -1173,8 +1173,8 @@ const quoteMap = {
         {
             "author": "HP Lovecraft",
             "quote_former": "For what happened at ",
-			"time": "2.35",
-			"quote_latter": " we have the testimony of the priest, a young, intelligent, and well-educated person; of Patrolman William J. Monohan of the Central Station, an officer of the highest reliability who had paused at that part of his beat to inspect the crowd.",
+            "time": "2.35",
+            "quote_latter": " we have the testimony of the priest, a young, intelligent, and well-educated person; of Patrolman William J. Monohan of the Central Station, an officer of the highest reliability who had paused at that part of his beat to inspect the crowd.",
             "work": "The Haunter of the Dark"
         }
     ],
@@ -1182,8 +1182,8 @@ const quoteMap = {
         {
             "author": "Len Deighton",
             "quote_former": "It was about ",
-			"time": "2.36am",
-			"quote_latter": " when a provost colonel arrived to arrest me. At 2.36 1/2 I remembered the big insulating gauntlets. But even had I remembered before, what could I have done?",
+            "time": "2.36am",
+            "quote_latter": " when a provost colonel arrived to arrest me. At 2.36 1/2 I remembered the big insulating gauntlets. But even had I remembered before, what could I have done?",
             "work": "The Ipcress File"
         }
     ],
@@ -1191,8 +1191,8 @@ const quoteMap = {
         {
             "author": "William Gibson",
             "quote_former": "She settled back beside him. 'It's ",
-			"time": "2:43",
-			"quote_latter": ":12am, Case. Got a readout chipped into my optic nerve.'",
+            "time": "2:43",
+            "quote_latter": ":12am, Case. Got a readout chipped into my optic nerve.'",
             "work": "Neuromancer"
         }
     ],
@@ -1200,8 +1200,8 @@ const quoteMap = {
         {
             "author": "David Foster Wallace",
             "quote_former": "",
-			"time": "0245h",
-			"quote_latter": "., Ennet House, the hours that are truly wee.",
+            "time": "0245h",
+            "quote_latter": "., Ennet House, the hours that are truly wee.",
             "work": "Infinite Jest"
         }
     ],
@@ -1209,8 +1209,8 @@ const quoteMap = {
         {
             "author": "Steve Sohmer",
             "quote_former": "",
-			"time": "2.46am.",
-			"quote_latter": " The chain drive whirred and the paper target slid down the darkened range, ducking in and out of shafts of yellow incandescent light. At the firing station, a figure waited in the shadows. As the target passed the twenty-five-foot mark, the man opened fire: eight shots-rapid, unhesitating.",
+            "time": "2.46am.",
+            "quote_latter": " The chain drive whirred and the paper target slid down the darkened range, ducking in and out of shafts of yellow incandescent light. At the firing station, a figure waited in the shadows. As the target passed the twenty-five-foot mark, the man opened fire: eight shots-rapid, unhesitating.",
             "work": "Patriots"
         }
     ],
@@ -1218,8 +1218,8 @@ const quoteMap = {
         {
             "author": "Daniel A. Olivas",
             "quote_former": "The glowing numbers read ",
-			"time": "2.47am.",
-			"quote_latter": " Mois\u00e9s sighs and turns back to the bathroom door. Finally, the doorknob turns and Conchita comes back to bed. She resumes her place next to Mois\u00e9s. Relieved, he pulls her close.",
+            "time": "2.47am.",
+            "quote_latter": " Mois\u00e9s sighs and turns back to the bathroom door. Finally, the doorknob turns and Conchita comes back to bed. She resumes her place next to Mois\u00e9s. Relieved, he pulls her close.",
             "work": "The Book of Want"
         }
     ],
@@ -1227,15 +1227,15 @@ const quoteMap = {
         {
             "author": "Jack Finney",
             "quote_former": "\"It's the way the world will end, Harry. Recorded cocktail music nuclear-powered to play on for centuries after all life has been destroyed. Selections from 'No, No, Nanette,' throughout eternity. That do you for ",
-			"time": "2:55 a.m.",
-			"quote_latter": "?\"",
+            "time": "2:55 a.m.",
+            "quote_latter": "?\"",
             "work": "The Night People"
         },
         {
             "author": "Iain Sinclair",
             "quote_former": "Time to go: ",
-			"time": "2.55am.",
-			"quote_latter": " Two-handed, Cec lifted his peak cap from the chair.",
+            "time": "2.55am.",
+            "quote_latter": " Two-handed, Cec lifted his peak cap from the chair.",
             "work": "Downriver"
         }
     ],
@@ -1243,8 +1243,8 @@ const quoteMap = {
         {
             "author": "Jonathan Safran Foer",
             "quote_former": "It was ",
-			"time": "2:56",
-			"quote_latter": " when the shovel touched the coffin. We all heard the sound and looked at each other.",
+            "time": "2:56",
+            "quote_latter": " when the shovel touched the coffin. We all heard the sound and looked at each other.",
             "work": "Extremely Loud and Incredibly Close"
         }
     ],
@@ -1252,8 +1252,8 @@ const quoteMap = {
         {
             "author": "Len Deighton",
             "quote_former": "I remembered arriving in this room at ",
-			"time": "2.59",
-			"quote_latter": " one night. I remembered the sergeant who called me names: mostly Anglo-Saxon monosyllabic four-letter ones with an odd \"Commie\" thrown in for syntax.",
+            "time": "2.59",
+            "quote_latter": " one night. I remembered the sergeant who called me names: mostly Anglo-Saxon monosyllabic four-letter ones with an odd \"Commie\" thrown in for syntax.",
             "work": "The Ipcress File"
         }
     ],
@@ -1261,113 +1261,113 @@ const quoteMap = {
         {
             "author": "Virginia Woolf",
             "quote_former": "\"She died this morning, very early, about ",
-			"time": "three o'clock",
-			"quote_latter": ".\"",
+            "time": "three o'clock",
+            "quote_latter": ".\"",
             "work": "The Voyage Out"
         },
         {
             "author": "Ray Bradbury",
             "quote_former": "Three a.m. That\u2019s our reward. ",
-			"time": "Three in the morn.",
-			"quote_latter": " The soul\u2019s midnight. The tide goes out, the soul ebbs. And a train arrives at an hour of despair. Why?",
+            "time": "Three in the morn.",
+            "quote_latter": " The soul\u2019s midnight. The tide goes out, the soul ebbs. And a train arrives at an hour of despair. Why?",
             "work": "Something Wicked This Way Comes"
         },
         {
             "author": "Douglas Adams",
             "quote_former": "According to her watch it was shortly after ",
-			"time": "three o'clock",
-			"quote_latter": ", and according to everything else it was night-time.",
+            "time": "three o'clock",
+            "quote_latter": ", and according to everything else it was night-time.",
             "work": "The Long Dark Tea-time of the Soul"
         },
         {
             "author": "Raymond Chandler",
             "quote_former": "",
-			"time": "At three am",
-			"quote_latter": " I was walking the floor and listening to Katchaturian working in a tractor factory. He called it a violin concerto. I called it a loose fan belt and the hell with it.",
+            "time": "At three am",
+            "quote_latter": " I was walking the floor and listening to Katchaturian working in a tractor factory. He called it a violin concerto. I called it a loose fan belt and the hell with it.",
             "work": "The Long Goodbye"
         },
         {
             "author": "Russell Hoban",
             "quote_former": "At ",
-			"time": "three o' clock in the morning",
-			"quote_latter": " Eurydice is bound to come into it. After all, why did I sit here like a telegrapher at a lost outpost if not to receive messages from everywhere about the lost Eurydice who was never mine to begin with but whom I lamented and sought continually both professionally and amateurishly. This is not a digression. Where I am at three o' clock in the morning - and by now every hour is three o' clock in the morning - there are no digressions, it's all one thing.",
+            "time": "three o' clock in the morning",
+            "quote_latter": " Eurydice is bound to come into it. After all, why did I sit here like a telegrapher at a lost outpost if not to receive messages from everywhere about the lost Eurydice who was never mine to begin with but whom I lamented and sought continually both professionally and amateurishly. This is not a digression. Where I am at three o' clock in the morning - and by now every hour is three o' clock in the morning - there are no digressions, it's all one thing.",
             "work": "The Medusa Frequency"
         },
         {
             "author": "Amit Chaudhuri",
             "quote_former": "Early mornings, my mother is about, drifting in her pale nightie, making herself a cup of tea in the kitchen. Water begins to boil in the kettle; it starts as a private, secluded sound, pure as rain, and grows to a steady, solipsistic bubbling. Not till she has had one cup of tea, so weak that it has a colour accidentally golden, can she begin her day. She is an insomniac. Her nights are wide-eyed and excited with worry. Even at ",
-			"time": "three o'clock",
-			"quote_latter": " in the morning one might hear her eating a Bain Marie biscuit in the kitchen.",
+            "time": "three o'clock",
+            "quote_latter": " in the morning one might hear her eating a Bain Marie biscuit in the kitchen.",
             "work": "Afternoon Raag"
         },
         {
             "author": "Dan Holloway",
             "quote_former": "I slam the phone down but it misses the base. I hit the clock instead, which flashes ",
-			"time": "3 a.m.",
-			"quote_latter": "",
+            "time": "3 a.m.",
+            "quote_latter": "",
             "work": "Songs from the Other Side of the Wall"
         },
         {
             "author": "F. Scott Fitzgerald",
             "quote_former": "In a real dark night of the soul it is always ",
-			"time": "3 o'clock",
-			"quote_latter": " in the morning.",
+            "time": "3 o'clock",
+            "quote_latter": " in the morning.",
             "work": "The Crack-Up"
         },
         {
             "author": "Ian McEwan",
             "quote_former": "It was ",
-			"time": "three in the morning",
-			"quote_latter": " when his taxi stopped by giant mounds of snow outside his hotel. He had not eaten in hours.",
+            "time": "three in the morning",
+            "quote_latter": " when his taxi stopped by giant mounds of snow outside his hotel. He had not eaten in hours.",
             "work": "Solar"
         },
         {
             "author": "Max Frisch",
             "quote_former": "Once I saw a figure I shall never forget. It was ",
-			"time": "three o'clock at night",
-			"quote_latter": ", as I was going home from Blacky as usual; it was a short-cut for me, and there would be nobody in the street at this time of night, I thought, especially not in this frightful cold.",
+            "time": "three o'clock at night",
+            "quote_latter": ", as I was going home from Blacky as usual; it was a short-cut for me, and there would be nobody in the street at this time of night, I thought, especially not in this frightful cold.",
             "work": "I'm Not Stiller"
         },
         {
             "author": "Philip K Dick",
             "quote_former": "Roused from her sleep, Freya Gaines groped for the switch of the vidphone; groggily she found it and snapped it on. 'Lo,' she mumbled, wondering what time it was. She made out the luminous dial of the clock beside the bed. ",
-			"time": "Three AM.",
-			"quote_latter": " Good grief.",
+            "time": "Three AM.",
+            "quote_latter": " Good grief.",
             "work": "The Game Players of Titan"
         },
         {
             "author": "David Foster Wallace",
             "quote_former": "Schact clears his mouth and swallows mightily. 'Tavis can't even regrout tile in the locker room without calling a Community meeting or appointing a committee. The Regrouting Committee's been dragging along since may. Suddenly they're pulling secret 0",
-			"time": "300",
-			"quote_latter": " milk-switches? It doesn't ring true, Jim.",
+            "time": "300",
+            "quote_latter": " milk-switches? It doesn't ring true, Jim.",
             "work": "Infinite Jest"
         },
         {
             "author": "Ray Bradbury",
             "quote_former": "",
-			"time": "Three in the morning",
-			"quote_latter": ", thought Charles Halloway, seated on the edge of his bed. Why did the train come at that hour? For, he thought, it\u2019s a special hour. Women never wake then, do they? They sleep the sleep of babes and children. But men in middle age? They know that hour well.",
+            "time": "Three in the morning",
+            "quote_latter": ", thought Charles Halloway, seated on the edge of his bed. Why did the train come at that hour? For, he thought, it\u2019s a special hour. Women never wake then, do they? They sleep the sleep of babes and children. But men in middle age? They know that hour well.",
             "work": "Something Wicked This Way Comes"
         },
         {
             "author": "Jerome K Jerome",
             "quote_former": "What's the time?\" said the man, eyeing George up and down with evident suspicion; \"why, if you listen you will hear it strike.\" George listened, and a neighbouring clock immediately obliged. \"But it's only gone ",
-			"time": "three",
-			"quote_latter": "!\" said George in an injured tone, when it had finished.",
+            "time": "three",
+            "quote_latter": "!\" said George in an injured tone, when it had finished.",
             "work": "Three Men in a Boat"
         },
         {
             "author": "Paula Fox",
             "quote_former": "When Sophie awoke, it was ",
-			"time": "3:00 a.m.",
-			"quote_latter": "",
+            "time": "3:00 a.m.",
+            "quote_latter": "",
             "work": "Desperate Characters"
         },
         {
             "author": "George Eliot",
             "quote_former": "You hearken, Missy. It\u2019s ",
-			"time": "three o\u2019clock",
-			"quote_latter": " in the morning and I\u2019ve got all my faculties as well as ever I had in my life. I know all my property and where the money\u2019s put out. And I\u2019ve made everything ready to change my mind, and do as I like at the last. Do you hear, Missy? I\u2019ve got my faculties.\u201d",
+            "time": "three o\u2019clock",
+            "quote_latter": " in the morning and I\u2019ve got all my faculties as well as ever I had in my life. I know all my property and where the money\u2019s put out. And I\u2019ve made everything ready to change my mind, and do as I like at the last. Do you hear, Missy? I\u2019ve got my faculties.\u201d",
             "work": "Middlemarch"
         }
     ],
@@ -1375,8 +1375,8 @@ const quoteMap = {
         {
             "author": "Ernest Hemingway",
             "quote_former": "It was now ",
-			"time": "about three o'clock",
-			"quote_latter": " in the morning and Francis Macomber, who had been asleep a little while after he had stopped thinking about the lion, wakened and then slept again.",
+            "time": "about three o'clock",
+            "quote_latter": " in the morning and Francis Macomber, who had been asleep a little while after he had stopped thinking about the lion, wakened and then slept again.",
             "work": "The Short Happy Life of Francis Macomber"
         }
     ],
@@ -1384,8 +1384,8 @@ const quoteMap = {
         {
             "author": "Henning Mankell",
             "quote_former": "\u2026his back-up alarm clock rang. He looked at his front-line clock on the bedside table and noted that it had stopped at ",
-			"time": "3.04",
-			"quote_latter": ". So, you couldn\u2019t even rely on alarm clocks.",
+            "time": "3.04",
+            "quote_latter": ". So, you couldn\u2019t even rely on alarm clocks.",
             "work": "The Return of the Dancing Master"
         }
     ],
@@ -1393,8 +1393,8 @@ const quoteMap = {
         {
             "author": "Jonathan Franzen",
             "quote_former": "On the Sunday before Christmas she awoke at ",
-			"time": "3:05 a.m.",
-			"quote_latter": " and though: Thirty-six hours. Four hours later she got up thinking: Thirty-two hours. Late in the day she took Alfred to the street-association Christmas party at Dale and Honey Driblett\u2019s, sat him down safely with Kirby Root, and proceeded to remind all her neighbors that her favorite grandson, who\u2019d been looking forward all year to a Christmas in St. Jude, was arriving tomorrow afternoon.",
+            "time": "3:05 a.m.",
+            "quote_latter": " and though: Thirty-six hours. Four hours later she got up thinking: Thirty-two hours. Late in the day she took Alfred to the street-association Christmas party at Dale and Honey Driblett\u2019s, sat him down safely with Kirby Root, and proceeded to remind all her neighbors that her favorite grandson, who\u2019d been looking forward all year to a Christmas in St. Jude, was arriving tomorrow afternoon.",
             "work": "The Corrections"
         }
     ],
@@ -1402,8 +1402,8 @@ const quoteMap = {
         {
             "author": "James Ellroy",
             "quote_former": "Wayne late-logged in: ",
-			"time": "3.07am",
-			"quote_latter": " -the late-late show. He parked. He dumped his milk can. He yawned, he stretched. He scratched.",
+            "time": "3.07am",
+            "quote_latter": " -the late-late show. He parked. He dumped his milk can. He yawned, he stretched. He scratched.",
             "work": "The Cold Six Thousand"
         }
     ],
@@ -1411,15 +1411,15 @@ const quoteMap = {
         {
             "author": "Ali Smith",
             "quote_former": "I think my credit card was in there too. I wrote down the words credit card and said that if they wouldn't let me cancel them I'd demand that they registered the loss so you couldn't be charge for anything beyond the time of my calling them up. I looked at the clock. It was ",
-			"time": "ten-past three",
-			"quote_latter": ".",
+            "time": "ten-past three",
+            "quote_latter": ".",
             "work": "The Whole Story and Other Stories"
         },
         {
             "author": "Philip Larkin",
             "quote_former": "Love again; wanking at ",
-			"time": "ten past three",
-			"quote_latter": "",
+            "time": "ten past three",
+            "quote_latter": "",
             "work": "Love Again"
         }
     ],
@@ -1427,8 +1427,8 @@ const quoteMap = {
         {
             "author": "Christos Tsiolkas",
             "quote_former": "Since he had told the girl that it had to end, he'd been waking up every morning at ",
-			"time": "3.14",
-			"quote_latter": ", without fail. Every morning his eyes would flick open, alert, and the red numerals on his electric alarm clock would read 3.14.",
+            "time": "3.14",
+            "quote_latter": ", without fail. Every morning his eyes would flick open, alert, and the red numerals on his electric alarm clock would read 3.14.",
             "work": "The Slap"
         }
     ],
@@ -1436,8 +1436,8 @@ const quoteMap = {
         {
             "author": "JG Ballard",
             "quote_former": "Above the door of Room 69 the clock ticked on at ",
-			"time": "3:15",
-			"quote_latter": ". The motion was accelerating. What had once been the gymnasium was now a small room, seven feet wide, a tight, almost perfect cube.",
+            "time": "3:15",
+            "quote_latter": ". The motion was accelerating. What had once been the gymnasium was now a small room, seven feet wide, a tight, almost perfect cube.",
             "work": "Manhole 69"
         }
     ],
@@ -1445,15 +1445,15 @@ const quoteMap = {
         {
             "author": "Donna Tartt",
             "quote_former": "The two of us sat there, listening\u2014Boris more intently than me. \u201cWho\u2019s that with him then?\u201d I said. \u201cSome whore.\u201d He listened for a moment, brow furrowed, his profile sharp in the moonlight, and then lay back down. \u201cTwo of them.\u201d I rolled over, and checked my iPod. It was ",
-			"time": "3:17",
-			"quote_latter": " in the morning.",
+            "time": "3:17",
+            "quote_latter": " in the morning.",
             "work": "The Goldfinch"
         },
         {
             "author": "Catherine O'Flynn",
             "quote_former": "He turned to the monitors again and flicked through the screens, each one able to display eight different camera mountings, giving Kurt 192 different still lives of Green Oaks at ",
-			"time": "3.17 a.m.",
-			"quote_latter": " this March night.",
+            "time": "3.17 a.m.",
+            "quote_latter": " this March night.",
             "work": "What Was Lost"
         }
     ],
@@ -1461,8 +1461,8 @@ const quoteMap = {
         {
             "author": "Mark Z Danielewski",
             "quote_former": "The time stamp on Navidson's camcorder indicates that it is exactly ",
-			"time": "3.19 A.M.",
-			"quote_latter": "",
+            "time": "3.19 A.M.",
+            "quote_latter": "",
             "work": "House of Leaves"
         }
     ],
@@ -1470,8 +1470,8 @@ const quoteMap = {
         {
             "author": "Michael Ondaatje",
             "quote_former": "Prabath Kumara, 16. 17th November 1989. At ",
-			"time": "3.20am",
-			"quote_latter": " from the home of a friend.",
+            "time": "3.20am",
+            "quote_latter": " from the home of a friend.",
             "work": "Anil's Ghost"
         }
     ],
@@ -1479,8 +1479,8 @@ const quoteMap = {
         {
             "author": "Victor Hugo",
             "quote_former": "Next, he remembered that the morrow of Christmas would be the twenty-seventh day of the moon, and that consequently high water would be at ",
-			"time": "twenty-one minutes past three",
-			"quote_latter": ", the half-ebb at a quarter past seven, low water at thirty-three minutes past nine, and half flood at thirty-nine minutes past twelve.",
+            "time": "twenty-one minutes past three",
+            "quote_latter": ", the half-ebb at a quarter past seven, low water at thirty-three minutes past nine, and half flood at thirty-nine minutes past twelve.",
             "work": "The Toilers of the Sea"
         }
     ],
@@ -1488,8 +1488,8 @@ const quoteMap = {
         {
             "author": "Joyce Carol Oates",
             "quote_former": "It was ",
-			"time": "3:25 a.m.",
-			"quote_latter": " A strange thrill, to think I was the only Mulvaney awake in the house.",
+            "time": "3:25 a.m.",
+            "quote_latter": " A strange thrill, to think I was the only Mulvaney awake in the house.",
             "work": "We Were the Mulvaneys"
         }
     ],
@@ -1497,8 +1497,8 @@ const quoteMap = {
         {
             "author": "Rupert Thomson",
             "quote_former": "Now somebody was running past his room. A door slammed. That foreign language again. What the devil was going on? he switched on his light and peered at his watch. ",
-			"time": "3.28",
-			"quote_latter": ". He got out of bed.",
+            "time": "3.28",
+            "quote_latter": ". He got out of bed.",
             "work": "Dreams of Leaving"
         }
     ],
@@ -1506,29 +1506,29 @@ const quoteMap = {
         {
             "author": "Victor Hugo",
             "quote_former": "At ",
-			"time": "half-past three A.M.",
-			"quote_latter": " he lost one illusion: officers sent to reconnoitre informed him that the enemy was making no movement.",
+            "time": "half-past three A.M.",
+            "quote_latter": " he lost one illusion: officers sent to reconnoitre informed him that the enemy was making no movement.",
             "work": "Les Miserables"
         },
         {
             "author": "John Irving",
             "quote_former": "It's ",
-			"time": "3:30 A.M.",
-			"quote_latter": " in Mrs. Ralph's finally quiet house when Garp decides to clean the kitchen, to kill the time until dawn. Familiar with a housewife's tasks, Garp fills the sink and starts to wash the dishes.",
+            "time": "3:30 A.M.",
+            "quote_latter": " in Mrs. Ralph's finally quiet house when Garp decides to clean the kitchen, to kill the time until dawn. Familiar with a housewife's tasks, Garp fills the sink and starts to wash the dishes.",
             "work": "The World According to Garp"
         },
         {
             "author": "Raymond Carver",
             "quote_former": "Let's go to sleep, I say. \"Look at what time it is.\" The clock radio is right there beside the bed. Anyone can see it says ",
-			"time": "three-thirty",
-			"quote_latter": ".",
+            "time": "three-thirty",
+            "quote_latter": ".",
             "work": "Whoever Was Using This Bed"
         },
         {
             "author": "Thomas Rockwell",
             "quote_former": "Now, look. I am not going to call Dr. McGrath at ",
-			"time": "three thirty",
-			"quote_latter": " in the morning to ask if it's all right for my son to eat worms. That's flat.",
+            "time": "three thirty",
+            "quote_latter": " in the morning to ask if it's all right for my son to eat worms. That's flat.",
             "work": "How to Eat Fried Worms"
         }
     ],
@@ -1536,8 +1536,8 @@ const quoteMap = {
         {
             "author": "Jonathan Lethem",
             "quote_former": "A draft whistled in around the kitchen window frame and I shivered. The digital clock on Perkus's stove read ",
-			"time": "3:33",
-			"quote_latter": ".",
+            "time": "3:33",
+            "quote_latter": ".",
             "work": "Chronic City"
         }
     ],
@@ -1545,8 +1545,8 @@ const quoteMap = {
         {
             "author": "Muriel Jensen",
             "quote_former": "It was ",
-			"time": "3:34 am.",
-			"quote_latter": " and he was wide-awake. He'd heard the phone ring and the sound of his uncle's voice.",
+            "time": "3:34 am.",
+            "quote_latter": " and he was wide-awake. He'd heard the phone ring and the sound of his uncle's voice.",
             "work": "Always Florence"
         }
     ],
@@ -1554,8 +1554,8 @@ const quoteMap = {
         {
             "author": "Henning Mankell",
             "quote_former": "He could just see the hands of the alarm clock in the darkness: ",
-			"time": "3.35 a.m.",
-			"quote_latter": " He adjusted his pillow and shut his eyes.",
+            "time": "3.35 a.m.",
+            "quote_latter": " He adjusted his pillow and shut his eyes.",
             "work": "The Dogs of Riga"
         }
     ],
@@ -1563,8 +1563,8 @@ const quoteMap = {
         {
             "author": "Richard C Matheson",
             "quote_former": "As I near Deadhorse, it's ",
-			"time": "3:36 a.m.",
-			"quote_latter": " and seventeen below. Tall, sodium vapor lights spill on the road and there are no trees, only machines, mechanical shadows. There isn't even a church. It tells you everything.",
+            "time": "3:36 a.m.",
+            "quote_latter": " and seventeen below. Tall, sodium vapor lights spill on the road and there are no trees, only machines, mechanical shadows. There isn't even a church. It tells you everything.",
             "work": "Zoopraxis"
         }
     ],
@@ -1572,8 +1572,8 @@ const quoteMap = {
         {
             "author": "Stephen Bury",
             "quote_former": "It was three ",
-			"time": "thirty-seven A.M.",
-			"quote_latter": ", and for once Maggie was asleep. She had got to be a pretty good sleeper in the last few months. Clyde was prouder of this fact than anything.",
+            "time": "thirty-seven A.M.",
+            "quote_latter": ", and for once Maggie was asleep. She had got to be a pretty good sleeper in the last few months. Clyde was prouder of this fact than anything.",
             "work": "The Cobweb"
         }
     ],
@@ -1581,8 +1581,8 @@ const quoteMap = {
         {
             "author": "Connie Willis",
             "quote_former": "At ",
-			"time": "3.38am",
-			"quote_latter": ", it began to snow in Bowling Green, Kentucky. The geese circling the city flew back to the park, landed, and hunkered down to sit it out on their island in the lake.",
+            "time": "3.38am",
+            "quote_latter": ", it began to snow in Bowling Green, Kentucky. The geese circling the city flew back to the park, landed, and hunkered down to sit it out on their island in the lake.",
             "work": "Just Like the Ones we Used to Know"
         }
     ],
@@ -1590,8 +1590,8 @@ const quoteMap = {
         {
             "author": "William Jablonsky",
             "quote_former": "23 October 1893 ",
-			"time": "3.39am.",
-			"quote_latter": " Upon further thought, I feel it necessary to explain that exile into the Master's workshop is not an unpleasant fate. It is not simply some bare-walled cellar devoid of stimulation - quite the opposite.",
+            "time": "3.39am.",
+            "quote_latter": " Upon further thought, I feel it necessary to explain that exile into the Master's workshop is not an unpleasant fate. It is not simply some bare-walled cellar devoid of stimulation - quite the opposite.",
             "work": "The Clockwork man"
         }
     ],
@@ -1599,8 +1599,8 @@ const quoteMap = {
         {
             "author": "Ian McEwan",
             "quote_former": "His bedside clock shows ",
-			"time": "three forty",
-			"quote_latter": ". He has no idea what he's doing out of bed: he has no need to relieve himself, nor is he disturbed by a dream or some element of the day before, or even by the state of the world.",
+            "time": "three forty",
+            "quote_latter": ". He has no idea what he's doing out of bed: he has no need to relieve himself, nor is he disturbed by a dream or some element of the day before, or even by the state of the world.",
             "work": "Saturday"
         }
     ],
@@ -1608,8 +1608,8 @@ const quoteMap = {
         {
             "author": "Henning Mankell",
             "quote_former": "The alarm clock said ",
-			"time": "3.41am.",
-			"quote_latter": " He sat up. Why was the alarm clock slow? He picked up the alarm clock and adjusted the hands to show the same time as his wristwatch: 3.44am",
+            "time": "3.41am.",
+            "quote_latter": " He sat up. Why was the alarm clock slow? He picked up the alarm clock and adjusted the hands to show the same time as his wristwatch: 3.44am",
             "work": "The Dogs of Riga"
         }
     ],
@@ -1617,8 +1617,8 @@ const quoteMap = {
         {
             "author": "Stephen Crane",
             "quote_former": "\"We are due in Yellow Sky at ",
-			"time": "3:42",
-			"quote_latter": ",\" he said, looking tenderly into her eyes. \"\"Oh, are we?\"\" she said, as if she had not been aware of it. To evince surprise at her husband's statement was part of her wifely amiability.",
+            "time": "3:42",
+            "quote_latter": ",\" he said, looking tenderly into her eyes. \"\"Oh, are we?\"\" she said, as if she had not been aware of it. To evince surprise at her husband's statement was part of her wifely amiability.",
             "work": "Bride Comes to Yellow Sky"
         }
     ],
@@ -1626,8 +1626,8 @@ const quoteMap = {
         {
             "author": "David Mitchell",
             "quote_former": "The clock says ",
-			"time": "3.43am.",
-			"quote_latter": " The thermometer says it's a chilly fourteen degrees Fahrenheit. The weatherman says the cold spell will last until Thursday, so bundle up and bundle up some more. There are icicles barring the window of the bat cave.",
+            "time": "3.43am.",
+            "quote_latter": " The thermometer says it's a chilly fourteen degrees Fahrenheit. The weatherman says the cold spell will last until Thursday, so bundle up and bundle up some more. There are icicles barring the window of the bat cave.",
             "work": "Ghostwritten"
         }
     ],
@@ -1635,8 +1635,8 @@ const quoteMap = {
         {
             "author": "Will Self",
             "quote_former": "It was dark. After she had switched the light on and been to the toilet, she checked her watch: ",
-			"time": "3.44 a.m.",
-			"quote_latter": " She undressed, put the cat out the door and returned to the twin bed.",
+            "time": "3.44 a.m.",
+            "quote_latter": " She undressed, put the cat out the door and returned to the twin bed.",
             "work": "Liver: Leberkn\u00f6del"
         }
     ],
@@ -1644,8 +1644,8 @@ const quoteMap = {
         {
             "author": "Oscar Wilde",
             "quote_former": "LORD CAVERSHAM: Well, sir! what are you doing here? Wasting your life as usual! You should be in bed, sir. You keep too late hours! I heard of you the other night at Lady Rufford's dancing till four o' clock in the morning! LORD GORING: Only a ",
-			"time": "quarter to four",
-			"quote_latter": ", father.",
+            "time": "quarter to four",
+            "quote_latter": ", father.",
             "work": "An Ideal Husband"
         }
     ],
@@ -1653,8 +1653,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "I stayed awake until ",
-			"time": "3:47",
-			"quote_latter": ". That was the last time I looked at my watch before I fell asleep. It has a luminous face and lights up if you press a button so I could read it in the dark. I was cold and I was frightened Father might come out and find me. But I felt safer in the garden because I was hidden.",
+            "time": "3:47",
+            "quote_latter": ". That was the last time I looked at my watch before I fell asleep. It has a luminous face and lights up if you press a button so I could read it in the dark. I was cold and I was frightened Father might come out and find me. But I felt safer in the garden because I was hidden.",
             "work": "The Curious Incident Of The Dog In The Night-Time"
         }
     ],
@@ -1662,8 +1662,8 @@ const quoteMap = {
         {
             "author": "Len Deighton",
             "quote_former": "It was ",
-			"time": "3.49",
-			"quote_latter": " when he hit me because of the two hundred times I had said, \"I don't know.\" He hit me a lot after that.",
+            "time": "3.49",
+            "quote_latter": " when he hit me because of the two hundred times I had said, \"I don't know.\" He hit me a lot after that.",
             "work": "The Ipcress File"
         }
     ],
@@ -1671,8 +1671,8 @@ const quoteMap = {
         {
             "author": "Peter Robb",
             "quote_former": "She had used her cell phone to leave several messages on the answering machine in Sao Paulo of the young dentist of the previous evening, whose name was Fernando. The first was recorded at ",
-			"time": "ten or five to four",
-			"quote_latter": " in the morning. I'm never going to forget you ... I'm sure we'll meet again somewhere.",
+            "time": "ten or five to four",
+            "quote_latter": " in the morning. I'm never going to forget you ... I'm sure we'll meet again somewhere.",
             "work": "A Death in Brazil: A Book of Omissions"
         }
     ],
@@ -1680,15 +1680,15 @@ const quoteMap = {
         {
             "author": "Don DeLillo",
             "quote_former": "I lacked the will and physical strength to get out of bed and move through the dark house, clutching walls and stair rails. To feel my way, reinhabit my body, re-enter the world. Sweat trickled down my ribs. The digital reading on the clock-radio was ",
-			"time": "3:51",
-			"quote_latter": ". Always odd numbered at times like this. What does it mean? Is death odd-numbered?",
+            "time": "3:51",
+            "quote_latter": ". Always odd numbered at times like this. What does it mean? Is death odd-numbered?",
             "work": "White Noise"
         },
         {
             "author": "Don DeLillo",
             "quote_former": "The digital reading on the clock-radio was ",
-			"time": "3:51",
-			"quote_latter": ". Always odd numbers at times like this. What does it mean? Is death odd-numbered?",
+            "time": "3:51",
+            "quote_latter": ". Always odd numbers at times like this. What does it mean? Is death odd-numbered?",
             "work": "White Noise"
         }
     ],
@@ -1696,8 +1696,8 @@ const quoteMap = {
         {
             "author": "Paul Muldoon",
             "quote_former": "The charter flight from Florida touched down at Aldergrove minutes earlier, at ",
-			"time": "3.54 a.m.",
-			"quote_latter": "",
+            "time": "3.54 a.m.",
+            "quote_latter": "",
             "work": "The More a Man Has, the More a Man Wants"
         }
     ],
@@ -1705,8 +1705,8 @@ const quoteMap = {
         {
             "author": "Ian McEwan",
             "quote_former": "Here in the cavernous basement at ",
-			"time": "3.55 a.m.",
-			"quote_latter": ", in a single pool of light, is Theo Perowne.",
+            "time": "3.55 a.m.",
+            "quote_latter": ", in a single pool of light, is Theo Perowne.",
             "work": "Saturday"
         }
     ],
@@ -1714,8 +1714,8 @@ const quoteMap = {
         {
             "author": "Ken Kesey",
             "quote_former": "Certain facts were apparent: dark; cold; thundering boots; quilts; pillow; light under the door \u2013 the materials of reality - but I could not pin these materials down in time. And the raw materials of reality without that glue of time are materials adrift and reality is as meaningless as the balsa parts of a model airplane scattered to the wind...I am in my old room, yes, in the dark, certainly, and it is cold, obviously, but what time is it? \"",
-			"time": "Nearly four",
-			"quote_latter": ", son.\" But I mean what time?",
+            "time": "Nearly four",
+            "quote_latter": ", son.\" But I mean what time?",
             "work": "Sometimes a Great Notion"
         }
     ],
@@ -1723,15 +1723,15 @@ const quoteMap = {
         {
             "author": "Wilson Harris",
             "quote_former": "The ancient house was deserted, the crumbling garage padlocked, and one was just able to discern - by peering through a crack in the bubbling sun on the window - the face of a clock on the opposite wall. The clock had stopped at ",
-			"time": "two minutes to four",
-			"quote_latter": " early in the morning, or who could tell, it may have been earlier still, yesterday in the afternoon, a couple of hours after Kaiser had left Kamaria for Bartica.",
+            "time": "two minutes to four",
+            "quote_latter": " early in the morning, or who could tell, it may have been earlier still, yesterday in the afternoon, a couple of hours after Kaiser had left Kamaria for Bartica.",
             "work": "Heartland"
         },
         {
             "author": "Don Delillo",
             "quote_former": "The clock atop the clubhouse reads ",
-			"time": "3:58",
-			"quote_latter": ".",
+            "time": "3:58",
+            "quote_latter": ".",
             "work": "Underworld"
         }
     ],
@@ -1739,8 +1739,8 @@ const quoteMap = {
         {
             "author": "Ken Kesey",
             "quote_former": "And the raw materials of reality without that glue of time are materials adrift and reality is as meaningless as the balsa parts of a model airplane scattered to the wind...I am in my old room, yes, in the dark, certainly, and it is cold, obviously, but what time is it? \"",
-			"time": "Nearly four",
-			"quote_latter": ", son.\"",
+            "time": "Nearly four",
+            "quote_latter": ", son.\"",
             "work": "Sometimes a Great Notion"
         }
     ],
@@ -1748,22 +1748,22 @@ const quoteMap = {
         {
             "author": "F. Scott Fitzgerald",
             "quote_former": "\"Nothing happened,\" he said wanly. \"I waited, and about ",
-			"time": "four o'clock",
-			"quote_latter": " she came to the window and stood there for a minute and then turned out the light.\"",
+            "time": "four o'clock",
+            "quote_latter": " she came to the window and stood there for a minute and then turned out the light.\"",
             "work": "The Great Gatsby"
         },
         {
             "author": "Marian Keyes",
             "quote_former": "I looked at the clock and it was (yes, you guessed it) ",
-			"time": "four am.",
-			"quote_latter": " I should have taken comfort from the fact that approximately quarter of the Greenwich Mean Time world had just jolted awake also and were lying, staring miserably into the darkness, worrying ...\"",
+            "time": "four am.",
+            "quote_latter": " I should have taken comfort from the fact that approximately quarter of the Greenwich Mean Time world had just jolted awake also and were lying, staring miserably into the darkness, worrying ...\"",
             "work": "Watermelon"
         },
         {
             "author": "Michel Houellebecq",
             "quote_former": "Suddenly, he started to cry. Curled up on the sofa he sobbed loudly. Michel looked at his watch; it was just after ",
-			"time": "4am",
-			"quote_latter": ". On the screen a wild cat had a rabbit in its mouth.",
+            "time": "4am",
+            "quote_latter": ". On the screen a wild cat had a rabbit in its mouth.",
             "work": "Atomised"
         }
     ],
@@ -1771,8 +1771,8 @@ const quoteMap = {
         {
             "author": "Michel Houellebecq",
             "quote_former": "Suddenly, he started to cry. Curled up on the sofa he sobbed loudly. Michel looked at his watch; it was ",
-			"time": "just after 4am",
-			"quote_latter": ". On the screen a wild cat had a rabbit in its mouth.",
+            "time": "just after 4am",
+            "quote_latter": ". On the screen a wild cat had a rabbit in its mouth.",
             "work": "Atomised"
         }
     ],
@@ -1780,8 +1780,8 @@ const quoteMap = {
         {
             "author": "Nicole Krauss",
             "quote_former": "I walked up and down the row. No one gave me a second look. Finally I sat down next to a man. He paid no attention. My watch said ",
-			"time": "4:02",
-			"quote_latter": ". Maybe he was late.",
+            "time": "4:02",
+            "quote_latter": ". Maybe he was late.",
             "work": "The History of Love"
         }
     ],
@@ -1789,8 +1789,8 @@ const quoteMap = {
         {
             "author": "Audrey Niffenegger",
             "quote_former": "It's ",
-			"time": "4:03 a.m.",
-			"quote_latter": " on a supremely cold January morning and I'm just getting home. I've been out dancing and I'm only half drunk but utterly exhausted.",
+            "time": "4:03 a.m.",
+            "quote_latter": " on a supremely cold January morning and I'm just getting home. I've been out dancing and I'm only half drunk but utterly exhausted.",
             "work": "The Time Traveler's Wife"
         }
     ],
@@ -1798,8 +1798,8 @@ const quoteMap = {
         {
             "author": "Cirilo Villaverde",
             "quote_former": "",
-			"time": "Four minutes after four!",
-			"quote_latter": " It's still very early and to get from here to there won't take me more than 15 minutes, even walking slowly. She told me around five o'clock. Wouldn't it be better to wait on the corner?",
+            "time": "Four minutes after four!",
+            "quote_latter": " It's still very early and to get from here to there won't take me more than 15 minutes, even walking slowly. She told me around five o'clock. Wouldn't it be better to wait on the corner?",
             "work": "Angel Hill"
         }
     ],
@@ -1807,8 +1807,8 @@ const quoteMap = {
         {
             "author": "Joyce Carol Oates",
             "quote_former": "Leaves were being blown against my window. It was ",
-			"time": "4.05am.",
-			"quote_latter": " The moon had shifted in the sky, glaring through a clotted mass of clouds like a candled egg.",
+            "time": "4.05am.",
+            "quote_latter": " The moon had shifted in the sky, glaring through a clotted mass of clouds like a candled egg.",
             "work": "We Were the Mulvaneys"
         }
     ],
@@ -1816,8 +1816,8 @@ const quoteMap = {
         {
             "author": "Chris Pavone",
             "quote_former": "Dexter looked at Kate's note, then her face, then the clock. It was ",
-			"time": "4.06am",
-			"quote_latter": ", the night before they would go to the restaurant.",
+            "time": "4.06am",
+            "quote_latter": ", the night before they would go to the restaurant.",
             "work": "The Expats"
         }
     ],
@@ -1825,8 +1825,8 @@ const quoteMap = {
         {
             "author": "Miha Mazzini",
             "quote_former": "",
-			"time": "4.07am.",
-			"quote_latter": " Why am I standing? My shoulders feel cold and I'm shivering. I become aware that I'm standing in the middle of the room. I immediately look at the bedroom door. Closed, with no signs of a break-in. Why did I get up?",
+            "time": "4.07am.",
+            "quote_latter": " Why am I standing? My shoulders feel cold and I'm shivering. I become aware that I'm standing in the middle of the room. I immediately look at the bedroom door. Closed, with no signs of a break-in. Why did I get up?",
             "work": "Guarding Hanna: A Novel"
         }
     ],
@@ -1834,8 +1834,8 @@ const quoteMap = {
         {
             "author": "Seth O'Connell",
             "quote_former": "It was at ",
-			"time": "4:08 a.m.",
-			"quote_latter": " beneath the cool metal of a jungle gym that all Andrew's dreams came true. He kissed his one true love and swore up and down that it would last forever to this exhausted companion throughout their long trek home.",
+            "time": "4:08 a.m.",
+            "quote_latter": " beneath the cool metal of a jungle gym that all Andrew's dreams came true. He kissed his one true love and swore up and down that it would last forever to this exhausted companion throughout their long trek home.",
             "work": "Dying in the Twilight of Summer"
         }
     ],
@@ -1843,8 +1843,8 @@ const quoteMap = {
         {
             "author": "Karen Karbo",
             "quote_former": "The next morning I awaken at exactly ",
-			"time": "eleven minutes after four",
-			"quote_latter": ", having slept straight through my normal middle-of-the-night insomniac waking at three.",
+            "time": "eleven minutes after four",
+            "quote_latter": ", having slept straight through my normal middle-of-the-night insomniac waking at three.",
             "work": "The Stuff of Life"
         }
     ],
@@ -1852,15 +1852,15 @@ const quoteMap = {
         {
             "author": "Haruki Murakami",
             "quote_former": "Finally, she signalled with her light that she'd made it to the top. I signalled back, then shined the light downward to see how far the water had risen. I couldn't make out a thing. My watch read ",
-			"time": "four-twelve",
-			"quote_latter": " in the morning. Not yet dawn. The morning papers still not delivered, trains not yet running, citizens of the surface world fast asleep, oblivious to all this. I pulled the rope taut with both hands, took a deep breath, then slowly began my climb.",
+            "time": "four-twelve",
+            "quote_latter": " in the morning. Not yet dawn. The morning papers still not delivered, trains not yet running, citizens of the surface world fast asleep, oblivious to all this. I pulled the rope taut with both hands, took a deep breath, then slowly began my climb.",
             "work": "Hard Boiled Wonderland and the End of the World"
         },
         {
             "author": "Elmore Leonard",
             "quote_former": "Karen felt the bed move beneath Harry's weight. Lying on her side she opened her eyes to see digital numbers in the dark, ",
-			"time": "4:12",
-			"quote_latter": " in pale green. Behind her Harry continued to move, settling in. She watched the numbers change to 4:13.",
+            "time": "4:12",
+            "quote_latter": " in pale green. Behind her Harry continued to move, settling in. She watched the numbers change to 4:13.",
             "work": "Get Shorty"
         }
     ],
@@ -1868,8 +1868,8 @@ const quoteMap = {
         {
             "author": "Elmore Leonard",
             "quote_former": "Karen felt the bed move beneath Harry's weight. Lying on her side she opened her eyes to see digital numbers in the dark, 4:12 in pale green. Behind her Harry continued to move, settling in. She watched the numbers change to ",
-			"time": "4:13",
-			"quote_latter": ".",
+            "time": "4:13",
+            "quote_latter": ".",
             "work": "Get Shorty"
         }
     ],
@@ -1877,8 +1877,8 @@ const quoteMap = {
         {
             "author": "David H Swendsen",
             "quote_former": "At ",
-			"time": "4:14 a.m.",
-			"quote_latter": ", the two men returned to the Jeep. After the passenger replaced the cans in the back of the Jeep, the driver backed out of the driveway and headed east. The last images found on the film appeared to be flames or smoke.",
+            "time": "4:14 a.m.",
+            "quote_latter": ", the two men returned to the Jeep. After the passenger replaced the cans in the back of the Jeep, the driver backed out of the driveway and headed east. The last images found on the film appeared to be flames or smoke.",
             "work": "A Real Nightmare"
         }
     ],
@@ -1886,8 +1886,8 @@ const quoteMap = {
         {
             "author": "Barbara Kingsolver",
             "quote_former": "Alice wants to warn her that a defect runs in the family, like flat feet or diabetes: they're all in danger of ending up alone by their own stubborn choice. The ugly kitchen clock says ",
-			"time": "four-fifteen",
-			"quote_latter": ".",
+            "time": "four-fifteen",
+            "quote_latter": ".",
             "work": "Pigs in Heaven"
         }
     ],
@@ -1895,8 +1895,8 @@ const quoteMap = {
         {
             "author": "Maree Anderson",
             "quote_former": "They pulled into the visitor's carpark at ",
-			"time": "four sixteen",
-			"quote_latter": " am. He knew it was four sixteen because the entrance to the maternity unit sported a digital clock beneath the signage.",
+            "time": "four sixteen",
+            "quote_latter": " am. He knew it was four sixteen because the entrance to the maternity unit sported a digital clock beneath the signage.",
             "work": "Freaks in the City: Book Two of the Freaks Series"
         }
     ],
@@ -1904,8 +1904,8 @@ const quoteMap = {
         {
             "author": "Douglas Phinney",
             "quote_former": "He awoke at ",
-			"time": "4.17am",
-			"quote_latter": " in a sweat. He had been dreaming of Africa again, and then the dream had continued in the U.S. when he was a young man. But Inbata had been there, watching him.",
+            "time": "4.17am",
+            "quote_latter": " in a sweat. He had been dreaming of Africa again, and then the dream had continued in the U.S. when he was a young man. But Inbata had been there, watching him.",
             "work": "The Vile"
         }
     ],
@@ -1913,8 +1913,8 @@ const quoteMap = {
         {
             "author": "Haruki Murakami",
             "quote_former": "I grabbed the alarm clock, threw it on my lap, and slapped the red and black buttons with both hands. The ringing didn't stop. The telephone! The clock read ",
-			"time": "four-eighteen",
-			"quote_latter": ". It was dark outside. Four-eighteen a.m. I got out of bed and picked up the receiver. \"Hello?\"",
+            "time": "four-eighteen",
+            "quote_latter": ". It was dark outside. Four-eighteen a.m. I got out of bed and picked up the receiver. \"Hello?\"",
             "work": "Hard Boiled Wonderland and the End of the World"
         }
     ],
@@ -1922,8 +1922,8 @@ const quoteMap = {
         {
             "author": "Len Deighton",
             "quote_former": "He hurt me to the point where I wanted to tell him something. My watch said ",
-			"time": "4.22",
-			"quote_latter": " now. It had stopped. It was smashed.",
+            "time": "4.22",
+            "quote_latter": " now. It had stopped. It was smashed.",
             "work": "The Ipcress File"
         }
     ],
@@ -1931,15 +1931,15 @@ const quoteMap = {
         {
             "author": "John Ajvide Lindqvist",
             "quote_former": "",
-			"time": "4:23",
-			"quote_latter": ", Monday morning, Iceland Square. A number of people in the vicinity of Bjornsongatan are awakened by loud screams.",
+            "time": "4:23",
+            "quote_latter": ", Monday morning, Iceland Square. A number of people in the vicinity of Bjornsongatan are awakened by loud screams.",
             "work": "Let The Right One In"
         },
         {
             "author": "William Gibson",
             "quote_former": "Her chip pulsed the time. ",
-			"time": "04:23",
-			"quote_latter": ":04. It had been a long day.",
+            "time": "04:23",
+            "quote_latter": ":04. It had been a long day.",
             "work": "Neuromancer"
         }
     ],
@@ -1947,8 +1947,8 @@ const quoteMap = {
         {
             "author": "Sir Arthur Conan Doyle",
             "quote_former": "As I dressed I glanced at my watch. It was no wonder that no one was stirring. It was ",
-			"time": "twenty-five minutes past four",
-			"quote_latter": ".",
+            "time": "twenty-five minutes past four",
+            "quote_latter": ".",
             "work": "The Adventures of Sherlock Holmes"
         }
     ],
@@ -1956,22 +1956,22 @@ const quoteMap = {
         {
             "author": "Alain de Botton",
             "quote_former": "At the end of a relationship, it is the one who is not in love who makes the tender speeches. I was overwhelmed by a sense of betrayal, betrayal because a union in which I had invested so much had been declared bankrupt without my feeling it to be so. Chloe had not given it a chance, I argued with myself, knowing the hopelessness of these inner courts announcing hollow verdicts at ",
-			"time": "four thirty",
-			"quote_latter": " in the morning.",
+            "time": "four thirty",
+            "quote_latter": " in the morning.",
             "work": "Essays on Love"
         },
         {
             "author": "David Foster Wallace",
             "quote_former": "Hester Thrale undulates in in a false fox jacket at 2330 as usual even though she has to be up at like 0",
-			"time": "430",
-			"quote_latter": " for the breakfast shift at the Provident Nursing Home and sometimes eats breakfast with Gately, both their faces nodding perilously close to their Frosted Flakes.",
+            "time": "430",
+            "quote_latter": " for the breakfast shift at the Provident Nursing Home and sometimes eats breakfast with Gately, both their faces nodding perilously close to their Frosted Flakes.",
             "work": "Infinite Jest"
         },
         {
             "author": "David Foster Wallace",
             "quote_former": "Tonight Clenette H. and the deeply whacked out Yolanda W. come back in from Footprints around 2315 in purple skirts and purple lipstick and ironed hair, tottering on heels and telling each other what a wicked time they just had. Hester Thrale undulates in in a false fox jacket at 2330 as usual even though she has to be up at like 0",
-			"time": "430",
-			"quote_latter": " for the breakfast shift at the Provident Nursing Home and sometimes eats breakfast with Gately, both their faces nodding perilously close to their Frosted Flakes.",
+            "time": "430",
+            "quote_latter": " for the breakfast shift at the Provident Nursing Home and sometimes eats breakfast with Gately, both their faces nodding perilously close to their Frosted Flakes.",
             "work": "Infinite Jest"
         }
     ],
@@ -1979,8 +1979,8 @@ const quoteMap = {
         {
             "author": "Douglas Coupland",
             "quote_former": "An earthquake hit Los Angeles at ",
-			"time": "4:31",
-			"quote_latter": " this morning and the images began arriving via CNN right away.",
+            "time": "4:31",
+            "quote_latter": " this morning and the images began arriving via CNN right away.",
             "work": "Microserfs"
         }
     ],
@@ -1988,8 +1988,8 @@ const quoteMap = {
         {
             "author": "Jodi Picoult",
             "quote_former": "On his first day of kindergarten, Peter Houghton woke up at ",
-			"time": "4:32 a.m.",
-			"quote_latter": " He padded into his parents' room and asked if it was time yet to take the school bus.",
+            "time": "4:32 a.m.",
+            "quote_latter": " He padded into his parents' room and asked if it was time yet to take the school bus.",
             "work": "Nineteen Minutes"
         }
     ],
@@ -1997,8 +1997,8 @@ const quoteMap = {
         {
             "author": "C Robert Cargill",
             "quote_former": "No manner of exhaustion can keep a child asleep much later than six a.m. on Christmas Day. Colby awoke at ",
-			"time": "4:35",
-			"quote_latter": ".",
+            "time": "4:35",
+            "quote_latter": ".",
             "work": "Dreams and Shadows"
         }
     ],
@@ -2006,8 +2006,8 @@ const quoteMap = {
         {
             "author": "Ross Thomas",
             "quote_former": "At ",
-			"time": "4:36",
-			"quote_latter": " that morning, alone in my hotel room, it had been a much better scene. Spencer had blanched, confounded by the inescapable logic of my accusation. A few drops of perspiration had formed on his upper lip. A tiny vein had started to throb in his temple.",
+            "time": "4:36",
+            "quote_latter": " that morning, alone in my hotel room, it had been a much better scene. Spencer had blanched, confounded by the inescapable logic of my accusation. A few drops of perspiration had formed on his upper lip. A tiny vein had started to throb in his temple.",
             "work": "The Brass Go-Between"
         }
     ],
@@ -2015,8 +2015,8 @@ const quoteMap = {
         {
             "author": "Jonathan Barrow",
             "quote_former": "At ",
-			"time": "4.38 a.m.",
-			"quote_latter": " as the sun is coming up over Gorley Woods, I hear a strange rustling in the grass beside me. I peer closely but can see nothing.",
+            "time": "4.38 a.m.",
+            "quote_latter": " as the sun is coming up over Gorley Woods, I hear a strange rustling in the grass beside me. I peer closely but can see nothing.",
             "work": "The Queue"
         }
     ],
@@ -2024,8 +2024,8 @@ const quoteMap = {
         {
             "author": "Tina Fey",
             "quote_former": "I settled into a daily routine. Wake up at ",
-			"time": "4.40am",
-			"quote_latter": ", shower, get on the train north by ten after five.",
+            "time": "4.40am",
+            "quote_latter": ", shower, get on the train north by ten after five.",
             "work": "Bossypants"
         }
     ],
@@ -2033,8 +2033,8 @@ const quoteMap = {
         {
             "author": "Roland S. Jefferson",
             "quote_former": "At ",
-			"time": "4:41",
-			"quote_latter": " Crane's voice crackled through the walkie-talkie as if he'd read their thoughts of mutiny. \u201cEveryone into the elevator. Now!\u201d Only moments before the call he and C.J. had finished what they hoped would be a successful diversion.",
+            "time": "4:41",
+            "quote_latter": " Crane's voice crackled through the walkie-talkie as if he'd read their thoughts of mutiny. \u201cEveryone into the elevator. Now!\u201d Only moments before the call he and C.J. had finished what they hoped would be a successful diversion.",
             "work": "Damaged Goods: A Novel"
         }
     ],
@@ -2042,8 +2042,8 @@ const quoteMap = {
         {
             "author": "Suhayl Saadi",
             "quote_former": "The time is ",
-			"time": "four forty-three",
-			"quote_latter": " in the mornin an it's almost light oot there.",
+            "time": "four forty-three",
+            "quote_latter": " in the mornin an it's almost light oot there.",
             "work": "Pyschoraag"
         }
     ],
@@ -2051,15 +2051,15 @@ const quoteMap = {
         {
             "author": "Henning Mankell",
             "quote_former": "He lies still in the darkness and listens. His wife's breathing at his side is so faint that he can scarcely hear it. One of these mornings she'll be lying dead beside me and I won't even notice, he thinks. Or maybe it'll be me. Daybreak will reveal that one of us has been left alone. He checks the clock on the table next to the bed. The hands glow and register ",
-			"time": "4:45 a.m.",
-			"quote_latter": "",
+            "time": "4:45 a.m.",
+            "quote_latter": "",
             "work": "Faceless Killers"
         },
         {
             "author": "Henning Mankell",
             "quote_former": "His wife's breathing at his side is so faint that he can scarcely hear it. One of these mornings she'll be lying dead beside me and I won't even notice, he thinks. Or maybe it'll be me. Daybreak will reveal that one of us has been left alone. He checks the clock on the table next to the bed. The hands glow and register ",
-			"time": "4:45 a.m.",
-			"quote_latter": "",
+            "time": "4:45 a.m.",
+            "quote_latter": "",
             "work": "Faceless Killers"
         }
     ],
@@ -2067,8 +2067,8 @@ const quoteMap = {
         {
             "author": "Haruki Murakami",
             "quote_former": "The phone rang again at ",
-			"time": "four-forty-six",
-			"quote_latter": ".\"Hello,\" I said. \"Hello,\" came a woman's voice. \"Sorry about the time before. There's a disturbance in the sound field. Sometimes the sound goes away.\" \"The sound goes away?\" \"Yes,\" she said. \"The sound field's slipping. Can you hear me?\" \"Loud and clear,\" I said. It was the granddaughter of that kooky old scientist who'd given me the unicorn skull. The girl in the pink suit.",
+            "time": "four-forty-six",
+            "quote_latter": ".\"Hello,\" I said. \"Hello,\" came a woman's voice. \"Sorry about the time before. There's a disturbance in the sound field. Sometimes the sound goes away.\" \"The sound goes away?\" \"Yes,\" she said. \"The sound field's slipping. Can you hear me?\" \"Loud and clear,\" I said. It was the granddaughter of that kooky old scientist who'd given me the unicorn skull. The girl in the pink suit.",
             "work": "Hard Boiled Wonderland and the End of the World"
         }
     ],
@@ -2076,8 +2076,8 @@ const quoteMap = {
         {
             "author": "Sarah Kane",
             "quote_former": "At ",
-			"time": "4:48",
-			"quote_latter": " the happy hour when clarity visits warm darkness which soaks my eyes I know no sin",
+            "time": "4:48",
+            "quote_latter": " the happy hour when clarity visits warm darkness which soaks my eyes I know no sin",
             "work": "4:48 Psychosis"
         }
     ],
@@ -2085,8 +2085,8 @@ const quoteMap = {
         {
             "author": "James Thurber",
             "quote_former": "Even the hands of his watch and the hands of all the thirteen clocks were frozen. They had all frozen at the same time, on a snowy night, seven years before, and after that it was always ",
-			"time": "ten minutes to five",
-			"quote_latter": " in the castle.",
+            "time": "ten minutes to five",
+            "quote_latter": " in the castle.",
             "work": "The 13 Clocks"
         }
     ],
@@ -2094,8 +2094,8 @@ const quoteMap = {
         {
             "author": "Hunter S. Thompson",
             "quote_former": "",
-			"time": "4:55",
-			"quote_latter": " - Mank holding phone. Turns to Caddell - 'Who is this?' Caddell: 'Jim.' (shrugs) 'I think he's our man in Cincinnati.'",
+            "time": "4:55",
+            "quote_latter": " - Mank holding phone. Turns to Caddell - 'Who is this?' Caddell: 'Jim.' (shrugs) 'I think he's our man in Cincinnati.'",
             "work": "Fear and Loathing: On the Campaign Trail '72"
         }
     ],
@@ -2103,8 +2103,8 @@ const quoteMap = {
         {
             "author": "Peter Robb",
             "quote_former": "The second said the same thing a ",
-			"time": "few minutes before five",
-			"quote_latter": ", and mentioned eternity... I'm sure I'll meet you in the other world. Four minutes later she left a last, fleeting message: My love. Fernando. It's Suzana. Then, it seemed, she had shot herself.",
+            "time": "few minutes before five",
+            "quote_latter": ", and mentioned eternity... I'm sure I'll meet you in the other world. Four minutes later she left a last, fleeting message: My love. Fernando. It's Suzana. Then, it seemed, she had shot herself.",
             "work": "A Death in Brazil: A Book of Omissions"
         }
     ],
@@ -2112,8 +2112,8 @@ const quoteMap = {
         {
             "author": "David Foster Wallace",
             "quote_former": "The whole place smells like death no matter what the fuck you do. Gately gets to the shelter at 0",
-			"time": "459",
-			"quote_latter": ".9h and just shuts his head off as if his head had a control switch.",
+            "time": "459",
+            "quote_latter": ".9h and just shuts his head off as if his head had a control switch.",
             "work": "Infinite Jest"
         }
     ],
@@ -2121,36 +2121,36 @@ const quoteMap = {
         {
             "author": "H.P. Lovecraft",
             "quote_former": "It was in the township of Dunwich, in a large and hardly inhabited farmhouse set against a hillside 4 miles from the village and a mile and a half from any other dwelling, that Wilbur Whately was born at ",
-			"time": "5 a.m.",
-			"quote_latter": " on Sunday, 2 February, 1913. The date was recalled because it was Candlemas, which people in Dunwich curiously observe under another name...",
+            "time": "5 a.m.",
+            "quote_latter": " on Sunday, 2 February, 1913. The date was recalled because it was Candlemas, which people in Dunwich curiously observe under another name...",
             "work": "The Dunwich Horror"
         },
         {
             "author": "Rose Tremain",
             "quote_former": "Just after ",
-			"time": "five o'clock",
-			"quote_latter": " on this chill September morning, the fishmonger's cart, containing Kirsten and Emilia and such possessions as they have been able to assemble in the time allowed to them, is driven out of the gates of Rosenborg?",
+            "time": "five o'clock",
+            "quote_latter": " on this chill September morning, the fishmonger's cart, containing Kirsten and Emilia and such possessions as they have been able to assemble in the time allowed to them, is driven out of the gates of Rosenborg?",
             "work": "Music and Silence"
         },
         {
             "author": "Emily Dickinson",
             "quote_former": "The day came slow, till ",
-			"time": "five o'clock",
-			"quote_latter": ". Then sprang before the hills. Like hindered rubies, or the light. A sudden musket spills",
+            "time": "five o'clock",
+            "quote_latter": ". Then sprang before the hills. Like hindered rubies, or the light. A sudden musket spills",
             "work": "The Day Came Slow, Till Five O' Clock"
         },
         {
             "author": "Fleur Adcock",
             "quote_former": "There are worse things than having behaved foolishly in public. There are worse things than these miniature betrayals, committed or endured or suspected; there are worse things than not being able to sleep for thinking about them. It is ",
-			"time": "5 a.m.",
-			"quote_latter": " All the worse things come stalking in and stand icily about the bed looking worse and worse and worse.",
+            "time": "5 a.m.",
+            "quote_latter": " All the worse things come stalking in and stand icily about the bed looking worse and worse and worse.",
             "work": "Things"
         },
         {
             "author": "William Makepeace Thackeray",
             "quote_former": "What causes young people to \"come out,\" but the noble ambition of matrimony? What sends them trooping to watering-places? What keeps them dancing till ",
-			"time": "five o'clock",
-			"quote_latter": " in the morning through a whole mortal season?",
+            "time": "five o'clock",
+            "quote_latter": " in the morning through a whole mortal season?",
             "work": "Vanity Fair"
         }
     ],
@@ -2158,15 +2158,15 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "\"Oh yes. His clocks were set at ",
-			"time": "one minute past five",
-			"quote_latter": ", four minutes past five and seven minutes past five. That was the combination number of a safe, 515457. The safe was concealed behind a reproduction of the Mona Lisa. Inside the safe,\" continued Poirot, with distaste, \"were the Crown Jewels of the Russian Royal Family.\"",
+            "time": "one minute past five",
+            "quote_latter": ", four minutes past five and seven minutes past five. That was the combination number of a safe, 515457. The safe was concealed behind a reproduction of the Mona Lisa. Inside the safe,\" continued Poirot, with distaste, \"were the Crown Jewels of the Russian Royal Family.\"",
             "work": "The clocks"
         },
         {
             "author": "Rose Tremain",
             "quote_former": "Just ",
-			"time": "after five o'clock",
-			"quote_latter": " on this chill September morning, the fishmonger's cart, containing Kirsten and Emilia and such possessions as they have been able to assemble in the time allowed to them, is driven out of the gates of Rosenborg?",
+            "time": "after five o'clock",
+            "quote_latter": " on this chill September morning, the fishmonger's cart, containing Kirsten and Emilia and such possessions as they have been able to assemble in the time allowed to them, is driven out of the gates of Rosenborg?",
             "work": "Music and Silence"
         }
     ],
@@ -2174,8 +2174,8 @@ const quoteMap = {
         {
             "author": "Brenda Joyce",
             "quote_former": "It was ",
-			"time": "5:02 a.m.",
-			"quote_latter": ", December 14. In another fifty-eight minutes he would set sail for America. He did not want to leave his bride; he did not want to go.",
+            "time": "5:02 a.m.",
+            "quote_latter": ", December 14. In another fifty-eight minutes he would set sail for America. He did not want to leave his bride; he did not want to go.",
             "work": "The Prize"
         }
     ],
@@ -2183,8 +2183,8 @@ const quoteMap = {
         {
             "author": "Heather Graham",
             "quote_former": "It was ",
-			"time": "5:03 a.m.",
-			"quote_latter": " It didn't matter. She wasn't going to get back to sleep. She threw off her covers and, swearing at herself, Caleb and Mr. Griffin, she headed into the shower.",
+            "time": "5:03 a.m.",
+            "quote_latter": " It didn't matter. She wasn't going to get back to sleep. She threw off her covers and, swearing at herself, Caleb and Mr. Griffin, she headed into the shower.",
             "work": "Unhallowed ground"
         }
     ],
@@ -2192,22 +2192,22 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "\"Oh yes. His clocks were set at one minute past five, ",
-			"time": "four minutes past five",
-			"quote_latter": " and seven minutes past five. That was the combination number of a safe, 515457. The safe was concealed behind a reproduction of the Mona Lisa. Inside the safe,\" continued Poirot, with distaste, \"were the Crown Jewels of the Russian Royal Family.\"",
+            "time": "four minutes past five",
+            "quote_latter": " and seven minutes past five. That was the combination number of a safe, 515457. The safe was concealed behind a reproduction of the Mona Lisa. Inside the safe,\" continued Poirot, with distaste, \"were the Crown Jewels of the Russian Royal Family.\"",
             "work": "The clocks"
         },
         {
             "author": "Ali Smith",
             "quote_former": "",
-			"time": "5.04 a.m.",
-			"quote_latter": " on the substandard clock radio. Because why do people always say the day starts now? Really it starts in the middle of the night at a fraction of a second past midnight.",
+            "time": "5.04 a.m.",
+            "quote_latter": " on the substandard clock radio. Because why do people always say the day starts now? Really it starts in the middle of the night at a fraction of a second past midnight.",
             "work": "The Accidental"
         },
         {
             "author": "Agatha Christie",
             "quote_former": "Oh yes. His clocks were set at one minute past five, ",
-			"time": "four minutes past five",
-			"quote_latter": " and seven minutes past five. That was the combination number of a safe, 515457. The safe was concealed behind a reproduction of the Mona Lisa. Inside the safe, continued Poirot, with distaste, \"were the Crown Jewels of the Russian Royal Family.\"",
+            "time": "four minutes past five",
+            "quote_latter": " and seven minutes past five. That was the combination number of a safe, 515457. The safe was concealed behind a reproduction of the Mona Lisa. Inside the safe, continued Poirot, with distaste, \"were the Crown Jewels of the Russian Royal Family.\"",
             "work": "The Clocks"
         }
     ],
@@ -2215,8 +2215,8 @@ const quoteMap = {
         {
             "author": "Jhumpa Lahiri",
             "quote_former": "The baby, a boy, is born at ",
-			"time": "five past five",
-			"quote_latter": " in the morning.",
+            "time": "five past five",
+            "quote_latter": " in the morning.",
             "work": "The Namesake"
         }
     ],
@@ -2224,8 +2224,8 @@ const quoteMap = {
         {
             "author": "Jonathon Tropper",
             "quote_former": "",
-			"time": "5:06 a.m.",
-			"quote_latter": " I wake up strangely energized, my stomach growling. Upstairs, the overstocked fridge offers me its bounty of sympathy food.",
+            "time": "5:06 a.m.",
+            "quote_latter": " I wake up strangely energized, my stomach growling. Upstairs, the overstocked fridge offers me its bounty of sympathy food.",
             "work": "This is Where I Leave you"
         }
     ],
@@ -2233,8 +2233,8 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "\"Oh yes. His clocks were set at one minute past five, four minutes past five and ",
-			"time": "seven minutes past five",
-			"quote_latter": ". That was the combination number of a safe, 515457. The safe was concealed behind a reproduction of the Mona Lisa. Inside the safe,\" continued Poirot, with distaste, \"were the Crown Jewels of the Russian Royal Family.\"",
+            "time": "seven minutes past five",
+            "quote_latter": ". That was the combination number of a safe, 515457. The safe was concealed behind a reproduction of the Mona Lisa. Inside the safe,\" continued Poirot, with distaste, \"were the Crown Jewels of the Russian Royal Family.\"",
             "work": "The clocks"
         }
     ],
@@ -2242,8 +2242,8 @@ const quoteMap = {
         {
             "author": "John Barth",
             "quote_former": "Ambrose and I will marry at Fort McHenry at ",
-			"time": "5:08",
-			"quote_latter": " EDST this coming Saturday, Rosh Hashanah!",
+            "time": "5:08",
+            "quote_latter": " EDST this coming Saturday, Rosh Hashanah!",
             "work": "Letters"
         }
     ],
@@ -2251,8 +2251,8 @@ const quoteMap = {
         {
             "author": "Louis Joseph Vance",
             "quote_former": "The primal flush of triumph which had saturated the American's humor on this signal success, proved but fictive and transitory when inquiry of the station attendants educed the information that the two earliest trains to be obtained were the ",
-			"time": "5:09",
-			"quote_latter": " to Dunkerque and the 5:37 for Ostend.",
+            "time": "5:09",
+            "quote_latter": " to Dunkerque and the 5:37 for Ostend.",
             "work": "The Black Bag"
         }
     ],
@@ -2260,8 +2260,8 @@ const quoteMap = {
         {
             "author": "Tina Fey",
             "quote_former": "I settled into a daily routine. Wake up at 4:40am, shower, get on the train north by ",
-			"time": "ten after five",
-			"quote_latter": ".",
+            "time": "ten after five",
+            "quote_latter": ".",
             "work": "Bossypants"
         }
     ],
@@ -2269,8 +2269,8 @@ const quoteMap = {
         {
             "author": "Donald E Westlake",
             "quote_former": "Today was Tuesday, the fifteenth of August; the sun had risen at ",
-			"time": "eleven minutes past five",
-			"quote_latter": " this morning and would set at two minutes before seven this evening.",
+            "time": "eleven minutes past five",
+            "quote_latter": " this morning and would set at two minutes before seven this evening.",
             "work": "The Hot Rock"
         }
     ],
@@ -2278,8 +2278,8 @@ const quoteMap = {
         {
             "author": "Herbert Asbury",
             "quote_former": "At ",
-			"time": "twelve minutes and six seconds past five o'clock",
-			"quote_latter": " on the morning of April 18th, 1906, the San francisco peninsula began to shiver in the grip of an earthquake which, when its ultimate consequences are considered, was the most disastrous in the recorded history of the North American continent.",
+            "time": "twelve minutes and six seconds past five o'clock",
+            "quote_latter": " on the morning of April 18th, 1906, the San francisco peninsula began to shiver in the grip of an earthquake which, when its ultimate consequences are considered, was the most disastrous in the recorded history of the North American continent.",
             "work": "Slummer's Paradise"
         }
     ],
@@ -2287,8 +2287,8 @@ const quoteMap = {
         {
             "author": "Nakia D Johnson",
             "quote_former": "Lying on my side in bed, I stared at my alarm clock until it became a blemish, its red hue glowing like a welcome sign beckoning me into the depths of hell's crimson-colored cavities. ",
-			"time": "5:13 am.",
-			"quote_latter": " To describe this Monday as a blue Monday was an understatement.",
+            "time": "5:13 am.",
+            "quote_latter": " To describe this Monday as a blue Monday was an understatement.",
             "work": "Uptempo"
         }
     ],
@@ -2296,8 +2296,8 @@ const quoteMap = {
         {
             "author": "Thomas H Cook",
             "quote_former": "The time was ",
-			"time": "5.14am",
-			"quote_latter": ", a very strange time indeed for the sheriff to have seen what he claimed he saw as he made his early-morning rounds, first patrolling back and forth along the deserted, snowbound streets of Kingdom City before extending his vigilance northward, along County Road.",
+            "time": "5.14am",
+            "quote_latter": ", a very strange time indeed for the sheriff to have seen what he claimed he saw as he made his early-morning rounds, first patrolling back and forth along the deserted, snowbound streets of Kingdom City before extending his vigilance northward, along County Road.",
             "work": "Into the Web"
         }
     ],
@@ -2305,15 +2305,15 @@ const quoteMap = {
         {
             "author": "Stephen King",
             "quote_former": "By the first week of May, Ralph was waking up to birdsong at ",
-			"time": "5:15 a.m.",
-			"quote_latter": " He tried earplugs for a few nights, although he doubted from the outset that they would work. It wasn\u2019t the newly returned birds that were waking him up, nor the occasional delivery-truck backfire out on Harris Avenue. He had always been the sort of guy who could sleep in the middle of a brass marching bad, and he didn\u2019t think that had changed. What had changed was inside his head.",
+            "time": "5:15 a.m.",
+            "quote_latter": " He tried earplugs for a few nights, although he doubted from the outset that they would work. It wasn\u2019t the newly returned birds that were waking him up, nor the occasional delivery-truck backfire out on Harris Avenue. He had always been the sort of guy who could sleep in the middle of a brass marching bad, and he didn\u2019t think that had changed. What had changed was inside his head.",
             "work": "Insomnia"
         },
         {
             "author": "Hunter S Thompson",
             "quote_former": "Weird conversation with Brown, a tired & confused old man who's been jerked out of bed at ",
-			"time": "5:15",
-			"quote_latter": ".",
+            "time": "5:15",
+            "quote_latter": ".",
             "work": "Fear and Loathing: On the Campaign Trail '72"
         }
     ],
@@ -2321,15 +2321,15 @@ const quoteMap = {
         {
             "author": "Hunter S Thompson",
             "quote_former": "",
-			"time": "5:16",
-			"quote_latter": " - Mank on phone to Secretary of State Brown: 'Mr Brown, we're profoundly disturbed about this situation in the 21st. We can't get a single result out of there.",
+            "time": "5:16",
+            "quote_latter": " - Mank on phone to Secretary of State Brown: 'Mr Brown, we're profoundly disturbed about this situation in the 21st. We can't get a single result out of there.",
             "work": "Fear and Loathing: On the Campaign Trail '72"
         },
         {
             "author": "Ali Smith",
             "quote_former": "She could go back to sleep. But typical and ironic, she is completely awake. It is completely light outside now; you can see for miles. Except there is nothing to see here; trees and fields and that kind of thing. ",
-			"time": "5:16 a.m",
-			"quote_latter": " on the substandard clock radio. She is really awake.",
+            "time": "5:16 a.m",
+            "quote_latter": " on the substandard clock radio. She is really awake.",
             "work": "The Accidental"
         }
     ],
@@ -2337,8 +2337,8 @@ const quoteMap = {
         {
             "author": "Primo Levi",
             "quote_former": "He saw on the floor his cigarette reduced to a long thin cylinder of ash: it had smoked itself. It was ",
-			"time": "five twenty",
-			"quote_latter": ", dawn was breaking behind the shed of empty barrels, the thermometer pointed to 210 degrees.",
+            "time": "five twenty",
+            "quote_latter": ", dawn was breaking behind the shed of empty barrels, the thermometer pointed to 210 degrees.",
             "work": "The Periodic Table"
         }
     ],
@@ -2346,8 +2346,8 @@ const quoteMap = {
         {
             "author": "Arthur Phillips",
             "quote_former": "If I could count precisely to sixty between two passing orange minutes on her digital clock, starting at ",
-			"time": "5.23am",
-			"quote_latter": " and ending exactly as it melted into 5:24, then when she woke she would love me and not say this had been a terrible mistake.",
+            "time": "5.23am",
+            "quote_latter": " and ending exactly as it melted into 5:24, then when she woke she would love me and not say this had been a terrible mistake.",
             "work": "The Tragedy of Arthur"
         }
     ],
@@ -2355,8 +2355,8 @@ const quoteMap = {
         {
             "author": "Arthur Phillips",
             "quote_former": "If I could count precisely to sixty between two passing orange minutes on her digital clock, starting at 523am. and ending exactly as it melted into ",
-			"time": "5:24",
-			"quote_latter": ", then when she woke she would love me and not say this had been a terrible mistake.",
+            "time": "5:24",
+            "quote_latter": ", then when she woke she would love me and not say this had been a terrible mistake.",
             "work": "The Tragedy of Arthur"
         }
     ],
@@ -2364,8 +2364,8 @@ const quoteMap = {
         {
             "author": "Julian Barnes",
             "quote_former": "George's train home from New Street leaves at ",
-			"time": "5.25",
-			"quote_latter": ". On the return journey, there are rarely schoolboys.",
+            "time": "5.25",
+            "quote_latter": ". On the return journey, there are rarely schoolboys.",
             "work": "Arthur and George"
         }
     ],
@@ -2373,8 +2373,8 @@ const quoteMap = {
         {
             "author": "Hallgr\u00edmur Helgason",
             "quote_former": "I think this is actually bump number 1,970. And the boy keeps plugging away at the same speed. There isn\u2019t a sound from them. Not a moan. Poor them. Poor me. I look at the clock. ",
-			"time": "05:26",
-			"quote_latter": ".",
+            "time": "05:26",
+            "quote_latter": ".",
             "work": "101 Reykjavik"
         }
     ],
@@ -2382,8 +2382,8 @@ const quoteMap = {
         {
             "author": "Haruki Murakami",
             "quote_former": "I pulled into the Aoyama supermarket parking garage at ",
-			"time": "five-twenty-eight",
-			"quote_latter": ". The sky to the east was getting light. I entered the store carrying my bag. Almost no one was in the place. A young clerk in a striped uniform sat reading a magazine; a woman of indeterminate age was buying a cartload of cans and instant food. I turned past the liquor display and went straight to the snack bar.",
+            "time": "five-twenty-eight",
+            "quote_latter": ". The sky to the east was getting light. I entered the store carrying my bag. Almost no one was in the place. A young clerk in a striped uniform sat reading a magazine; a woman of indeterminate age was buying a cartload of cans and instant food. I turned past the liquor display and went straight to the snack bar.",
             "work": "Hard Boiled Wonderland and the End of the World"
         }
     ],
@@ -2391,22 +2391,22 @@ const quoteMap = {
         {
             "author": "Timothy Mo",
             "quote_former": "Gideon has been most unlike Gideon. As Walter Eastman is preoccupied himself, he has not had time, or more to the point, inclination, to notice aberrant behaviour. For instance, it is ",
-			"time": "half-past five",
-			"quote_latter": " in the summer morning. Young Chase's narrow bachelor bed has evidently been slept in, for it is rumpled in that barely disturbed way which can never be counterfeited. His jug's empty and there's grey water in the basin, cleanly boy. The window is open, admitting the salubrious sea-breeze. He doesn't smoke anyway. What an innocent room it is.",
+            "time": "half-past five",
+            "quote_latter": " in the summer morning. Young Chase's narrow bachelor bed has evidently been slept in, for it is rumpled in that barely disturbed way which can never be counterfeited. His jug's empty and there's grey water in the basin, cleanly boy. The window is open, admitting the salubrious sea-breeze. He doesn't smoke anyway. What an innocent room it is.",
             "work": "An Insular Possession"
         },
         {
             "author": "Charlotte Bront\u00eb",
             "quote_former": "It was by this time ",
-			"time": "half-past five",
-			"quote_latter": ", and the sun was on the point of rising; but I found the kitchen still dark and silent. \u2026 The stillness of early morning slumbered everywhere .. the carriage horses stamped from time to time in their closed stables: all else was still.",
+            "time": "half-past five",
+            "quote_latter": ", and the sun was on the point of rising; but I found the kitchen still dark and silent. \u2026 The stillness of early morning slumbered everywhere .. the carriage horses stamped from time to time in their closed stables: all else was still.",
             "work": "Jane Eyre"
         },
         {
             "author": "Gabriel Garc\u00eda M\u00e1rquez",
             "quote_former": "On the day they were going to kill him, Santiago Nasar got up at ",
-			"time": "five-thirty",
-			"quote_latter": " in the morning to wait for the boat the bishop was coming on.",
+            "time": "five-thirty",
+            "quote_latter": " in the morning to wait for the boat the bishop was coming on.",
             "work": "Chronicle of a Death Foretold"
         }
     ],
@@ -2414,8 +2414,8 @@ const quoteMap = {
         {
             "author": "Hunter S Thompson",
             "quote_former": "",
-			"time": "5:31",
-			"quote_latter": " - Mank on phone to lawyer: 'Jesus, I think we gotta go in there and get those ballots! Impound 'em! Every damn one!'",
+            "time": "5:31",
+            "quote_latter": " - Mank on phone to lawyer: 'Jesus, I think we gotta go in there and get those ballots! Impound 'em! Every damn one!'",
             "work": "Fear and Loathing: On the Campaign Trail '72"
         }
     ],
@@ -2423,15 +2423,15 @@ const quoteMap = {
         {
             "author": "Hunter S Thompson",
             "quote_former": "",
-			"time": "5:35",
-			"quote_latter": " - All phones ringing now, the swing shift has shot the gap - now the others are waking up.",
+            "time": "5:35",
+            "quote_latter": " - All phones ringing now, the swing shift has shot the gap - now the others are waking up.",
             "work": "Fear and Loathing: On the Campaign Trail '72"
         },
         {
             "author": "Luke Rhinehart",
             "quote_former": "I squinted at the clock. 'It says ",
-			"time": "twenty-five before six",
-			"quote_latter": ",' I said and rolled away from him.",
+            "time": "twenty-five before six",
+            "quote_latter": ",' I said and rolled away from him.",
             "work": "the dice man"
         }
     ],
@@ -2439,8 +2439,8 @@ const quoteMap = {
         {
             "author": "AM Homes",
             "quote_former": "Richard glanced at the clock on the microwave - ",
-			"time": "5:37",
-			"quote_latter": " - almost twelve hours, almost one half-day since he'd dialed 911.",
+            "time": "5:37",
+            "quote_latter": " - almost twelve hours, almost one half-day since he'd dialed 911.",
             "work": "This Book Will Save Your Life"
         }
     ],
@@ -2448,8 +2448,8 @@ const quoteMap = {
         {
             "author": "Keith Mansfield",
             "quote_former": "Kovac,\u2019 said Johnny sleepily. It was very rare for the quantum computer and not Sol to wake him up. \u2018What\u2019s going on? What time is it?\u2019 \u2018Good morning, Johnny,\u2019 said the ship. \u2018It is ",
-			"time": "5.38 a.m.",
-			"quote_latter": "\u2019 \u2018What?\u2019 said Johnny. \u2018It\u2019s Saturday.\u2019 \u2018I told you he wouldn\u2019t like it,\u2019 said Sol, presumably to Kovac. \u2018It\u2019s hardly a matter of likes or dislikes,\u2019 said the computer. \u2018I have information I deem important enough to pass on at the earliest opportunity \u2013 whatever time it is.\u2019",
+            "time": "5.38 a.m.",
+            "quote_latter": "\u2019 \u2018What?\u2019 said Johnny. \u2018It\u2019s Saturday.\u2019 \u2018I told you he wouldn\u2019t like it,\u2019 said Sol, presumably to Kovac. \u2018It\u2019s hardly a matter of likes or dislikes,\u2019 said the computer. \u2018I have information I deem important enough to pass on at the earliest opportunity \u2013 whatever time it is.\u2019",
             "work": "Johnny Mackintosh: Battle for Earth"
         }
     ],
@@ -2457,8 +2457,8 @@ const quoteMap = {
         {
             "author": "Hunter S. Thompson",
             "quote_former": "",
-			"time": "5.43",
-			"quote_latter": " - Mank on phone to 'Mary' in Washington; 'It now appears quite clear that we'll lead the state - without the 21st.'",
+            "time": "5.43",
+            "quote_latter": " - Mank on phone to 'Mary' in Washington; 'It now appears quite clear that we'll lead the state - without the 21st.'",
             "work": "Fear and Loathing: On the Campaign Trail '72"
         }
     ],
@@ -2466,8 +2466,8 @@ const quoteMap = {
         {
             "author": "Stephen King",
             "quote_former": "At ",
-			"time": "5:45",
-			"quote_latter": " a power-transformer on a pole beside the abandoned Tracker Brothers\u2019 Truck Depot exploded in a flash of purple light, spraying twisted chunks of metal onto the shingled roof.",
+            "time": "5:45",
+            "quote_latter": " a power-transformer on a pole beside the abandoned Tracker Brothers\u2019 Truck Depot exploded in a flash of purple light, spraying twisted chunks of metal onto the shingled roof.",
             "work": "IT"
         }
     ],
@@ -2475,8 +2475,8 @@ const quoteMap = {
         {
             "author": "William Brodrick",
             "quote_former": "Herbert could feel nothing. He wrote a legal-sounding phrase to the effect that the sentence had been carried out at ",
-			"time": "5.46am",
-			"quote_latter": ", adding, 'without a snag'. The burial party had cursed him quietly as they'd hacked at the thick roots and tight soil.",
+            "time": "5.46am",
+            "quote_latter": ", adding, 'without a snag'. The burial party had cursed him quietly as they'd hacked at the thick roots and tight soil.",
             "work": "A Whispered Name"
         }
     ],
@@ -2484,8 +2484,8 @@ const quoteMap = {
         {
             "author": "Mark Fuhrman",
             "quote_former": "At ",
-			"time": "5.52am",
-			"quote_latter": " paramedics from the St. Petersburg Fire Department and SunStar Medic One ambulance service responded to a medical emergency call at 12201 Ninth Street North, St. Petersburg, apartment 2210.",
+            "time": "5.52am",
+            "quote_latter": " paramedics from the St. Petersburg Fire Department and SunStar Medic One ambulance service responded to a medical emergency call at 12201 Ninth Street North, St. Petersburg, apartment 2210.",
             "work": "Silent Witness"
         }
     ],
@@ -2493,8 +2493,8 @@ const quoteMap = {
         {
             "author": "Andrew Martin",
             "quote_former": "It was ",
-			"time": "5.55am",
-			"quote_latter": " and raining hard when I pedalled up to the bike stand just outside the forecourt of the station and dashed inside. I raced past the bookstall, where all the placards of the Yorkshire Post (a morning paper) read 'York Horror', but also 'Terrific February Gales at Coast'.",
+            "time": "5.55am",
+            "quote_latter": " and raining hard when I pedalled up to the bike stand just outside the forecourt of the station and dashed inside. I raced past the bookstall, where all the placards of the Yorkshire Post (a morning paper) read 'York Horror', but also 'Terrific February Gales at Coast'.",
             "work": "The Lost Luggage Porter"
         }
     ],
@@ -2502,8 +2502,8 @@ const quoteMap = {
         {
             "author": "Stieg Larsson",
             "quote_former": "Annika Giannini woke with a start. She saw that it was ",
-			"time": "5.58 a.m.",
-			"quote_latter": "",
+            "time": "5.58 a.m.",
+            "quote_latter": "",
             "work": "The Girl who Kicked the Hornet's Nest"
         }
     ],
@@ -2511,50 +2511,50 @@ const quoteMap = {
         {
             "author": "Patsy Hickman",
             "quote_former": "\u2018What\u2019s the time?\u2019 I ask, and telling him so that he knows, \u2018My mother likes \u201cpeace and quiet\u201d to sleep late on Saturday mornings.\u2019 \u2018She does, does she? It\u2019s ",
-			"time": "six o\u2019clock",
-			"quote_latter": ". I couldn\u2019t sleep,\u2019 he says wearily, like an afterthought, as if it\u2019s what he expects. \u2018Why are you up so early?\u2019 \u2018I woke up and needed my panda. I can\u2019t find him.\u2019 \u2018Where do you think he can be?\u2019 His face changes and he smiles again, bending down to look under the table and behind the curtain. But he isn\u2019t clowning or teasing. He\u2019s in earnest.",
+            "time": "six o\u2019clock",
+            "quote_latter": ". I couldn\u2019t sleep,\u2019 he says wearily, like an afterthought, as if it\u2019s what he expects. \u2018Why are you up so early?\u2019 \u2018I woke up and needed my panda. I can\u2019t find him.\u2019 \u2018Where do you think he can be?\u2019 His face changes and he smiles again, bending down to look under the table and behind the curtain. But he isn\u2019t clowning or teasing. He\u2019s in earnest.",
             "work": "The Saints"
         },
         {
             "author": "Muriel Barbery",
             "quote_former": "But every morning, even if there's been a nighttime session and he has only slept two hours, he gets up ",
-			"time": "at six",
-			"quote_latter": " and reads his paper while he drinks a strong cup of coffee. In this way Papa constructs himself every day.",
+            "time": "at six",
+            "quote_latter": " and reads his paper while he drinks a strong cup of coffee. In this way Papa constructs himself every day.",
             "work": "The Elegance of the Hedgehog"
         },
         {
             "author": "Charlotte Bront\u00eb",
             "quote_former": "I had risen half-an-hour before her entrance, and had washed my face, and put on my clothes by the light of a half-moon just setting, whose rays streamed through the narrow window near my crib. I was to leave Gateshead that day by a coach which passed the lodge gates ",
-			"time": "at six a.m.",
-			"quote_latter": "",
+            "time": "at six a.m.",
+            "quote_latter": "",
             "work": "Jane Eyre"
         },
         {
             "author": "Knut Hamsun",
             "quote_former": "Lying awake in my attic room, i hear a clock strike ",
-			"time": "six ",
-			"quote_latter": "downstairs. It was fairly light and people were beginning to walk up and down the stairs...- i heard the clock strike eight downstairs before i rose and got dressed... I looked up - the clock tower of our saviour's showed ten.",
+            "time": "six ",
+            "quote_latter": "downstairs. It was fairly light and people were beginning to walk up and down the stairs...- i heard the clock strike eight downstairs before i rose and got dressed... I looked up - the clock tower of our saviour's showed ten.",
             "work": "Hunger"
         },
         {
             "author": "Gustave Flaubert",
             "quote_former": "On the 15th of September 1840, about ",
-			"time": "six o'clock",
-			"quote_latter": " in the morning, the Ville-de-Montereau, ready to depart, pouring out great whirls of smoke by the quai Saint-Bernard.",
+            "time": "six o'clock",
+            "quote_latter": " in the morning, the Ville-de-Montereau, ready to depart, pouring out great whirls of smoke by the quai Saint-Bernard.",
             "work": "L'Education sentimentale"
         },
         {
             "author": "F. Scott Fitzgerald",
             "quote_former": "Rise from bed ............... . ",
-			"time": "6.00 A.M.",
-			"quote_latter": "",
+            "time": "6.00 A.M.",
+            "quote_latter": "",
             "work": "The Great Gatsby"
         },
         {
             "author": "Giuseppe Tomasi di Lampedusa",
             "quote_former": "The ball went on for a long time, until ",
-			"time": "six ",
-			"quote_latter": "in the morning; all were exhausted and wishing they had been in bed for at least three hours; but to leave early was like proclaiming the party a failure and offending the host and hostess who had taken such a lot of trouble, poor dears.",
+            "time": "six ",
+            "quote_latter": "in the morning; all were exhausted and wishing they had been in bed for at least three hours; but to leave early was like proclaiming the party a failure and offending the host and hostess who had taken such a lot of trouble, poor dears.",
             "work": "The Leopard"
         }
     ],
@@ -2562,8 +2562,8 @@ const quoteMap = {
         {
             "author": "Julian Barnes",
             "quote_former": "Bimingham New Street 5.25. Walsall 5.55. This train does not stop at Birchills, for reasons George has never been able to ascertain. Then it is Bloxwich ",
-			"time": "6.02",
-			"quote_latter": ", Wyrley & Churchbridge 6.09. At 6.10 he nods to Mr Merriman the stationmaster.",
+            "time": "6.02",
+            "quote_latter": ", Wyrley & Churchbridge 6.09. At 6.10 he nods to Mr Merriman the stationmaster.",
             "work": "Arthur and George"
         }
     ],
@@ -2571,8 +2571,8 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "A second man went in and found the shop empty, as he thought, at ",
-			"time": "five minutes past six",
-			"quote_latter": ". That puts the time at between 5:30 and 6:05.",
+            "time": "five minutes past six",
+            "quote_latter": ". That puts the time at between 5:30 and 6:05.",
             "work": "The ABC Murders"
         }
     ],
@@ -2580,8 +2580,8 @@ const quoteMap = {
         {
             "author": "Stephen King",
             "quote_former": "At ",
-			"time": "6:06",
-			"quote_latter": ", every toilet on Merit Street suddenly exploded in a geyser of shit and raw sewage as some unimaginable reversal took place in the pipes which fed the holding tanks of the new waste-treatment plant in the Barrens.",
+            "time": "6:06",
+            "quote_latter": ", every toilet on Merit Street suddenly exploded in a geyser of shit and raw sewage as some unimaginable reversal took place in the pipes which fed the holding tanks of the new waste-treatment plant in the Barrens.",
             "work": "IT"
         }
     ],
@@ -2589,8 +2589,8 @@ const quoteMap = {
         {
             "author": "Ilona Andrews",
             "quote_former": "At ",
-			"time": "six oh-eight a.m.",
-			"quote_latter": " two men wearing ragged trench coats approached the Casino. The shorter of the men burst into flames.",
+            "time": "six oh-eight a.m.",
+            "quote_latter": " two men wearing ragged trench coats approached the Casino. The shorter of the men burst into flames.",
             "work": "Magic Bleeds"
         }
     ],
@@ -2598,8 +2598,8 @@ const quoteMap = {
         {
             "author": "Carson McCullers",
             "quote_former": "The bus left the station at ",
-			"time": "ten past six",
-			"quote_latter": " - and she sat proud, like an accustomed traveller, apart from her father, John Henry, and Berenice. But after a while a serious doubt came in her, which even the answers of the bus-driver could not quite satisfy.",
+            "time": "ten past six",
+            "quote_latter": " - and she sat proud, like an accustomed traveller, apart from her father, John Henry, and Berenice. But after a while a serious doubt came in her, which even the answers of the bus-driver could not quite satisfy.",
             "work": "The Member of the Wedding"
         }
     ],
@@ -2607,8 +2607,8 @@ const quoteMap = {
         {
             "author": "Emma Donoghue",
             "quote_former": "It's ",
-			"time": "06:13",
-			"quote_latter": " .........Ma says I ought to be wrapped up in Rug already, Old Nick might possibly come.",
+            "time": "06:13",
+            "quote_latter": " .........Ma says I ought to be wrapped up in Rug already, Old Nick might possibly come.",
             "work": "Room"
         }
     ],
@@ -2616,29 +2616,29 @@ const quoteMap = {
         {
             "author": "F. Scott Fitzgerald",
             "quote_former": "Dumbbell exercise and wall-scaling ..... . ",
-			"time": "6.15",
-			"quote_latter": "-6.30",
+            "time": "6.15",
+            "quote_latter": "-6.30",
             "work": "The Great Gatsby"
         },
         {
             "author": "George Orwell",
             "quote_former": "Father expected his shaving-water to be ready at a ",
-			"time": "quarter past six",
-			"quote_latter": ". Just seven minutes late, Dorothy took the can upstairs and knocked at her father's door.",
+            "time": "quarter past six",
+            "quote_latter": ". Just seven minutes late, Dorothy took the can upstairs and knocked at her father's door.",
             "work": "A Clergyman's Daughter"
         },
         {
             "author": "Sophie McKenzie",
             "quote_former": "It was ",
-			"time": "6.15 am.",
-			"quote_latter": " Just starting to get light. A small knot of older teenagers were leaning against a nearby wall. They looked as though they had been out all night.Two of the guys stared at us. Their eyes hard and threatening.",
+            "time": "6.15 am.",
+            "quote_latter": " Just starting to get light. A small knot of older teenagers were leaning against a nearby wall. They looked as though they had been out all night.Two of the guys stared at us. Their eyes hard and threatening.",
             "work": "Girl Missing"
         },
         {
             "author": "Sophie McKenzie",
             "quote_former": "It was ",
-			"time": "6.15 am.",
-			"quote_latter": " Just starting to get light. A small knot of older teenagers were leaning against a nearby wall. They looked as though they had been out all night.Two of the guys stared at us. Their eyes hard and threatening.",
+            "time": "6.15 am.",
+            "quote_latter": " Just starting to get light. A small knot of older teenagers were leaning against a nearby wall. They looked as though they had been out all night.Two of the guys stared at us. Their eyes hard and threatening.",
             "work": "Girl Missing"
         }
     ],
@@ -2646,8 +2646,8 @@ const quoteMap = {
         {
             "author": "John Harvey",
             "quote_former": "Dizzy, come on.' He turned slowly, coaxing the animal down on to the pillow. The clock read ",
-			"time": "six-seventeen",
-			"quote_latter": ". A second cat, Miles, purred on contentedly from the patch in the covers where Resnick's legs had made a deep V.",
+            "time": "six-seventeen",
+            "quote_latter": ". A second cat, Miles, purred on contentedly from the patch in the covers where Resnick's legs had made a deep V.",
             "work": "Lonely Hearts"
         }
     ],
@@ -2655,8 +2655,8 @@ const quoteMap = {
         {
             "author": "Carol Ann Duffy",
             "quote_former": "",
-			"time": "6.19 am",
-			"quote_latter": ", 8th June 2004, the jet of your pupil set in the gold of your eye.",
+            "time": "6.19 am",
+            "quote_latter": ", 8th June 2004, the jet of your pupil set in the gold of your eye.",
             "work": "Venus"
         }
     ],
@@ -2664,8 +2664,8 @@ const quoteMap = {
         {
             "author": "Austin Grossman",
             "quote_former": "It was ",
-			"time": "6:20 a.m.",
-			"quote_latter": ", and my parents and I were standing, stunned and haf-awake, in the parking lot of a Howard Johnson's in Iowa.",
+            "time": "6:20 a.m.",
+            "quote_latter": ", and my parents and I were standing, stunned and haf-awake, in the parking lot of a Howard Johnson's in Iowa.",
             "work": "Soon I Will Be Invincible"
         }
     ],
@@ -2673,8 +2673,8 @@ const quoteMap = {
         {
             "author": "Mark Lawson",
             "quote_former": "Simon is happy to travel scum class when he's on his own and even sometimes deliberately aims for the ",
-			"time": "6.25",
-			"quote_latter": ". But today the .25 is delayed to 6.44.",
+            "time": "6.25",
+            "quote_latter": ". But today the .25 is delayed to 6.44.",
             "work": "The Deaths"
         }
     ],
@@ -2682,15 +2682,15 @@ const quoteMap = {
         {
             "author": "William Gibson",
             "quote_former": "",
-			"time": "06:27",
-			"quote_latter": ":52 by the chip in her optic nerve; Case had been following her progress through Villa Straylight for over an hour, letting the endorphin analogue she'd taken blot out his hangover.",
+            "time": "06:27",
+            "quote_latter": ":52 by the chip in her optic nerve; Case had been following her progress through Villa Straylight for over an hour, letting the endorphin analogue she'd taken blot out his hangover.",
             "work": "Neuromancer"
         },
         {
             "author": "Zadie Smith",
             "quote_former": "Early in the morning, late in the century, Cricklewood Broadway. At ",
-			"time": "0627 hours",
-			"quote_latter": " on January 1, 1975, Alfred Archibald Jones was dressed in corduroy and sat in a fume-filled Cavalier Musketeer Estate, facedown on the steering wheel, hoping the judgment would not be too heavy upon him.",
+            "time": "0627 hours",
+            "quote_latter": " on January 1, 1975, Alfred Archibald Jones was dressed in corduroy and sat in a fume-filled Cavalier Musketeer Estate, facedown on the steering wheel, hoping the judgment would not be too heavy upon him.",
             "work": "White Teeth"
         }
     ],
@@ -2698,8 +2698,8 @@ const quoteMap = {
         {
             "author": "Raymond Chandler",
             "quote_former": "I sat up. There was a rug over me. I threw that off and got my feet on the floor. I scowled at a clock. The clock said ",
-			"time": "a minute short of six-thirty",
-			"quote_latter": ".",
+            "time": "a minute short of six-thirty",
+            "quote_latter": ".",
             "work": "The Big Sleep"
         }
     ],
@@ -2707,50 +2707,50 @@ const quoteMap = {
         {
             "author": "Sophie McKenzie",
             "quote_former": "Inside now MJ ordered. She pushed the three of us into the hotel room, thern shut the soor. I glanced at the clock by the bed. ",
-			"time": "6.30 am.",
-			"quote_latter": " Why were they waking Mum and Dad up this early?",
+            "time": "6.30 am.",
+            "quote_latter": " Why were they waking Mum and Dad up this early?",
             "work": "Girl Missing"
         },
         {
             "author": "E.L. Doctorow",
             "quote_former": "Daniel and the FBI men listened to the sounds of his mother waking up his father. Daniel still held the door-knob. He was ready to close the door the second he was told to.\"What time is it?\" said his father in a drugged voice. \"Oh my God, it's ",
-			"time": "six-thirty",
-			"quote_latter": ",\" his mother said.",
+            "time": "six-thirty",
+            "quote_latter": ",\" his mother said.",
             "work": "The Book of Daniel"
         },
         {
             "author": "Christina Stead",
             "quote_former": "It was ",
-			"time": "six-thirty",
-			"quote_latter": ". When the baby's cry came, they could not pick it out, and Sam, eagerly thrusting his face amongst their ears, said, \"Listen, there, there, that's the new baby.\" He was red with delight and success.",
+            "time": "six-thirty",
+            "quote_latter": ". When the baby's cry came, they could not pick it out, and Sam, eagerly thrusting his face amongst their ears, said, \"Listen, there, there, that's the new baby.\" He was red with delight and success.",
             "work": "The Man Who Loved Children"
         },
         {
             "author": "Cormac McCarthy",
             "quote_former": "It was very cold sitting in the truck and after a while he got out and walked around and flailed at himself with his arms and stamped his boots. Then he got back in the truck. The bar clock said ",
-			"time": "six-thirty",
-			"quote_latter": "...By eight-thirty he\u2019d decided that it that was it would take to make the cab arrive then that\u2019s what he would do and he started the engine.",
+            "time": "six-thirty",
+            "quote_latter": "...By eight-thirty he\u2019d decided that it that was it would take to make the cab arrive then that\u2019s what he would do and he started the engine.",
             "work": "Cities of the Plain"
         },
         {
             "author": "Baroness Orczy",
             "quote_former": "Nervously she jumped up and listened; the house itself was as still as ever; the footsteps had retreated. Through her wide-open window the brilliant rays of the morning sun were flooding her room with light. She looked up at the clock; it was ",
-			"time": "half-past six",
-			"quote_latter": "\u2014too early for any of the household to be already astir.",
+            "time": "half-past six",
+            "quote_latter": "\u2014too early for any of the household to be already astir.",
             "work": "The Scarlet Pimpernel"
         },
         {
             "author": "Douglas Adams",
             "quote_former": "Six-thirty was clearly a preposterous time and he, the client, obviously hadn't meant it seriously. A civilised ",
-			"time": "six-thirty",
-			"quote_latter": " for twelve noon was almost certainly what he had in mind, and if he wanted to cut up rough about it, Dirk would have no option but to start handing out some serious statistics. Nobody got murdered before lunch. But nobody. People weren't up to it. You needed a good lunch to get both the blood-sugar and blood-lust levels up. Dirk had the figures to prove it.",
+            "time": "six-thirty",
+            "quote_latter": " for twelve noon was almost certainly what he had in mind, and if he wanted to cut up rough about it, Dirk would have no option but to start handing out some serious statistics. Nobody got murdered before lunch. But nobody. People weren't up to it. You needed a good lunch to get both the blood-sugar and blood-lust levels up. Dirk had the figures to prove it.",
             "work": "The Long Dark Tea-time of the Soul"
         },
         {
             "author": "Gwen Raverat",
             "quote_former": "Sometimes they were hooded carts, sometimes they were just open carts, with planks for seats, on which sat twelve cloaked and bonneted women, six a side, squeezed together, for the interminable journey. As late as 1914 I knew the carrier of Croydon-cum-Clopton, twelve miles from Cambridge; his cart started at ",
-			"time": "6.30",
-			"quote_latter": " in the morning and got back at about ten at night. Though he was not old, he could neither read nor write; but he took commissions all along the road - a packet of needles for Mrs. This, and a new teapot for Mrs. That - and delivered them all correctly on the way back.",
+            "time": "6.30",
+            "quote_latter": " in the morning and got back at about ten at night. Though he was not old, he could neither read nor write; but he took commissions all along the road - a packet of needles for Mrs. This, and a new teapot for Mrs. That - and delivered them all correctly on the way back.",
             "work": "Period Piece"
         }
     ],
@@ -2758,8 +2758,8 @@ const quoteMap = {
         {
             "author": "Dana Chambers",
             "quote_former": "The familiar radium numerals on my left wrist confirmed the clock tower. It was ",
-			"time": "twenty-eight minutes to seven",
-			"quote_latter": ". I seemed to be filling a set of loud maroon pajamas which were certainly not mine. My vis-a-vis was wearing a little number in yellow.",
+            "time": "twenty-eight minutes to seven",
+            "quote_latter": ". I seemed to be filling a set of loud maroon pajamas which were certainly not mine. My vis-a-vis was wearing a little number in yellow.",
             "work": "Too Like the Lightning"
         }
     ],
@@ -2767,8 +2767,8 @@ const quoteMap = {
         {
             "author": "JG Ballard",
             "quote_former": "Woke ",
-			"time": "6.33 a.m.",
-			"quote_latter": " Last session with Anderson. He made it plain he's seen enough of me, and from now on I'm better alone. To sleep 8:00? (These count-downs terrify me.) He paused, then added: Goodbye, Eniwetok.",
+            "time": "6.33 a.m.",
+            "quote_latter": " Last session with Anderson. He made it plain he's seen enough of me, and from now on I'm better alone. To sleep 8:00? (These count-downs terrify me.) He paused, then added: Goodbye, Eniwetok.",
             "work": "The Voices of Time"
         }
     ],
@@ -2776,8 +2776,8 @@ const quoteMap = {
         {
             "author": "J.S. Fletcher",
             "quote_former": "My watch lay on the dressing-table close by; glancing at it, I saw that the time was ",
-			"time": "twenty-five minutes to seven",
-			"quote_latter": ". I had been told that the family breakfasted at nine, so I had nearly two-and-a-half hours of leisure. Of course, I would go out, and enjoy the freshness of the morning.",
+            "time": "twenty-five minutes to seven",
+            "quote_latter": ". I had been told that the family breakfasted at nine, so I had nearly two-and-a-half hours of leisure. Of course, I would go out, and enjoy the freshness of the morning.",
             "work": "Ravensdene Court"
         }
     ],
@@ -2785,8 +2785,8 @@ const quoteMap = {
         {
             "author": "JG Ballard",
             "quote_former": "Kaldren pursues me like luminescent shadow. He has chalked up on the gateway '96,688,365,498,702'. Should confuse the mail man. Woke 9:05. To sleep ",
-			"time": "6:36",
-			"quote_latter": ".",
+            "time": "6:36",
+            "quote_latter": ".",
             "work": "The Voices of Time"
         }
     ],
@@ -2794,8 +2794,8 @@ const quoteMap = {
         {
             "author": "Neil Gaiman",
             "quote_former": "The dashboard clock said ",
-			"time": "6.37am",
-			"quote_latter": " Town frowned, and checked his wristwatch, which blinked that it was 1.58pm. Great, he thought. I was either up on that tree for eight hours, or for minus a minute.",
+            "time": "6.37am",
+            "quote_latter": " Town frowned, and checked his wristwatch, which blinked that it was 1.58pm. Great, he thought. I was either up on that tree for eight hours, or for minus a minute.",
             "work": "American Gods"
         }
     ],
@@ -2803,8 +2803,8 @@ const quoteMap = {
         {
             "author": "Neil Gaiman",
             "quote_former": "The clock on the dashboard said it was ",
-			"time": "6.38am.",
-			"quote_latter": " He left the keys in the car, and walked toward the tree.",
+            "time": "6.38am.",
+            "quote_latter": " He left the keys in the car, and walked toward the tree.",
             "work": "American Gods"
         }
     ],
@@ -2812,8 +2812,8 @@ const quoteMap = {
         {
             "author": "Douglas Adams",
             "quote_former": "At eleven o'clock the phone rang, and still the figure did not respond, any more than it has responded when the phone had rung at twenty-five to seven in the morning, and again at ",
-			"time": "twenty to seven",
-			"quote_latter": "",
+            "time": "twenty to seven",
+            "quote_latter": "",
             "work": "The Long Dark Tea-Time of the Soul"
         }
     ],
@@ -2821,8 +2821,8 @@ const quoteMap = {
         {
             "author": "Chris Mullin",
             "quote_former": "To London on the ",
-			"time": "6.43am.",
-			"quote_latter": " Jessica is back from her holiday. Things are looking up, she called me Chris, instead of Minister, when we talked on the phone this afternoon.",
+            "time": "6.43am.",
+            "quote_latter": " Jessica is back from her holiday. Things are looking up, she called me Chris, instead of Minister, when we talked on the phone this afternoon.",
             "work": "A View From the Foothills"
         }
     ],
@@ -2830,8 +2830,8 @@ const quoteMap = {
         {
             "author": "Mark Lawson",
             "quote_former": "Simon is happy to travel scum class when he's on his own and even sometimes deliberately aims for the 6.25. But today the .25 is delayed to ",
-			"time": "6.44",
-			"quote_latter": ".",
+            "time": "6.44",
+            "quote_latter": ".",
             "work": "The Deaths"
         }
     ],
@@ -2839,15 +2839,15 @@ const quoteMap = {
         {
             "author": "Wilkie Collins",
             "quote_former": "As the clock pointed to a ",
-			"time": "quarter to seven",
-			"quote_latter": ", the dog woke and shook himself. After waiting in vain for the footman, who was accustomed to let him out, the animal wandered restlessly from one closed door to another on the ground floor; and, returning to his mat in great perplexity, appealed to the sleeping family, with a long and melancholy howl.'",
+            "time": "quarter to seven",
+            "quote_latter": ", the dog woke and shook himself. After waiting in vain for the footman, who was accustomed to let him out, the animal wandered restlessly from one closed door to another on the ground floor; and, returning to his mat in great perplexity, appealed to the sleeping family, with a long and melancholy howl.'",
             "work": "No Name"
         },
         {
             "author": "Franz Kafka",
             "quote_former": "He was still hurriedly thinking all this through, unable to decide to get out of the bed, when the clock struck ",
-			"time": "quarter to seven",
-			"quote_latter": ". There was a cautious knock at the door near his head. \"Gregor\", somebody called - it was his mother - \"it's quarter to seven. Didn't you want to go somewhere?\"",
+            "time": "quarter to seven",
+            "quote_latter": ". There was a cautious knock at the door near his head. \"Gregor\", somebody called - it was his mother - \"it's quarter to seven. Didn't you want to go somewhere?\"",
             "work": "Metamorphosis"
         }
     ],
@@ -2855,15 +2855,15 @@ const quoteMap = {
         {
             "author": "John Buchan",
             "quote_former": "At ",
-			"time": "one minute after the quarter to seven",
-			"quote_latter": " I heard the rattle of the cans outside. I opened the front door, and there was my man, singling out my cans from a bunch he carried and whistling through his teeth.",
+            "time": "one minute after the quarter to seven",
+            "quote_latter": " I heard the rattle of the cans outside. I opened the front door, and there was my man, singling out my cans from a bunch he carried and whistling through his teeth.",
             "work": "The Thirty-Nine Steps"
         },
         {
             "author": "John Buchan",
             "quote_former": "Then I hung about in the hall waiting for the milkman. That was the worst part of the business, for I was fairly choking to get out of doors. Six-thirty passed, then six-forty, but still he did not come. The fool had chosen this day of all days to be late. At ",
-			"time": "one minute after the quarter to seven",
-			"quote_latter": " I heard the rattle of the cans outside. I opened the front door, and there was my man, singling out my cans from a bunch he carried and whistling through his teeth. He jumped a bit at the sight of me.",
+            "time": "one minute after the quarter to seven",
+            "quote_latter": " I heard the rattle of the cans outside. I opened the front door, and there was my man, singling out my cans from a bunch he carried and whistling through his teeth. He jumped a bit at the sight of me.",
             "work": "The Thirty-Nine Steps"
         }
     ],
@@ -2871,8 +2871,8 @@ const quoteMap = {
         {
             "author": "Hunter S. Thompson",
             "quote_former": "Night ends, ",
-			"time": "6:49",
-			"quote_latter": ". Meet in the coffee shop at 7:30; press conference at 10:00.",
+            "time": "6:49",
+            "quote_latter": ". Meet in the coffee shop at 7:30; press conference at 10:00.",
             "work": "Fear and Loathing: On the Campaign Trail '72"
         }
     ],
@@ -2880,8 +2880,8 @@ const quoteMap = {
         {
             "author": "Mary Robison",
             "quote_former": "Will, my fianc\u00e9, was coming from Boston on the ",
-			"time": "six-fifty",
-			"quote_latter": " train - the dawn train, the only train that still stopped in the small Ohio city where I lived.",
+            "time": "six-fifty",
+            "quote_latter": " train - the dawn train, the only train that still stopped in the small Ohio city where I lived.",
             "work": "Pretty Ice"
         }
     ],
@@ -2889,8 +2889,8 @@ const quoteMap = {
         {
             "author": "Catherine O'Flynn",
             "quote_former": "At ",
-			"time": "6:55 am",
-			"quote_latter": " Lisa parked and took the lift from the frozen underground car park up to level 1 of Green Oaks Shopping Centre.",
+            "time": "6:55 am",
+            "quote_latter": " Lisa parked and took the lift from the frozen underground car park up to level 1 of Green Oaks Shopping Centre.",
             "work": "What was Lost"
         }
     ],
@@ -2898,8 +2898,8 @@ const quoteMap = {
         {
             "author": "Stieg Larsson",
             "quote_former": "It was ",
-			"time": "6.59 a.m.",
-			"quote_latter": " on Maundy Thursday as Blomkvist and Berger let themselves into the \"Millennium\" offices.",
+            "time": "6.59 a.m.",
+            "quote_latter": " on Maundy Thursday as Blomkvist and Berger let themselves into the \"Millennium\" offices.",
             "work": "The Girl who Played with Fire"
         }
     ],
@@ -2907,22 +2907,22 @@ const quoteMap = {
         {
             "author": "Franz Kafka",
             "quote_former": "\"Seven o'clock, already\", he said to himself when the clock struck again, \"",
-			"time": "seven o'clock",
-			"quote_latter": ", and there's still a fog like this.\"",
+            "time": "seven o'clock",
+            "quote_latter": ", and there's still a fog like this.\"",
             "work": "Metamorphosis"
         },
         {
             "author": "Arthur Koestler",
             "quote_former": "At ",
-			"time": "seven o\u2019clock",
-			"quote_latter": " in the morning, Rubashov was awakened by a bugle, but he did not get up. Soon he heard sounds in the corridor. He imagined that someone was to be tortured, and he dreaded hearing the first screams of pain. When the footsteps reached his own section, he saw through the eye hole that guards were serving breakfast. Rubashov did not receive any breakfast because he had reported himself ill. He began to pace up and down the cell, six and a half steps to the window, six and a half steps back.",
+            "time": "seven o\u2019clock",
+            "quote_latter": " in the morning, Rubashov was awakened by a bugle, but he did not get up. Soon he heard sounds in the corridor. He imagined that someone was to be tortured, and he dreaded hearing the first screams of pain. When the footsteps reached his own section, he saw through the eye hole that guards were serving breakfast. Rubashov did not receive any breakfast because he had reported himself ill. He began to pace up and down the cell, six and a half steps to the window, six and a half steps back.",
             "work": "Darkness at Noon"
         },
         {
             "author": "Fyodor Dostoyevsky",
             "quote_former": "She locked herself in, made no reply to my bonjour through the door; she was up at ",
-			"time": "seven o'clock",
-			"quote_latter": ", the samovar was taken in to her from the kitchen.",
+            "time": "seven o'clock",
+            "quote_latter": ", the samovar was taken in to her from the kitchen.",
             "work": "Crime and Punishment"
         }
     ],
@@ -2930,8 +2930,8 @@ const quoteMap = {
         {
             "author": "William Gibson",
             "quote_former": "",
-			"time": "07:02",
-			"quote_latter": ":18 One and a half hours. 'Case,' she said, 'I wanna favour.'",
+            "time": "07:02",
+            "quote_latter": ":18 One and a half hours. 'Case,' she said, 'I wanna favour.'",
             "work": "Neuromancer"
         }
     ],
@@ -2939,8 +2939,8 @@ const quoteMap = {
         {
             "author": "Hans Hellmut Kirst",
             "quote_former": "",
-			"time": "7:03am",
-			"quote_latter": " General Tanz woke up as though aroused by a mental alarm-clock.",
+            "time": "7:03am",
+            "quote_latter": " General Tanz woke up as though aroused by a mental alarm-clock.",
             "work": "The Night of the Generals"
         }
     ],
@@ -2948,8 +2948,8 @@ const quoteMap = {
         {
             "author": "Heinrich B\u00f6ll",
             "quote_former": "Sunday evening at almost the same hour (to be precise, at about ",
-			"time": "7:04 p.m.",
-			"quote_latter": ") she rings the front door bell at the home of Walter Moeding, Crime Commissioner, who is at that moment engaged, for professional rather than private reasons, in disguising himself as a sheikh.",
+            "time": "7:04 p.m.",
+            "quote_latter": ") she rings the front door bell at the home of Walter Moeding, Crime Commissioner, who is at that moment engaged, for professional rather than private reasons, in disguising himself as a sheikh.",
             "work": "The Lost Honour of Katharina Blum"
         }
     ],
@@ -2957,22 +2957,22 @@ const quoteMap = {
         {
             "author": "Raymond Carver",
             "quote_former": "He really couldn't believe that the old woman who'd phoned him last night would show up this morning, as she'd said she would. He decided he'd wait until ",
-			"time": "five minutes after seven o'clock",
-			"quote_latter": ", and then he'd call in, take the day off, and make every effort in the book to locate someone reliable.",
+            "time": "five minutes after seven o'clock",
+            "quote_latter": ", and then he'd call in, take the day off, and make every effort in the book to locate someone reliable.",
             "work": "Where I'm Calling From"
         },
         {
             "author": "Haruki Murakami",
             "quote_former": "Outside my window the sky hung low and gray. It looked like snow, which added to my malaise. The clock read ",
-			"time": "five after seven",
-			"quote_latter": ". I punched the remote control and watched the morning news as I lay in bed.",
+            "time": "five after seven",
+            "quote_latter": ". I punched the remote control and watched the morning news as I lay in bed.",
             "work": "Dance Dance Dance"
         },
         {
             "author": "Tom Clancy",
             "quote_former": "Ryan missed the dawn. He boarded a TWA 747 that left Dulles on time, at ",
-			"time": "7:05 A.M.",
-			"quote_latter": " The sky was overcast, and when the aircraft burst through the cloud layer into sunlight, Ryan did something he had never done before. For the first time in his life, Jack Ryan fell asleep on an airplane.",
+            "time": "7:05 A.M.",
+            "quote_latter": " The sky was overcast, and when the aircraft burst through the cloud layer into sunlight, Ryan did something he had never done before. For the first time in his life, Jack Ryan fell asleep on an airplane.",
             "work": "The Hunt for Red October"
         }
     ],
@@ -2980,15 +2980,15 @@ const quoteMap = {
         {
             "author": "Stephen King",
             "quote_former": "So far so good. There followed a little passage of time when we stood by the duty desk, drinking coffee and studiously not mentioning what we were all thinking and hoping: that Percy was late, that maybe Percy wasn't going to show up at all. Considering the hostile reviews he'd gotten on the way he'd handled the electrocution, that seemed at least possible. But Percy subscribed to that old axiom about how you should get right back on the horse that had thrown you, because here he came through the door at ",
-			"time": "six minutes past seven",
-			"quote_latter": ", resplendent in his blue uniform with his sidearm on one hip and his hickory stick in its ridiculous custom-made holster on the other.",
+            "time": "six minutes past seven",
+            "quote_latter": ", resplendent in his blue uniform with his sidearm on one hip and his hickory stick in its ridiculous custom-made holster on the other.",
             "work": "The Green Mile"
         },
         {
             "author": "Stephen King",
             "quote_former": "Percy subscribed to that old axiom about how you should get right back on the horse that had thrown you, because here he came through the door at ",
-			"time": "six minutes past seven",
-			"quote_latter": ", resplendent in his blue uniform with his sidearm on one hip and his hickory stick in its ridiculous custom-made holster on the other.",
+            "time": "six minutes past seven",
+            "quote_latter": ", resplendent in his blue uniform with his sidearm on one hip and his hickory stick in its ridiculous custom-made holster on the other.",
             "work": "The Green Mile"
         }
     ],
@@ -2996,8 +2996,8 @@ const quoteMap = {
         {
             "author": "Lee Child",
             "quote_former": "Reacher had no watch but he figured when he saw Gregory it must have been ",
-			"time": "between eight and nine minutes after seven o'clock",
-			"quote_latter": ".",
+            "time": "between eight and nine minutes after seven o'clock",
+            "quote_latter": ".",
             "work": "The Hard Way"
         }
     ],
@@ -3005,15 +3005,15 @@ const quoteMap = {
         {
             "author": "Ray Bradbury",
             "quote_former": "In the living room the voice-clock sang, Tick-tock, seven o'clock, time to get up, time to get up, seven o 'clock! as if it were afraid that nobody would. The morning house lay empty. The clock ticked on, repeating and repeating its sounds into the emptiness. Seven-nine, breakfast time, ",
-			"time": "seven-nine",
-			"quote_latter": "!",
+            "time": "seven-nine",
+            "quote_latter": "!",
             "work": "There Will Come Soft Rains"
         },
         {
             "author": "Ray Bradbury",
             "quote_former": "Seven-nine, breakfast time, ",
-			"time": "seven-nine",
-			"quote_latter": "!",
+            "time": "seven-nine",
+            "quote_latter": "!",
             "work": "There Will Come Soft Rains"
         }
     ],
@@ -3021,15 +3021,15 @@ const quoteMap = {
         {
             "author": "John Buchan",
             "quote_former": "A search in Bradshaw informed me that a train left St Pancras at ",
-			"time": "7.10",
-			"quote_latter": ", which would land me at any Galloway station in the late afternoon.",
+            "time": "7.10",
+            "quote_latter": ", which would land me at any Galloway station in the late afternoon.",
             "work": "The Thirty-Nine Steps"
         },
         {
             "author": "Mini Nair",
             "quote_former": "There were many others waiting to execute the same operation, so she would have to move fast, elbow her way to the front so that she emerged first. The time was ",
-			"time": "7:10",
-			"quote_latter": " in the morning. The manoeuvre would start at 7:12. She looked apprehensively at the giant clock at the railway station.",
+            "time": "7:10",
+            "quote_latter": " in the morning. The manoeuvre would start at 7:12. She looked apprehensively at the giant clock at the railway station.",
             "work": "The Fourth Passenger"
         }
     ],
@@ -3037,8 +3037,8 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "He taught me that if I had to meet someone for an appointment, I must refuse to follow the 'stupid human habit' of arbitrarily choosing a time based on fifteen-minute intervals. 'Never meet people at 7:45 or 6:30, Jasper, but pick times like ",
-			"time": "7:12",
-			"quote_latter": " and 8:03!'",
+            "time": "7:12",
+            "quote_latter": " and 8:03!'",
             "work": "A Fraction of the Whole"
         }
     ],
@@ -3046,8 +3046,8 @@ const quoteMap = {
         {
             "author": "WG Sebald",
             "quote_former": "It was all the more surprising and indeed alarming a little later, said Austerlitz, when I looked out of the corridor window of my carriage just before the train left at ",
-			"time": "seven-thirteen",
-			"quote_latter": ", to find it dawning upon me with perfect certainty that I had seen the pattern of glass and steel roof above the platforms before.",
+            "time": "seven-thirteen",
+            "quote_latter": ", to find it dawning upon me with perfect certainty that I had seen the pattern of glass and steel roof above the platforms before.",
             "work": "Austerlitz"
         }
     ],
@@ -3055,8 +3055,8 @@ const quoteMap = {
         {
             "author": "Jo Nesbo",
             "quote_former": "At ",
-			"time": "7.14",
-			"quote_latter": " Harry knew he was alive. He knew that because the pain could be felt in every nerve fibre.",
+            "time": "7.14",
+            "quote_latter": " Harry knew he was alive. He knew that because the pain could be felt in every nerve fibre.",
             "work": "The Redeemer"
         }
     ],
@@ -3064,29 +3064,29 @@ const quoteMap = {
         {
             "author": "H.P. Lovecraft",
             "quote_former": "At ",
-			"time": "7:15 A.M.",
-			"quote_latter": ", January 25th, we started flying northwestward under McTighe's pilotage with ten men, seven dogs, a sledge, a fuel and food supply, and other items including the plane's wireless outfit.",
+            "time": "7:15 A.M.",
+            "quote_latter": ", January 25th, we started flying northwestward under McTighe's pilotage with ten men, seven dogs, a sledge, a fuel and food supply, and other items including the plane's wireless outfit.",
             "work": "At the Mountains of Madness"
         },
         {
             "author": "Kate Summerscale",
             "quote_former": "Gough again knocked on Mr and Mrs Kent's bedroom door. This time it was opened - Mary Kent had got out of bed and put on her dressing gown, having just checked her husband's watch: it was ",
-			"time": "7.15",
-			"quote_latter": ". A confused conversation ensued, in which each woman seemed to assume Saville was with the other.",
+            "time": "7.15",
+            "quote_latter": ". A confused conversation ensued, in which each woman seemed to assume Saville was with the other.",
             "work": "The Suspicions of Mr Whicher"
         },
         {
             "author": "Kate Summerscale",
             "quote_former": "Gough again knocked on Mr and Mrs Kent's bedroom door. This time it was opened - Mary Kent had got out of bed and put on her dressing gown, having just checked her husband's watch: it was ",
-			"time": "7.15",
-			"quote_latter": ". A confused conversation ensued, in which each woman seemed to assume Saville was with the other.",
+            "time": "7.15",
+            "quote_latter": ". A confused conversation ensued, in which each woman seemed to assume Saville was with the other.",
             "work": "The Suspicions of Mr Whicher"
         },
         {
             "author": "Arthur Conan Doyle",
             "quote_former": "It was early in April in the year \u201983 that I woke one morning to find Sherlock Holmes standing, fully dressed, by the side of my bed. He was a late riser, as a rule, and as the clock on the mantelpiece showed me that it was only a ",
-			"time": "quarter-past seven",
-			"quote_latter": ", I blinked up at him in some surprise, and perhaps just a little resentment, for I was myself regular in my habits.",
+            "time": "quarter-past seven",
+            "quote_latter": ", I blinked up at him in some surprise, and perhaps just a little resentment, for I was myself regular in my habits.",
             "work": "The Adventure of the Speckled Band"
         }
     ],
@@ -3094,8 +3094,8 @@ const quoteMap = {
         {
             "author": "Thomas Pynchon",
             "quote_former": "As of ",
-			"time": "7.17am",
-			"quote_latter": " local time on 30 June 1908, Padzhitnoff had been working for nearly a year as a contract employee of the Okhrana, receiving five hundred rubles a month, a sum which hovered at the exorbitant end of spy-budget outlays for those years.",
+            "time": "7.17am",
+            "quote_latter": " local time on 30 June 1908, Padzhitnoff had been working for nearly a year as a contract employee of the Okhrana, receiving five hundred rubles a month, a sum which hovered at the exorbitant end of spy-budget outlays for those years.",
             "work": "Against the Day"
         }
     ],
@@ -3103,8 +3103,8 @@ const quoteMap = {
         {
             "author": "Graeme Simsion",
             "quote_former": "I opened the sunroof and turned up the CD player volume to combat fatigue, and at ",
-			"time": "7.19am",
-			"quote_latter": " on Saturday, with the caffeine still running all around my brain, Jackson Browne and I pulled into Moree.",
+            "time": "7.19am",
+            "quote_latter": " on Saturday, with the caffeine still running all around my brain, Jackson Browne and I pulled into Moree.",
             "work": "The Rosie Project"
         }
     ],
@@ -3112,15 +3112,15 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "And this was my timetable when I lived at home with Father and I thought that Mother was dead from a heart attack (this was the timetable for a Monday and also it is an approximation). ",
-			"time": "7.20 a.m.",
-			"quote_latter": " Wake up",
+            "time": "7.20 a.m.",
+            "quote_latter": " Wake up",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "Sinclair Lewis",
             "quote_former": "He who had been a boy very credulous of life was no longer greatly interested in the possible and improbable adventures of each new day. He escaped from reality till the alarm-clock rang, at ",
-			"time": "seven-twenty",
-			"quote_latter": ".",
+            "time": "seven-twenty",
+            "quote_latter": ".",
             "work": "Babbitt"
         }
     ],
@@ -3128,8 +3128,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "7.25 a.m.",
-			"quote_latter": " clean teeth and wash face",
+            "time": "7.25 a.m.",
+            "quote_latter": " clean teeth and wash face",
             "work": "The Curious Incident Of The Dog In The Night-Time"
         }
     ],
@@ -3137,8 +3137,8 @@ const quoteMap = {
         {
             "author": "Henning Mankell",
             "quote_former": "His appointment with the doctor was for 8.45. It was ",
-			"time": "7.27",
-			"quote_latter": ".",
+            "time": "7.27",
+            "quote_latter": ".",
             "work": "The Return of the Dancing Master"
         }
     ],
@@ -3146,8 +3146,8 @@ const quoteMap = {
         {
             "author": "Elizabeth Speller",
             "quote_former": "At ",
-			"time": "7.29",
-			"quote_latter": " in the morning of 1 July, the cinematographer finds himself filming silence itself.",
+            "time": "7.29",
+            "quote_latter": " in the morning of 1 July, the cinematographer finds himself filming silence itself.",
             "work": "At Break of Day"
         }
     ],
@@ -3155,15 +3155,15 @@ const quoteMap = {
         {
             "author": "William Trevor",
             "quote_former": "At ",
-			"time": "half-past seven",
-			"quote_latter": " the next morning he rang the bell of 21 Blenheim Avenue.",
+            "time": "half-past seven",
+            "quote_latter": " the next morning he rang the bell of 21 Blenheim Avenue.",
             "work": "After Rain"
         },
         {
             "author": "Bohumil Hrabal",
             "quote_former": "Precisely at ",
-			"time": "half past seven",
-			"quote_latter": " the station-master came into the traffic office. He weighed almost sixteen stone, but women always said that he was incredibly light on his feet when he danced.",
+            "time": "half past seven",
+            "quote_latter": " the station-master came into the traffic office. He weighed almost sixteen stone, but women always said that he was incredibly light on his feet when he danced.",
             "work": "Closely Observed Trains"
         }
     ],
@@ -3171,8 +3171,8 @@ const quoteMap = {
         {
             "author": "Stephen King",
             "quote_former": "At ",
-			"time": "7:32",
-			"quote_latter": ", he suffered a fatal stroke.",
+            "time": "7:32",
+            "quote_latter": ", he suffered a fatal stroke.",
             "work": "IT"
         }
     ],
@@ -3180,8 +3180,8 @@ const quoteMap = {
         {
             "author": "John Ajvide Lindqvist",
             "quote_former": "",
-			"time": "7:34.",
-			"quote_latter": " Monday morning, Blackeberg. The burglar alarm at the ICA grocery store on Arvid Morne's way is set off.",
+            "time": "7:34.",
+            "quote_latter": " Monday morning, Blackeberg. The burglar alarm at the ICA grocery store on Arvid Morne's way is set off.",
             "work": "Let The Right One In"
         }
     ],
@@ -3189,8 +3189,8 @@ const quoteMap = {
         {
             "author": "Higashino, Keigo",
             "quote_former": "At ",
-			"time": "7:35am",
-			"quote_latter": " Ishigami left his apartment as he did every weekday morning.",
+            "time": "7:35am",
+            "quote_latter": " Ishigami left his apartment as he did every weekday morning.",
             "work": "The Devotion of Duspect X"
         }
     ],
@@ -3198,8 +3198,8 @@ const quoteMap = {
         {
             "author": "John Ajvide Lindqvist",
             "quote_former": "",
-			"time": "7:36",
-			"quote_latter": ", sunrise. The hospital blinds were much better, darker than her own.",
+            "time": "7:36",
+            "quote_latter": ", sunrise. The hospital blinds were much better, darker than her own.",
             "work": "Let The Right One In"
         }
     ],
@@ -3207,8 +3207,8 @@ const quoteMap = {
         {
             "author": "Julian Barnes",
             "quote_former": "Now, at the station, do you recall speaking to Mr Joseph Markew?' 'Yes, indeed. I was standing on the platform waiting for my usual train - the ",
-			"time": "7.39",
-			"quote_latter": " - when he accosted me.'",
+            "time": "7.39",
+            "quote_latter": " - when he accosted me.'",
             "work": "Arthur & George"
         }
     ],
@@ -3216,8 +3216,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "7.40 a.m.",
-			"quote_latter": " Have breakfast.",
+            "time": "7.40 a.m.",
+            "quote_latter": " Have breakfast.",
             "work": "The Curious Incident Of The Dog In The Night-Time"
         }
     ],
@@ -3225,15 +3225,15 @@ const quoteMap = {
         {
             "author": "Sarah Rayner",
             "quote_former": "And there I was, complaining that all this was just inconvenient, Anna castigates herself. The Goth was obviously right. What does it matter, really, if I'm a bit late for work? She voices her thoughts: \"It's not exactly how you'd choose to go, is it? You'd rather die flying a kite with your grandchildren, or at a great party or something. Not on the ",
-			"time": "seven forty-four",
-			"quote_latter": ".\"",
+            "time": "seven forty-four",
+            "quote_latter": ".\"",
             "work": "One moment, one morning"
         },
         {
             "author": "Sarah Rayner",
             "quote_former": "The Goth was obviously right. What does it matter, really, if I'm a bit late for work? She voices her thoughts: \"It's not exactly how you'd choose to go, is it? You'd rather die flying a kite with your grandchildren, or at a great party or something. Not on the ",
-			"time": "seven forty-four",
-			"quote_latter": ".\"",
+            "time": "seven forty-four",
+            "quote_latter": ".\"",
             "work": "One Moment, One Morning"
         }
     ],
@@ -3241,15 +3241,15 @@ const quoteMap = {
         {
             "author": "Suzanne Berne",
             "quote_former": "Mr Green left for work at a ",
-			"time": "quarter to eight",
-			"quote_latter": ", as he did every morning. He walked down his front steps carrying his empty-looking leatherette briefcase with the noisy silver clasps, opened his car door, and ducked his head to climb into the driver's seat.",
+            "time": "quarter to eight",
+            "quote_latter": ", as he did every morning. He walked down his front steps carrying his empty-looking leatherette briefcase with the noisy silver clasps, opened his car door, and ducked his head to climb into the driver's seat.",
             "work": "A Crime in The Neighborhood"
         },
         {
             "author": "Suzanne Berne",
             "quote_former": "Mr Green left for work at a ",
-			"time": "quarter to eight",
-			"quote_latter": ", as he did every morning. He walked down his front steps carrying his empty-looking leatherette briefcase with the noisy silver clasps, opened his car door, and ducked his head to climb into the driver's seat.",
+            "time": "quarter to eight",
+            "quote_latter": ", as he did every morning. He walked down his front steps carrying his empty-looking leatherette briefcase with the noisy silver clasps, opened his car door, and ducked his head to climb into the driver's seat.",
             "work": "A crime in the neighborhood"
         }
     ],
@@ -3257,8 +3257,8 @@ const quoteMap = {
         {
             "author": "Henning Mankell",
             "quote_former": "He awoke with a start. The clock on his bedside table said ",
-			"time": "7.46 a.m.",
-			"quote_latter": " He cursed, jumped out of bed and dressed. He stuffed his toothbrush and toothpaste in his jacket pocket, and parked outside the station just before 8 a.m. In reception, Ebba beckoned to him.",
+            "time": "7.46 a.m.",
+            "quote_latter": " He cursed, jumped out of bed and dressed. He stuffed his toothbrush and toothpaste in his jacket pocket, and parked outside the station just before 8 a.m. In reception, Ebba beckoned to him.",
             "work": "The Dogs of Riga"
         }
     ],
@@ -3266,8 +3266,8 @@ const quoteMap = {
         {
             "author": "Robert Tressell",
             "quote_former": "At about ",
-			"time": "ten minutes to eight",
-			"quote_latter": ", Jim had squared the part of the work he had been doing - the window - so he decided not to start on the door or the skirting until after breakfast.",
+            "time": "ten minutes to eight",
+            "quote_latter": ", Jim had squared the part of the work he had been doing - the window - so he decided not to start on the door or the skirting until after breakfast.",
             "work": "The Ragged Trousered Philanthropists"
         }
     ],
@@ -3275,8 +3275,8 @@ const quoteMap = {
         {
             "author": "Terry Pratchett",
             "quote_former": "Vimes fished out the Gooseberry as a red-hot cabbage smacked into the road behind him. \"Good morning!\" he said brightly to the surprised imp. \"What is the time, please?\" \"Er...",
-			"time": "nine minutes to eight",
-			"quote_latter": ", Insert Name Here,\" said the imp.",
+            "time": "nine minutes to eight",
+            "quote_latter": ", Insert Name Here,\" said the imp.",
             "work": "Thud!"
         }
     ],
@@ -3284,8 +3284,8 @@ const quoteMap = {
         {
             "author": "Roger McGough",
             "quote_former": "at ",
-			"time": "7.55",
-			"quote_latter": " this morning the circus ran away to join me.",
+            "time": "7.55",
+            "quote_latter": " this morning the circus ran away to join me.",
             "work": "Tightrope, from Selected Poems 1967-1987"
         }
     ],
@@ -3293,15 +3293,15 @@ const quoteMap = {
         {
             "author": "Sophie Kinsella",
             "quote_former": "I sit by the window, crunching toast, sipping coffee, and leafing through the paper in a leisurely way. At last, after devouring three slices, two cups of coffee, and all the Saturday sections, I stretch my arms in a big yawn and glance at the clock. I don't believe it. It's only ",
-			"time": "seven fifty-six",
-			"quote_latter": ".",
+            "time": "seven fifty-six",
+            "quote_latter": ".",
             "work": "The Undomestic Goddess"
         },
         {
             "author": "Thomas Mann",
             "quote_former": "The Castle Gate - only the Castle Gate - and it was ",
-			"time": "four minutes to eight",
-			"quote_latter": ".",
+            "time": "four minutes to eight",
+            "quote_latter": ".",
             "work": "Buddenbrooks"
         }
     ],
@@ -3309,8 +3309,8 @@ const quoteMap = {
         {
             "author": "Stephen King",
             "quote_former": "I'd spent fifty two days in 1958, but here it was ",
-			"time": "7.59",
-			"quote_latter": " in the morning.",
+            "time": "7.59",
+            "quote_latter": " in the morning.",
             "work": "11/22/63"
         }
     ],
@@ -3318,106 +3318,106 @@ const quoteMap = {
         {
             "author": "Joan Didion",
             "quote_former": "\"I'm not crying,\" Maria said when Carter called from the desert at ",
-			"time": "8 a.m.",
-			"quote_latter": " \"I'm perfectly alright\". \"You don't sound perfectly alright",
+            "time": "8 a.m.",
+            "quote_latter": " \"I'm perfectly alright\". \"You don't sound perfectly alright",
             "work": "Play it as is Lays"
         },
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "8.00 a.m.",
-			"quote_latter": " Put school clothes on",
+            "time": "8.00 a.m.",
+            "quote_latter": " Put school clothes on",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "Douglas Adams",
             "quote_former": "At ",
-			"time": "8 o'clock",
-			"quote_latter": " on Thursday morning Arthur didn't feel very good.",
+            "time": "8 o'clock",
+            "quote_latter": " on Thursday morning Arthur didn't feel very good.",
             "work": "Hitch-Hikers Guide to the Galaxy"
         },
         {
             "author": "Douglas Adams",
             "quote_former": "At ",
-			"time": "eight o'clock",
-			"quote_latter": " on Thursday morning Arthur didn't feel very good. He woke up blearily, got up, wandered blearily round his room, opened a window, saw a bulldozer, found his slippers and stomped off to the bathroom to wash.",
+            "time": "eight o'clock",
+            "quote_latter": " on Thursday morning Arthur didn't feel very good. He woke up blearily, got up, wandered blearily round his room, opened a window, saw a bulldozer, found his slippers and stomped off to the bathroom to wash.",
             "work": "Hitch-hikers guide to the galaxy"
         },
         {
             "author": "Jules Verne",
             "quote_former": "",
-			"time": "At eight o\u2019clock",
-			"quote_latter": ", a shaft of daylight came to wake us. The thousand facets of the lava on the rock face picked it up as it passed, scattering like a shower of sparks.",
+            "time": "At eight o\u2019clock",
+            "quote_latter": ", a shaft of daylight came to wake us. The thousand facets of the lava on the rock face picked it up as it passed, scattering like a shower of sparks.",
             "work": "Journey to the Centre of the Earth"
         },
         {
             "author": "Paul Auster",
             "quote_former": "But for now it was still ",
-			"time": "eight o'clock",
-			"quote_latter": ", and as I walked along the avenue under that brilliant blue sky, I was happy, my friends, as happy as any man who had ever lived.",
+            "time": "eight o'clock",
+            "quote_latter": ", and as I walked along the avenue under that brilliant blue sky, I was happy, my friends, as happy as any man who had ever lived.",
             "work": "Brooklyn Follies"
         },
         {
             "author": "Paul Auster",
             "quote_former": "By ",
-			"time": "eight o'clock",
-			"quote_latter": " Stillman would come out, always in his long brown overcoat, carrying a large, old-fashioned carpet bag. For two weeks this routine did not vary. The old man would wander through the streets of the neighbourhood, advancing slowly, sometimes by the merest of increments, pausing, moving on again, pausing once more, as though each step had to be weighed and measured before it could take its place among the sum total of steps.",
+            "time": "eight o'clock",
+            "quote_latter": " Stillman would come out, always in his long brown overcoat, carrying a large, old-fashioned carpet bag. For two weeks this routine did not vary. The old man would wander through the streets of the neighbourhood, advancing slowly, sometimes by the merest of increments, pausing, moving on again, pausing once more, as though each step had to be weighed and measured before it could take its place among the sum total of steps.",
             "work": "City of Glass"
         },
         {
             "author": "Jane Austen",
             "quote_former": "It was dated from Rosings, at ",
-			"time": "eight o'clock",
-			"quote_latter": " in the morning, and was as follows: - \"Be not alarmed, madam, on receiving this letter, by the apprehension of its containing any repetition of those sentiments or renewal of those offerings which were last night so disgusting to you.",
+            "time": "eight o'clock",
+            "quote_latter": " in the morning, and was as follows: - \"Be not alarmed, madam, on receiving this letter, by the apprehension of its containing any repetition of those sentiments or renewal of those offerings which were last night so disgusting to you.",
             "work": "Pride and Prejudice"
         },
         {
             "author": "Charles Dickens",
             "quote_former": "Mr. Pumblechook and I breakfasted at ",
-			"time": "eight o'clock",
-			"quote_latter": " in the parlour behind the shop, while the shopman took his mug of tea and hunch of bread-and-butter on a sack of peas in the front premises.",
+            "time": "eight o'clock",
+            "quote_latter": " in the parlour behind the shop, while the shopman took his mug of tea and hunch of bread-and-butter on a sack of peas in the front premises.",
             "work": "Great Expectations"
         },
         {
             "author": "Charlotte Bront\u00eb",
             "quote_former": "Mrs. Rochester! She did not exist: she would not be born till to-morrow, some time after ",
-			"time": "eight o'clock a.m.",
-			"quote_latter": "; and I would wait to be assured she had come into the world alive, before I assigned to her all that property.",
+            "time": "eight o'clock a.m.",
+            "quote_latter": "; and I would wait to be assured she had come into the world alive, before I assigned to her all that property.",
             "work": "Jane Eyre"
         },
         {
             "author": "A E Housman",
             "quote_former": "So here I'll watch the night and wait To see the morning shine, When he will hear the stroke of ",
-			"time": "eight ",
-			"quote_latter": "And not the stroke of nine;",
+            "time": "eight ",
+            "quote_latter": "And not the stroke of nine;",
             "work": "A shropshire Lad"
         },
         {
             "author": "Franz Kafka",
             "quote_former": "Someone must have been telling lies about Joseph K. for without having done anything wrong he was arrested one fine morning. His landlady's cook, who always brought him breakfast at ",
-			"time": "eight o'clock",
-			"quote_latter": ", failed to appear on this occasion.",
+            "time": "eight o'clock",
+            "quote_latter": ", failed to appear on this occasion.",
             "work": "The Trial"
         },
         {
             "author": "Anthony Burgess",
             "quote_former": "The next morning I woke up at ",
-			"time": "oh eight oh oh hours",
-			"quote_latter": ", my brothers, and as I still felt shagged and fagged and fashed and bashed and as my glazzies were stuck together real horrorshow with sleepglue, I thought I would not go to school .",
+            "time": "oh eight oh oh hours",
+            "quote_latter": ", my brothers, and as I still felt shagged and fagged and fashed and bashed and as my glazzies were stuck together real horrorshow with sleepglue, I thought I would not go to school .",
             "work": "A Clockwork Orange"
         },
         {
             "author": "Leo Tolstoy",
             "quote_former": "Three days after the quarrel, Prince Stepan Arkadyevitch Oblonsky--Stiva, as he was called in the fashionable world-- woke up at his usual hour, that is, at ",
-			"time": "eight o'clock",
-			"quote_latter": " in the morning, not in his wife's bedroom, but on the leather-covered sofa in his study.",
+            "time": "eight o'clock",
+            "quote_latter": " in the morning, not in his wife's bedroom, but on the leather-covered sofa in his study.",
             "work": "Anna Karenina"
         },
         {
             "author": "P.G. Wodehouse",
             "quote_former": "Through the curtained windows of the furnished apartment which Mrs. Horace Hignett had rented for her stay in New York rays of golden sunlight peeped in like the foremost spies of some advancing army. It was a fine summer morning. The hands of the Dutch clock in the hall pointed to thirteen minutes past nine; those of the ormolu clock in the sitting-room to eleven minutes past ten; those of the carriage clock on the bookshelf to fourteen minutes to six. In other words, it was ",
-			"time": "exactly eight",
-			"quote_latter": "; and Mrs. Hignett acknowledged the fact by moving her head on the pillow, opening her eyes, and sitting up in bed. She always woke at eight precisely.",
+            "time": "exactly eight",
+            "quote_latter": "; and Mrs. Hignett acknowledged the fact by moving her head on the pillow, opening her eyes, and sitting up in bed. She always woke at eight precisely.",
             "work": "Three Men and a Maid"
         }
     ],
@@ -3425,8 +3425,8 @@ const quoteMap = {
         {
             "author": "Ray Bradbury",
             "quote_former": "Eight-one, tick-tock, ",
-			"time": "eight-one",
-			"quote_latter": " o'clock, off to school, off to work, run, run, eight-one!",
+            "time": "eight-one",
+            "quote_latter": " o'clock, off to school, off to work, run, run, eight-one!",
             "work": "There Will Come Soft Rains"
         }
     ],
@@ -3434,8 +3434,8 @@ const quoteMap = {
         {
             "author": "Terry Pratchett",
             "quote_former": "... bingeley ... ",
-			"time": "Eight oh two",
-			"quote_latter": " eh em, Death of Corporal Littlebottombottom ... Eight oh three eh em ... Death of Sergeant Detritus ... Eight oh threethreethree eh em and seven seconds seconds ... Death of Constable Visit ... Eight oh three eh em and nineninenine seconds ... Death of death of death of ...",
+            "time": "Eight oh two",
+            "quote_latter": " eh em, Death of Corporal Littlebottombottom ... Eight oh three eh em ... Death of Sergeant Detritus ... Eight oh threethreethree eh em and seven seconds seconds ... Death of Constable Visit ... Eight oh three eh em and nineninenine seconds ... Death of death of death of ...",
             "work": "Jingo"
         }
     ],
@@ -3443,15 +3443,15 @@ const quoteMap = {
         {
             "author": "Terry Pratchett",
             "quote_former": "... bingeley ... Eight oh two eh em, Death of Corporal Littlebottombottom ... ",
-			"time": "Eight oh three",
-			"quote_latter": " eh em ... Death of Sergeant Detritus ... Eight oh threethreethree eh em and seven seconds seconds ... Death of Constable Visit ... Eight oh three eh em and nineninenine seconds ... Death of death of death of ...",
+            "time": "Eight oh three",
+            "quote_latter": " eh em ... Death of Sergeant Detritus ... Eight oh threethreethree eh em and seven seconds seconds ... Death of Constable Visit ... Eight oh three eh em and nineninenine seconds ... Death of death of death of ...",
             "work": "Jingo"
         },
         {
             "author": "Steve Toltz",
             "quote_former": "He taught me that if I had to meet someone for an appointment, I must refuse to follow the 'stupid human habit' of arbitrarily choosing a time based on fifteen-minute intervals. 'Never meet people at 7:45 or 6:30, Jasper, but pick times like 7:12 and ",
-			"time": "8:03",
-			"quote_latter": "!'",
+            "time": "8:03",
+            "quote_latter": "!'",
             "work": "A Fraction of the Whole"
         }
     ],
@@ -3459,8 +3459,8 @@ const quoteMap = {
         {
             "author": "Primo Levi",
             "quote_former": "... every clerk had his particular schedule of hours, which coincided with a single pair of tram runs coming from the city: A had to come in at 8, B at ",
-			"time": "8:04",
-			"quote_latter": ", C at 8:08 and so on, and the same for quitting times, in such a manner that never would two colleagues have the opportunity to travel in the same tramcar.",
+            "time": "8:04",
+            "quote_latter": ", C at 8:08 and so on, and the same for quitting times, in such a manner that never would two colleagues have the opportunity to travel in the same tramcar.",
             "work": "The Periodic Table"
         }
     ],
@@ -3468,8 +3468,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "8.05 a.m.",
-			"quote_latter": " Pack school bag",
+            "time": "8.05 a.m.",
+            "quote_latter": " Pack school bag",
             "work": "The Curious Incident Of The Dog In The Night-Time"
         }
     ],
@@ -3477,8 +3477,8 @@ const quoteMap = {
         {
             "author": "Primo Levi",
             "quote_former": "... every clerk had his particular schedule of hours, which coincided with a single pair of tram runs coming from the city: A had to come in at 8, B at 8:04, C at ",
-			"time": "8:08",
-			"quote_latter": " and so on, and the same for quitting times, in such a manner that never would two colleagues have the opportunity to travel in the same tramcar.",
+            "time": "8:08",
+            "quote_latter": " and so on, and the same for quitting times, in such a manner that never would two colleagues have the opportunity to travel in the same tramcar.",
             "work": "The Periodic Table"
         }
     ],
@@ -3486,8 +3486,8 @@ const quoteMap = {
         {
             "author": "James Ellroy",
             "quote_former": "He followed the squeals down a hallway. A wall clock read ",
-			"time": "8:09",
-			"quote_latter": " - 10:09 Dallas time.",
+            "time": "8:09",
+            "quote_latter": " - 10:09 Dallas time.",
             "work": "American Tabloid"
         }
     ],
@@ -3495,22 +3495,22 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "8.10 a.m.",
-			"quote_latter": " Read book or watch video",
+            "time": "8.10 a.m.",
+            "quote_latter": " Read book or watch video",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "F. Scott Fitzgerald",
             "quote_former": "Amory rushed into the house and the rest followed with a limp mass that they laid on the sofa in the shoddy little front parlor. Sloane, with his shoulder punctured, was on another lounge. He was half delirious, and kept calling something about a chemistry lecture at ",
-			"time": "8:10",
-			"quote_latter": ".",
+            "time": "8:10",
+            "quote_latter": ".",
             "work": "This Side of Paradise"
         },
         {
             "author": "JG Ballard",
             "quote_former": "Cell count down to 400,000. Woke ",
-			"time": "8:10",
-			"quote_latter": ". To sleep 7:15. (Appear to have lost my watch without realising it, had to drive into town to buy another.)",
+            "time": "8:10",
+            "quote_latter": ". To sleep 7:15. (Appear to have lost my watch without realising it, had to drive into town to buy another.)",
             "work": "The Voices of Time"
         }
     ],
@@ -3518,8 +3518,8 @@ const quoteMap = {
         {
             "author": "Andrew Martin",
             "quote_former": "'Care for a turn on the engine?' he called to the doxies, and pointed up at the footplate. They laughed but voted not to, climbing up with their bathtub into one of the rattlers instead. They both had very fetching hats, with one flower apiece, but the prettiness of their faces made you think it was more. For some reason they both wore white rosettes pinned to their dresses. I looked again at the clock: ",
-			"time": "eight-eleven",
-			"quote_latter": ".",
+            "time": "eight-eleven",
+            "quote_latter": ".",
             "work": "The Blackpool Highflyer"
         }
     ],
@@ -3527,8 +3527,8 @@ const quoteMap = {
         {
             "author": "Grace Paley",
             "quote_former": "At ",
-			"time": "8:12 a.m.",
-			"quote_latter": ", just before the moment of pff, all the business of the cellars was being transacted - garbage transferred from small cans into large ones; early wide-awake grandmas, rocky with insomnia, dumped wash into the big tubs; boys in swimming trunks rolled baby carriages out into the cool morning.",
+            "time": "8:12 a.m.",
+            "quote_latter": ", just before the moment of pff, all the business of the cellars was being transacted - garbage transferred from small cans into large ones; early wide-awake grandmas, rocky with insomnia, dumped wash into the big tubs; boys in swimming trunks rolled baby carriages out into the cool morning.",
             "work": "In Time Which Made A Monkey Of Us All"
         }
     ],
@@ -3536,8 +3536,8 @@ const quoteMap = {
         {
             "author": "Grace Paley",
             "quote_former": "At ",
-			"time": "8:13 a.m.",
-			"quote_latter": " the alarm clock in the laboratory gave the ringing word. Eddie touched a button in the substructure of an ordinary glass coffeepot, from whose spout two tubes proceeded into the wall.",
+            "time": "8:13 a.m.",
+            "quote_latter": " the alarm clock in the laboratory gave the ringing word. Eddie touched a button in the substructure of an ordinary glass coffeepot, from whose spout two tubes proceeded into the wall.",
             "work": "In Time Which Made A Monkey Of Us All"
         }
     ],
@@ -3545,15 +3545,15 @@ const quoteMap = {
         {
             "author": "Jerome K Jerome",
             "quote_former": "It was in the winter when this happened, very near the shortest day, and a week of fog into the bargain, so the fact that it was still very dark when George woke in the morning was no guide to him as to the time. He reached up, and hauled down his watch. It was a ",
-			"time": "quarter-past eight",
-			"quote_latter": ".",
+            "time": "quarter-past eight",
+            "quote_latter": ".",
             "work": "Three Men in a Boat"
         },
         {
             "author": "Vladimir Nabokov",
             "quote_former": "You scrutinized your wrist: \"It's ",
-			"time": "eight fifteen",
-			"quote_latter": ". (And here time forked.) I'll turn it on.\" The screen In its blank broth evolved a lifelike blur, And music welled.",
+            "time": "eight fifteen",
+            "quote_latter": ". (And here time forked.) I'll turn it on.\" The screen In its blank broth evolved a lifelike blur, And music welled.",
             "work": "Pale Fire"
         }
     ],
@@ -3561,8 +3561,8 @@ const quoteMap = {
         {
             "author": "Sophie Kinsella",
             "quote_former": "I walk through the fruit trees toward a huge, square, brown patch of earth with vegetation growing in serried rows. These must be the vegetables. I prod one of them cautiously with my foot. It could be a cabbage or a lettuce. Or the leaves of something growing underground, maybe. To be honest, it could be an alien. I have no idea. I sit down on a mossy wooden bench and look at a nearby bush covered in white flowers. Mm. Pretty. Now what? What do people do in their gardens? I feel I should have something to read. Or someone to call. My fingers are itching to move. I look at my watch. Still only ",
-			"time": "eight sixteen",
-			"quote_latter": ". Oh God.",
+            "time": "eight sixteen",
+            "quote_latter": ". Oh God.",
             "work": "The Undomestic Goddess"
         }
     ],
@@ -3570,15 +3570,15 @@ const quoteMap = {
         {
             "author": "Jules Verne",
             "quote_former": "Breakfast over, my uncle drew from his pocket a small notebook, intended for scientific observations. He consulted his instruments, and recorded:\n\u201cMonday, July 1.\n\u201cChronometer, ",
-			"time": "8.17 a.m.",
-			"quote_latter": "; barometer, 297 in.; thermometer, 6\u00b0 (43\u00b0 F.). Direction, E.S.E.\u201d\nThis last observation applied to the dark gallery, and was indicated by the compass.",
+            "time": "8.17 a.m.",
+            "quote_latter": "; barometer, 297 in.; thermometer, 6\u00b0 (43\u00b0 F.). Direction, E.S.E.\u201d\nThis last observation applied to the dark gallery, and was indicated by the compass.",
             "work": "A Journey to the Centre of the Earth"
         },
         {
             "author": "Sophie Kinsella",
             "quote_former": "Come on, I can't give up yet. I'll just sit here for a bit and enjoy the peace. I lean back and watch a little speckled bird pecking the ground nearby for a while. Then I look at my watch again: ",
-			"time": "eight seventeen",
-			"quote_latter": ". I can't do this.",
+            "time": "eight seventeen",
+            "quote_latter": ". I can't do this.",
             "work": "The Undomestic Goddess"
         }
     ],
@@ -3586,8 +3586,8 @@ const quoteMap = {
         {
             "author": "Jonathan Coe",
             "quote_former": "I had arranged to meet the Occupational Health Officer at 10:30. I took the train from Watford Junction at ",
-			"time": "8.19",
-			"quote_latter": " and arrived at London Euston seven minutes late, at 8.49.",
+            "time": "8.19",
+            "quote_latter": " and arrived at London Euston seven minutes late, at 8.49.",
             "work": "The Terrible Privacy of Maxwell Sim"
         }
     ],
@@ -3595,8 +3595,8 @@ const quoteMap = {
         {
             "author": "Thomas Pynchon",
             "quote_former": "When the typewriters happen to pause (",
-			"time": "8:20",
-			"quote_latter": " and other mythical hours), and there are no flights of American bombers in the sky, and the motor traffic's not too heavy in Oxford Street, you can hear winter birds cheeping outside, busy at the feeders the girls have put up.",
+            "time": "8:20",
+            "quote_latter": " and other mythical hours), and there are no flights of American bombers in the sky, and the motor traffic's not too heavy in Oxford Street, you can hear winter birds cheeping outside, busy at the feeders the girls have put up.",
             "work": "Gravity's Rainbow"
         }
     ],
@@ -3604,8 +3604,8 @@ const quoteMap = {
         {
             "author": "William Goldman",
             "quote_former": "At ",
-			"time": "8:23",
-			"quote_latter": " there seemed every chance of a lasting alliance starting between Florin and Guilder. At 8:24 the two nations were very close to war.",
+            "time": "8:23",
+            "quote_latter": " there seemed every chance of a lasting alliance starting between Florin and Guilder. At 8:24 the two nations were very close to war.",
             "work": "The Princess Bride"
         }
     ],
@@ -3613,8 +3613,8 @@ const quoteMap = {
         {
             "author": "William Goldman",
             "quote_former": "At 8:23 there seemed every chance of a lasting alliance starting between Florin and Guilder. At ",
-			"time": "8:24",
-			"quote_latter": " the two nations were very close to war.",
+            "time": "8:24",
+            "quote_latter": " the two nations were very close to war.",
             "work": "The Princess Bride"
         }
     ],
@@ -3622,8 +3622,8 @@ const quoteMap = {
         {
             "author": "John Le Carre",
             "quote_former": "It exploded much later than intended, probably a good twelve hours later, at ",
-			"time": "twenty-six minutes past eight",
-			"quote_latter": " on Monday morning. Several defunct wristwatches, the property of victims, confirmed the time. As with its predecessors over the last few months, there had been no warning.",
+            "time": "twenty-six minutes past eight",
+            "quote_latter": " on Monday morning. Several defunct wristwatches, the property of victims, confirmed the time. As with its predecessors over the last few months, there had been no warning.",
             "work": "The Little Drummer Girl"
         }
     ],
@@ -3631,8 +3631,8 @@ const quoteMap = {
         {
             "author": "John Kennedy Toole",
             "quote_former": "The lecture was to be given tomorrow, and it was now ",
-			"time": "almost eight-thirty",
-			"quote_latter": ".",
+            "time": "almost eight-thirty",
+            "quote_latter": ".",
             "work": "A Confederacy of Dunces"
         }
     ],
@@ -3640,8 +3640,8 @@ const quoteMap = {
         {
             "author": "Erskine Childers",
             "quote_former": "And at ",
-			"time": "8.28",
-			"quote_latter": " on the following morning, with a novel chilliness about the upper lip, and a vast excess of strength and spirits, I was sitting in a third-class carriage, bound for Germany, and dressed as a young sea-man, in a pea-jacket, peaked cap, and comforter.",
+            "time": "8.28",
+            "quote_latter": " on the following morning, with a novel chilliness about the upper lip, and a vast excess of strength and spirits, I was sitting in a third-class carriage, bound for Germany, and dressed as a young sea-man, in a pea-jacket, peaked cap, and comforter.",
             "work": "The Riddle of the Sands"
         }
     ],
@@ -3649,8 +3649,8 @@ const quoteMap = {
         {
             "author": "Sebastian Faulks",
             "quote_former": "At ",
-			"time": "8.29",
-			"quote_latter": " I punched the front doorbell in Elgin Crescent. It was opened by a small oriental woman in a white apron. She showed me into a large, empty sitting room with an open fire and a couple of huge oil paintings.",
+            "time": "8.29",
+            "quote_latter": " I punched the front doorbell in Elgin Crescent. It was opened by a small oriental woman in a white apron. She showed me into a large, empty sitting room with an open fire and a couple of huge oil paintings.",
             "work": "Engleby"
         }
     ],
@@ -3658,36 +3658,36 @@ const quoteMap = {
         {
             "author": "JK Rowling",
             "quote_former": "At ",
-			"time": "half past eight",
-			"quote_latter": ", Mr. Dursley picked up his briefcase, pecked Mrs. Dursley on the cheek, and tried to kiss Dudley good-bye but missed, because Dudley was now having a tantrum and throwing his cereal at the walls.",
+            "time": "half past eight",
+            "quote_latter": ", Mr. Dursley picked up his briefcase, pecked Mrs. Dursley on the cheek, and tried to kiss Dudley good-bye but missed, because Dudley was now having a tantrum and throwing his cereal at the walls.",
             "work": "Harry Potter and the Philosopher's Stone"
         },
         {
             "author": "Eugene O'Neill",
             "quote_former": "It is around ",
-			"time": "8:30",
-			"quote_latter": ". Sunshine comes through the windows at right. As the curtain rises, the family has just finished breakfast.",
+            "time": "8:30",
+            "quote_latter": ". Sunshine comes through the windows at right. As the curtain rises, the family has just finished breakfast.",
             "work": "Long Day's Journey Into Night"
         },
         {
             "author": "Christoph Ransmayr",
             "quote_former": "On July 25th, ",
-			"time": "8:30 a.m.",
-			"quote_latter": " the bitch Novaya dies whelping. At 10 o'clock she is lowered into her cool grave, at 7:30 that same evening we see our first floes and greet them wishing they were the last.",
+            "time": "8:30 a.m.",
+            "quote_latter": " the bitch Novaya dies whelping. At 10 o'clock she is lowered into her cool grave, at 7:30 that same evening we see our first floes and greet them wishing they were the last.",
             "work": "The Terrors of Ice and Darkness"
         },
         {
             "author": "John Kennedy Toole",
             "quote_former": "The lecture was to be given tomorrow, and it was now almost ",
-			"time": "eight-thirty",
-			"quote_latter": ".",
+            "time": "eight-thirty",
+            "quote_latter": ".",
             "work": "A Confederacy of Dunces"
         },
         {
             "author": "David Lodge",
             "quote_former": "When he woke, at ",
-			"time": "eight-thirty",
-			"quote_latter": ", he was alone in the bedroom. He put on his dressing gown and put in his hearing aid and went into the living room.",
+            "time": "eight-thirty",
+            "quote_latter": ", he was alone in the bedroom. He put on his dressing gown and put in his hearing aid and went into the living room.",
             "work": "Deaf Sentence"
         }
     ],
@@ -3695,15 +3695,15 @@ const quoteMap = {
         {
             "author": "David Foster Wallace",
             "quote_former": "'Does anybody know the time a little more exactly is what I'm wondering, Don, since Day doesn't.' Gately checks his cheap digital, head still hung over the sofa's arm. 'I got 0",
-			"time": "832",
-			"quote_latter": ":14, 15, 16, Randy.' ''ks a lot, D.G. man.'",
+            "time": "832",
+            "quote_latter": ":14, 15, 16, Randy.' ''ks a lot, D.G. man.'",
             "work": "Infinite Jest"
         },
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "8.32 a.m.",
-			"quote_latter": " Catch bus to school",
+            "time": "8.32 a.m.",
+            "quote_latter": " Catch bus to school",
             "work": "The Curious Incident Of The Dog In The Night-Time"
         }
     ],
@@ -3711,15 +3711,15 @@ const quoteMap = {
         {
             "author": "Emile Zola",
             "quote_former": "It was ",
-			"time": "thirty-five minutes past eight",
-			"quote_latter": " by the big clock of the central building when Mathieu crossed the yard towards the office which he occupied as chief designer. For eight years he had been employed at the works where, after a brilliant and special course of study, he had made his beginning as assistant draughtsman when but nineteen years old, receiving at that time a salary of one hundred francs a month.",
+            "time": "thirty-five minutes past eight",
+            "quote_latter": " by the big clock of the central building when Mathieu crossed the yard towards the office which he occupied as chief designer. For eight years he had been employed at the works where, after a brilliant and special course of study, he had made his beginning as assistant draughtsman when but nineteen years old, receiving at that time a salary of one hundred francs a month.",
             "work": "Fruitfulness"
         },
         {
             "author": "James Joyce",
             "quote_former": "Old gummy granny (thrusts a dagger towards Stephen's hand) Remove him, acushla. At ",
-			"time": "8.35 a.m.",
-			"quote_latter": " you will be in heaven and Ireland will be free (she prays) O good God take him!",
+            "time": "8.35 a.m.",
+            "quote_latter": " you will be in heaven and Ireland will be free (she prays) O good God take him!",
             "work": "Ulysses"
         }
     ],
@@ -3727,8 +3727,8 @@ const quoteMap = {
         {
             "author": "Winn Schwartau",
             "quote_former": "Doug McGuire noticed the early hour, ",
-			"time": "8:39 A.M.",
-			"quote_latter": " on the one wall clock that gave Daylight Savings Time for the East Coast.",
+            "time": "8:39 A.M.",
+            "quote_latter": " on the one wall clock that gave Daylight Savings Time for the East Coast.",
             "work": "Terminal Compromise"
         }
     ],
@@ -3736,15 +3736,15 @@ const quoteMap = {
         {
             "author": "Jules Verne",
             "quote_former": "At this moment the clock indicated ",
-			"time": "8.40",
-			"quote_latter": ". 'Five minutes more,' said Andrew Stuart. The five friends looked at each other. One may surmise that their heart-beats were slightly accelereted, for, even for bold gamblers, the stake was a large one.'",
+            "time": "8.40",
+            "quote_latter": ". 'Five minutes more,' said Andrew Stuart. The five friends looked at each other. One may surmise that their heart-beats were slightly accelereted, for, even for bold gamblers, the stake was a large one.'",
             "work": "Around the world in eighty days"
         },
         {
             "author": "Charles Dickens",
             "quote_former": "It was when I stood before her, avoiding her eyes, that I took note of the surrounding objects in detail, and saw that her watch had stopped at ",
-			"time": "twenty minutes to nine",
-			"quote_latter": ", and that a clock in the room had stopped at twenty minutes to nine.",
+            "time": "twenty minutes to nine",
+            "quote_latter": ", and that a clock in the room had stopped at twenty minutes to nine.",
             "work": "Great Expectations"
         }
     ],
@@ -3752,8 +3752,8 @@ const quoteMap = {
         {
             "author": "F\u00e9licien de Saulcy",
             "quote_former": "By ",
-			"time": "forty-one minutes past eight",
-			"quote_latter": " we are five hundred yards from the water\u2019s edge, and between our road and the foot of the mountain we descry the piled-up remains of a ruined tower.",
+            "time": "forty-one minutes past eight",
+            "quote_latter": " we are five hundred yards from the water\u2019s edge, and between our road and the foot of the mountain we descry the piled-up remains of a ruined tower.",
             "work": "Narrative of a Journey round the Dead Sea and in the Bible lands in 1850 and 1851"
         }
     ],
@@ -3761,15 +3761,15 @@ const quoteMap = {
         {
             "author": "John Grisham",
             "quote_former": "\"You understand this tape recorder is on?\" \"Uh huh\" \"And it's Wednesday, May 15, at ",
-			"time": "eight forty-three",
-			"quote_latter": " in the mornin'.\" \"If you say so\"",
+            "time": "eight forty-three",
+            "quote_latter": " in the mornin'.\" \"If you say so\"",
             "work": "A Time to Kill"
         },
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "8.43 a.m.",
-			"quote_latter": " Go past tropical fish shop",
+            "time": "8.43 a.m.",
+            "quote_latter": " Go past tropical fish shop",
             "work": "The Curious Incident Of The Dog In The Night-Time"
         }
     ],
@@ -3777,8 +3777,8 @@ const quoteMap = {
         {
             "author": "Jorge Luis Borges",
             "quote_former": "Several soldiers - some with their uniforms unbuttoned - were looking over a motorcycle, arguing about it. The sergeant looked at his watch; it was ",
-			"time": "eight forty-four",
-			"quote_latter": ". They had to wait until nine. Hladik, feeling more insignificant than ill-fortuned, sat down on a pile of firewood.",
+            "time": "eight forty-four",
+            "quote_latter": ". They had to wait until nine. Hladik, feeling more insignificant than ill-fortuned, sat down on a pile of firewood.",
             "work": "The Secret Miracle"
         }
     ],
@@ -3786,8 +3786,8 @@ const quoteMap = {
         {
             "author": "Rupert Thomson",
             "quote_former": "He paid the waitress and left the caf\u00e9. It was ",
-			"time": "8:45",
-			"quote_latter": ". The sun pressed against the inside of a thin layer of cloud. He unbuttoned his jacket as he hurried down Queensway. His mind, unleashed, sprang forwards.",
+            "time": "8:45",
+            "quote_latter": ". The sun pressed against the inside of a thin layer of cloud. He unbuttoned his jacket as he hurried down Queensway. His mind, unleashed, sprang forwards.",
             "work": "Dreams of leaving"
         }
     ],
@@ -3795,15 +3795,15 @@ const quoteMap = {
         {
             "author": "Douglas Adams",
             "quote_former": "\"Just on my way to the cottage. It's, er, ..",
-			"time": "8.47",
-			"quote_latter": ". Bit misty on the roads.....\"",
+            "time": "8.47",
+            "quote_latter": ". Bit misty on the roads.....\"",
             "work": "Dirk Gently's Holistic Detective Agency"
         },
         {
             "author": "Douglas Adams",
             "quote_former": "",
-			"time": "8.47",
-			"quote_latter": ". Bit misty on the roads",
+            "time": "8.47",
+            "quote_latter": ". Bit misty on the roads",
             "work": "Dirk Gently's Holistic Detective Agency"
         }
     ],
@@ -3811,8 +3811,8 @@ const quoteMap = {
         {
             "author": "Jonathan Coe",
             "quote_former": "I had arranged to meet the Occupational Health Officer at 10:30. I took the train from Watford Junction at 8.19 and arrived at London Euston seven minutes late, at ",
-			"time": "8.49",
-			"quote_latter": ".",
+            "time": "8.49",
+            "quote_latter": ".",
             "work": "The Terrible Privacy of Maxwell Sim"
         }
     ],
@@ -3820,22 +3820,22 @@ const quoteMap = {
         {
             "author": "V.S. Pritchett",
             "quote_former": "At ",
-			"time": "ten to nine",
-			"quote_latter": " the clerks began to arrive.When they had hung up their coats and hates they came to the fireplace and stood warming themselves. If there was no fire, they stood there all the same",
+            "time": "ten to nine",
+            "quote_latter": " the clerks began to arrive.When they had hung up their coats and hates they came to the fireplace and stood warming themselves. If there was no fire, they stood there all the same",
             "work": "The Chestnut Tree"
         },
         {
             "author": "Sam Lipsyte",
             "quote_former": "It was ",
-			"time": "8:50",
-			"quote_latter": " in the morning and Bernie and I were alone on an Astoria side street, not far from a sandwich shop that sold a sopressatta sub called \"The Bypass\". I used to eat that sandwich weekly, wash it down with espresso soda, smoke a cigarette, go for a jog. Now I was too near the joke to order the sandwich, and my son's preschool in the throes of doctrinal schism.",
+            "time": "8:50",
+            "quote_latter": " in the morning and Bernie and I were alone on an Astoria side street, not far from a sandwich shop that sold a sopressatta sub called \"The Bypass\". I used to eat that sandwich weekly, wash it down with espresso soda, smoke a cigarette, go for a jog. Now I was too near the joke to order the sandwich, and my son's preschool in the throes of doctrinal schism.",
             "work": "The Ask"
         },
         {
             "author": "Joseph Roth",
             "quote_former": "Punctually at ",
-			"time": "ten minutes to nine",
-			"quote_latter": ", a quarter hour after early mass, the boy stood in his Sunday uniform outside his father's door.",
+            "time": "ten minutes to nine",
+            "quote_latter": ", a quarter hour after early mass, the boy stood in his Sunday uniform outside his father's door.",
             "work": "The Radetzky March"
         }
     ],
@@ -3843,8 +3843,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "8.51 a.m.",
-			"quote_latter": " Arrive at school",
+            "time": "8.51 a.m.",
+            "quote_latter": " Arrive at school",
             "work": "The Curious Incident of the Dog in the Night-time"
         }
     ],
@@ -3852,8 +3852,8 @@ const quoteMap = {
         {
             "author": "Jonathan Safran Foer",
             "quote_former": "Message one. Tuesday, ",
-			"time": "8.52am.",
-			"quote_latter": " Is anybody there? Hello?",
+            "time": "8.52am.",
+            "quote_latter": " Is anybody there? Hello?",
             "work": "Extremely Loud and Incredibly Close"
         }
     ],
@@ -3861,8 +3861,8 @@ const quoteMap = {
         {
             "author": "Jerome K Jerome",
             "quote_former": "It was Mrs. Poppets that woke me up next morning. She said: \u201cDo you know that it\u2019s ",
-			"time": "nearly nine o\u2019clock",
-			"quote_latter": ", sir?\u201d \u201cNine o\u2019 what?\u201d I cried, starting up. \u201cNine o\u2019clock,\u201d she replied, through the keyhole. \u201cI thought you was a- oversleeping yourselves.\u201d",
+            "time": "nearly nine o\u2019clock",
+            "quote_latter": ", sir?\u201d \u201cNine o\u2019 what?\u201d I cried, starting up. \u201cNine o\u2019clock,\u201d she replied, through the keyhole. \u201cI thought you was a- oversleeping yourselves.\u201d",
             "work": "Three Men in a Boat"
         }
     ],
@@ -3870,15 +3870,15 @@ const quoteMap = {
         {
             "author": "Joseph Roth",
             "quote_former": "At ",
-			"time": "five minutes to nine",
-			"quote_latter": ", Jacques, in his gray butler's livery, came down the stairs and said, \"Young master, your Herr Pap\u00e1 is coming.\"",
+            "time": "five minutes to nine",
+            "quote_latter": ", Jacques, in his gray butler's livery, came down the stairs and said, \"Young master, your Herr Pap\u00e1 is coming.\"",
             "work": "The Radetzky March"
         },
         {
             "author": "Jerome K Jerome",
             "quote_former": "George pulled out his watch and looked at it: it was ",
-			"time": "five minutes to nine",
-			"quote_latter": "!",
+            "time": "five minutes to nine",
+            "quote_latter": "!",
             "work": "Three Men in a Boat"
         }
     ],
@@ -3886,8 +3886,8 @@ const quoteMap = {
         {
             "author": "George Orwell",
             "quote_former": "It was ",
-			"time": "nearly nine o'clock",
-			"quote_latter": " and the sun was fiercer every minute.'",
+            "time": "nearly nine o'clock",
+            "quote_latter": " and the sun was fiercer every minute.'",
             "work": "Burmese Days"
         }
     ],
@@ -3895,8 +3895,8 @@ const quoteMap = {
         {
             "author": "JS Fletcher",
             "quote_former": "You'll have to hurry. Many a long year before that, in one of the bygone centuries, a worthy citizen of Wrychester, Martin by name, had left a sum of money to the Dean and Chapter of the Cathedral on condition that as long as ever the Cathedral stood, they should cause to be rung a bell from its smaller bell-tower for ",
-			"time": "three minutes before nine",
-			"quote_latter": " o'clock every morning, all the year round.",
+            "time": "three minutes before nine",
+            "quote_latter": " o'clock every morning, all the year round.",
             "work": "The Paradise Mystery"
         }
     ],
@@ -3904,8 +3904,8 @@ const quoteMap = {
         {
             "author": "Jim Thompson",
             "quote_former": "It was ",
-			"time": "two minutes of nine",
-			"quote_latter": " now - two minutes before the bombs were set to explode - and three or four people were gathered in front of the bank waiting for it to open.",
+            "time": "two minutes of nine",
+            "quote_latter": " now - two minutes before the bombs were set to explode - and three or four people were gathered in front of the bank waiting for it to open.",
             "work": "The Getaway"
         }
     ],
@@ -3913,8 +3913,8 @@ const quoteMap = {
         {
             "author": "Jostein Gaarder",
             "quote_former": "She had been lying in bed reading about Sophie and Alberto's conversation on Marx and had fallen asleep. The reading lamp by the bed had been on all night. The green glowing digits on her desk alarm clock showed ",
-			"time": "8:59",
-			"quote_latter": ".",
+            "time": "8:59",
+            "quote_latter": ".",
             "work": "Sophie's World"
         }
     ],
@@ -3922,106 +3922,106 @@ const quoteMap = {
         {
             "author": "John Kennedy Toole",
             "quote_former": "'I could never get all the way down there before ",
-			"time": "nine o'clock",
-			"quote_latter": ".'",
+            "time": "nine o'clock",
+            "quote_latter": ".'",
             "work": "A Confederacy of Dunces"
         },
         {
             "author": "John Kennedy Toole",
             "quote_former": "'Look. Ignatius. I'm beat. I've been on the road since ",
-			"time": "nine o'clock",
-			"quote_latter": " yesterday morning.'",
+            "time": "nine o'clock",
+            "quote_latter": " yesterday morning.'",
             "work": "A Confederacy of Dunces"
         },
         {
             "author": "Charles Dickens",
             "quote_former": "On the third morning after their arrival, just as all the clocks in the city were striking ",
-			"time": "nine ",
-			"quote_latter": "individually, and somewhere about nine hundred and ninety-nine collectively, Sam was taking the air in George Yard, when a queer sort of fresh painted vehicle drove up, out of which there jumped with great agility, throwing the reins to a stout man who sat beside him, a queer sort of gentleman, who seemed made for the vehicle, and the vehicle for him.",
+            "time": "nine ",
+            "quote_latter": "individually, and somewhere about nine hundred and ninety-nine collectively, Sam was taking the air in George Yard, when a queer sort of fresh painted vehicle drove up, out of which there jumped with great agility, throwing the reins to a stout man who sat beside him, a queer sort of gentleman, who seemed made for the vehicle, and the vehicle for him.",
             "work": "The Pickwick Papers"
         },
         {
             "author": "Steve Toltz",
             "quote_former": "14 June ",
-			"time": "9:00 am",
-			"quote_latter": " woke up",
+            "time": "9:00 am",
+            "quote_latter": " woke up",
             "work": "A Fraction of the Whole"
         },
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "9.00 a.m.",
-			"quote_latter": " School assembly",
+            "time": "9.00 a.m.",
+            "quote_latter": " School assembly",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "Joseph Roth",
             "quote_former": "A fly buzzed, the wall clock began to strike. After the ",
-			"time": "nine ",
-			"quote_latter": "golden strokes faded, the district captain began. \"How is Herr Colonel Marek?\" \"Thank you, Pap\u00e1, he's fine.\" \"Still weak in geometry?\" \"Thank you, Pap\u00e1, a little better.\" \"Read any books?\" \"Yessir, Pap\u00e1.\"",
+            "time": "nine ",
+            "quote_latter": "golden strokes faded, the district captain began. \"How is Herr Colonel Marek?\" \"Thank you, Pap\u00e1, he's fine.\" \"Still weak in geometry?\" \"Thank you, Pap\u00e1, a little better.\" \"Read any books?\" \"Yessir, Pap\u00e1.\"",
             "work": "The Radetzky March"
         },
         {
             "author": "John Hershey",
             "quote_former": "As ",
-			"time": "nine o' clock",
-			"quote_latter": " was left behind, the preposterousness of the delay overwhelmed me, and I went in a kind of temper to the owner and said that I thought he should sign on another cook and weigh spars and be off.",
+            "time": "nine o' clock",
+            "quote_latter": " was left behind, the preposterousness of the delay overwhelmed me, and I went in a kind of temper to the owner and said that I thought he should sign on another cook and weigh spars and be off.",
             "work": "A Single Pebble"
         },
         {
             "author": "F. Scott Fitzgerald",
             "quote_former": "At ",
-			"time": "nine o'clock",
-			"quote_latter": ", one morning late in July, Gatsby's gorgeous car lurched up the rocky drive to my door and gave out a burst of melody from its three-noted horn",
+            "time": "nine o'clock",
+            "quote_latter": ", one morning late in July, Gatsby's gorgeous car lurched up the rocky drive to my door and gave out a burst of melody from its three-noted horn",
             "work": "The Great Gatsby"
         },
         {
             "author": "Lewis Carroll",
             "quote_former": "He won't stand beating. Now, if you only kept on good terms with him, he'd do almost anything you liked with the clock. For instance, suppose it were ",
-			"time": "nine o'clock",
-			"quote_latter": " in the morning, just time to begin lessons: you'd only have to whisper a hint to Time, and round goes the clock in a twinkling! Half-past one, time for dinner!",
+            "time": "nine o'clock",
+            "quote_latter": " in the morning, just time to begin lessons: you'd only have to whisper a hint to Time, and round goes the clock in a twinkling! Half-past one, time for dinner!",
             "work": "Alice's Adventures in Wonderland"
         },
         {
             "author": "Kazuo Ishiguro",
             "quote_former": "It was around ",
-			"time": "nine o'clock",
-			"quote_latter": " that I crossed the border into Cornwall. This was at least three hours before the rain began and the clouds were still all of a brilliant white. In fact, many of the sights that greeted me this morning were among the most charming I have so far encountered. It was unfortunate, then, that I could not for much of the time give to them the attention they warranted; for one may as well declare it, one was in a condition of some preoccupation with the thought that - barring some unseen complication - one would be meeting Miss Kenton again before the day's end.",
+            "time": "nine o'clock",
+            "quote_latter": " that I crossed the border into Cornwall. This was at least three hours before the rain began and the clouds were still all of a brilliant white. In fact, many of the sights that greeted me this morning were among the most charming I have so far encountered. It was unfortunate, then, that I could not for much of the time give to them the attention they warranted; for one may as well declare it, one was in a condition of some preoccupation with the thought that - barring some unseen complication - one would be meeting Miss Kenton again before the day's end.",
             "work": "The Remains of the Day"
         },
         {
             "author": "Thomas Mann",
             "quote_former": "Opening his window, Aschenbach thought he could smell the foul stench of the lagoon. A sudden despondency came over him. He considered leaving then and there. Once, years before, after weeks of a beautiful spring, he had been visited by this sort of weather and it so affected his health he had been obliged to flee. Was not the same listless fever setting in? The pressure in the temples, the heavy eyelids? Changing hotels again would be a nuisance, but if the wind failed to shift he could not possibly remain here. To be on the safe side, he did not unpack everything. ",
-			"time": "At nine",
-			"quote_latter": " he went to breakfast in the specially designated buffet between the lobby and the dining room.",
+            "time": "At nine",
+            "quote_latter": " he went to breakfast in the specially designated buffet between the lobby and the dining room.",
             "work": "Death in Venice"
         },
         {
             "author": "Denis Johnson",
             "quote_former": "Sometimes what I wouldn't give to have us sitting in a bar again at ",
-			"time": "9.00am",
-			"quote_latter": " telling lies to one another, far from God.",
+            "time": "9.00am",
+            "quote_latter": " telling lies to one another, far from God.",
             "work": "Jesus' Son"
         },
         {
             "author": "Shakespeare",
             "quote_former": "The clock struck ",
-			"time": "nine ",
-			"quote_latter": "when I did send the nurse; In half an hour she promised to return. Perchance she cannot meet him: that's not so.",
+            "time": "nine ",
+            "quote_latter": "when I did send the nurse; In half an hour she promised to return. Perchance she cannot meet him: that's not so.",
             "work": "Romeo and Juliet"
         },
         {
             "author": "T S Eliot",
             "quote_former": "To where Saint Mary Woolnoth kept the hours With a dead sound on the final stroke of ",
-			"time": "nine",
-			"quote_latter": ".",
+            "time": "nine",
+            "quote_latter": ".",
             "work": "The Waste Land"
         },
         {
             "author": "T S Eliot",
             "quote_former": "Unreal City, Under the brown fog of a winter dawn, A crowd flowed over London Bridge, so many, I had not thought death had undone so many. Sighs, short and infrequent, were exhaled, And each man fixed his eyes before his feet. Flowed up the hill and down King William Street, To where Saint Mary Woolnoth kept the hours With a dead sound on the final stroke of ",
-			"time": "nine",
-			"quote_latter": ".",
+            "time": "nine",
+            "quote_latter": ".",
             "work": "The Waste Land"
         }
     ],
@@ -4029,8 +4029,8 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "",
-			"time": "9:01am",
-			"quote_latter": " lay in bed, staring at ceiling.",
+            "time": "9:01am",
+            "quote_latter": " lay in bed, staring at ceiling.",
             "work": "A Fraction of the Whole"
         }
     ],
@@ -4038,8 +4038,8 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "",
-			"time": "9:02am",
-			"quote_latter": " lay in bed, staring at ceiling.",
+            "time": "9:02am",
+            "quote_latter": " lay in bed, staring at ceiling.",
             "work": "A Fraction of the Whole"
         }
     ],
@@ -4047,15 +4047,15 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "",
-			"time": "9:03am",
-			"quote_latter": " lay in bed, staring at ceiling.",
+            "time": "9:03am",
+            "quote_latter": " lay in bed, staring at ceiling.",
             "work": "A Fraction of the Whole"
         },
         {
             "author": "Jacqueline Wilson",
             "quote_former": "This isn't a very good start to the new school year.\" I stared at her. What was she talking about? Why was she looking at her watch? I wasn't late. Okay, the school bell had rung as I was crossing the playground, but you always get five minutes to get to your classroom. \"It's ",
-			"time": "three minutes past nine",
-			"quote_latter": ",\" Miss Beckworth announced. \"You're late.\"",
+            "time": "three minutes past nine",
+            "quote_latter": ",\" Miss Beckworth announced. \"You're late.\"",
             "work": "The Lottie Project"
         }
     ],
@@ -4063,15 +4063,15 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "",
-			"time": "9:04am",
-			"quote_latter": " lay in bed, staring at ceiling",
+            "time": "9:04am",
+            "quote_latter": " lay in bed, staring at ceiling",
             "work": "A Fraction of the Whole"
         },
         {
             "author": "Michael Crichton",
             "quote_former": "In the light of a narrow-beam lantern, Pierce checked his watch. It was ",
-			"time": "9.04",
-			"quote_latter": ".",
+            "time": "9.04",
+            "quote_latter": ".",
             "work": "The Great Train Robbery"
         }
     ],
@@ -4079,29 +4079,29 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "",
-			"time": "9:05am",
-			"quote_latter": " lay in bed, staring at ceiling",
+            "time": "9:05am",
+            "quote_latter": " lay in bed, staring at ceiling",
             "work": "A Fraction of the Whole"
         },
         {
             "author": "JG Ballard",
             "quote_former": "Kaldren pursues me like luminescent shadow. He has chalked up on the gateway '96,688,365,498,702'. Should confuse the mail man. Woke ",
-			"time": "9:05",
-			"quote_latter": ". To sleep 6:36.",
+            "time": "9:05",
+            "quote_latter": ". To sleep 6:36.",
             "work": "The Voices of Time"
         },
         {
             "author": "Sophie Kinsella",
             "quote_former": "The tour of the office doesn't take that long. In fact, we're pretty much done by ",
-			"time": "9:05 a.m.",
-			"quote_latter": " \u2026 and even though it's just a room with a window and a pin board and two doors and two desks... I can't help feeling a buzz as I lead them around. It's mine. My space. My company.",
+            "time": "9:05 a.m.",
+            "quote_latter": " \u2026 and even though it's just a room with a window and a pin board and two doors and two desks... I can't help feeling a buzz as I lead them around. It's mine. My space. My company.",
             "work": "Twenties Girl"
         },
         {
             "author": "Sophie Kinsella",
             "quote_former": "The tour of the office doesn't take that long. In fact, we're pretty much done by ",
-			"time": "9:05 a.m.",
-			"quote_latter": " Ed looks at everything twice and says it's all great, and gives me a list of contacts who might be helpful, then has to leave for his own office.",
+            "time": "9:05 a.m.",
+            "quote_latter": " Ed looks at everything twice and says it's all great, and gives me a list of contacts who might be helpful, then has to leave for his own office.",
             "work": "Twenties Girl"
         }
     ],
@@ -4109,8 +4109,8 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "",
-			"time": "9:06am",
-			"quote_latter": " lay in bed, staring at ceiling",
+            "time": "9:06am",
+            "quote_latter": " lay in bed, staring at ceiling",
             "work": "A Fraction of the Whole"
         }
     ],
@@ -4118,15 +4118,15 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "",
-			"time": "9:07am",
-			"quote_latter": " lay in bed, staring at ceiling",
+            "time": "9:07am",
+            "quote_latter": " lay in bed, staring at ceiling",
             "work": "A Fraction of the Whole"
         },
         {
             "author": "Carol Shields",
             "quote_former": "It was a sparkling morning, ",
-			"time": "9:07",
-			"quote_latter": " by the clock when Mrs. Flett stepped aboard the Imperial Limited at the Tyndall station, certain that her life was ruined, but managing, through an effort of will, to hold herself erect and to affect an air of preoccupation and liveliness.",
+            "time": "9:07",
+            "quote_latter": " by the clock when Mrs. Flett stepped aboard the Imperial Limited at the Tyndall station, certain that her life was ruined, but managing, through an effort of will, to hold herself erect and to affect an air of preoccupation and liveliness.",
             "work": "The Stone Diaries"
         }
     ],
@@ -4134,8 +4134,8 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "",
-			"time": "9.08am",
-			"quote_latter": " rolled over onto left side.",
+            "time": "9.08am",
+            "quote_latter": " rolled over onto left side.",
             "work": "A Fraction of the Whole"
         }
     ],
@@ -4143,8 +4143,8 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "",
-			"time": "9.09am",
-			"quote_latter": " lay in bed, staring at wall.",
+            "time": "9.09am",
+            "quote_latter": " lay in bed, staring at wall.",
             "work": "A Fraction of the Whole"
         }
     ],
@@ -4152,8 +4152,8 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "",
-			"time": "9.10am",
-			"quote_latter": " lay in bed, staring at wall.",
+            "time": "9.10am",
+            "quote_latter": " lay in bed, staring at wall.",
             "work": "A Fraction of the Whole"
         }
     ],
@@ -4161,8 +4161,8 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "",
-			"time": "9:11am",
-			"quote_latter": " lay in bed, staring at wall",
+            "time": "9:11am",
+            "quote_latter": " lay in bed, staring at wall",
             "work": "A Fraction of the Whole"
         }
     ],
@@ -4170,8 +4170,8 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "",
-			"time": "9.12am",
-			"quote_latter": " lay in bed, staring at wall.",
+            "time": "9.12am",
+            "quote_latter": " lay in bed, staring at wall.",
             "work": "A Fraction of the Whole"
         }
     ],
@@ -4179,15 +4179,15 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "",
-			"time": "9:13am",
-			"quote_latter": " lay in bed, staring at wall",
+            "time": "9:13am",
+            "quote_latter": " lay in bed, staring at wall",
             "work": "A Fraction of the Whole"
         },
         {
             "author": "Lisas Scottoline",
             "quote_former": "She tucked the phone in the crook of her neck and thumbed hurriedly through her pink messages. Dr. Provetto, at ",
-			"time": "9:13 A.M.",
-			"quote_latter": "",
+            "time": "9:13 A.M.",
+            "quote_latter": "",
             "work": "Mistaken Identity"
         }
     ],
@@ -4195,8 +4195,8 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "",
-			"time": "9.14am",
-			"quote_latter": " lay in bed, staring at wall.",
+            "time": "9.14am",
+            "quote_latter": " lay in bed, staring at wall.",
             "work": "A Fraction of the Whole"
         }
     ],
@@ -4204,29 +4204,29 @@ const quoteMap = {
         {
             "author": "Tom Clancy",
             "quote_former": "\"Great!\" Jones commented. \"I've never seen it do that before. That's all right. Okay.\" Jones pulled a handful of pencils from his back pocket. \"Now, I got the contact first at 0",
-			"time": "915",
-			"quote_latter": " or so, and the bearing was about two-six-nine.\"",
+            "time": "915",
+            "quote_latter": " or so, and the bearing was about two-six-nine.\"",
             "work": "The Hunt for Red October"
         },
         {
             "author": "Steve Toltz",
             "quote_former": "",
-			"time": "9:15am",
-			"quote_latter": " doubled over pillow, sat up to see out window",
+            "time": "9:15am",
+            "quote_latter": " doubled over pillow, sat up to see out window",
             "work": "A Fraction of the Whole"
         },
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "9.15 a.m.",
-			"quote_latter": " First morning class",
+            "time": "9.15 a.m.",
+            "quote_latter": " First morning class",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "Winifred Watson",
             "quote_former": "Miss Pettigrew pushed open the door of the employment agency and went in as the clock struck a ",
-			"time": "quarter past nine",
-			"quote_latter": ".",
+            "time": "quarter past nine",
+            "quote_latter": ".",
             "work": "Miss Pettigrew Lives For a Day"
         }
     ],
@@ -4234,8 +4234,8 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "",
-			"time": "9.16am",
-			"quote_latter": " sat in bed, staring out window.",
+            "time": "9.16am",
+            "quote_latter": " sat in bed, staring out window.",
             "work": "A Fraction of the Whole"
         }
     ],
@@ -4243,8 +4243,8 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "",
-			"time": "9.17am",
-			"quote_latter": " sat in bed, staring out window.",
+            "time": "9.17am",
+            "quote_latter": " sat in bed, staring out window.",
             "work": "A Fraction of the Whole"
         }
     ],
@@ -4252,8 +4252,8 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "",
-			"time": "9.18am",
-			"quote_latter": " sat in bed, staring out window.",
+            "time": "9.18am",
+            "quote_latter": " sat in bed, staring out window.",
             "work": "A Fraction of the Whole"
         }
     ],
@@ -4261,8 +4261,8 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "",
-			"time": "9.19am",
-			"quote_latter": " sat in bed, staring out window.",
+            "time": "9.19am",
+            "quote_latter": " sat in bed, staring out window.",
             "work": "A Fraction of the Whole"
         }
     ],
@@ -4270,22 +4270,22 @@ const quoteMap = {
         {
             "author": "Susanna Kaysen",
             "quote_former": "I'll compromise by saying that I left home at eight and spent an hour travelling to a nine o'clock appointment. Twenty minutes later is ",
-			"time": "nine-twenty",
-			"quote_latter": ".",
+            "time": "nine-twenty",
+            "quote_latter": ".",
             "work": "Girl, Interrupted"
         },
         {
             "author": "P.G. Wodehouse",
             "quote_former": "At ",
-			"time": "twenty minutes past nine",
-			"quote_latter": ", the Duke of Dunstable, who had dined off a tray in his room, was still there, waiting for his coffee and liqueur.",
+            "time": "twenty minutes past nine",
+            "quote_latter": ", the Duke of Dunstable, who had dined off a tray in his room, was still there, waiting for his coffee and liqueur.",
             "work": "Uncle Fred in the Springtime"
         },
         {
             "author": "Louis de Bernieres",
             "quote_former": "The following morning at ",
-			"time": "9.20",
-			"quote_latter": " Mr Cribbage straightened his greasy old tie, combed his Hitler moustache and arranged the few strands of his hair across his bald patch.",
+            "time": "9.20",
+            "quote_latter": " Mr Cribbage straightened his greasy old tie, combed his Hitler moustache and arranged the few strands of his hair across his bald patch.",
             "work": "Red Dog"
         }
     ],
@@ -4293,8 +4293,8 @@ const quoteMap = {
         {
             "author": "Dan Rhodes",
             "quote_former": "It was ",
-			"time": "nine twenty-one",
-			"quote_latter": ". With one minute to go, there was no sign of Herbert's mother.",
+            "time": "nine twenty-one",
+            "quote_latter": ". With one minute to go, there was no sign of Herbert's mother.",
             "work": "This is Life"
         }
     ],
@@ -4302,8 +4302,8 @@ const quoteMap = {
         {
             "author": "Dan Rhodes",
             "quote_former": "No more throwing stones at him, and I'll see you back here exactly one week from now. She looked at her watch. 'At ",
-			"time": "nine twenty-two",
-			"quote_latter": " next Wednesday.'",
+            "time": "nine twenty-two",
+            "quote_latter": " next Wednesday.'",
             "work": "This is Life"
         }
     ],
@@ -4311,8 +4311,8 @@ const quoteMap = {
         {
             "author": "James Joyce",
             "quote_former": "",
-			"time": "9.23",
-			"quote_latter": ". What possessed me to buy this comb?",
+            "time": "9.23",
+            "quote_latter": ". What possessed me to buy this comb?",
             "work": "Ulysses"
         }
     ],
@@ -4320,8 +4320,8 @@ const quoteMap = {
         {
             "author": "James Joyce",
             "quote_former": "",
-			"time": "9.24",
-			"quote_latter": " I'm swelled after that cabbage. A speck of dust on the patent leather of her boot.",
+            "time": "9.24",
+            "quote_latter": " I'm swelled after that cabbage. A speck of dust on the patent leather of her boot.",
             "work": "Ulysses"
         }
     ],
@@ -4329,8 +4329,8 @@ const quoteMap = {
         {
             "author": "Anne Enright",
             "quote_former": "A man I would cross the street to avoid at nine o'clock - by ",
-			"time": "nine twenty-five",
-			"quote_latter": " I wanted to fuck him until he wept. My legs trembled with it. My voice floated out of my mouth when I opened it to speak. The glass wall of the meeting room was huge and suddenly too transparent.",
+            "time": "nine twenty-five",
+            "quote_latter": " I wanted to fuck him until he wept. My legs trembled with it. My voice floated out of my mouth when I opened it to speak. The glass wall of the meeting room was huge and suddenly too transparent.",
             "work": "The Forgotten Waltz"
         }
     ],
@@ -4338,8 +4338,8 @@ const quoteMap = {
         {
             "author": "Compton Mackenzie",
             "quote_former": "From twenty minutes past nine until ",
-			"time": "twenty-seven minutes past nine",
-			"quote_latter": ", from twenty-five minutes past eleven until twenty-eight minutes past eleven, from ten minutes to three until two minutes to three the heroes of the school met in a large familiarity whose Olympian laughter awed the fearful small boy that flitted uneasily past and chilled the slouching senior that rashly paused to examine the notices in assertion of an unearned right.",
+            "time": "twenty-seven minutes past nine",
+            "quote_latter": ", from twenty-five minutes past eleven until twenty-eight minutes past eleven, from ten minutes to three until two minutes to three the heroes of the school met in a large familiarity whose Olympian laughter awed the fearful small boy that flitted uneasily past and chilled the slouching senior that rashly paused to examine the notices in assertion of an unearned right.",
             "work": "Sinister Street"
         }
     ],
@@ -4347,15 +4347,15 @@ const quoteMap = {
         {
             "author": "Arnold Bennett",
             "quote_former": "\"This clock right?\" he asked the butler in the hall. \"Yes, sir.\" The clock showed ",
-			"time": "twenty-eight minutes past nine",
-			"quote_latter": ". \"The clocks here have to be right, sir,\" the butler added with pride and a respectful humour, on the stairs.",
+            "time": "twenty-eight minutes past nine",
+            "quote_latter": ". \"The clocks here have to be right, sir,\" the butler added with pride and a respectful humour, on the stairs.",
             "work": "Lord Raingo"
         },
         {
             "author": "Arnold Bennett",
             "quote_former": "He entered No. 10 for the first time, he who had sat on the Government benches for eight years and who had known the Prime Minister from youth up. \"This clock right?\" he asked the butler in the hall. \"Yes, sir.\" The clock showed ",
-			"time": "twenty-eight minutes past nine",
-			"quote_latter": ". \"The clocks here have to be right, sir,\" the butler added with pride and a respectful humour, on the stairs.",
+            "time": "twenty-eight minutes past nine",
+            "quote_latter": ". \"The clocks here have to be right, sir,\" the butler added with pride and a respectful humour, on the stairs.",
             "work": "Lord Raingo"
         }
     ],
@@ -4363,29 +4363,29 @@ const quoteMap = {
         {
             "author": "Ambrose Bierce",
             "quote_former": "he looked at his watch; it was ",
-			"time": "half-past nine",
-			"quote_latter": "",
+            "time": "half-past nine",
+            "quote_latter": "",
             "work": "A watcher by the dead"
         },
         {
             "author": "Richard Yates",
             "quote_former": "It was ",
-			"time": "nine-thirty",
-			"quote_latter": ". In another ten minutes she would turn off the heat; then it would take a while for the water to cool. In the meantime there was nothing to do but wait. \u201cHave you thought it through April?\u201d Never undertake to do a thing until you\u2019ve \u2013\u201c But she needed no more advice and no more instruction. She was calm and quiet now with knowing what she had always known, what neither her parents not Aunt Claire not Frank nor anyone else had ever had to teach her: that if you wanted to do something absolutely honest, something true, it always turned out to be a thing that had to be done alone.",
+            "time": "nine-thirty",
+            "quote_latter": ". In another ten minutes she would turn off the heat; then it would take a while for the water to cool. In the meantime there was nothing to do but wait. \u201cHave you thought it through April?\u201d Never undertake to do a thing until you\u2019ve \u2013\u201c But she needed no more advice and no more instruction. She was calm and quiet now with knowing what she had always known, what neither her parents not Aunt Claire not Frank nor anyone else had ever had to teach her: that if you wanted to do something absolutely honest, something true, it always turned out to be a thing that had to be done alone.",
             "work": "Revolutionary Road"
         },
         {
             "author": "Jackie Kay",
             "quote_former": "The body came in at ",
-			"time": "nine-thirty",
-			"quote_latter": " this morning. One of Holding's men went to the house and collected it. There was nothing particularly unusual about the death. The man had had a fear of hospitals and had died at home, being cared for more than adequately by his devoted wife.",
+            "time": "nine-thirty",
+            "quote_latter": " this morning. One of Holding's men went to the house and collected it. There was nothing particularly unusual about the death. The man had had a fear of hospitals and had died at home, being cared for more than adequately by his devoted wife.",
             "work": "Trumpet"
         },
         {
             "author": "Richard Ford",
             "quote_former": "Up the welcomingly warm morning hill we trudge, side by each, bound finally for the Hall of Fame. It's ",
-			"time": "9.30",
-			"quote_latter": ", and time is in fact a-wastin'.",
+            "time": "9.30",
+            "quote_latter": ", and time is in fact a-wastin'.",
             "work": "Independence Day"
         }
     ],
@@ -4393,15 +4393,15 @@ const quoteMap = {
         {
             "author": "Jerome K Jerome",
             "quote_former": "He said he couldn't say for certain of course, but that he rather thought he was. Anyhow, if he wasn't the 11.5 for Kingston, he said he was pretty confident he was the ",
-			"time": "9.32",
-			"quote_latter": " for Virginia Water, or the 10 a.m. express for the Isle of Wight, or somewhere in that direction, and we should all know when we got there.",
+            "time": "9.32",
+            "quote_latter": " for Virginia Water, or the 10 a.m. express for the Isle of Wight, or somewhere in that direction, and we should all know when we got there.",
             "work": "Three Men in a Boat"
         },
         {
             "author": "Judy Blume",
             "quote_former": "Sandy barely made the ",
-			"time": "nine-thirty-two",
-			"quote_latter": " and found a seat in no-smoking. She'd been looking forward to this visit with Lisbeth. They hadn't seen each other in months, not since January, when Sandy had returned from Jamaica. And on that day Sandy was sporting a full-blown herpes virus on her lower lip.",
+            "time": "nine-thirty-two",
+            "quote_latter": " and found a seat in no-smoking. She'd been looking forward to this visit with Lisbeth. They hadn't seen each other in months, not since January, when Sandy had returned from Jamaica. And on that day Sandy was sporting a full-blown herpes virus on her lower lip.",
             "work": "Wifey"
         }
     ],
@@ -4409,8 +4409,8 @@ const quoteMap = {
         {
             "author": "Victor Hugo",
             "quote_former": "Next, he remembered that the morrow of Christmas would be the twenty-seventh day of the moon, and that consequently high water would be at twenty-one minutes past three, the half-ebb at a quarter past seven, low water at ",
-			"time": "thirty-three minutes past nine",
-			"quote_latter": ", and half flood at thirty-nine minutes past twelve.",
+            "time": "thirty-three minutes past nine",
+            "quote_latter": ", and half flood at thirty-nine minutes past twelve.",
             "work": "The Toilers of the Sea"
         }
     ],
@@ -4418,15 +4418,15 @@ const quoteMap = {
         {
             "author": "Sophie Kinsella",
             "quote_former": "I grab a pen and the pad of paper by the phone and start scribbling a list for the day. I have an image of myself moving smoothly from task to task, brush in one hand, duster in the other, bringing order to everything. Like Mary Poppins. 9:30-",
-			"time": "9:36",
-			"quote_latter": " Make Geigers' bed 9:36-9:42 Take laundry out of machine and put in dryer 9:42-10:00 Clean bathrooms I get to the end and read it over with a fresh surge of optimism. At this rate I should be done easily by lunchtime. 9:36 Fuck. I cannot make this bed. Why won't this sheet lie flat? 9:42 And why do they make mattresses so heavy?",
+            "time": "9:36",
+            "quote_latter": " Make Geigers' bed 9:36-9:42 Take laundry out of machine and put in dryer 9:42-10:00 Clean bathrooms I get to the end and read it over with a fresh surge of optimism. At this rate I should be done easily by lunchtime. 9:36 Fuck. I cannot make this bed. Why won't this sheet lie flat? 9:42 And why do they make mattresses so heavy?",
             "work": "The Undomestic Goddess"
         },
         {
             "author": "Helen Fielding",
             "quote_former": "Monday February 6th. '",
-			"time": "9.36am.",
-			"quote_latter": " Oh god, Oh god. Maybe he's fallen in love in New York and stayed there'.",
+            "time": "9.36am.",
+            "quote_latter": " Oh god, Oh god. Maybe he's fallen in love in New York and stayed there'.",
             "work": "Bridget Jones Diary"
         }
     ],
@@ -4434,8 +4434,8 @@ const quoteMap = {
         {
             "author": "Jules Verne",
             "quote_former": "It comprised all that was required of the servant, from eight in the morning, exactly at which hour Phileas Fogg rose, till half-past eleven, when he left the house for the Reform Club - all the details of service, the tea and toast at twenty-three minutes past eight, the shaving-water at ",
-			"time": "thirty-seven minutes past nine",
-			"quote_latter": ", and the toilet at twenty minutes before ten.",
+            "time": "thirty-seven minutes past nine",
+            "quote_latter": ", and the toilet at twenty minutes before ten.",
             "work": "Around the World in 80 days"
         }
     ],
@@ -4443,15 +4443,15 @@ const quoteMap = {
         {
             "author": "Jules Verne",
             "quote_former": "It comprised all that was required of the servant, from eight in the morning, exactly at which hour Phileas Fogg rose, till half-past eleven, when he left the house for the Reform Club\u2014all the details of service, the tea and toast at twenty-three minutes past eight, the shaving-water at thirty-seven minutes past nine, and the toilet at ",
-			"time": "twenty minutes before ten",
-			"quote_latter": ".",
+            "time": "twenty minutes before ten",
+            "quote_latter": ".",
             "work": "Around the World in 80 days"
         },
         {
             "author": "JG Ballard",
             "quote_former": "Must have the phone disconnected. Some contractor keeps calling me up about payment for 50 bags of cement he claims I collected ten days ago. Says he helped me load them onto a truck himself. I did drive Whitby's pick-up into town but only to get some lead screening. What does he think I'd do with all that cement? Just the sort of irritating thing you don't expect to hang over your final exit. (Moral: don't try too hard to forget Eniwetok.) Woke ",
-			"time": "9:40",
-			"quote_latter": ". To sleep 4:15.",
+            "time": "9:40",
+            "quote_latter": ". To sleep 4:15.",
             "work": "The Voices of Time"
         }
     ],
@@ -4459,8 +4459,8 @@ const quoteMap = {
         {
             "author": "Sophie Kinsella",
             "quote_former": "I grab a pen and the pad of paper by the phone and start scribbling a list for the day. I have an image of myself moving smoothly from task to task, brush in one hand, duster in the other, bringing order to everything. Like Mary Poppins. 9:30-9:36 Make Geigers' bed 9:36-",
-			"time": "9:42",
-			"quote_latter": " Take laundry out of machine and put in dryer 9:42-10:00 Clean bathrooms I get to the end and read it over with a fresh surge of optimism. At this rate I should be done easily by lunchtime. 9:36 Fuck. I cannot make this bed. Why won't this sheet lie flat? 9:42 And why do they make mattresses so heavy?",
+            "time": "9:42",
+            "quote_latter": " Take laundry out of machine and put in dryer 9:42-10:00 Clean bathrooms I get to the end and read it over with a fresh surge of optimism. At this rate I should be done easily by lunchtime. 9:36 Fuck. I cannot make this bed. Why won't this sheet lie flat? 9:42 And why do they make mattresses so heavy?",
             "work": "The Undomestic Goddess"
         }
     ],
@@ -4468,8 +4468,8 @@ const quoteMap = {
         {
             "author": "Ian Fleming",
             "quote_former": "9.15, 9.30, ",
-			"time": "9.45",
-			"quote_latter": ", 10! Bond felt the excitement ball up inside him like cat's fur.",
+            "time": "9.45",
+            "quote_latter": ", 10! Bond felt the excitement ball up inside him like cat's fur.",
             "work": "On Her Majesty's Secret Service"
         }
     ],
@@ -4477,8 +4477,8 @@ const quoteMap = {
         {
             "author": "Helen Fielding",
             "quote_former": "Monday February 6th. '",
-			"time": "9.47am.",
-			"quote_latter": " Or gone to Las Vegas and got married'.",
+            "time": "9.47am.",
+            "quote_latter": " Or gone to Las Vegas and got married'.",
             "work": "Bridget Jones Diary"
         }
     ],
@@ -4486,8 +4486,8 @@ const quoteMap = {
         {
             "author": "Helen Fielding",
             "quote_former": "",
-			"time": "9.50am.",
-			"quote_latter": " Hmmm. Think will go inspect make-up in case he does come in",
+            "time": "9.50am.",
+            "quote_latter": " Hmmm. Think will go inspect make-up in case he does come in",
             "work": "Bridget Jones Diary"
         }
     ],
@@ -4495,8 +4495,8 @@ const quoteMap = {
         {
             "author": "John le Carre",
             "quote_former": "\"She caught the ",
-			"time": "9:52",
-			"quote_latter": " to Victoria. I kept well clear of her on the train and picked her up as she went through the barrier. Then she took a taxi to Hammersmith.\" \"A taxi?\" Smiley interjected. \"She must be out of her mind.\"",
+            "time": "9:52",
+            "quote_latter": " to Victoria. I kept well clear of her on the train and picked her up as she went through the barrier. Then she took a taxi to Hammersmith.\" \"A taxi?\" Smiley interjected. \"She must be out of her mind.\"",
             "work": "Call for the Dead"
         }
     ],
@@ -4504,8 +4504,8 @@ const quoteMap = {
         {
             "author": "Winifred Watson",
             "quote_former": "Miss Pettigrew went to the bus-stop to await a bus. She could not afford the fare, but she could still less afford to lose a possible situation by being late. The bus deposited her about five minutes' walk from Onslow Mansions, an at ",
-			"time": "seven minutes to ten",
-			"quote_latter": " precisely she was outside her destination.",
+            "time": "seven minutes to ten",
+            "quote_latter": " precisely she was outside her destination.",
             "work": "Miss Pettigrew Lives for a Day"
         }
     ],
@@ -4513,8 +4513,8 @@ const quoteMap = {
         {
             "author": "Sophie Kinsella",
             "quote_former": "",
-			"time": "9:54",
-			"quote_latter": " This is sheer torture. My arms have never ached so much in my entire life. The blankets weigh a ton, and the sheets won't go straight and I have no idea how to do the wretched corners. How do chambermaids do it?",
+            "time": "9:54",
+            "quote_latter": " This is sheer torture. My arms have never ached so much in my entire life. The blankets weigh a ton, and the sheets won't go straight and I have no idea how to do the wretched corners. How do chambermaids do it?",
             "work": "The Undomestic Goddess"
         }
     ],
@@ -4522,15 +4522,15 @@ const quoteMap = {
         {
             "author": "Sophie Kinsella",
             "quote_former": "At ",
-			"time": "five to ten",
-			"quote_latter": " I'm ready in the hall. Nathaniel's mother's house is nearby but apparently tricky to find, so the plan is to meet here and he'll walk me over. I check my reflection in the hall mirror and wince. The streak of bleach in my hair is as obvious as ever. Am I really going out in public like this?",
+            "time": "five to ten",
+            "quote_latter": " I'm ready in the hall. Nathaniel's mother's house is nearby but apparently tricky to find, so the plan is to meet here and he'll walk me over. I check my reflection in the hall mirror and wince. The streak of bleach in my hair is as obvious as ever. Am I really going out in public like this?",
             "work": "The Undomestic Goddess"
         },
         {
             "author": "Alexandre Dumas",
             "quote_former": "Good-morning, Lucien, good-morning, said Albert; \"your punctuality really alarms me. What do I say? punctuality! You, whom I expected last, you arrive at ",
-			"time": "five minutes to ten",
-			"quote_latter": ", when the time fixed was half-past! Has the ministry resigned?\"",
+            "time": "five minutes to ten",
+            "quote_latter": ", when the time fixed was half-past! Has the ministry resigned?\"",
             "work": "The Count of Monte Cristo"
         }
     ],
@@ -4538,8 +4538,8 @@ const quoteMap = {
         {
             "author": "Robert Tressell",
             "quote_former": "",
-			"time": "One minute to ten.",
-			"quote_latter": " With a heavy heart Bert watched the clock. His legs were still aching very badly. He could not see the hands of the clock moving, but they were creeping on all the same.",
+            "time": "One minute to ten.",
+            "quote_latter": " With a heavy heart Bert watched the clock. His legs were still aching very badly. He could not see the hands of the clock moving, but they were creeping on all the same.",
             "work": "The Ragged Trouserred Philanthropists"
         }
     ],
@@ -4547,99 +4547,99 @@ const quoteMap = {
         {
             "author": "Laurence Sterne",
             "quote_former": "\u2013\u2013In assaying to put on his regimental coat and waistcoat, my uncle Toby found the same objection in his wig, \u2013\u2013so that went off too: \u2013\u2013So that with one thing and what with another, as always falls out when a man is in the most haste, \u2013\u2013'twas ",
-			"time": "ten o'clock",
-			"quote_latter": ", which was half an hour later than his usual time before my uncle Toby sallied out.",
+            "time": "ten o'clock",
+            "quote_latter": ", which was half an hour later than his usual time before my uncle Toby sallied out.",
             "work": "Tristram Shandy"
         },
         {
             "author": "William Shakespeare",
             "quote_former": "\u2019Tis but ",
-			"time": "an hour ago since it was nine",
-			"quote_latter": ", And after one hour more \u2018twill be eleven.",
+            "time": "an hour ago since it was nine",
+            "quote_latter": ", And after one hour more \u2018twill be eleven.",
             "work": "As You Like It"
         },
         {
             "author": "Virginia Woolf",
             "quote_former": "For some seconds the light went on becoming brighter and brighter, and she saw everything more and more clearly and the clock ticked louder and louder until there was a terrific explosion right in her ear. Orlando leapt as if she had been violently struck on the head. Ten times she was struck. In fact it was ",
-			"time": "ten ",
-			"quote_latter": "o'clock in the morning. It was the eleventh of October. It was 1928. It was the present moment.",
+            "time": "ten ",
+            "quote_latter": "o'clock in the morning. It was the eleventh of October. It was 1928. It was the present moment.",
             "work": "Orlando"
         },
         {
             "author": "Stieg Larsson",
             "quote_former": "The trial was irretrievably over; everything that could be said had been said, but he had never doubted that he would lose. The written verdict was handed down at ",
-			"time": "10:00",
-			"quote_latter": " on Friday morning, and all that remained was a summing up from the reporters waiting in the corridor outside the district court.",
+            "time": "10:00",
+            "quote_latter": " on Friday morning, and all that remained was a summing up from the reporters waiting in the corridor outside the district court.",
             "work": "The Girl with the Dragon Tattoo"
         },
         {
             "author": "Haruki Murakami",
             "quote_former": "According to military records no US bombers or any other kind of aircraft were flying over that region at the time, that is around ",
-			"time": "10 am",
-			"quote_latter": " on November 7,1944.",
+            "time": "10 am",
+            "quote_latter": " on November 7,1944.",
             "work": "Kafka on the shore"
         },
         {
             "author": "John Steinbeck",
             "quote_former": "At about ",
-			"time": "ten o'clock",
-			"quote_latter": " in the morning the sun threw a bright dust-laden bar through one of the side windows, and in and out of the beam flies shot like rushing stars.",
+            "time": "ten o'clock",
+            "quote_latter": " in the morning the sun threw a bright dust-laden bar through one of the side windows, and in and out of the beam flies shot like rushing stars.",
             "work": "Of Mice And Men"
         },
         {
             "author": "Russell Hoban",
             "quote_former": "I went to bed and the next thing I knew I was awake again and it was getting on for ",
-			"time": "ten o' clock",
-			"quote_latter": " in the morning. Ring, ring, said the telephone, ring, ring.",
+            "time": "ten o' clock",
+            "quote_latter": " in the morning. Ring, ring, said the telephone, ring, ring.",
             "work": "The Medusa Frequency"
         },
         {
             "author": "Jane Austen",
             "quote_former": "If Wednesday should ever come! It did come, and exactly when it might be reasonably looked for. It came - it was fine - and Catherine trod on air. By ",
-			"time": "ten o'clock",
-			"quote_latter": ", the chaise and four conveyed the two from the abbey; and, after an agreeable drive of almost twenty miles, they entered Woodston, a large and populous village, in a situation not unpleasant.",
+            "time": "ten o'clock",
+            "quote_latter": ", the chaise and four conveyed the two from the abbey; and, after an agreeable drive of almost twenty miles, they entered Woodston, a large and populous village, in a situation not unpleasant.",
             "work": "Northanger Abbey"
         },
         {
             "author": "William Shakespeare",
             "quote_former": "King Richard: Well, but what's o'clock? Buckingham: Upon the stroke of ",
-			"time": "ten",
-			"quote_latter": ".",
+            "time": "ten",
+            "quote_latter": ".",
             "work": "Richard III"
         },
         {
             "author": "Samuel Pepys",
             "quote_former": "Monday 30 March 1668 Up betimes, and so to the office, there to do business till about ",
-			"time": "10 o\u2019clock",
-			"quote_latter": "",
+            "time": "10 o\u2019clock",
+            "quote_latter": "",
             "work": "The Diary of Samuel Pepys"
         },
         {
             "author": "Christoph Ransmayr",
             "quote_former": "On July 25th, 8:30 a.m. the bitch Novaya dies whelping. At ",
-			"time": "10 o'clock",
-			"quote_latter": " she is lowered into her cool grave, at 7:30 that same evening we see our first floes and greet them wishing they were the last.",
+            "time": "10 o'clock",
+            "quote_latter": " she is lowered into her cool grave, at 7:30 that same evening we see our first floes and greet them wishing they were the last.",
             "work": "The Terrors of Ice and Darkness"
         },
         {
             "author": "Akhil Sharma",
             "quote_former": "The pundit sighed. 'Only a fool like me would leave his door open when a riot can occur at any moment, and only a fool like me would say yes to you,' he said. 'What time?' Just his head was sticking out of the partially opened door. The money from blessing the ice-cream factory must have dulled his desire for work, I thought. 'Ten.' '",
-			"time": "Ten-thirty",
-			"quote_latter": ".' Without another word, he closed the door.",
+            "time": "Ten-thirty",
+            "quote_latter": ".' Without another word, he closed the door.",
             "work": "An Obedient Father"
         },
         {
             "author": "Barry Unsworth",
             "quote_former": "The Saturday immediately preceding the examinations was a very busy day for Kennedy. At ",
-			"time": "ten o' clock",
-			"quote_latter": " he was entering Willey's room; the latter had given him a key and left the room vacant by previous arrangement - in fact he had taken Olivia on another house hunting trip.",
+            "time": "ten o' clock",
+            "quote_latter": " he was entering Willey's room; the latter had given him a key and left the room vacant by previous arrangement - in fact he had taken Olivia on another house hunting trip.",
             "work": "The Greeks have a word for it"
         },
         {
             "author": "Stieg Larsson",
             "quote_former": "The written verdict was handed down at ",
-			"time": "10:00",
-			"quote_latter": " on Friday morning, and allthat remained was a summing up from the reporters waiting in the corridor outside the district court.",
+            "time": "10:00",
+            "quote_latter": " on Friday morning, and allthat remained was a summing up from the reporters waiting in the corridor outside the district court.",
             "work": "The girl with the dragon tattoo"
         }
     ],
@@ -4647,8 +4647,8 @@ const quoteMap = {
         {
             "author": "John Steinbeck",
             "quote_former": "At ",
-			"time": "about ten o'clock",
-			"quote_latter": " in the morning the sun threw a bright dust-laden bar through one of the side windows, and in and out of the beam flies shot like rushing stars.'",
+            "time": "about ten o'clock",
+            "quote_latter": " in the morning the sun threw a bright dust-laden bar through one of the side windows, and in and out of the beam flies shot like rushing stars.'",
             "work": "Of Mice And Men"
         }
     ],
@@ -4656,8 +4656,8 @@ const quoteMap = {
         {
             "author": "Shirley Jackson",
             "quote_former": "It was ",
-			"time": "two minutes after ten",
-			"quote_latter": "; she was not satisfied with her clothes, her face, her apartment. She heated the coffee again and sat down in the chair by the window. Can't do anything more now, she thought, no sense trying to improve anything the last minute.",
+            "time": "two minutes after ten",
+            "quote_latter": "; she was not satisfied with her clothes, her face, her apartment. She heated the coffee again and sat down in the chair by the window. Can't do anything more now, she thought, no sense trying to improve anything the last minute.",
             "work": "The Daemon Lover"
         }
     ],
@@ -4665,15 +4665,15 @@ const quoteMap = {
         {
             "author": "Michel Faber",
             "quote_former": "It's ",
-			"time": "10.03",
-			"quote_latter": " according to his watch, and he is travelling down through the Scottish highlands to Inverness, tired and ever-so-slightly anxious in case he falls asleep between now and when the train reaches the station, and misses his cue to say to Alice, Drew and Aleesha: 'OK, this is Inverness, let's move it.'",
+            "time": "10.03",
+            "quote_latter": " according to his watch, and he is travelling down through the Scottish highlands to Inverness, tired and ever-so-slightly anxious in case he falls asleep between now and when the train reaches the station, and misses his cue to say to Alice, Drew and Aleesha: 'OK, this is Inverness, let's move it.'",
             "work": "\u201cVanilla-Bright like Eminem\u201d from The Farenheit Twins"
         },
         {
             "author": "Andrew Norriss",
             "quote_former": "The date was the 14th of May and the clock on his desk said the time was twenty three minutes past ten, so he tapped in the numbers 10.23. At least, that's what he meant to do. In fact he typed in the numbers ",
-			"time": "10.03",
-			"quote_latter": ".",
+            "time": "10.03",
+            "quote_latter": ".",
             "work": "Ctrl-Z"
         }
     ],
@@ -4681,8 +4681,8 @@ const quoteMap = {
         {
             "author": "Sophie Kinsella",
             "quote_former": "We both watch as a pair of swans sail regally under the little bridge. Then I glance at my watch. It's already ",
-			"time": "five past ten",
-			"quote_latter": ". \u201cWe should get going,\u201d I say with a little start. Your mother will be waiting.\u201d \u201cThere's no rush,\u201d Nathaniel calls as I hasten down the other side of the bridge. \u201cWe've got all day.\u201d He lopes down the bridge. \u201cIt's OK. You can slow down.\u201d I try to match his relaxed pace. But I'm not used to this easy rhythm. I'm used to striding along crowded pavements, fighting my way, pushing and elbowing.",
+            "time": "five past ten",
+            "quote_latter": ". \u201cWe should get going,\u201d I say with a little start. Your mother will be waiting.\u201d \u201cThere's no rush,\u201d Nathaniel calls as I hasten down the other side of the bridge. \u201cWe've got all day.\u201d He lopes down the bridge. \u201cIt's OK. You can slow down.\u201d I try to match his relaxed pace. But I'm not used to this easy rhythm. I'm used to striding along crowded pavements, fighting my way, pushing and elbowing.",
             "work": "The Undomestic Goddess"
         }
     ],
@@ -4690,8 +4690,8 @@ const quoteMap = {
         {
             "author": "Allison Pearson",
             "quote_former": "",
-			"time": "10.07 am",
-			"quote_latter": ": In a meeting with Rod, Momo and Guy. We are rehearsing the final for the third time, with Rod and Guy taking the parts of the clients, when Rod's secretary, Lorraine, bursts in.",
+            "time": "10.07 am",
+            "quote_latter": ": In a meeting with Rod, Momo and Guy. We are rehearsing the final for the third time, with Rod and Guy taking the parts of the clients, when Rod's secretary, Lorraine, bursts in.",
             "work": "I Don't Know How She Does It"
         }
     ],
@@ -4699,8 +4699,8 @@ const quoteMap = {
         {
             "author": "James Ellroy",
             "quote_former": "He followed the squeals down a hallway. A wall clock read 8:09-",
-			"time": "10:09",
-			"quote_latter": " Dallas time.",
+            "time": "10:09",
+            "quote_latter": " Dallas time.",
             "work": "American Tabloid"
         }
     ],
@@ -4708,15 +4708,15 @@ const quoteMap = {
         {
             "author": "John Dickson Carr",
             "quote_former": "",
-			"time": "10:10",
-			"quote_latter": " Shot is fired.",
+            "time": "10:10",
+            "quote_latter": " Shot is fired.",
             "work": "The Hollow Man"
         },
         {
             "author": "AG Macdonell",
             "quote_former": "Saturday morning was bright and sunny, and at ",
-			"time": "ten minutes past 10",
-			"quote_latter": " Donald arrived at the Embankment entrance of Charing Cross Underground Station, carrying a small suitcase full of clothes suitable for outdoor sports and pastimes.",
+            "time": "ten minutes past 10",
+            "quote_latter": " Donald arrived at the Embankment entrance of Charing Cross Underground Station, carrying a small suitcase full of clothes suitable for outdoor sports and pastimes.",
             "work": "England, Their England"
         }
     ],
@@ -4724,8 +4724,8 @@ const quoteMap = {
         {
             "author": "P.G. Wodehouse",
             "quote_former": "Through the curtained windows of the furnished apartment which Mrs. Horace Hignett had rented for her stay in New York rays of golden sunlight peeped in like the foremost spies of some advancing army. It was a fine summer morning. The hands of the Dutch clock in the hall pointed to thirteen minutes past nine; those of the ormolu clock in the sitting-room to ",
-			"time": "eleven minutes past ten",
-			"quote_latter": "; those of the carriage clock on the bookshelf to fourteen minutes to six. In other words, it was exactly eight; and Mrs. Hignett acknowledged the fact by moving her head on the pillow, opening her eyes, and sitting up in bed. She always woke at eight precisely.",
+            "time": "eleven minutes past ten",
+            "quote_latter": "; those of the carriage clock on the bookshelf to fourteen minutes to six. In other words, it was exactly eight; and Mrs. Hignett acknowledged the fact by moving her head on the pillow, opening her eyes, and sitting up in bed. She always woke at eight precisely.",
             "work": "Three Men and a Maid"
         }
     ],
@@ -4733,8 +4733,8 @@ const quoteMap = {
         {
             "author": "Jonathan Franzen",
             "quote_former": "He stood up once, early on, to lock his office door, and then he was reading the last page, and it was exactly ",
-			"time": "10:12 a.m.",
-			"quote_latter": ", and the sun beating on his office windows was a different sun from the one he'd always known.",
+            "time": "10:12 a.m.",
+            "quote_latter": ", and the sun beating on his office windows was a different sun from the one he'd always known.",
             "work": "Freedom"
         }
     ],
@@ -4742,8 +4742,8 @@ const quoteMap = {
         {
             "author": "Jules Verne",
             "quote_former": "\"By the bye,\" said the first, \"I was able this morning to telegraph the very words of the order to my cousin at seventeen minutes past ten.\" \"And I sent it to the Daily Telegraph at ",
-			"time": "thirteen minutes past ten",
-			"quote_latter": ".\" \"Bravo, Mr. Blount!\" \"Very good, M. Jolivet.\"",
+            "time": "thirteen minutes past ten",
+            "quote_latter": ".\" \"Bravo, Mr. Blount!\" \"Very good, M. Jolivet.\"",
             "work": "Michel Strogoff"
         }
     ],
@@ -4751,8 +4751,8 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "At ",
-			"time": "10.15",
-			"quote_latter": " Arlena departed from her rondezvous, a minute or two later Patrick Redfern came down and registered surprise, annoyance, etc. Christine's task was easy enough. Keeping her own watch concealed she asked she asked Linda at twenty-five past eleven what time it was. Linda looked at her watch and replied that it was a quarter to twelve.",
+            "time": "10.15",
+            "quote_latter": " Arlena departed from her rondezvous, a minute or two later Patrick Redfern came down and registered surprise, annoyance, etc. Christine's task was easy enough. Keeping her own watch concealed she asked she asked Linda at twenty-five past eleven what time it was. Linda looked at her watch and replied that it was a quarter to twelve.",
             "work": "Evil under the sun"
         }
     ],
@@ -4760,8 +4760,8 @@ const quoteMap = {
         {
             "author": "Sophie Kinsella",
             "quote_former": "",
-			"time": "10:16",
-			"quote_latter": " At last. Forty minutes of hard work and I have made precisely one bed. I'm way behind. But never mind. Just keep moving. Laundry next.",
+            "time": "10:16",
+            "quote_latter": " At last. Forty minutes of hard work and I have made precisely one bed. I'm way behind. But never mind. Just keep moving. Laundry next.",
             "work": "The Undomestic Goddess"
         }
     ],
@@ -4769,8 +4769,8 @@ const quoteMap = {
         {
             "author": "Jules Verne",
             "quote_former": "\"By the bye,\" said the first, \"I was able this morning to telegraph the very words of the order to my cousin at ",
-			"time": "seventeen minutes past ten",
-			"quote_latter": ".\" \"And I sent it to the Daily Telegraph at thirteen minutes past ten.\"n \"Bravo, Mr. Blount!\" \"Very good, M. Jolivet.\" \"I will try and match that!\"",
+            "time": "seventeen minutes past ten",
+            "quote_latter": ".\" \"And I sent it to the Daily Telegraph at thirteen minutes past ten.\"n \"Bravo, Mr. Blount!\" \"Very good, M. Jolivet.\" \"I will try and match that!\"",
             "work": "Michel Strogoff"
         }
     ],
@@ -4778,8 +4778,8 @@ const quoteMap = {
         {
             "author": "Jonathan Safran Foer",
             "quote_former": "I know that it was ",
-			"time": "10:18",
-			"quote_latter": " when I got home because I look at my watch a lot.",
+            "time": "10:18",
+            "quote_latter": " when I got home because I look at my watch a lot.",
             "work": "Extremely Loud and Incredibly Close"
         }
     ],
@@ -4787,8 +4787,8 @@ const quoteMap = {
         {
             "author": "James Joyce",
             "quote_former": "How much is the clock fast now? His mother straightened the battered alarm clock that was lying on its side in the middle of the mantelpiece until its dial showed a quarter to twelve and then laid it once more on its side. An hour and twenty-five minutes, she said. The right time now is ",
-			"time": "twenty past ten",
-			"quote_latter": ".",
+            "time": "twenty past ten",
+            "quote_latter": ".",
             "work": "A Portrait of the Artist as a Young Man"
         }
     ],
@@ -4796,8 +4796,8 @@ const quoteMap = {
         {
             "author": "Margaret Drabble",
             "quote_former": "Liz Headleand stares into the mirror, as though entranced. She does not see herself or the objects on her dressing-table. The clock abruptly jerks to ",
-			"time": "10.21",
-			"quote_latter": ".",
+            "time": "10.21",
+            "quote_latter": ".",
             "work": "The Radiant Way"
         }
     ],
@@ -4805,8 +4805,8 @@ const quoteMap = {
         {
             "author": "Jonathan Safran Foer",
             "quote_former": "I listened to them, and listened to them again, and then before I had time to figure out what to do, or even what to think or feel, the phone started ringing. It was ",
-			"time": "10:22",
-			"quote_latter": ":27. I looked at the caller ID and saw that it was him.",
+            "time": "10:22",
+            "quote_latter": ":27. I looked at the caller ID and saw that it was him.",
             "work": "Extremely Loud and Incredibly Close"
         }
     ],
@@ -4814,8 +4814,8 @@ const quoteMap = {
         {
             "author": "Andrew Norriss",
             "quote_former": "The date was the 14th of May and the clock on his desk said the time was ",
-			"time": "twenty three minutes past ten",
-			"quote_latter": ", so he tapped in the numbers 10.23. At least, that's what he meant to do. In fact he typed in the numbers 10.03",
+            "time": "twenty three minutes past ten",
+            "quote_latter": ", so he tapped in the numbers 10.23. At least, that's what he meant to do. In fact he typed in the numbers 10.03",
             "work": "Ctrl-Z"
         }
     ],
@@ -4823,15 +4823,15 @@ const quoteMap = {
         {
             "author": "Heinrich B\u00f6ll",
             "quote_former": "",
-			"time": "10:25",
-			"quote_latter": ": Phone call from L\u00fcding, very worked up, urging me to return at once and get in touch with Alois, who was equally worked up.",
+            "time": "10:25",
+            "quote_latter": ": Phone call from L\u00fcding, very worked up, urging me to return at once and get in touch with Alois, who was equally worked up.",
             "work": "The Lost Honour of Katharina Blum"
         },
         {
             "author": "JG Ballard",
             "quote_former": "One meal is enough now, topped up with a glucose shot. Sleep is still 'black', completely unrefreshing. Last night I took a 16 mm. film of the first three hours, screened it this morning at the lab. The first true-horror movie. I looked like a half-animated corpse. Woke ",
-			"time": "10:25",
-			"quote_latter": ". To sleep 3:45.",
+            "time": "10:25",
+            "quote_latter": ". To sleep 3:45.",
             "work": "The Voices of Time"
         }
     ],
@@ -4839,15 +4839,15 @@ const quoteMap = {
         {
             "author": "Sophie Kinsella",
             "quote_former": "",
-			"time": "10:26",
-			"quote_latter": " No. Please, no. I can hardly bear to look. It's a total disaster. Everything in the washing machine has gone pink. Every single thing. What happened? With trembling fingers I pick out a damp cashmere cardigan. It was a cream when I put it in. It's now a sickly shade of candy floss. I knew K3 was bad news. I knew it -",
+            "time": "10:26",
+            "quote_latter": " No. Please, no. I can hardly bear to look. It's a total disaster. Everything in the washing machine has gone pink. Every single thing. What happened? With trembling fingers I pick out a damp cashmere cardigan. It was a cream when I put it in. It's now a sickly shade of candy floss. I knew K3 was bad news. I knew it -",
             "work": "The Undomestic Goddess"
         },
         {
             "author": "Haruki Murakami",
             "quote_former": "In the exact centre of my visual field was the alarm clock, hands pointing to ",
-			"time": "ten-twenty-six",
-			"quote_latter": ". An alarm clock I received as a memento of somebody's wedding.",
+            "time": "ten-twenty-six",
+            "quote_latter": ". An alarm clock I received as a memento of somebody's wedding.",
             "work": "Hard-boiled Wonderland and The End of the World"
         }
     ],
@@ -4855,15 +4855,15 @@ const quoteMap = {
         {
             "author": "AG Macdonell",
             "quote_former": "Mr. Harcourt woke up with mysterious suddenness at ",
-			"time": "twenty-seven minutes past 10",
-			"quote_latter": ", and, by a curious coincidence, it was at that very instant that the butler came in with two footmen laden with trays of whisky, brandy, syphons, glasses, and biscuits.",
+            "time": "twenty-seven minutes past 10",
+            "quote_latter": ", and, by a curious coincidence, it was at that very instant that the butler came in with two footmen laden with trays of whisky, brandy, syphons, glasses, and biscuits.",
             "work": "England, Their England"
         },
         {
             "author": "Ali Smith",
             "quote_former": "She is on holiday in Norfolk. The substandard clock radio says ",
-			"time": "10:27 a.m.",
-			"quote_latter": " The noise is Katrina the Cleaner thumping the hoover against the skirting boards and the bedroom doors. Her hand is asleep. It is still hooked through the handstrap of the camera. She unhooks it and shakes it to get the blood back into it. She puts her feet on top of her trainers and slides them across the substandard carpet. It has the bare naked feet of who knows how many hundreds of dead or old people on it.",
+            "time": "10:27 a.m.",
+            "quote_latter": " The noise is Katrina the Cleaner thumping the hoover against the skirting boards and the bedroom doors. Her hand is asleep. It is still hooked through the handstrap of the camera. She unhooks it and shakes it to get the blood back into it. She puts her feet on top of her trainers and slides them across the substandard carpet. It has the bare naked feet of who knows how many hundreds of dead or old people on it.",
             "work": "The Accidental"
         }
     ],
@@ -4871,22 +4871,22 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "10.30 a.m.",
-			"quote_latter": " Break",
+            "time": "10.30 a.m.",
+            "quote_latter": " Break",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "Michael Cunningham",
             "quote_former": "according to the clock on the wall, it is barely ",
-			"time": "ten thirty",
-			"quote_latter": ".",
+            "time": "ten thirty",
+            "quote_latter": ".",
             "work": "The Hours"
         },
         {
             "author": "Richard Ford",
             "quote_former": "At ",
-			"time": "ten-thirty",
-			"quote_latter": " I'm cleaned up, shaved and dressed in my Easter best - a two-piece seersucker Palm Beach I've had since college.",
+            "time": "ten-thirty",
+            "quote_latter": " I'm cleaned up, shaved and dressed in my Easter best - a two-piece seersucker Palm Beach I've had since college.",
             "work": "The Sportswriter"
         }
     ],
@@ -4894,8 +4894,8 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "\"If you please. You went to bed at what time, Madame?\" \"",
-			"time": "Just after half past ten.",
-			"quote_latter": "\"",
+            "time": "Just after half past ten.",
+            "quote_latter": "\"",
             "work": "Death on the Nile"
         }
     ],
@@ -4903,8 +4903,8 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "\"If you please. You went to bed at what time, Madame?\" \"",
-			"time": "Just after half past ten.",
-			"quote_latter": "\"",
+            "time": "Just after half past ten.",
+            "quote_latter": "\"",
             "work": "Death on the Nile"
         }
     ],
@@ -4912,8 +4912,8 @@ const quoteMap = {
         {
             "author": "Patrick Hamilton",
             "quote_former": "",
-			"time": "Five-and-twenty to eleven",
-			"quote_latter": ". A horrible hour - a macabre hour, for it is not only the hour of pleasure ended, it is the hour when pleasure itself has been found wanting.",
+            "time": "Five-and-twenty to eleven",
+            "quote_latter": ". A horrible hour - a macabre hour, for it is not only the hour of pleasure ended, it is the hour when pleasure itself has been found wanting.",
             "work": "Rope"
         }
     ],
@@ -4921,8 +4921,8 @@ const quoteMap = {
         {
             "author": "Arthur Conan Doyle",
             "quote_former": "\"Strand post mark and dispatched ",
-			"time": "ten thirty-six",
-			"quote_latter": "\" said Holmes reading it over and over. \"Mr Overton was evidently considerably excited when he sent it over and somewhat incoherent in consequence.\"",
+            "time": "ten thirty-six",
+            "quote_latter": "\" said Holmes reading it over and over. \"Mr Overton was evidently considerably excited when he sent it over and somewhat incoherent in consequence.\"",
             "work": "The Adventure of the Missing Three-Quarter"
         }
     ],
@@ -4930,8 +4930,8 @@ const quoteMap = {
         {
             "author": "Dorothy L. Sayers",
             "quote_former": "I quite agree with you,' said Mr Murbles. 'It is a most awkward situation. Lady Dormer died at precisely ",
-			"time": "10.37 a.m.",
-			"quote_latter": " on November 11th.'",
+            "time": "10.37 a.m.",
+            "quote_latter": " on November 11th.'",
             "work": "The Unpleasantness at the Bellona Club"
         }
     ],
@@ -4939,8 +4939,8 @@ const quoteMap = {
         {
             "author": "Sophie Kinsella",
             "quote_former": "There must be a solution, there must be. Frantically I scan the cans of products stacked on the shelves. Stain Away. Vanish. There has to be a remedy. ... I just need to think. ... ",
-			"time": "10:38",
-			"quote_latter": " OK, I have the answer. It may not totally work\u2014but it's my best shot.",
+            "time": "10:38",
+            "quote_latter": " OK, I have the answer. It may not totally work\u2014but it's my best shot.",
             "work": "The Undomestic Goddess"
         }
     ],
@@ -4948,8 +4948,8 @@ const quoteMap = {
         {
             "author": "Heinrich B\u00f6ll",
             "quote_former": "",
-			"time": "10:40",
-			"quote_latter": ": Call from Katharina asking me whether I had really said what was in the News.",
+            "time": "10:40",
+            "quote_latter": ": Call from Katharina asking me whether I had really said what was in the News.",
             "work": "The Lost Honour of Katharina Blum"
         }
     ],
@@ -4957,8 +4957,8 @@ const quoteMap = {
         {
             "author": "Jane Costello",
             "quote_former": "24 January, ",
-			"time": "10.43 a.m",
-			"quote_latter": ": one month and two days later I wonder if I should worry about the fact that my darling boyfriend bought me a birthday present that has the potential to cause instant death...",
+            "time": "10.43 a.m",
+            "quote_latter": ": one month and two days later I wonder if I should worry about the fact that my darling boyfriend bought me a birthday present that has the potential to cause instant death...",
             "work": "The Wish List"
         }
     ],
@@ -4966,15 +4966,15 @@ const quoteMap = {
         {
             "author": "Arthur Conan Doyle",
             "quote_former": "If this is so, we have now to determine what Barker and Mrs. Douglas, presuming they are not the actual murderers, would have been doing from ",
-			"time": "quarter to eleven",
-			"quote_latter": ", when the sound of the shot brought them down, until quarter past eleven, when they rang for the bell and summoned the servants'.",
+            "time": "quarter to eleven",
+            "quote_latter": ", when the sound of the shot brought them down, until quarter past eleven, when they rang for the bell and summoned the servants'.",
             "work": "The Valley of Fear"
         },
         {
             "author": "J.K.Rowling",
             "quote_former": "They reached King's Cross at a ",
-			"time": "quarter to eleven",
-			"quote_latter": ". Mr Weasley dashed across the road to get trolleys for their trunks and they all hurried into the station.",
+            "time": "quarter to eleven",
+            "quote_latter": ". Mr Weasley dashed across the road to get trolleys for their trunks and they all hurried into the station.",
             "work": "Harry Potter and the Chamber of Secrets"
         }
     ],
@@ -4982,8 +4982,8 @@ const quoteMap = {
         {
             "author": "Jackie Kay",
             "quote_former": "He whistles in the shower. It is ",
-			"time": "10.47",
-			"quote_latter": " and he is ready for the off.",
+            "time": "10.47",
+            "quote_latter": " and he is ready for the off.",
             "work": "Trumpet"
         }
     ],
@@ -4991,8 +4991,8 @@ const quoteMap = {
         {
             "author": "Louise Doughty",
             "quote_former": "At ",
-			"time": "10.48am",
-			"quote_latter": ", I closed my folder but didn't bother putting it back in my bag, so you knew I was on my way to a committee or meeting room nearby. Before I stood up, I folded my paper napkin and put it and the spoon into my coffee cup, a neat sort of person, you thought.",
+            "time": "10.48am",
+            "quote_latter": ", I closed my folder but didn't bother putting it back in my bag, so you knew I was on my way to a committee or meeting room nearby. Before I stood up, I folded my paper napkin and put it and the spoon into my coffee cup, a neat sort of person, you thought.",
             "work": "Apple Tree Yard"
         }
     ],
@@ -5000,8 +5000,8 @@ const quoteMap = {
         {
             "author": "F\u00e9licien de Saulcy",
             "quote_former": "By ",
-			"time": "forty-nine minutes past ten",
-			"quote_latter": ", we fall in again with a fine portion of the ancient road, which the modern track constantly follows, and descend by some steep windings, hewn in the side of a precipitous cliff, to the place where the Ouad-el-Haoud commences.",
+            "time": "forty-nine minutes past ten",
+            "quote_latter": ", we fall in again with a fine portion of the ancient road, which the modern track constantly follows, and descend by some steep windings, hewn in the side of a precipitous cliff, to the place where the Ouad-el-Haoud commences.",
             "work": "Narrative of a Journey round the Dead Sea and in the Bible lands in 1850 and 1851"
         }
     ],
@@ -5009,15 +5009,15 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "10.50 a.m.",
-			"quote_latter": " Art class with Mrs Peters",
+            "time": "10.50 a.m.",
+            "quote_latter": " Art class with Mrs Peters",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "Len Deighton",
             "quote_former": "As he walked back to the flight office, airmen were forming a line to await the arrival of the NAAFI van with morning tea and cakes. Lambert looked at his watch; it was ",
-			"time": "ten to eleven",
-			"quote_latter": ".",
+            "time": "ten to eleven",
+            "quote_latter": ".",
             "work": "Bomber"
         }
     ],
@@ -5025,15 +5025,15 @@ const quoteMap = {
         {
             "author": "Michael Frayn",
             "quote_former": "He begins to make a record of our observations.'",
-			"time": "10.53 hrs",
-			"quote_latter": ",' he writes, as we crouch at the top of the stairs, listening to his mother in the hall below.",
+            "time": "10.53 hrs",
+            "quote_latter": ",' he writes, as we crouch at the top of the stairs, listening to his mother in the hall below.",
             "work": "Spies"
         },
         {
             "author": "W.G. Sebald",
             "quote_former": "I gaze and gaze again at that face, which seems to me both strange and familiar, said Austerlitz, I run the tape back repeatedly, looking at the time indicator in the top left-hand corner of the screen, where the figures covering part of her forehead show the minutes and seconds, from ",
-			"time": "10:53",
-			"quote_latter": " to 10:57, while the hundredths of a second flash by so fast that you cannot read and capture them.",
+            "time": "10:53",
+            "quote_latter": " to 10:57, while the hundredths of a second flash by so fast that you cannot read and capture them.",
             "work": "Austerlitz"
         }
     ],
@@ -5041,8 +5041,8 @@ const quoteMap = {
         {
             "author": "AA Milne",
             "quote_former": "The clock was still saying ",
-			"time": "five minutes to eleven",
-			"quote_latter": " when Pooh and Piglet set out on their way half an hour later.",
+            "time": "five minutes to eleven",
+            "quote_latter": " when Pooh and Piglet set out on their way half an hour later.",
             "work": "The House at Pooh Corner"
         }
     ],
@@ -5050,8 +5050,8 @@ const quoteMap = {
         {
             "author": "W. G. Sebald",
             "quote_former": "I run the tape back repeatedly, looking at the time indicator in the top left-hand corner of the screen, where the figures covering part of her forehead show the minutes and seconds, from 10.53 to ",
-			"time": "10.57",
-			"quote_latter": ".",
+            "time": "10.57",
+            "quote_latter": ".",
             "work": "Austerlitz"
         }
     ],
@@ -5059,8 +5059,8 @@ const quoteMap = {
         {
             "author": "Helen DeWitt",
             "quote_former": "One day Joe was sitting in the office waiting for his 11 o'clock appointment, and at ",
-			"time": "10:58",
-			"quote_latter": " this black gal came in.",
+            "time": "10:58",
+            "quote_latter": " this black gal came in.",
             "work": "Lightning Rods"
         }
     ],
@@ -5068,8 +5068,8 @@ const quoteMap = {
         {
             "author": "J. K. Rowling",
             "quote_former": "Harry grunted in his sleep and his face slid down the window an inch or so, making his glasses still more lopsided, but he did not wake up. An alarm clock, repaired by Harry several years ago, ticked loudly on the sill, showing ",
-			"time": "one minute to eleven",
-			"quote_latter": ".",
+            "time": "one minute to eleven",
+            "quote_latter": ".",
             "work": "Harry Potter and the Half-Blood Prince"
         }
     ],
@@ -5077,85 +5077,85 @@ const quoteMap = {
         {
             "author": "Virginia Woolf",
             "quote_former": "'Who can - what can -\u201d asked Mrs Dalloway (thinking it was outrageous to be interrupted at ",
-			"time": "eleven o'clock",
-			"quote_latter": " on the morning of the day she was giving a party), hearing a step on the stairs.",
+            "time": "eleven o'clock",
+            "quote_latter": " on the morning of the day she was giving a party), hearing a step on the stairs.",
             "work": "Mrs Dalloway"
         },
         {
             "author": "Scarlett Thomas",
             "quote_former": "\"By ",
-			"time": "11 o'clock",
-			"quote_latter": " I have finished the first chapter of Mr Y. The winter sun is peeping meekly through the thin curtains and I decide to get up\"",
+            "time": "11 o'clock",
+            "quote_latter": " I have finished the first chapter of Mr Y. The winter sun is peeping meekly through the thin curtains and I decide to get up\"",
             "work": "The End of Mr Y"
         },
         {
             "author": "Evelyn Waugh",
             "quote_former": "As her husband had told him, she was still in bed although it was past ",
-			"time": "11 o'clock",
-			"quote_latter": ". Her normally mobile face was encased in clay, rigid and menacing as an Aztec mask.",
+            "time": "11 o'clock",
+            "quote_latter": ". Her normally mobile face was encased in clay, rigid and menacing as an Aztec mask.",
             "work": "Scoop"
         },
         {
             "author": "Virginia Woolf",
             "quote_former": "As they looked the whole world became perfectly silent, and a flight of gulls crossed the sky, first one gull leading, then another, and in this extraordinary silence and peace, in this pallor, in this purity, bells struck ",
-			"time": "eleven ",
-			"quote_latter": "times the sound fading up there among the gulls.",
+            "time": "eleven ",
+            "quote_latter": "times the sound fading up there among the gulls.",
             "work": "Mrs. Dalloway"
         },
         {
             "author": "Jo Nesbo",
             "quote_former": "At ",
-			"time": "eleven o'clock",
-			"quote_latter": " in the morning, large flakes had appeared from a colourless sky and invaded the fields, gardens and lawns of Romerike like an armada from outer space.",
+            "time": "eleven o'clock",
+            "quote_latter": " in the morning, large flakes had appeared from a colourless sky and invaded the fields, gardens and lawns of Romerike like an armada from outer space.",
             "work": "The Snowman"
         },
         {
             "author": "Douglas Adams",
             "quote_former": "At ",
-			"time": "eleven o'clock",
-			"quote_latter": " the phone rang, and still the figure did not respond, any more than it had responded when the phone had rung at twenty-five to seven, and again for ten minutes continuously starting at five to seven...",
+            "time": "eleven o'clock",
+            "quote_latter": " the phone rang, and still the figure did not respond, any more than it had responded when the phone had rung at twenty-five to seven, and again for ten minutes continuously starting at five to seven...",
             "work": "The Long Dark Tea-Time of the Soul"
         },
         {
             "author": "Virginia Woolf",
             "quote_former": "Big Ben was striking as she stepped out into the street. It was ",
-			"time": "eleven o'clock",
-			"quote_latter": " and the unused hour was fresh as if issued to children on a beach.",
+            "time": "eleven o'clock",
+            "quote_latter": " and the unused hour was fresh as if issued to children on a beach.",
             "work": "Mrs Dalloway"
         },
         {
             "author": "Raymond Chandler",
             "quote_former": "It was about ",
-			"time": "eleven o'clock",
-			"quote_latter": " in the morning, mid October, with the sun not shining and a look of hard wet rain in the clearness of the foothills. I was wearing my powder-blue suit, with dark blue shirt, tie and display handkerchief, black brogues, black wool socks with dark blue clocks on them. I was neat, clean, shaved and sober, and I didn't care who knew it. I was everything the well-dressed private detective ought to be. I was calling on four millon dollars.",
+            "time": "eleven o'clock",
+            "quote_latter": " in the morning, mid October, with the sun not shining and a look of hard wet rain in the clearness of the foothills. I was wearing my powder-blue suit, with dark blue shirt, tie and display handkerchief, black brogues, black wool socks with dark blue clocks on them. I was neat, clean, shaved and sober, and I didn't care who knew it. I was everything the well-dressed private detective ought to be. I was calling on four millon dollars.",
             "work": "The big sleep"
         },
         {
             "author": "Patsy Hickman",
             "quote_former": "My sister is terrified that I might write and tell all the family secrets. Why do I feel like a rebel, like an iconoclast? I am only trying to do a writing class, what is wrong with that? I keep telling myself that once in the car I will be fine, I can listen to Radio Four Woman\u2019s Hour and that will take me till ",
-			"time": "eleven ",
-			"quote_latter": "o\u2019clock when the class starts.",
+            "time": "eleven ",
+            "quote_latter": "o\u2019clock when the class starts.",
             "work": "The Saints"
         },
         {
             "author": "G.W.M. Reynolds",
             "quote_former": "ON the morning following the events just narrated, Mrs. Arlington was seated at breakfast in a sweet little parlour of the splendid mansion which the Earl of Warrington had taken and fitted up for her in Dover Street, Piccadilly. It was about ",
-			"time": "eleven o'clock",
-			"quote_latter": "; and the Enchantress was attired in a delicious deshabill\u00e9. With her little feet upon an ottoman near the fender, and her fine form reclining in a luxurious large arm-chair, she divided her attention between her chocolate and the columns of the Morning Herald. She invariably prolonged the morning's repast as much as possible, limply because it served to wile away the time until the hour for dressing arrived.",
+            "time": "eleven o'clock",
+            "quote_latter": "; and the Enchantress was attired in a delicious deshabill\u00e9. With her little feet upon an ottoman near the fender, and her fine form reclining in a luxurious large arm-chair, she divided her attention between her chocolate and the columns of the Morning Herald. She invariably prolonged the morning's repast as much as possible, limply because it served to wile away the time until the hour for dressing arrived.",
             "work": "The Mysteries of London"
         },
         {
             "author": "Alan Hollinghurst",
             "quote_former": "Though perhaps' \u2013 but here the bracket clock whirred and then hectically struck ",
-			"time": "eleven",
-			"quote_latter": ", its weights spooling downwards at the sudden expense of energy. She had to sit for a moment, when the echo had vanished, to repossess her thoughts.",
+            "time": "eleven",
+            "quote_latter": ", its weights spooling downwards at the sudden expense of energy. She had to sit for a moment, when the echo had vanished, to repossess her thoughts.",
             "work": "The Stranger's Child"
         },
         {
             "author": "Mary Shelley",
             "quote_former": "We passed a few sad hours until ",
-			"time": "eleven o'clock",
-			"quote_latter": ", when the trial was to commence. My father and the rest of the family being obliged to attend as witnesses, I accompanied them to the court. During the whole of this wretched mockery of justice I suffered living torture.",
+            "time": "eleven o'clock",
+            "quote_latter": ", when the trial was to commence. My father and the rest of the family being obliged to attend as witnesses, I accompanied them to the court. During the whole of this wretched mockery of justice I suffered living torture.",
             "work": "Frankenstein"
         }
     ],
@@ -5163,8 +5163,8 @@ const quoteMap = {
         {
             "author": "Justin Cronin",
             "quote_former": "O'Neil rises and takes the tray. He has finished the tea, but the muffins are still here in a wicker basket covered with a blue napkin. The clock above the stove says that it is ",
-			"time": "just past eleven",
-			"quote_latter": ", and guests will be arriving at the house now.",
+            "time": "just past eleven",
+            "quote_latter": ", and guests will be arriving at the house now.",
             "work": "Mary and O'Neil"
         }
     ],
@@ -5172,8 +5172,8 @@ const quoteMap = {
         {
             "author": "The Manhattan Engineer District",
             "quote_former": "On August 9th, three days later, at ",
-			"time": "11.02am",
-			"quote_latter": ", another B\u221229 dropped the second bomb on the industrial section of the city of Nagasaki, totally destroying 1 1/2 square miles of the city, killing 39,000 persons and injuring 25,000 more.",
+            "time": "11.02am",
+            "quote_latter": ", another B\u221229 dropped the second bomb on the industrial section of the city of Nagasaki, totally destroying 1 1/2 square miles of the city, killing 39,000 persons and injuring 25,000 more.",
             "work": "The Atomic Bombings of Hiroshima and Nagasaki"
         }
     ],
@@ -5181,15 +5181,15 @@ const quoteMap = {
         {
             "author": "Christopher Buckley",
             "quote_former": "\"What makes you think it's for real?\" \"Just a hunch, really. He sounded for real. Sometimes you can just tell about people\"-he smiled-\"even if you're a dull old WASP.\" \"I think it's a setup.\" \"Why?\" \"I just do. Why would someone from the government want to help you?\" \"Good question. Guess I'll find out.\" She went back into the kitchen.\"What time are you meeting him?\" she called out. \"",
-			"time": "Eleven oh-three",
-			"quote_latter": ",\" he said. \"That made me think he's for real. Military and intelligence types set precise appointment times to eliminate confusion and ambiguity. Nothing ambiguous about eleven oh-three.\"",
+            "time": "Eleven oh-three",
+            "quote_latter": ",\" he said. \"That made me think he's for real. Military and intelligence types set precise appointment times to eliminate confusion and ambiguity. Nothing ambiguous about eleven oh-three.\"",
             "work": "Little Green Men"
         },
         {
             "author": "Jorge Luis Borges",
             "quote_former": "On the fourth, at ",
-			"time": "11.03am",
-			"quote_latter": ", the editor of the Yidische Zaitung put in a call to him; Doctor Yarmolinsky did not answer. He was found in his room, his face already a little dark, nearly nude beneath a large, anachronistic cape.",
+            "time": "11.03am",
+            "quote_latter": ", the editor of the Yidische Zaitung put in a call to him; Doctor Yarmolinsky did not answer. He was found in his room, his face already a little dark, nearly nude beneath a large, anachronistic cape.",
             "work": "Death and the Compass"
         }
     ],
@@ -5197,8 +5197,8 @@ const quoteMap = {
         {
             "author": "Evelyn Waugh",
             "quote_former": "As her husband had told him, she was still in bed although it was ",
-			"time": "past 11 o'clock",
-			"quote_latter": ". Her normally mobile face was encased in clay, rigid and menacing as an Aztec mask.",
+            "time": "past 11 o'clock",
+            "quote_latter": ". Her normally mobile face was encased in clay, rigid and menacing as an Aztec mask.",
             "work": "Scoop"
         }
     ],
@@ -5206,15 +5206,15 @@ const quoteMap = {
         {
             "author": "JG Ballard",
             "quote_former": "July 3: 5 3/4 hours. Little done today. Deepening lethargy, dragged myself over to the lab, nearly left the road twice. Concentrated enough to feed the zoo and get the log up to date. Read through the operating manuals Whitby left for the last time, decided on a delivery rate of 40 rontgens/min., target distance of 530 cm. Everything is ready now. Woke ",
-			"time": "11:05",
-			"quote_latter": ". To sleep 3:15.",
+            "time": "11:05",
+            "quote_latter": ". To sleep 3:15.",
             "work": "The Voices of Time"
         },
         {
             "author": "Lee Child",
             "quote_former": "Sansom arrived in a Town Car at ",
-			"time": "five past eleven",
-			"quote_latter": ". Local plates, which meant he had ridden up most of the way on the train. Less convenient for him, but a smaller carbon footprint than driving all the way, or flying. Every detail mattered, in a campaign.",
+            "time": "five past eleven",
+            "quote_latter": ". Local plates, which meant he had ridden up most of the way on the train. Less convenient for him, but a smaller carbon footprint than driving all the way, or flying. Every detail mattered, in a campaign.",
             "work": "Gone Tomorrow"
         }
     ],
@@ -5222,15 +5222,15 @@ const quoteMap = {
         {
             "author": "Sophie Kinsella",
             "quote_former": "",
-			"time": "11:06",
-			"quote_latter": " And ... oh. The ironing. What am I going to do about that?",
+            "time": "11:06",
+            "quote_latter": " And ... oh. The ironing. What am I going to do about that?",
             "work": "The Undomestic Goddess"
         },
         {
             "author": "Jasper Fforde",
             "quote_former": "Despite the remaking of the BookWorld, some books remained tantalisingly out of reach [...] It was entirely possible that they didn't know there was a BookWorld, and still they thought they were real. A fantastic notion, until you consider that up until ",
-			"time": "11.06am",
-			"quote_latter": " on 12 April 1948, everyone else had thought the same.",
+            "time": "11.06am",
+            "quote_latter": " on 12 April 1948, everyone else had thought the same.",
             "work": "One of Our Thursdays is Missing"
         }
     ],
@@ -5238,8 +5238,8 @@ const quoteMap = {
         {
             "author": "Ralph Henry Barbour",
             "quote_former": "At exactly ",
-			"time": "seven minutes past eleven",
-			"quote_latter": " by the ship's clock the Adventurer gave a prolonged screech and, moorings cast off, edged her way out of the basin and dipped her nose in the laughing waters of the bay, embarked at last on a voyage that was destined to fully vindicate her new name.",
+            "time": "seven minutes past eleven",
+            "quote_latter": " by the ship's clock the Adventurer gave a prolonged screech and, moorings cast off, edged her way out of the basin and dipped her nose in the laughing waters of the bay, embarked at last on a voyage that was destined to fully vindicate her new name.",
             "work": "The Adventure Club Afloat"
         }
     ],
@@ -5247,8 +5247,8 @@ const quoteMap = {
         {
             "author": "James Joyce",
             "quote_former": "The bursar was standing in the hall with his arms folded across his chest and when he caught sight of the fat young man he looked significantly at the clock. It was ",
-			"time": "eight minutes past eleven",
-			"quote_latter": ".",
+            "time": "eight minutes past eleven",
+            "quote_latter": ".",
             "work": "Stephen Hero"
         }
     ],
@@ -5256,8 +5256,8 @@ const quoteMap = {
         {
             "author": "Raymond Carver",
             "quote_former": "The first time I saw them it was ",
-			"time": "around eleven",
-			"quote_latter": ", eleven-fifteen, a Saturday morning, I was about two thirds through my route when I turned onto their block and noticed a '56 Ford sedan pulled up in the yard with a big open U-Haul behind.",
+            "time": "around eleven",
+            "quote_latter": ", eleven-fifteen, a Saturday morning, I was about two thirds through my route when I turned onto their block and noticed a '56 Ford sedan pulled up in the yard with a big open U-Haul behind.",
             "work": "Where I'm Calling From"
         }
     ],
@@ -5265,8 +5265,8 @@ const quoteMap = {
         {
             "author": "Kate Atkinson",
             "quote_former": "",
-			"time": "Ten minutes after eleven",
-			"quote_latter": " in Archie McCue's room on the third floor of the extension to the Robert Matthews' soaring sixties' tower - The Queen's Tower, although no queen was ever likely to live in it.",
+            "time": "Ten minutes after eleven",
+            "quote_latter": " in Archie McCue's room on the third floor of the extension to the Robert Matthews' soaring sixties' tower - The Queen's Tower, although no queen was ever likely to live in it.",
             "work": "Emotionally Weird"
         }
     ],
@@ -5274,15 +5274,15 @@ const quoteMap = {
         {
             "author": "Sophie Kinsella",
             "quote_former": "",
-			"time": "11:12",
-			"quote_latter": " I have a solution, via the local paper. A girl from the village will collect it, iron it all overnight at \u00a33 a shirt, and sew on Eddie's button.",
+            "time": "11:12",
+            "quote_latter": " I have a solution, via the local paper. A girl from the village will collect it, iron it all overnight at \u00a33 a shirt, and sew on Eddie's button.",
             "work": "The Undomestic Goddess"
         },
         {
             "author": "Jane Smiley",
             "quote_former": "I squinted down the street at the bank clock: ",
-			"time": "11:12",
-			"quote_latter": ", 87 degrees. \"It's only a block and a half and it's not that hot, Daddy. The walk will do you good.\" This conversation made me breathless, as if I were wearing a girdle with tight stays.",
+            "time": "11:12",
+            "quote_latter": ", 87 degrees. \"It's only a block and a half and it's not that hot, Daddy. The walk will do you good.\" This conversation made me breathless, as if I were wearing a girdle with tight stays.",
             "work": "A Thousand Acres"
         }
     ],
@@ -5290,8 +5290,8 @@ const quoteMap = {
         {
             "author": "Stieg Larsson",
             "quote_former": "The report was dated Sunday, 25 September, 1966, at ",
-			"time": "11.14am.",
-			"quote_latter": " The text was laconic. Call from Hrk Vanger; stating that his brother's daughter (?) Harriett Ulrika Vanger, born 15 June 1960 (age 1960) has been missing from her home on Hedley Island since Saturday afternoon.",
+            "time": "11.14am.",
+            "quote_latter": " The text was laconic. Call from Hrk Vanger; stating that his brother's daughter (?) Harriett Ulrika Vanger, born 15 June 1960 (age 1960) has been missing from her home on Hedley Island since Saturday afternoon.",
             "work": "The Girl With The Dragon Tattoo"
         }
     ],
@@ -5299,15 +5299,15 @@ const quoteMap = {
         {
             "author": "Sir Arthur Conan Doyle",
             "quote_former": "\"Have you a couple of days to spare? Have just been wired for from the west of England in connection with Boscombe Valley tragedy. Shall be glad if you will come with me. Air and scenery perfect. Leave Paddington by the ",
-			"time": "11:15",
-			"quote_latter": ".\"",
+            "time": "11:15",
+            "quote_latter": ".\"",
             "work": "The Adventures of Sherlock Holmes"
         },
         {
             "author": "Raymond Carver",
             "quote_former": "The first time I saw them it was around eleven, ",
-			"time": "eleven-fifteen",
-			"quote_latter": ", a Saturday morning, I was about two thirds through my route when I turned onto their block and noticed a '56 Ford sedan pulled up in the yard with a big open U-Haul behind. There are only three houses on Pine, and theirs was the last house,the others being the Murchisons, who'd been in Arcata a little less than a year, and the Grants, who'd been here about two years. Murchison worked at Simpson Redwood, and Gene Grant was a cook on the morning shift at Denny's. Those two, then a vacant lot, then the house on the end that used to belong to the Coles.",
+            "time": "eleven-fifteen",
+            "quote_latter": ", a Saturday morning, I was about two thirds through my route when I turned onto their block and noticed a '56 Ford sedan pulled up in the yard with a big open U-Haul behind. There are only three houses on Pine, and theirs was the last house,the others being the Murchisons, who'd been in Arcata a little less than a year, and the Grants, who'd been here about two years. Murchison worked at Simpson Redwood, and Gene Grant was a cook on the morning shift at Denny's. Those two, then a vacant lot, then the house on the end that used to belong to the Coles.",
             "work": "Where I'm Calling From"
         }
     ],
@@ -5315,8 +5315,8 @@ const quoteMap = {
         {
             "author": "James Joyce",
             "quote_former": "Mrs. Mooney glanced instinctively at the little gilt clock on the mantelpiece as soon as she had become aware through her revery that the bells of George's Church had stopped ringing. It was ",
-			"time": "seventeen minutes past eleven",
-			"quote_latter": ": she would have lots of time to have the matter out with Mr. Doran and then catch short twelve at Marlborough Street. She was sure she would win.",
+            "time": "seventeen minutes past eleven",
+            "quote_latter": ": she would have lots of time to have the matter out with Mr. Doran and then catch short twelve at Marlborough Street. She was sure she would win.",
             "work": "Dubliners"
         }
     ],
@@ -5324,8 +5324,8 @@ const quoteMap = {
         {
             "author": "Jackie Kay",
             "quote_former": "It is ",
-			"time": "11.18",
-			"quote_latter": ". A row of bungalows in a round with a clump of larch tree in the middle.",
+            "time": "11.18",
+            "quote_latter": ". A row of bungalows in a round with a clump of larch tree in the middle.",
             "work": "Trumpet"
         }
     ],
@@ -5333,8 +5333,8 @@ const quoteMap = {
         {
             "author": "Connie Willis",
             "quote_former": "A whistle cut sharply across his words. Peter got onto his knees to look out the window, and Miss Fuller glared at him. Polly looked down at her watch: ",
-			"time": "11:19",
-			"quote_latter": ". The train. But the stationmaster had said it was always late.",
+            "time": "11:19",
+            "quote_latter": ". The train. But the stationmaster had said it was always late.",
             "work": "Blackout"
         }
     ],
@@ -5342,15 +5342,15 @@ const quoteMap = {
         {
             "author": "Lauren Beukes",
             "quote_former": "OFFICER'S NOTES Disruption alert logged ",
-			"time": "11h20",
-			"quote_latter": " from Stones' Pool Hall (Premises ID 33CBD-Long181). Officer and Aito /379 responded. On arrival found subject shouting threats and acting in aggressive manner. A scan of the subject's SIM ID register revealed that the subject has recent priors including previous public disruptions and a juvenile record.",
+            "time": "11h20",
+            "quote_latter": " from Stones' Pool Hall (Premises ID 33CBD-Long181). Officer and Aito /379 responded. On arrival found subject shouting threats and acting in aggressive manner. A scan of the subject's SIM ID register revealed that the subject has recent priors including previous public disruptions and a juvenile record.",
             "work": "Moxyland"
         },
         {
             "author": "Neil Gaiman",
             "quote_former": "Sweeney pointed to the clock above the bar, held in the massive and indifferent jaws of a stuffed alligator head. The time was ",
-			"time": "11.20",
-			"quote_latter": ".",
+            "time": "11.20",
+            "quote_latter": ".",
             "work": "American Gods"
         }
     ],
@@ -5358,15 +5358,15 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "At 10.15 Arlena departed from her rondezvous, a minute or two later Patrick Redfern came down and registered surprise, annoyance, etc. Christine's task was easy enough. Keeping her own watch concealed she asked Linda at ",
-			"time": "twenty-five past eleven",
-			"quote_latter": " what time it was. Linda looked at her watch and replied that it was a quarter to twelve.",
+            "time": "twenty-five past eleven",
+            "quote_latter": " what time it was. Linda looked at her watch and replied that it was a quarter to twelve.",
             "work": "Evil under the Sun"
         },
         {
             "author": "Heinrich B\u00f6ll",
             "quote_former": "When, at about ",
-			"time": "11.25am",
-			"quote_latter": ", Katharina Blum was finally taken from her apartment for questioning, it was decided not to handcuff her at all.",
+            "time": "11.25am",
+            "quote_latter": ", Katharina Blum was finally taken from her apartment for questioning, it was decided not to handcuff her at all.",
             "work": "The Lost Honour of Katharina Blum"
         }
     ],
@@ -5374,8 +5374,8 @@ const quoteMap = {
         {
             "author": "Chris James",
             "quote_former": "It's from one of the more recent plates the tree has scanned: ",
-			"time": "11.27",
-			"quote_latter": " in the morning of 4 April 1175",
+            "time": "11.27",
+            "quote_latter": " in the morning of 4 April 1175",
             "work": "The Second Internet Cafe, Part 2: The Cascade Annihilator"
         }
     ],
@@ -5383,8 +5383,8 @@ const quoteMap = {
         {
             "author": "Compton Mackenzie",
             "quote_former": "From twenty minutes past nine until twenty-seven minutes past nine, from twenty-five minutes past eleven until ",
-			"time": "twenty-eight minutes past eleven",
-			"quote_latter": ", from ten minutes to three until two minutes to three the heroes of the school met in a large familiarity whose Olympian laughter awed the fearful small boy that flitted uneasily past and chilled the slouching senior that rashly paused to examine the notices in assertion of an unearned right.",
+            "time": "twenty-eight minutes past eleven",
+            "quote_latter": ", from ten minutes to three until two minutes to three the heroes of the school met in a large familiarity whose Olympian laughter awed the fearful small boy that flitted uneasily past and chilled the slouching senior that rashly paused to examine the notices in assertion of an unearned right.",
             "work": "Sinister Street"
         }
     ],
@@ -5392,8 +5392,8 @@ const quoteMap = {
         {
             "author": "Jules Verne",
             "quote_former": "You are four minutes too slow. No matter; it's enough to mention the error. Now from this moment, ",
-			"time": "twenty-nine minutes after eleven, a.m.",
-			"quote_latter": ", this Wednesday, 2nd October, you are in my service.",
+            "time": "twenty-nine minutes after eleven, a.m.",
+            "quote_latter": ", this Wednesday, 2nd October, you are in my service.",
             "work": "Around the World in Eighty Days"
         }
     ],
@@ -5401,29 +5401,29 @@ const quoteMap = {
         {
             "author": "Charles Stross",
             "quote_former": "'It is now ",
-			"time": "11.30",
-			"quote_latter": ". The door to this room is shut, and will remain shut, barring emergencies, until 12.00. I am authorised to inform you that we are now under battle orders.",
+            "time": "11.30",
+            "quote_latter": ". The door to this room is shut, and will remain shut, barring emergencies, until 12.00. I am authorised to inform you that we are now under battle orders.",
             "work": "Singularity Sky"
         },
         {
             "author": "Thomas Hardy",
             "quote_former": "\"O, Frank - I made a mistake! - I thought that church with the spire was All Saints', and I was at the door at ",
-			"time": "half-past eleven",
-			"quote_latter": " to a minute as you said...\"",
+            "time": "half-past eleven",
+            "quote_latter": " to a minute as you said...\"",
             "work": "Far from the madding crowd"
         },
         {
             "author": "Dennis Wheatley",
             "quote_former": "\"Thank-you,\" said C.B. quietly; but as he hung up his face was grim. In a few minutes he would have to break it to John that, although they had braved such dredful perils dring the earlier part of the night they had, after all, failed to save Christina. Beddows had abjured Satan at a little after ",
-			"time": "half-past eleven",
-			"quote_latter": ". By about eighteen minutes the Canon had beaten them to it again.\"",
+            "time": "half-past eleven",
+            "quote_latter": ". By about eighteen minutes the Canon had beaten them to it again.\"",
             "work": "To the Devil a Daughter"
         },
         {
             "author": "Haruki Murakami",
             "quote_former": "This time it was Kumiko. The wall clock said ",
-			"time": "11.30",
-			"quote_latter": ".",
+            "time": "11.30",
+            "quote_latter": ".",
             "work": "The Wind-up Bird Chronicle"
         }
     ],
@@ -5431,8 +5431,8 @@ const quoteMap = {
         {
             "author": "Tom Clancy",
             "quote_former": "Albatross 8 passed over Pamlico Sound at ",
-			"time": "1131",
-			"quote_latter": " local time. Its on-board programming was designed to trace thermal receptors over the entire visible horizon, interrogating everything in sight and locking on any signature that fit its acquisition parameters.",
+            "time": "1131",
+            "quote_latter": " local time. Its on-board programming was designed to trace thermal receptors over the entire visible horizon, interrogating everything in sight and locking on any signature that fit its acquisition parameters.",
             "work": "The Hunt for Red October"
         }
     ],
@@ -5440,8 +5440,8 @@ const quoteMap = {
         {
             "author": "James Joyce",
             "quote_former": "And after that, not forgetting, there was the Flemish armada, all scattered, and all officially drowned, there and then, on a lovely morning, after the universal flood, at about ",
-			"time": "eleven thirty two",
-			"quote_latter": " was it? Off the coast of Cominghome...",
+            "time": "eleven thirty two",
+            "quote_latter": " was it? Off the coast of Cominghome...",
             "work": "Finnegans Wake"
         }
     ],
@@ -5449,8 +5449,8 @@ const quoteMap = {
         {
             "author": "Adnan Mahmutovic",
             "quote_former": "Christmas Eve 1995. ",
-			"time": "11.34am",
-			"quote_latter": ". The first time, Almasa says it slowly and softly, as if she is really looking for an answer, \"Are you talking to me?\" She peers into the small, grimy mirror in a train toilet.",
+            "time": "11.34am",
+            "quote_latter": ". The first time, Almasa says it slowly and softly, as if she is really looking for an answer, \"Are you talking to me?\" She peers into the small, grimy mirror in a train toilet.",
             "work": "How to Fare Well and Stay Fair"
         }
     ],
@@ -5458,8 +5458,8 @@ const quoteMap = {
         {
             "author": "Graham Greene",
             "quote_former": "At ",
-			"time": "11.35",
-			"quote_latter": " the Colonel came out; he looked hot and angry as he strode towards the lift. There goes a hanging judge, thought Wormold.",
+            "time": "11.35",
+            "quote_latter": " the Colonel came out; he looked hot and angry as he strode towards the lift. There goes a hanging judge, thought Wormold.",
             "work": "Our Man in Havana"
         }
     ],
@@ -5467,8 +5467,8 @@ const quoteMap = {
         {
             "author": "Dave Eggers",
             "quote_former": "At ",
-			"time": "11:38",
-			"quote_latter": ", she left her desk and walked to the side door of the auditorium, arriving ten minutes before noon.",
+            "time": "11:38",
+            "quote_latter": ", she left her desk and walked to the side door of the auditorium, arriving ten minutes before noon.",
             "work": "The Circle"
         }
     ],
@@ -5476,15 +5476,15 @@ const quoteMap = {
         {
             "author": "Jules Verne",
             "quote_former": "Did escape occur to him? \u2026 But the door was locked, and the window heavily barred with iron rods. He sat down again, and drew his journal from his pocket. On the line where these words were written, \"21st December, Saturday, Liverpool,\" he added, \"80th day, ",
-			"time": "11.40am",
-			"quote_latter": ",\" and waited.",
+            "time": "11.40am",
+            "quote_latter": ",\" and waited.",
             "work": "Around the World in Eighty Days"
         },
         {
             "author": "Yusunari Kawabata",
             "quote_former": "During the sessions at Ito he read the Lotus Sutra on mornings of play, and he now seemed to be bringing himself to order through silent meditation. Then, quickly, there came a rap of stone on board. It was ",
-			"time": "twenty minutes before noon",
-			"quote_latter": ".",
+            "time": "twenty minutes before noon",
+            "quote_latter": ".",
             "work": "The Master of Go"
         }
     ],
@@ -5492,8 +5492,8 @@ const quoteMap = {
         {
             "author": "Sophie Kinsella",
             "quote_former": "",
-			"time": "11:42",
-			"quote_latter": " I'm doing fine. I'm doing well. I've got the Hoover on, I'm cruising along nicely- What was that? What just went up the Hoover? Why is it making that grinding noise? Have I broken it?",
+            "time": "11:42",
+            "quote_latter": " I'm doing fine. I'm doing well. I've got the Hoover on, I'm cruising along nicely- What was that? What just went up the Hoover? Why is it making that grinding noise? Have I broken it?",
             "work": "The Undomestic Goddess"
         }
     ],
@@ -5501,8 +5501,8 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "At 10.15 Arlena departed from her rondezvous, a minute or two later Patrick Redfern came down and registered surprise, annoyance, etc. Christine's task was easy enough. Keeping her own watch concealed she asked Linda at twenty-five past eleven what time it was. Linda looked at her watch and replied that it was a ",
-			"time": "quarter to twelve",
-			"quote_latter": ".",
+            "time": "quarter to twelve",
+            "quote_latter": ".",
             "work": "Evil under the Sun"
         }
     ],
@@ -5510,36 +5510,36 @@ const quoteMap = {
         {
             "author": "Thomas Hardy",
             "quote_former": "\"...I waited till a ",
-			"time": "quarter to twelve",
-			"quote_latter": ", and found then that I was in All Souls'. But I wasn't much frightened, for I thought it could be tomorrow as well.\"",
+            "time": "quarter to twelve",
+            "quote_latter": ", and found then that I was in All Souls'. But I wasn't much frightened, for I thought it could be tomorrow as well.\"",
             "work": "Far from the madding crowd"
         },
         {
             "author": "Virginia Woolf",
             "quote_former": "\"I will tell you the time,\" said Septimus, very slowly, very drowsily, smiling mysteriously. As he sat smiling at the dead man in the grey suit the quarter struck, the ",
-			"time": "quarter to twelve",
-			"quote_latter": ".",
+            "time": "quarter to twelve",
+            "quote_latter": ".",
             "work": "Mrs. Dalloway"
         },
         {
             "author": "Virginia Woolf",
             "quote_former": "As he sat smiling, the quarter struck - the ",
-			"time": "quarter to twelve",
-			"quote_latter": ".",
+            "time": "quarter to twelve",
+            "quote_latter": ".",
             "work": "Mrs Dalloway"
         },
         {
             "author": "Eric Ambler",
             "quote_former": "I arrived at St. Gatien from Nice on Tuesday, the 14th of August. I was arrested at ",
-			"time": "11.45am",
-			"quote_latter": " on Thursday, the 16th by an agent de police and an inspector in plain clothes and taken to the Commissariat.",
+            "time": "11.45am",
+            "quote_latter": " on Thursday, the 16th by an agent de police and an inspector in plain clothes and taken to the Commissariat.",
             "work": "Epitaph for a Spy"
         },
         {
             "author": "Lisa Scottoline",
             "quote_former": "She tucked the phone in the crook of her neck and thumbed hurriedly through her pink messages. .... Dr. Provetto, at ",
-			"time": "11:45 A.M.",
-			"quote_latter": "",
+            "time": "11:45 A.M.",
+            "quote_latter": "",
             "work": "Mistaken Identity"
         }
     ],
@@ -5547,8 +5547,8 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "At 10.15 Arlena departed from her rondezvous, a minute or two later Patrick Redfern came down and registered surprise, annoyance, etc. Christine's task was easy enough. Keeping her own watch concealed she asked Linda at twenty-five past eleven what time it was. Linda looked at her watch and replied that it was a ",
-			"time": "quarter to twelve",
-			"quote_latter": ".",
+            "time": "quarter to twelve",
+            "quote_latter": ".",
             "work": "Evil under the Sun"
         }
     ],
@@ -5556,8 +5556,8 @@ const quoteMap = {
         {
             "author": "Jonathan Littell",
             "quote_former": "It was a vast plain with no one on it, neither living on the earth nor dead beneath it; and I walked a long time beneath a colourless sky, which didn't let me judge the time (my watch, set like all military watches to Berlin time, hadn't stood up to the swim and showed an eternal ",
-			"time": "thirteen minutes to noon",
-			"quote_latter": ").",
+            "time": "thirteen minutes to noon",
+            "quote_latter": ").",
             "work": "The Kindly Ones"
         }
     ],
@@ -5565,8 +5565,8 @@ const quoteMap = {
         {
             "author": "Dave Eggers",
             "quote_former": "At 11:38, she left her desk and walked to the side door of the auditorium, arriving ",
-			"time": "ten minutes before noon",
-			"quote_latter": ".",
+            "time": "ten minutes before noon",
+            "quote_latter": ".",
             "work": "The Circle"
         }
     ],
@@ -5574,8 +5574,8 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "The man who gave them to him handed him a ten-shilling note and promised him another if it were delivered at exactly ",
-			"time": "ten minutes to twelve",
-			"quote_latter": ".",
+            "time": "ten minutes to twelve",
+            "quote_latter": ".",
             "work": "The Adventure of Johnnie Waverley: A Hercule Poirot Story"
         }
     ],
@@ -5583,8 +5583,8 @@ const quoteMap = {
         {
             "author": "James Thurber",
             "quote_former": "The next day, at ",
-			"time": "nine minutes to twelve",
-			"quote_latter": " o'clock noon, the last clock ran down and stopped. It was then placed in the town museum, as a collector's item, or museum piece, with proper ceremonies, addresses, and the like.",
+            "time": "nine minutes to twelve",
+            "quote_latter": " o'clock noon, the last clock ran down and stopped. It was then placed in the town museum, as a collector's item, or museum piece, with proper ceremonies, addresses, and the like.",
             "work": "Lanterns & Lances"
         }
     ],
@@ -5592,8 +5592,8 @@ const quoteMap = {
         {
             "author": "Anna Sewell",
             "quote_former": "At any rate, we whirled into the station with many more, just as the great clock pointed to ",
-			"time": "eight minutes to twelve",
-			"quote_latter": " o'clock. \"Thank God! We are in time,\" said the young man, \"and thank you, too, my friend, and your good horse...\"",
+            "time": "eight minutes to twelve",
+            "quote_latter": " o'clock. \"Thank God! We are in time,\" said the young man, \"and thank you, too, my friend, and your good horse...\"",
             "work": "Black Beauty"
         }
     ],
@@ -5601,8 +5601,8 @@ const quoteMap = {
         {
             "author": "Patrick Hamilton",
             "quote_former": "He swilled off the remains of [his beer] and looked at the clock. It was ",
-			"time": "six minutes to twelve",
-			"quote_latter": ".",
+            "time": "six minutes to twelve",
+            "quote_latter": ".",
             "work": "Hangover Square"
         }
     ],
@@ -5610,22 +5610,22 @@ const quoteMap = {
         {
             "author": "Robert Tressell",
             "quote_former": "He was tearing off on his bicycle to one of the jobs about ",
-			"time": "five minutes to twelve",
-			"quote_latter": " to see if he could catch anyone leaving off for dinner before the proper time.",
+            "time": "five minutes to twelve",
+            "quote_latter": " to see if he could catch anyone leaving off for dinner before the proper time.",
             "work": "The Ragged Trousered Philanthropists"
         },
         {
             "author": "Bernstein & Woodward",
             "quote_former": "It was ",
-			"time": "11:55 a.m.",
-			"quote_latter": " on April 30.",
+            "time": "11:55 a.m.",
+            "quote_latter": " on April 30.",
             "work": "All the President's Men"
         },
         {
             "author": "Haruki Murakami",
             "quote_former": "What time did you arrive at the site? It was ",
-			"time": "11:55",
-			"quote_latter": ". I remember since I happened to glance at my watch when we got there. We rode our bicycles to the bottom of the hill, as far as we could go, then climbed the rest of the way on foot.",
+            "time": "11:55",
+            "quote_latter": ". I remember since I happened to glance at my watch when we got there. We rode our bicycles to the bottom of the hill, as far as we could go, then climbed the rest of the way on foot.",
             "work": "Kafka on the Shore"
         }
     ],
@@ -5633,15 +5633,15 @@ const quoteMap = {
         {
             "author": "Neal Stephenson",
             "quote_former": "A few minutes' light ",
-			"time": "around noon",
-			"quote_latter": " is all that you need to discover the error, and re-set the clock \u2013 provide that you bother to go up and make the observation.",
+            "time": "around noon",
+            "quote_latter": " is all that you need to discover the error, and re-set the clock \u2013 provide that you bother to go up and make the observation.",
             "work": "Odalisque: The Baroque Cycle #3"
         },
         {
             "author": "Robert Tressell",
             "quote_former": "I wondered what the time is?' said the latter after a pause'. 'I don't know exactly', replied Easton, 'but it ",
-			"time": "can't be far-off twelve",
-			"quote_latter": ".'",
+            "time": "can't be far-off twelve",
+            "quote_latter": ".'",
             "work": "The Ragged Trousered Philanthropists"
         }
     ],
@@ -5649,8 +5649,8 @@ const quoteMap = {
         {
             "author": "Robert Tressell",
             "quote_former": "I wondered what the time is?' said the latter after a pause'. 'I don't know exactly', replied Easton, 'but it ",
-			"time": "can't be far-off twelve",
-			"quote_latter": ".'",
+            "time": "can't be far-off twelve",
+            "quote_latter": ".'",
             "work": "The Ragged Trousered Philanthropists"
         }
     ],
@@ -5658,15 +5658,15 @@ const quoteMap = {
         {
             "author": "Stephen King",
             "quote_former": "And when you go down the steps, it's always ",
-			"time": "11.58",
-			"quote_latter": " on the morning of September ninth, 1958.",
+            "time": "11.58",
+            "quote_latter": " on the morning of September ninth, 1958.",
             "work": "11/22/63"
         },
         {
             "author": "William Makepeace Thackeray",
             "quote_former": "",
-			"time": "Two minutes before the clock struck noon",
-			"quote_latter": ", the savage baron was on the platform to inspect the preparation for the frightful ceremony of mid-day. The block was laid forth-the hideous minister of vengeance, masked and in black, with the flaming glaive in his hand, was ready. The baron tried the edge of the blade with his finger, and asked the dreadful swordsman if his hand was sure? A nod was the reply of the man of blood. The weeping garrison and domestics shuddered and shrank from him. There was not one there but loved and pitied the gentle lady.",
+            "time": "Two minutes before the clock struck noon",
+            "quote_latter": ", the savage baron was on the platform to inspect the preparation for the frightful ceremony of mid-day. The block was laid forth-the hideous minister of vengeance, masked and in black, with the flaming glaive in his hand, was ready. The baron tried the edge of the blade with his finger, and asked the dreadful swordsman if his hand was sure? A nod was the reply of the man of blood. The weeping garrison and domestics shuddered and shrank from him. There was not one there but loved and pitied the gentle lady.",
             "work": "Burlesques"
         }
     ],
@@ -5674,8 +5674,8 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "There is a big grandfather clock there, and as the hands drew ",
-			"time": "near to twelve",
-			"quote_latter": " I don't mind confessing I was as nervous as a cat.",
+            "time": "near to twelve",
+            "quote_latter": " I don't mind confessing I was as nervous as a cat.",
             "work": "The Adventure of Johnnie Waverley: A Hercule Poirot Story"
         }
     ],
@@ -5683,92 +5683,92 @@ const quoteMap = {
         {
             "author": "Yasunari Kawabata",
             "quote_former": "'It will soon be an hour and a half,' said the girl who kept the records. The ",
-			"time": "noon",
-			"quote_latter": "day siren blew. 'Exactly a minute,' she said, looking at the stopwatch of which she was so proud.",
+            "time": "noon",
+            "quote_latter": "day siren blew. 'Exactly a minute,' she said, looking at the stopwatch of which she was so proud.",
             "work": "The Master of Go"
         },
         {
             "author": "Emily Bront\u00eb",
             "quote_former": "'There's nobody here!' I insisted. 'It was yourself, Mrs. Linton: you knew it a while since.' 'Myself!' she gasped, 'and the clock is striking ",
-			"time": "twelve",
-			"quote_latter": "!",
+            "time": "twelve",
+            "quote_latter": "!",
             "work": "Wuthering Heights"
         },
         {
             "author": "Fyodor Dostoyevsky",
             "quote_former": "A cheap little clock on the wall struck ",
-			"time": "twelve",
-			"quote_latter": " hurriedly, and served to begin the conversation.",
+            "time": "twelve",
+            "quote_latter": " hurriedly, and served to begin the conversation.",
             "work": "The Brothers Karamazov"
         },
         {
             "author": "Nick Joaquin",
             "quote_former": "He had saved [the republic] and it was now in the present, alive now and everywhere in the present, and the hovering faces brightened and blurred about him, became the sound of a canal in the morning, the look of some roofs in the ",
-			"time": "noon",
-			"quote_latter": " sun, and the fragrance of a certain evening flower. Here he was, home at last. Behind him were the mountains and the Sleeping Woman in the sky, and before him, like smoky flames in the sunset, the whole beautiful beloved city.",
+            "time": "noon",
+            "quote_latter": " sun, and the fragrance of a certain evening flower. Here he was, home at last. Behind him were the mountains and the Sleeping Woman in the sky, and before him, like smoky flames in the sunset, the whole beautiful beloved city.",
             "work": "The Woman Who Had Two Navels"
         },
         {
             "author": "Virginia Woolf",
             "quote_former": "It was precisely ",
-			"time": "twelve o'clock",
-			"quote_latter": "; twelve by Big Ben; whose stroke was wafted over the northern part of London; blent with that of other clocks, mixed in a thin ethereal way with the clouds and wisps of smoke and died up there among the seagulls, twelve o'clock struck as Clarissa Dalloway laid her green dress on her bed and the Warren Smiths walked down Harley Street. Twelve was the hour of their appointment.",
+            "time": "twelve o'clock",
+            "quote_latter": "; twelve by Big Ben; whose stroke was wafted over the northern part of London; blent with that of other clocks, mixed in a thin ethereal way with the clouds and wisps of smoke and died up there among the seagulls, twelve o'clock struck as Clarissa Dalloway laid her green dress on her bed and the Warren Smiths walked down Harley Street. Twelve was the hour of their appointment.",
             "work": "Mrs Dalloway"
         },
         {
             "author": "Virginia Woolf",
             "quote_former": "It was precisely ",
-			"time": "twelve o'clock",
-			"quote_latter": "; twelve by Big Ben; whose stroke was wafted over the northern part of London; blent with that of other clocks, mixed in a thin ethereal way wth the clouds and wisps of smoke and died up there among the seagulls - twelve o'clock struck as Clarissa Dalloway laid her green dress on the bed, and the Warren Smiths walked down Harley Street.",
+            "time": "twelve o'clock",
+            "quote_latter": "; twelve by Big Ben; whose stroke was wafted over the northern part of London; blent with that of other clocks, mixed in a thin ethereal way wth the clouds and wisps of smoke and died up there among the seagulls - twelve o'clock struck as Clarissa Dalloway laid her green dress on the bed, and the Warren Smiths walked down Harley Street.",
             "work": "Mrs Dalloway"
         },
         {
             "author": "Virginia Woolf",
             "quote_former": "It was precisely ",
-			"time": "twelve o\u2019clock",
-			"quote_latter": "; twelve by Big Ben; whose stroke was wafted over the northern part of London; blent with that of other clocks, mixed in a thin ethereal way with the clouds and wisps of smoke and died up there among the seagulls\u2014twelve o\u2019clock struck as Clarissa Dalloway laid her green dress on her bed, and the Warren Smiths walked down Harley Street",
+            "time": "twelve o\u2019clock",
+            "quote_latter": "; twelve by Big Ben; whose stroke was wafted over the northern part of London; blent with that of other clocks, mixed in a thin ethereal way with the clouds and wisps of smoke and died up there among the seagulls\u2014twelve o\u2019clock struck as Clarissa Dalloway laid her green dress on her bed, and the Warren Smiths walked down Harley Street",
             "work": "Mrs Dalloway"
         },
         {
             "author": "Virginia Woolf",
             "quote_former": "It was precisely ",
-			"time": "twelve o\u2019clock",
-			"quote_latter": "; twelve by Big Ben; whose stroke was wafted over the northern part of London; blent with that of other clocks, mixed in a thin ethereal way with the clouds and wisps of smoke, and died up there among the seagulls.",
+            "time": "twelve o\u2019clock",
+            "quote_latter": "; twelve by Big Ben; whose stroke was wafted over the northern part of London; blent with that of other clocks, mixed in a thin ethereal way with the clouds and wisps of smoke, and died up there among the seagulls.",
             "work": "Mrs Dalloway"
         },
         {
             "author": "Thornton Wilder",
             "quote_former": "On Friday ",
-			"time": "noon",
-			"quote_latter": ", July the twentieth, 1714, the finest bridge in all Peru broke and precipitated five travellers into the gulf below.",
+            "time": "noon",
+            "quote_latter": ", July the twentieth, 1714, the finest bridge in all Peru broke and precipitated five travellers into the gulf below.",
             "work": "The Bridge of San Luis Rey"
         },
         {
             "author": "F. Scott Fitzgerald",
             "quote_former": "Roaring ",
-			"time": "noon",
-			"quote_latter": ". In a well-fanned Forty-second Street cellar I met Gatsby for lunch.",
+            "time": "noon",
+            "quote_latter": ". In a well-fanned Forty-second Street cellar I met Gatsby for lunch.",
             "work": "The Great Gatsby"
         },
         {
             "author": "Emily Dickinson",
             "quote_former": "The Birds begun at Four o'clock \u2014 Their period for Dawn \u2014 A Music numerous as space \u2014 But neighboring as ",
-			"time": "Noon",
-			"quote_latter": " \u2014",
+            "time": "Noon",
+            "quote_latter": " \u2014",
             "work": "The Birds begun at Four o'clock"
         },
         {
             "author": "Thomas Hardy",
             "quote_former": "The Oxen Christmas Eve, and ",
-			"time": "twelve ",
-			"quote_latter": "of the clock. \"Now they are all on their knees,\" An elder said as we sat in a flock By the embers in hearthside ease. We pictured the meek mild creatures where They dwelt in their strawy pen, Nor did it occur to one of us there To doubt they were kneeling then. So fair a fancy few would weave In these years! Yet, I feel, If someone said on Christmas Eve, \"Come; see the oxen kneel \"In the lonely barton by yonder coomb Our childhood used to know,\" I should go with him in the gloom, Hoping it might be so.",
+            "time": "twelve ",
+            "quote_latter": "of the clock. \"Now they are all on their knees,\" An elder said as we sat in a flock By the embers in hearthside ease. We pictured the meek mild creatures where They dwelt in their strawy pen, Nor did it occur to one of us there To doubt they were kneeling then. So fair a fancy few would weave In these years! Yet, I feel, If someone said on Christmas Eve, \"Come; see the oxen kneel \"In the lonely barton by yonder coomb Our childhood used to know,\" I should go with him in the gloom, Hoping it might be so.",
             "work": "The Oxen"
         },
         {
             "author": "Robert Walser",
             "quote_former": "Then came the stroke of ",
-			"time": "noon",
-			"quote_latter": ", and all these working and professional people dispersed like a trampled anthill into all the streets and directions. The white bridge was swarming with nimble dots. And when you considered that each dot had a mouth with which it was now planning to eat lunch, you couldn't help bursting into laughter.",
+            "time": "noon",
+            "quote_latter": ", and all these working and professional people dispersed like a trampled anthill into all the streets and directions. The white bridge was swarming with nimble dots. And when you considered that each dot had a mouth with which it was now planning to eat lunch, you couldn't help bursting into laughter.",
             "work": "The Tanners"
         }
     ],
@@ -5776,22 +5776,22 @@ const quoteMap = {
         {
             "author": "J.G. Ballard",
             "quote_former": "And on all sides there were the clocks. Conrad noticed them immediately, at every street corner, over every archway, three quarters of the way up the sides of buildings, covering every conceivable angle of approach. Most of them were too high off the ground to be reached by anything less than a fireman's ladder and still retained their hands. All registered the same time: ",
-			"time": "12:01",
-			"quote_latter": ". Conrad looked at his wristwatch, noted that it was just 2:45. \u2018\u2018They were driven by a master dock\u2019\u2019 Stacey told him. \u2018\u2018When that stopped, they all ceased at the same moment. One minute after midnight, thirty-seven years ago.\u2019\u2019",
+            "time": "12:01",
+            "quote_latter": ". Conrad looked at his wristwatch, noted that it was just 2:45. \u2018\u2018They were driven by a master dock\u2019\u2019 Stacey told him. \u2018\u2018When that stopped, they all ceased at the same moment. One minute after midnight, thirty-seven years ago.\u2019\u2019",
             "work": "Chronopolis"
         },
         {
             "author": "Jonathan Trigell",
             "quote_former": "It was the twelfth of December, the twelfth month. A was twelve. The electric clock/radio by his bedside table said ",
-			"time": "12:01",
-			"quote_latter": ".",
+            "time": "12:01",
+            "quote_latter": ".",
             "work": "Boy A"
         },
         {
             "author": "Jonathan Trigell",
             "quote_former": "It was the twelfth of December, the twelfth month. A was twelve. The electric clock/radio by his bedside table said ",
-			"time": "12:01",
-			"quote_latter": ". A was waiting for it to read 12:12, he hoped there would be some sense of cosmic rightness when it did.",
+            "time": "12:01",
+            "quote_latter": ". A was waiting for it to read 12:12, he hoped there would be some sense of cosmic rightness when it did.",
             "work": "Boy A"
         }
     ],
@@ -5799,8 +5799,8 @@ const quoteMap = {
         {
             "author": "Lewis Carroll",
             "quote_former": "It had struck ",
-			"time": "twelve o'clock two minutes and a quarter",
-			"quote_latter": ". The Baron's footman hastily seized a large goblet, and gasped with terror as he filled it with hot, spiced wine. \"Tis past the hour, 'tis past,\" he groaned in anguish, \"and surely I shall now get the red hot poker the Baron hath so often promised me, oh! Woe is me! Would that I had prepared the Baron's lunch before!\"",
+            "time": "twelve o'clock two minutes and a quarter",
+            "quote_latter": ". The Baron's footman hastily seized a large goblet, and gasped with terror as he filled it with hot, spiced wine. \"Tis past the hour, 'tis past,\" he groaned in anguish, \"and surely I shall now get the red hot poker the Baron hath so often promised me, oh! Woe is me! Would that I had prepared the Baron's lunch before!\"",
             "work": "Crundle Castle"
         }
     ],
@@ -5808,8 +5808,8 @@ const quoteMap = {
         {
             "author": "Michael Chabon",
             "quote_former": "At ",
-			"time": "12.03",
-			"quote_latter": " the sun has already punched its ticket. Sinking, it stains the cobbles and stucco of the platz in a violin-coloured throb of light that you would have to be a stone not to find poignant.",
+            "time": "12.03",
+            "quote_latter": " the sun has already punched its ticket. Sinking, it stains the cobbles and stucco of the platz in a violin-coloured throb of light that you would have to be a stone not to find poignant.",
             "work": "The Yiddish Policemen's Union"
         }
     ],
@@ -5817,8 +5817,8 @@ const quoteMap = {
         {
             "author": "Nicholson Baker",
             "quote_former": "Though by then it was by Tina's own desk clock ",
-			"time": "12.04pm",
-			"quote_latter": " I was always touched when, out of a morning's worth of repetition, secretaries continued to answer with good mornings for an hour or so into the afternoon, just as people often date things with the previous year well into February; sometimes they caught their mistake and went into a \"This is not my day\" or \"Where is my head?\" escape routine; but in a way they were right, since the true tone of afternoons does not take over in offices until nearly two.",
+            "time": "12.04pm",
+            "quote_latter": " I was always touched when, out of a morning's worth of repetition, secretaries continued to answer with good mornings for an hour or so into the afternoon, just as people often date things with the previous year well into February; sometimes they caught their mistake and went into a \"This is not my day\" or \"Where is my head?\" escape routine; but in a way they were right, since the true tone of afternoons does not take over in offices until nearly two.",
             "work": "The Mezzanine"
         }
     ],
@@ -5826,8 +5826,8 @@ const quoteMap = {
         {
             "author": "Neal Stephenson",
             "quote_former": "A few minutes' light ",
-			"time": "around noon",
-			"quote_latter": " is all that you need to discover the error, and re-set the clock \u2013 provide that you bother to go up and make the observation.",
+            "time": "around noon",
+            "quote_latter": " is all that you need to discover the error, and re-set the clock \u2013 provide that you bother to go up and make the observation.",
             "work": "Odalisque: The Baroque Cycle #3"
         }
     ],
@@ -5835,8 +5835,8 @@ const quoteMap = {
         {
             "author": "Neal Stephenson",
             "quote_former": "A few minutes' light ",
-			"time": "around noon",
-			"quote_latter": " is all that you need to discover the error, and re-set the clock \u2013 provide that you bother to go up and make the observation.",
+            "time": "around noon",
+            "quote_latter": " is all that you need to discover the error, and re-set the clock \u2013 provide that you bother to go up and make the observation.",
             "work": "Odalisque: The Baroque Cycle #3"
         }
     ],
@@ -5844,8 +5844,8 @@ const quoteMap = {
         {
             "author": "Mark Twain",
             "quote_former": "On a Monday Simon Hirsch was going to break his leg at ",
-			"time": "seven minutes after 12",
-			"quote_latter": ", noon, and as soon as Satan told us the day before, Seppi went to betting with me that it would not happen, and soon they got excited and went to betting with me themselves.",
+            "time": "seven minutes after 12",
+            "quote_latter": ", noon, and as soon as Satan told us the day before, Seppi went to betting with me that it would not happen, and soon they got excited and went to betting with me themselves.",
             "work": "The Chronicle of Young Satan"
         }
     ],
@@ -5853,8 +5853,8 @@ const quoteMap = {
         {
             "author": "Matthew Goodman",
             "quote_former": "When a clock struck noon in Washington, D.C., the time was ",
-			"time": "12:08",
-			"quote_latter": " in Philadephia, 12:12 in new York, and 12:24 in Boston.",
+            "time": "12:08",
+            "quote_latter": " in Philadephia, 12:12 in new York, and 12:24 in Boston.",
             "work": "Eighty Days"
         }
     ],
@@ -5862,15 +5862,15 @@ const quoteMap = {
         {
             "author": "Paul Auster",
             "quote_former": "Madame Dumas arrived at ",
-			"time": "noon, and ten minutes later",
-			"quote_latter": " Trause handed her his ATM card and instructed her to go to the neighborhood Citibank near Sheridan Square and transfer forty thousand dollars from his savings account to his checking account.",
+            "time": "noon, and ten minutes later",
+            "quote_latter": " Trause handed her his ATM card and instructed her to go to the neighborhood Citibank near Sheridan Square and transfer forty thousand dollars from his savings account to his checking account.",
             "work": "Oracle Night"
         },
         {
             "author": "Dean Koontz",
             "quote_former": "They paid for only one room and kept Einstein with them because they were not going to need privacy for lovemaking. Exhausted, Travis barely managed to kiss Nora before falling into a deep sleep. He dreamed of things with yellow eyes, misshapen heads, and crocodile mouths full of sharks\u2019 teeth. He woke five hours later, at ",
-			"time": "twelve-ten",
-			"quote_latter": " Thursday afternoon.",
+            "time": "twelve-ten",
+            "quote_latter": " Thursday afternoon.",
             "work": "Watchers"
         }
     ],
@@ -5878,8 +5878,8 @@ const quoteMap = {
         {
             "author": "Jonathan Trigell",
             "quote_former": "At ",
-			"time": "12:11",
-			"quote_latter": " there was a knock on the door. It was Terry, A could tell. He hadn't known Terry long, but there was something calmer, more patient, that separated Terry's knocks from the rest of the staff. He knocked from genuine politeness, not formality. \"Come in,\" A said, although the lock was on the other side. Terry did. \"It's your mother,\" he said. \"There's no easy way to say this.\" Though he had just used the easiest, because A now knew the rest. A\u2019s face froze, as it tried to catch up, as it tried to register the news. Then it crumpled, and while he considered this fresh blow, the tears came.",
+            "time": "12:11",
+            "quote_latter": " there was a knock on the door. It was Terry, A could tell. He hadn't known Terry long, but there was something calmer, more patient, that separated Terry's knocks from the rest of the staff. He knocked from genuine politeness, not formality. \"Come in,\" A said, although the lock was on the other side. Terry did. \"It's your mother,\" he said. \"There's no easy way to say this.\" Though he had just used the easiest, because A now knew the rest. A\u2019s face froze, as it tried to catch up, as it tried to register the news. Then it crumpled, and while he considered this fresh blow, the tears came.",
             "work": "Boy A"
         }
     ],
@@ -5887,8 +5887,8 @@ const quoteMap = {
         {
             "author": "Jonathan Trigell",
             "quote_former": "It was the twelfth of December, the twelfth month. A was twelve. The electric clock/radio by his bedside table said 12:01. A was waiting for it to read ",
-			"time": "12:12",
-			"quote_latter": ", he hoped there would be some sense of cosmic rightness when it did.",
+            "time": "12:12",
+            "quote_latter": ", he hoped there would be some sense of cosmic rightness when it did.",
             "work": "Boy A"
         }
     ],
@@ -5896,8 +5896,8 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "She left London on the ",
-			"time": "twelve-fourteen",
-			"quote_latter": " from Paddington, arriving at Bristol (where she had to change) at two-fifty.",
+            "time": "twelve-fourteen",
+            "quote_latter": " from Paddington, arriving at Bristol (where she had to change) at two-fifty.",
             "work": "The Plymouth Express"
         }
     ],
@@ -5905,15 +5905,15 @@ const quoteMap = {
         {
             "author": "P.G. Wodehouse",
             "quote_former": "Very well, dear,' she said. 'I caught the 10.20 to Eastnor, which isn't a bad train, if you ever want to go down there. I arrived at a ",
-			"time": "quarter past twelve",
-			"quote_latter": ", and went straight up to the house--you've never seen the house, of course? It's quite charming--and told the butler that I wanted to see Mr Ford on business. I had taken the precaution to find out that he was not there. He is at Droitwich.'",
+            "time": "quarter past twelve",
+            "quote_latter": ", and went straight up to the house--you've never seen the house, of course? It's quite charming--and told the butler that I wanted to see Mr Ford on business. I had taken the precaution to find out that he was not there. He is at Droitwich.'",
             "work": "The Little Nugget"
         },
         {
             "author": "Virginia Woolf",
             "quote_former": "What shall I think of that's liberating and refreshing? I'm in the mood when I open my window at night and look at the stars. Unfortunately it's ",
-			"time": "12.15",
-			"quote_latter": " on a grey dull day, the aeroplanes are active",
+            "time": "12.15",
+            "quote_latter": " on a grey dull day, the aeroplanes are active",
             "work": "A Writer's Diary: Being Extracts from the Diary of Virgina Woolf"
         }
     ],
@@ -5921,8 +5921,8 @@ const quoteMap = {
         {
             "author": "Isaac Bashevis Singer",
             "quote_former": "Kava ordered two glasses of coffee for himself and his beloved and some cake. When the pair left, exactly ",
-			"time": "seventeen minutes after twelve",
-			"quote_latter": ", the club began to buzz with excitement.",
+            "time": "seventeen minutes after twelve",
+            "quote_latter": ", the club began to buzz with excitement.",
             "work": "Vanvild Kava"
         }
     ],
@@ -5930,15 +5930,15 @@ const quoteMap = {
         {
             "author": "Dean Koontz",
             "quote_former": "By ",
-			"time": "twelve-twenty",
-			"quote_latter": " in the afternoon, Vince was seated in a rattan chair with comfortable yellow and green cushions at a table by the windows in that same restaurant. He\u2019d spotted Haines on entering. The doctor was at another window table, three away from Vince, half-screened by a potted palm. Haines was eating shrimp and drinking margaritas with a stunning blonde. She was wearing white slacks and a gaily striped tube-top, and half the men in the place were staring at her.",
+            "time": "twelve-twenty",
+            "quote_latter": " in the afternoon, Vince was seated in a rattan chair with comfortable yellow and green cushions at a table by the windows in that same restaurant. He\u2019d spotted Haines on entering. The doctor was at another window table, three away from Vince, half-screened by a potted palm. Haines was eating shrimp and drinking margaritas with a stunning blonde. She was wearing white slacks and a gaily striped tube-top, and half the men in the place were staring at her.",
             "work": "Watchers"
         },
         {
             "author": "Frank O'Hara",
             "quote_former": "It is ",
-			"time": "12:20",
-			"quote_latter": " in New York a Friday three days after Bastille day, yes it is 1959 and I go get a shoeshine because I will get off the 4:19 in Easthampton at 7:15 and then go straight to dinner and I don\u2019t know the people who will feed me",
+            "time": "12:20",
+            "quote_latter": " in New York a Friday three days after Bastille day, yes it is 1959 and I go get a shoeshine because I will get off the 4:19 in Easthampton at 7:15 and then go straight to dinner and I don\u2019t know the people who will feed me",
             "work": "The Day Lady Died"
         }
     ],
@@ -5946,8 +5946,8 @@ const quoteMap = {
         {
             "author": "F\u00e9licien de Saulcy",
             "quote_former": "By ",
-			"time": "twenty-two minutes past twelve",
-			"quote_latter": " we leave, much too soon for our desires, this delightful spot, where the pilgrims are in the habit of bathing who come to visit the Jordan.",
+            "time": "twenty-two minutes past twelve",
+            "quote_latter": " we leave, much too soon for our desires, this delightful spot, where the pilgrims are in the habit of bathing who come to visit the Jordan.",
             "work": "Narrative of a Journey round the Dead Sea and in the Bible lands in 1850 and 1851"
         }
     ],
@@ -5955,8 +5955,8 @@ const quoteMap = {
         {
             "author": "Sophie Kinsella",
             "quote_former": "",
-			"time": "12:24",
-			"quote_latter": " My legs are in total agony. I've been kneeling on hard tiles, cleaning the bath, for what seems like hours. There are little ridges where the tiles have dug into my knees, and I'm boiling hot and the cleaning chemicals are making me cough. All I want is a rest. But I can't stop for a moment. I am so behind ...",
+            "time": "12:24",
+            "quote_latter": " My legs are in total agony. I've been kneeling on hard tiles, cleaning the bath, for what seems like hours. There are little ridges where the tiles have dug into my knees, and I'm boiling hot and the cleaning chemicals are making me cough. All I want is a rest. But I can't stop for a moment. I am so behind ...",
             "work": "The Undomestic Goddess"
         }
     ],
@@ -5964,8 +5964,8 @@ const quoteMap = {
         {
             "author": "James Joyce",
             "quote_former": "Boys, do it now. God's time is ",
-			"time": "12.25",
-			"quote_latter": ".",
+            "time": "12.25",
+            "quote_latter": ".",
             "work": "Ulysses"
         }
     ],
@@ -5973,8 +5973,8 @@ const quoteMap = {
         {
             "author": "Barry Hines",
             "quote_former": "12.25pm. ",
-			"time": "26.",
-			"quote_latter": " 27. Every time Billy saved a shot he looked heartbroken",
+            "time": "26.",
+            "quote_latter": " 27. Every time Billy saved a shot he looked heartbroken",
             "work": "A Kestrel For a Knave"
         }
     ],
@@ -5982,8 +5982,8 @@ const quoteMap = {
         {
             "author": "Barry Hines",
             "quote_former": "12.25pm. 26. ",
-			"time": "27.",
-			"quote_latter": " Every time Billy saved a shot he looked heartbroken",
+            "time": "27.",
+            "quote_latter": " Every time Billy saved a shot he looked heartbroken",
             "work": "A Kestrel For a Knave"
         }
     ],
@@ -5991,8 +5991,8 @@ const quoteMap = {
         {
             "author": "Stephen King",
             "quote_former": "The DRINK CHEER-UP COFFEE wall clock read ",
-			"time": "12.28",
-			"quote_latter": ".",
+            "time": "12.28",
+            "quote_latter": ".",
             "work": "11/22/63"
         }
     ],
@@ -6000,29 +6000,29 @@ const quoteMap = {
         {
             "author": "Nancy Mitford",
             "quote_former": "\"You'll never believe this but (in Spain) they are two hours late for ever meal - two hours Fanny - (can we lunch at ",
-			"time": "half-past twelve",
-			"quote_latter": " today?)\"",
+            "time": "half-past twelve",
+            "quote_latter": " today?)\"",
             "work": "Love in a Cold Climate"
         },
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "12.30 p.m.",
-			"quote_latter": " Lunch",
+            "time": "12.30 p.m.",
+            "quote_latter": " Lunch",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "Jane Austen",
             "quote_former": "At ",
-			"time": "half past twelve",
-			"quote_latter": ", when Catherine\u2019s anxious attention to the weather was over and she could no longer claim any merit from its amendment, the sky began voluntarily to clear. A gleam of sunshine took her quite by surprise; she looked round; the clouds were parting, and she instantly returned to the window to watch over and encourage the happy appearance. Ten minutes more made it certain that a bright afternoon would succeed, and justified the opinion of Mrs. Allen, who had \u201calways thought it would clear up.\u201d",
+            "time": "half past twelve",
+            "quote_latter": ", when Catherine\u2019s anxious attention to the weather was over and she could no longer claim any merit from its amendment, the sky began voluntarily to clear. A gleam of sunshine took her quite by surprise; she looked round; the clouds were parting, and she instantly returned to the window to watch over and encourage the happy appearance. Ten minutes more made it certain that a bright afternoon would succeed, and justified the opinion of Mrs. Allen, who had \u201calways thought it would clear up.\u201d",
             "work": "Northanger Abbey"
         },
         {
             "author": "Hunter S. Thompson",
             "quote_former": "Tuesday, ",
-			"time": "12.30pm",
-			"quote_latter": "\u2026 Baker, California\u2026 Into the Ballantine Ale now, zombie drunk and nervous. I recognize this feeling: three or four days of booze, drugs, sun, no sleep and burned out adrenalin reserves \u2013 a giddy, quavering sort of high that means the crash is coming. But when? How much longer?",
+            "time": "12.30pm",
+            "quote_latter": "\u2026 Baker, California\u2026 Into the Ballantine Ale now, zombie drunk and nervous. I recognize this feeling: three or four days of booze, drugs, sun, no sleep and burned out adrenalin reserves \u2013 a giddy, quavering sort of high that means the crash is coming. But when? How much longer?",
             "work": "Fear and Loathing in Las Vegas"
         }
     ],
@@ -6030,15 +6030,15 @@ const quoteMap = {
         {
             "author": "Sophie Kinsella",
             "quote_former": "12:30 What is wrong with this bleach bottle? Which way is the nozzle pointing, anyway? I'm turning it round in confusion, peering at the arrows on the plastic ... Why won't anything come out? OK, I'm going to squeeze it really, really hard- That nearly got my eye. ",
-			"time": "12:32",
-			"quote_latter": " FUCK. What has it done to my HAIR?",
+            "time": "12:32",
+            "quote_latter": " FUCK. What has it done to my HAIR?",
             "work": "The Undomestic Goddess"
         },
         {
             "author": "Stacy Aumonier",
             "quote_former": "A chutney-biting brigadier named Boyd-Boyd fixed an appointment on the 'phone with Oxted, at Hornborough Station, for the ",
-			"time": "twelve thirty-two",
-			"quote_latter": ". He was to deliver the goods.",
+            "time": "twelve thirty-two",
+            "quote_latter": ". He was to deliver the goods.",
             "work": "Extremely Entertaining Short Stories"
         }
     ],
@@ -6046,8 +6046,8 @@ const quoteMap = {
         {
             "author": "Dorothy L. Sayers",
             "quote_former": "It's ",
-			"time": "12.33",
-			"quote_latter": " now and I could do it, the station is just down that side road there.",
+            "time": "12.33",
+            "quote_latter": " now and I could do it, the station is just down that side road there.",
             "work": "Five Red Herrings"
         }
     ],
@@ -6055,8 +6055,8 @@ const quoteMap = {
         {
             "author": "Evelyn Waugh",
             "quote_former": "As surely as Apthorpe was marked for early promotion, Trimmer was marked for ignominy. That morning he had appeared at the precise time stated in orders. Everyone else had been waiting five minutes and Colour Sergeant Cork called out the marker just as Trimmer appeared. So it was ",
-			"time": "twelve-thirty-five",
-			"quote_latter": " when they were dismissed.",
+            "time": "twelve-thirty-five",
+            "quote_latter": " when they were dismissed.",
             "work": "Men At Arms"
         }
     ],
@@ -6064,8 +6064,8 @@ const quoteMap = {
         {
             "author": "Victor Hugo",
             "quote_former": "Next, he remembered that the morrow of Christmas would be the twenty-seventh day of the moon, and that consequently high water would be at twenty-one minutes past three, the half-ebb at a quarter past seven, low water at thirty-three minutes past nine, and half flood at ",
-			"time": "thirty-nine minutes past twelve",
-			"quote_latter": ".",
+            "time": "thirty-nine minutes past twelve",
+            "quote_latter": ".",
             "work": "The Toilers of the Sea"
         }
     ],
@@ -6073,8 +6073,8 @@ const quoteMap = {
         {
             "author": "Stacy Aumonier",
             "quote_former": "A little ormolu clock in the outer corridor indicated ",
-			"time": "twenty minutes to one",
-			"quote_latter": ". The car was due at one-fifteen. Thirty-five minutes: oh, to escape for only that brief period!",
+            "time": "twenty minutes to one",
+            "quote_latter": ". The car was due at one-fifteen. Thirty-five minutes: oh, to escape for only that brief period!",
             "work": "Extremely Entertaining Short Stories (The Octave of Jealousy)"
         }
     ],
@@ -6082,8 +6082,8 @@ const quoteMap = {
         {
             "author": "Herman Wouk",
             "quote_former": "The butt had been growing warm in her fingers; now the glowing end stung her skin. She crushed the cigarette out and stood, brushing ash from her black skirt. It was ",
-			"time": "eighteen minutes to one",
-			"quote_latter": ". She went to the house phone and called his room. The telephone rang and rang, but there was no answer.",
+            "time": "eighteen minutes to one",
+            "quote_latter": ". She went to the house phone and called his room. The telephone rang and rang, but there was no answer.",
             "work": "Marjorie Morningstar"
         }
     ],
@@ -6091,8 +6091,8 @@ const quoteMap = {
         {
             "author": "Eugene O'Neil",
             "quote_former": "It is ",
-			"time": "around quarter to one",
-			"quote_latter": ". No sunlight comes into the room now through the windows at right. Outside the day is fine but increasingly sultry, with a faint haziness in the air which softens the glare of the sun.",
+            "time": "around quarter to one",
+            "quote_latter": ". No sunlight comes into the room now through the windows at right. Outside the day is fine but increasingly sultry, with a faint haziness in the air which softens the glare of the sun.",
             "work": "Long Day's Journey Into Night"
         }
     ],
@@ -6100,8 +6100,8 @@ const quoteMap = {
         {
             "author": "Bram Stoker",
             "quote_former": "The boy handed in a dispatch. The Professor closed the door again, and after looking at the direction, opened it and read aloud. \"Look out for D. He has just now, ",
-			"time": "12:45",
-			"quote_latter": ", come from Carfax hurriedly and hastened towards the South. He seems to be going the round and may want to see you: Mina\"",
+            "time": "12:45",
+            "quote_latter": ", come from Carfax hurriedly and hastened towards the South. He seems to be going the round and may want to see you: Mina\"",
             "work": "Dracula"
         }
     ],
@@ -6109,8 +6109,8 @@ const quoteMap = {
         {
             "author": "Eugene O'Neil",
             "quote_former": "It is ",
-			"time": "around quarter to one",
-			"quote_latter": ". No sunlight comes into the room now through the windows at right. Outside the day is fine but increasingly sultry, with a faint haziness in the air which softens the glare of the sun.",
+            "time": "around quarter to one",
+            "quote_latter": ". No sunlight comes into the room now through the windows at right. Outside the day is fine but increasingly sultry, with a faint haziness in the air which softens the glare of the sun.",
             "work": "Long Day's Journey Into Night"
         }
     ],
@@ -6118,8 +6118,8 @@ const quoteMap = {
         {
             "author": "Len Deighton",
             "quote_former": "The first victim of the Krefeld raid died at ",
-			"time": "12:49 hours",
-			"quote_latter": " Double British Summer Time at B Flight, but it wasn't due to carelessness.",
+            "time": "12:49 hours",
+            "quote_latter": " Double British Summer Time at B Flight, but it wasn't due to carelessness.",
             "work": "Bomber"
         }
     ],
@@ -6127,8 +6127,8 @@ const quoteMap = {
         {
             "author": "Robert Tressell",
             "quote_former": "So presently Bert was sent up to the top of the house to look at a church clock which was visible therefrom, and when he came down he reported that it was ",
-			"time": "ten minutes to one",
-			"quote_latter": ".",
+            "time": "ten minutes to one",
+            "quote_latter": ".",
             "work": "The Ragged Trousered Philanthropists"
         }
     ],
@@ -6136,8 +6136,8 @@ const quoteMap = {
         {
             "author": "Rupert Thomson",
             "quote_former": "The nightclub stood on the junction, flamboyant, still. It was ",
-			"time": "12.52",
-			"quote_latter": ".",
+            "time": "12.52",
+            "quote_latter": ".",
             "work": "Dreams of Leaving"
         }
     ],
@@ -6145,8 +6145,8 @@ const quoteMap = {
         {
             "author": "Dorothy L. Sayers",
             "quote_former": "Aboot twelve miles. We ought tae pass her at Pinmore. She's due there at ",
-			"time": "12:53",
-			"quote_latter": ".",
+            "time": "12:53",
+            "quote_latter": ".",
             "work": "Five Red Herrings"
         }
     ],
@@ -6154,8 +6154,8 @@ const quoteMap = {
         {
             "author": "Lydia Davis",
             "quote_former": "I listen to the different boats' horns, hoping to learn what kind of boat I'm hearing and what the signal means: is the boat leaving or entering the harbor; is it the ferry, or a whale-watching boat, or a fishing boat? At 5:33 pm there is a blast of two deep, resonant notes a major third apart. On another day there is the same blast at ",
-			"time": "12:54 pm.",
-			"quote_latter": " On another, exactly 8:00 am.",
+            "time": "12:54 pm.",
+            "quote_latter": " On another, exactly 8:00 am.",
             "work": "Varieties of Disturbance"
         }
     ],
@@ -6163,8 +6163,8 @@ const quoteMap = {
         {
             "author": "Ilona Andrews",
             "quote_former": "The watch on my wrist showed ",
-			"time": "12.58pm",
-			"quote_latter": " I'd have time to hit the morgue.",
+            "time": "12.58pm",
+            "quote_latter": " I'd have time to hit the morgue.",
             "work": "Magic Bites"
         }
     ],
@@ -6172,8 +6172,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "And I had been looking at my watch since the train had started at ",
-			"time": "12.59pm",
-			"quote_latter": "",
+            "time": "12.59pm",
+            "quote_latter": "",
             "work": "The Curious Incident of the Dog in the Night-Time"
         }
     ],
@@ -6181,71 +6181,71 @@ const quoteMap = {
         {
             "author": "Baroness Orczy",
             "quote_former": "\"I think,\" he said, with a triumphant smile, \"that I may safely expect to find the person I seek in the dining-room, fair lady.\" \"There may be more than one.\" \"Whoever is there, as the ",
-			"time": "clock strikes one",
-			"quote_latter": ", will be shadowed by one of my men; of these, one, or perhaps two, or even three, will leave for France to-morrow. One of these will be the `Scarlet Pimpernel.'\"",
+            "time": "clock strikes one",
+            "quote_latter": ", will be shadowed by one of my men; of these, one, or perhaps two, or even three, will leave for France to-morrow. One of these will be the `Scarlet Pimpernel.'\"",
             "work": "The Scarlet Pimpernel"
         },
         {
             "author": "Bram Stoker",
             "quote_former": "\u201cCzarina Catherine reported entering Galatz at ",
-			"time": "one o'clock",
-			"quote_latter": " today.\u201d",
+            "time": "one o'clock",
+            "quote_latter": " today.\u201d",
             "work": "Dracula"
         },
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "1.00 p.m.",
-			"quote_latter": " First afternoon class",
+            "time": "1.00 p.m.",
+            "quote_latter": " First afternoon class",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "Susanna Kaysen",
             "quote_former": "After ",
-			"time": "1 o'clock",
-			"quote_latter": " checks, Gretta always goes out for a smoke.",
+            "time": "1 o'clock",
+            "quote_latter": " checks, Gretta always goes out for a smoke.",
             "work": "Girl, Interrupted"
         },
         {
             "author": "Michel Houellebecq",
             "quote_former": "Gottfried Rembke arrived at ",
-			"time": "1pm",
-			"quote_latter": " precisely. The moment he walked into the restaurant, handed his coat to the waiter, they knew it was him. The solid, stocky body, the gleaming pate, the open expression, the vigorous handshake: everything about him radiated ease and enthusiasm",
+            "time": "1pm",
+            "quote_latter": " precisely. The moment he walked into the restaurant, handed his coat to the waiter, they knew it was him. The solid, stocky body, the gleaming pate, the open expression, the vigorous handshake: everything about him radiated ease and enthusiasm",
             "work": "Platform"
         },
         {
             "author": "Sybille Bedford",
             "quote_former": "I got to Schmidt's early, feeling horribly nervous. At ",
-			"time": "one o'clock",
-			"quote_latter": " sharp: Toni. She was looking at the menu she knew well - Schmorbraten? Schnitzel? - when he loomed over her. I had seen him come in. She looked up, through him, at me. 'Traitor.' Jamie, hovering, looking very big, said her pet name, a German diminutive chosen by her. Toni addressed the air. 'If he does not leave at once I shall tell the waiter that I am not sharing my table with this gentleman.' Jamie heard, said her name again, turned to go, I rose to go with him. Toni - with that concentration of will - said, 'YOU are lunching with me.'",
+            "time": "one o'clock",
+            "quote_latter": " sharp: Toni. She was looking at the menu she knew well - Schmorbraten? Schnitzel? - when he loomed over her. I had seen him come in. She looked up, through him, at me. 'Traitor.' Jamie, hovering, looking very big, said her pet name, a German diminutive chosen by her. Toni addressed the air. 'If he does not leave at once I shall tell the waiter that I am not sharing my table with this gentleman.' Jamie heard, said her name again, turned to go, I rose to go with him. Toni - with that concentration of will - said, 'YOU are lunching with me.'",
             "work": "Jigsaw"
         },
         {
             "author": "George Orwell",
             "quote_former": "It was a bright cold day in April, and the clocks were striking ",
-			"time": "thirteen",
-			"quote_latter": ".",
+            "time": "thirteen",
+            "quote_latter": ".",
             "work": "Nineteen Eighty-Four"
         },
         {
             "author": "Roma Tearne",
             "quote_former": "It was ",
-			"time": "one o'clock",
-			"quote_latter": ". I bought some apples and a small pork pie and drove across the bridge to the other side of the riverbank in the direction of Orford Ness.",
+            "time": "one o'clock",
+            "quote_latter": ". I bought some apples and a small pork pie and drove across the bridge to the other side of the riverbank in the direction of Orford Ness.",
             "work": "The Swimmer"
         },
         {
             "author": "Arthur Ransome",
             "quote_former": "That day it was ",
-			"time": "one o'clock",
-			"quote_latter": " before John and Roger rowed across and went up to Dixon's farm for the milk and a new supply of eggs and butter.",
+            "time": "one o'clock",
+            "quote_latter": " before John and Roger rowed across and went up to Dixon's farm for the milk and a new supply of eggs and butter.",
             "work": "Swallows and Amazons"
         },
         {
             "author": "Ken Kesey",
             "quote_former": "The day-room floor gets cleared of tables and at ",
-			"time": "one o'clock",
-			"quote_latter": " the doctor comes out of his office down the hall, nods once at the nurse as he goes past where he's watching out of her window, sits in his chair just to the left of the door.",
+            "time": "one o'clock",
+            "quote_latter": " the doctor comes out of his office down the hall, nods once at the nurse as he goes past where he's watching out of her window, sits in his chair just to the left of the door.",
             "work": "One Flew Over the Cuckoo's Nest"
         }
     ],
@@ -6253,8 +6253,8 @@ const quoteMap = {
         {
             "author": "James Joyce",
             "quote_former": "There's five fathoms out there, he said. It'll be swept up that way when the tide comes in ",
-			"time": "about one",
-			"quote_latter": ". It's nine days today.",
+            "time": "about one",
+            "quote_latter": ". It's nine days today.",
             "work": "Ulysses"
         }
     ],
@@ -6262,8 +6262,8 @@ const quoteMap = {
         {
             "author": "George Orwell",
             "quote_former": "At ",
-			"time": "about one o'clock",
-			"quote_latter": " the overseer arrived and told them he had no jobs for them",
+            "time": "about one o'clock",
+            "quote_latter": " the overseer arrived and told them he had no jobs for them",
             "work": "A Clergyman's Daughter"
         }
     ],
@@ -6271,8 +6271,8 @@ const quoteMap = {
         {
             "author": "Kenneth Fearing",
             "quote_former": "It was ",
-			"time": "a little after one o'clock",
-			"quote_latter": " when I got there, time for lunch, so I had it. The food was awful. But it would go on the expense account, and after I'd eaten I got out my notebook and put it down. Lunch $1.50. Taxi $1.00.",
+            "time": "a little after one o'clock",
+            "quote_latter": " when I got there, time for lunch, so I had it. The food was awful. But it would go on the expense account, and after I'd eaten I got out my notebook and put it down. Lunch $1.50. Taxi $1.00.",
             "work": "The Big Clock"
         }
     ],
@@ -6280,8 +6280,8 @@ const quoteMap = {
         {
             "author": "Robert Tressell",
             "quote_former": "\"Jesus Christ!\" he gasped. \"It's ",
-			"time": "four minutes past one",
-			"quote_latter": "!\" Linden frantically seized hold of a pair of steps and began wandering about the room with them.",
+            "time": "four minutes past one",
+            "quote_latter": "!\" Linden frantically seized hold of a pair of steps and began wandering about the room with them.",
             "work": "The Ragged Trousered Philanthropists"
         }
     ],
@@ -6289,15 +6289,15 @@ const quoteMap = {
         {
             "author": "Sophie Kinsella",
             "quote_former": "\u201cSamantha?\u201d I can hear Trish approaching. \u201cUm ... hold on!\u201d I hurry to the door, trying to block her view. \u201cIt's already ",
-			"time": "five past one",
-			"quote_latter": ",\u201d I can hear her saying a little sharply. \u201cAnd I did ask, most clearly for ...\u201d Her voice trails off into silence as she reaches the kitchen door, and her whole face sags in astonishment. I turn and follow her gaze as she surveys the endless plates of sandwiches. \u201cMy goodness!\u201d At last Trish finds her voice. \u201cThis is ... this is very impressive!\u201d",
+            "time": "five past one",
+            "quote_latter": ",\u201d I can hear her saying a little sharply. \u201cAnd I did ask, most clearly for ...\u201d Her voice trails off into silence as she reaches the kitchen door, and her whole face sags in astonishment. I turn and follow her gaze as she surveys the endless plates of sandwiches. \u201cMy goodness!\u201d At last Trish finds her voice. \u201cThis is ... this is very impressive!\u201d",
             "work": "The Undomestic Goddess"
         },
         {
             "author": "Ngaio Marsh",
             "quote_former": "At ",
-			"time": "five past one",
-			"quote_latter": " Alleyn opened the outer door, knocked his pipe out on the edge of the stone step,and remained staring out on to the drive.",
+            "time": "five past one",
+            "quote_latter": " Alleyn opened the outer door, knocked his pipe out on the edge of the stone step,and remained staring out on to the drive.",
             "work": "A Man Lay Dead"
         }
     ],
@@ -6305,8 +6305,8 @@ const quoteMap = {
         {
             "author": "Yevgeny Zamyatin",
             "quote_former": "And then at precisely ",
-			"time": "13 hours and 6 minutes",
-			"quote_latter": " - confusion broke out in the rectangle.",
+            "time": "13 hours and 6 minutes",
+            "quote_latter": " - confusion broke out in the rectangle.",
             "work": "We"
         }
     ],
@@ -6314,8 +6314,8 @@ const quoteMap = {
         {
             "author": "Clive Barker",
             "quote_former": "At ",
-			"time": "nine minutes past one",
-			"quote_latter": ", a pair of horses approached (not from the city, from which direction Krieger had expected her to come, but from the Desert, which lay, vast and largely uncharted, out to the West and South-West of the city.)",
+            "time": "nine minutes past one",
+            "quote_latter": ", a pair of horses approached (not from the city, from which direction Krieger had expected her to come, but from the Desert, which lay, vast and largely uncharted, out to the West and South-West of the city.)",
             "work": "Tortured Souls: The Legend of Primordium"
         }
     ],
@@ -6323,8 +6323,8 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "\"It was ",
-			"time": "ten minutes past one",
-			"quote_latter": ".\u201d \u201cYou are sure of that?\"",
+            "time": "ten minutes past one",
+            "quote_latter": ".\u201d \u201cYou are sure of that?\"",
             "work": "Death on the Nile"
         }
     ],
@@ -6332,8 +6332,8 @@ const quoteMap = {
         {
             "author": "Dorothy L. Sayers",
             "quote_former": "I pursued my inquiries at the other stations along the line an' I found there was a gentleman wi' a bicycle tuk the ",
-			"time": "1.11",
-			"quote_latter": " train at Girvan.",
+            "time": "1.11",
+            "quote_latter": " train at Girvan.",
             "work": "Five Red Herrings"
         }
     ],
@@ -6341,8 +6341,8 @@ const quoteMap = {
         {
             "author": "Jules Verne",
             "quote_former": "\"There it is! There it is!\" shouted the Professor. \"Now for the centre of the globe!\" he added in Danish. I looked at Hans. \"For\u00fct!\" was his tranquil answer. \"Forward!\" replied my uncle. It was ",
-			"time": "thirteen minutes past one",
-			"quote_latter": ".",
+            "time": "thirteen minutes past one",
+            "quote_latter": ".",
             "work": "Journey to the Centre of the Earth"
         }
     ],
@@ -6350,15 +6350,15 @@ const quoteMap = {
         {
             "author": "Oscar Wilde",
             "quote_former": "\u2018Monsieur has well slept this morning,\u2019 he said, smiling. \u2018What o\u2019clock is it, Victor?\u2019 asked Dorian Gray, sleepily. \u2018",
-			"time": "One hour and a quarter",
-			"quote_latter": ", monsieur.\u2019",
+            "time": "One hour and a quarter",
+            "quote_latter": ", monsieur.\u2019",
             "work": "The Picture of Dorian Gray"
         },
         {
             "author": "Winifred Watson",
             "quote_former": "The clock caught Miss LaFosse\u00b4s eye. \u00b4Good heavens!\u00b4 she gasped. \u00b4Look at the time. ",
-			"time": "Quarter-past one",
-			"quote_latter": ". You must be starved.' She turned impetuously to Miss Pettigrew.",
+            "time": "Quarter-past one",
+            "quote_latter": ". You must be starved.' She turned impetuously to Miss Pettigrew.",
             "work": "Miss Pettigrew lives for a Day"
         }
     ],
@@ -6366,8 +6366,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "And the first stop had been at ",
-			"time": "1.16pm",
-			"quote_latter": " which was 17 minutes later.",
+            "time": "1.16pm",
+            "quote_latter": " which was 17 minutes later.",
             "work": "The Curious Incident of the Dog in the Night-Time"
         }
     ],
@@ -6375,22 +6375,22 @@ const quoteMap = {
         {
             "author": "Tom Clancy",
             "quote_former": "Kamarov, signal to Purga: 'Diving at\u2014,'\" he checked his watch, \"'\u2014",
-			"time": "1320 hours",
-			"quote_latter": ". Exercise OCTOBER FROST begins as scheduled. You are released to other assigned duties. We will return as scheduled.\" Kamarov worked the trigger on the blinker light to transmit the message. The Purga responded at once, and Ramius read the flashing signal unaided: \"IF THE WHALES DON'T EAT YOU. GOOD LUCK TO RED OCTOBER!\"",
+            "time": "1320 hours",
+            "quote_latter": ". Exercise OCTOBER FROST begins as scheduled. You are released to other assigned duties. We will return as scheduled.\" Kamarov worked the trigger on the blinker light to transmit the message. The Purga responded at once, and Ramius read the flashing signal unaided: \"IF THE WHALES DON'T EAT YOU. GOOD LUCK TO RED OCTOBER!\"",
             "work": "The Hunt for Red October"
         },
         {
             "author": "Bram Stoker",
             "quote_former": "The time is coming for action. Today this Vampire is limit to the powers of man, and till sunset he may not change. It will take him time to arrive here, see it is ",
-			"time": "twenty minutes past one",
-			"quote_latter": ", and there are yet some times before he can hither come, be he never so quick.",
+            "time": "twenty minutes past one",
+            "quote_latter": ", and there are yet some times before he can hither come, be he never so quick.",
             "work": "Dracula"
         },
         {
             "author": "Bram Stoker",
             "quote_former": "Today this Vampire is limit to the powers of man, and till sunset he may not change. It will take him time to arrive here, see it is ",
-			"time": "twenty minutes past one",
-			"quote_latter": ", and there are yet some times before he can hither come, be he never so quick.",
+            "time": "twenty minutes past one",
+            "quote_latter": ", and there are yet some times before he can hither come, be he never so quick.",
             "work": "Dracula"
         }
     ],
@@ -6398,15 +6398,15 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "And when we got to Swindon Mother had keys to the house and we went in and she said, \"Hello?\" but there was no one there because it was ",
-			"time": "1.23pm",
-			"quote_latter": ".",
+            "time": "1.23pm",
+            "quote_latter": ".",
             "work": "The Curious Incident Of The Dog In The Night-Time"
         },
         {
             "author": "Anatole France",
             "quote_former": "The clock marked ",
-			"time": "twenty-three minutes past one",
-			"quote_latter": ". He was suddenly full of agitation, yet hopeful. She had come! Who could tell what she would say? She might offer the most natural explanation of her late arrival. F\u00e9licie entered the room, her hair in disorder, her eyes shining, her cheeks white, her bruised lips a vivid red; she was tired, indifferent, mute, happy and lovely, seeming to guard beneath her cloak, which she held wrapped about her with both hands, some remnant of warmth and voluptuous pleasure.",
+            "time": "twenty-three minutes past one",
+            "quote_latter": ". He was suddenly full of agitation, yet hopeful. She had come! Who could tell what she would say? She might offer the most natural explanation of her late arrival. F\u00e9licie entered the room, her hair in disorder, her eyes shining, her cheeks white, her bruised lips a vivid red; she was tired, indifferent, mute, happy and lovely, seeming to guard beneath her cloak, which she held wrapped about her with both hands, some remnant of warmth and voluptuous pleasure.",
             "work": "A Mummer's Tale"
         }
     ],
@@ -6414,8 +6414,8 @@ const quoteMap = {
         {
             "author": "James Ellroy",
             "quote_former": "Littell checked his watch - ",
-			"time": "1:24 p.m",
-			"quote_latter": " - Littell grabbed the phone by the bed.",
+            "time": "1:24 p.m",
+            "quote_latter": " - Littell grabbed the phone by the bed.",
             "work": "The Cold Six Thousand"
         }
     ],
@@ -6423,8 +6423,8 @@ const quoteMap = {
         {
             "author": "Albert Camus",
             "quote_former": "Raymond came back with Masson ",
-			"time": "around one-thirty",
-			"quote_latter": ". His arm was bandaged up and he had an adhesive plaster on the corner of his mouth. The doctor had told him it was nothing, but Raymond looked pretty grim. Masson tried to make him laugh. But he still wouldn't say anything.",
+            "time": "around one-thirty",
+            "quote_latter": ". His arm was bandaged up and he had an adhesive plaster on the corner of his mouth. The doctor had told him it was nothing, but Raymond looked pretty grim. Masson tried to make him laugh. But he still wouldn't say anything.",
             "work": "The Stranger"
         }
     ],
@@ -6432,22 +6432,22 @@ const quoteMap = {
         {
             "author": "George and Weedon Grossmith",
             "quote_former": "Lupin not having come down, I went up again at ",
-			"time": "half-past one",
-			"quote_latter": ", and said we dined at two; he said he \"would be there.\"",
+            "time": "half-past one",
+            "quote_latter": ", and said we dined at two; he said he \"would be there.\"",
             "work": "The Diary of a Nobody"
         },
         {
             "author": "Graham Greene",
             "quote_former": "She was a sticker. A clock away in the town struck ",
-			"time": "half past one",
-			"quote_latter": ".",
+            "time": "half past one",
+            "quote_latter": ".",
             "work": "Brighton Rock"
         },
         {
             "author": "Virginia Woolf",
             "quote_former": "Shredding and slicing, dividing and subdividing, the clocks of Harley Street nibbled at the June day, counselled submission, upheld authority, and pointed out in chorus the supreme advantages of a sense of proportion, until the mound of time was so far diminished that a commercial clock, suspended above a shop in Oxford Street, announced, genially and fraternally, as if it were a pleasure to Messrs Rigby and Lowndes to give the information gratis, that it was ",
-			"time": "half-past one",
-			"quote_latter": ".",
+            "time": "half-past one",
+            "quote_latter": ".",
             "work": "Mrs dalloway"
         }
     ],
@@ -6455,8 +6455,8 @@ const quoteMap = {
         {
             "author": "Douglas Adams",
             "quote_former": "At the third stroke it will be ",
-			"time": "one ... thirty-two",
-			"quote_latter": " ... and twenty seconds. 'Beep ... beep ... beep.' Ford Prefect suppressed a little giggle of evil satisfaction, realized that he had no reason to suppress it, and laughed out loud, a wicked laugh.",
+            "time": "one ... thirty-two",
+            "quote_latter": " ... and twenty seconds. 'Beep ... beep ... beep.' Ford Prefect suppressed a little giggle of evil satisfaction, realized that he had no reason to suppress it, and laughed out loud, a wicked laugh.",
             "work": "So Long, and Thanks for All the Fish"
         }
     ],
@@ -6464,8 +6464,8 @@ const quoteMap = {
         {
             "author": "Douglas Adams",
             "quote_former": "He waited for the green light to show and then opened the door again on to the now empty cargo hold.'... ",
-			"time": "one ... thirty-three",
-			"quote_latter": " ... and fifty seconds.' Very nice.",
+            "time": "one ... thirty-three",
+            "quote_latter": " ... and fifty seconds.' Very nice.",
             "work": "So Long, and Thanks for All the Fish"
         }
     ],
@@ -6473,15 +6473,15 @@ const quoteMap = {
         {
             "author": "Douglas Adams",
             "quote_former": "'At the third stroke it will be ...' He tiptoed out and returned to the control cabin. '... ",
-			"time": "one ... thirty-four",
-			"quote_latter": " and twenty seconds.' The voice sounded as clear as if he was hearing it over a phone in London, which he wasn't, not by a long way.",
+            "time": "one ... thirty-four",
+            "quote_latter": " and twenty seconds.' The voice sounded as clear as if he was hearing it over a phone in London, which he wasn't, not by a long way.",
             "work": "So Long, and Thanks for All the Fish"
         },
         {
             "author": "Douglas Adams",
             "quote_former": "He then went and had a last thorough examination of the emergency suspended animation chamber, which was where he particularly wanted it to be heard. 'At the third stroke it will be ",
-			"time": "one ... thirty ... four",
-			"quote_latter": " ... precisely.'",
+            "time": "one ... thirty ... four",
+            "quote_latter": " ... precisely.'",
             "work": "So Long, and Thanks for All the Fish"
         }
     ],
@@ -6489,8 +6489,8 @@ const quoteMap = {
         {
             "author": "William Monahan",
             "quote_former": "He had not dared to sleep in his rented car\u2014you didn't sleep in your car when you worked for Jesus Castro\u2014and he was beginning to hallucinate. Still, he was on the job, and he scribbled in his notebook:\" ",
-			"time": "1.37pm",
-			"quote_latter": " Subject appears to be getting laid.\"",
+            "time": "1.37pm",
+            "quote_latter": " Subject appears to be getting laid.\"",
             "work": "Light House"
         }
     ],
@@ -6498,8 +6498,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "And it was now ",
-			"time": "1.39pm",
-			"quote_latter": " which was 23 minutes after the stop, which mean that we would be at the sea if the train didn't go in a big curve. But I didn't know if it went in a big curve.",
+            "time": "1.39pm",
+            "quote_latter": " which was 23 minutes after the stop, which mean that we would be at the sea if the train didn't go in a big curve. But I didn't know if it went in a big curve.",
             "work": "The Curious Incident of the Dog in the Night-Time"
         }
     ],
@@ -6507,8 +6507,8 @@ const quoteMap = {
         {
             "author": "Stieg Larsson",
             "quote_former": "The last note was recorded at ",
-			"time": "1.42pm",
-			"quote_latter": ": G.M. on site at H-by; will take over the matter.",
+            "time": "1.42pm",
+            "quote_latter": ": G.M. on site at H-by; will take over the matter.",
             "work": "The Girl with the Dragon Tattoo"
         }
     ],
@@ -6516,8 +6516,8 @@ const quoteMap = {
         {
             "author": "Wilkie Collins",
             "quote_former": "By good luck, the next train was due at ",
-			"time": "forty-four minutes past one",
-			"quote_latter": ", and arrived at Yateland (the next station) ten minutes afterward.",
+            "time": "forty-four minutes past one",
+            "quote_latter": ", and arrived at Yateland (the next station) ten minutes afterward.",
             "work": "Mr. Policeman and the Cook"
         }
     ],
@@ -6525,15 +6525,15 @@ const quoteMap = {
         {
             "author": "PG Wodehouse",
             "quote_former": "That period which is always so dangerous, when the wicket is bad, the ten minutes before lunch, proved fatal to two more of the enemy. The last man had just gone to the wickets, with the score at a hundred and thirty-one, when a ",
-			"time": "quarter to two",
-			"quote_latter": " arrived, and with it the luncheon interval.",
+            "time": "quarter to two",
+            "quote_latter": " arrived, and with it the luncheon interval.",
             "work": "Mike"
         },
         {
             "author": "P.G. Wodehouse",
             "quote_former": "The blow fell at precisely ",
-			"time": "one forty-five",
-			"quote_latter": " (summer-time). Benson, my Aunt Agatha's butler, was offering me the fried potatoes at the moment, and such was my emotion that I lofted six of them on the sideboard with the spoon.",
+            "time": "one forty-five",
+            "quote_latter": " (summer-time). Benson, my Aunt Agatha's butler, was offering me the fried potatoes at the moment, and such was my emotion that I lofted six of them on the sideboard with the spoon.",
             "work": "Sir Roderick Comes to Lunch"
         }
     ],
@@ -6541,8 +6541,8 @@ const quoteMap = {
         {
             "author": "Sue Townsend",
             "quote_former": "Poppy was sprawled on Brianne's bed, applying black mascara to her stubby lashes. Brianne was sitting at her desk, trying to complete an essay before the 2pm deadline. It was ",
-			"time": "1.47pm.",
-			"quote_latter": "",
+            "time": "1.47pm.",
+            "quote_latter": "",
             "work": "The Woman Who Went To Bed For A Year"
         }
     ],
@@ -6550,8 +6550,8 @@ const quoteMap = {
         {
             "author": "Robert Ludlum",
             "quote_former": "It was ",
-			"time": "twelve minutes to two",
-			"quote_latter": " in the afternoon when Claude Moreau and his most-trusted field officer, Jacques Bergeron, arrived at the Georges Cinq station of the Paris Metro. They walked, separately, to the rear of the platform, each carrying a handheld radio, the frequencies calibrated to each other.",
+            "time": "twelve minutes to two",
+            "quote_latter": " in the afternoon when Claude Moreau and his most-trusted field officer, Jacques Bergeron, arrived at the Georges Cinq station of the Paris Metro. They walked, separately, to the rear of the platform, each carrying a handheld radio, the frequencies calibrated to each other.",
             "work": "The Apocalypse Watch"
         }
     ],
@@ -6559,8 +6559,8 @@ const quoteMap = {
         {
             "author": "Dorothy L. Sayers",
             "quote_former": "The bookstall clerk had seen the passenger in grey pass the bookstall at ",
-			"time": "1.49",
-			"quote_latter": ", in the direction of the exit.",
+            "time": "1.49",
+            "quote_latter": ", in the direction of the exit.",
             "work": "Five Red Herrings"
         }
     ],
@@ -6568,8 +6568,8 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "The best train of the day was the ",
-			"time": "one-fifty",
-			"quote_latter": " from Paddington which reached Polgarwith just after seven o'clock.",
+            "time": "one-fifty",
+            "quote_latter": " from Paddington which reached Polgarwith just after seven o'clock.",
             "work": "The Cornish Mystery"
         }
     ],
@@ -6577,8 +6577,8 @@ const quoteMap = {
         {
             "author": "Charlotte Bront\u00eb",
             "quote_former": "If I was punctual in quitting Mlle. Reuter's domicile, I was at least equally punctual in arriving there; I came the next day at ",
-			"time": "five minutes before two",
-			"quote_latter": ", and on reaching the schoolroom door, before I opened it, I heard a rapid, gabbling sound, which warned me that the \"priere du midi\" was not yet concluded.",
+            "time": "five minutes before two",
+            "quote_latter": ", and on reaching the schoolroom door, before I opened it, I heard a rapid, gabbling sound, which warned me that the \"priere du midi\" was not yet concluded.",
             "work": "The Professor"
         }
     ],
@@ -6586,8 +6586,8 @@ const quoteMap = {
         {
             "author": "C.E. Murphy",
             "quote_former": "I looked for a clock. It was ",
-			"time": "three minutes to two",
-			"quote_latter": ". \"I hope you can catch him, then. Thank you. I really appreciate it.\"",
+            "time": "three minutes to two",
+            "quote_latter": ". \"I hope you can catch him, then. Thank you. I really appreciate it.\"",
             "work": "Urban Shaman"
         }
     ],
@@ -6595,8 +6595,8 @@ const quoteMap = {
         {
             "author": "Arnold Jansen op de Haar",
             "quote_former": "It was ",
-			"time": "almost two o\u2019clock",
-			"quote_latter": ", but nothing moved, Stari Teo\u010dak was silent and so empty it seemed abandoned, and yet Tijmen constantly felt he was being observed by invisible eyes.",
+            "time": "almost two o\u2019clock",
+            "quote_latter": ", but nothing moved, Stari Teo\u010dak was silent and so empty it seemed abandoned, and yet Tijmen constantly felt he was being observed by invisible eyes.",
             "work": "King of Tuzla"
         }
     ],
@@ -6604,8 +6604,8 @@ const quoteMap = {
         {
             "author": "Douglas Adams",
             "quote_former": "For twenty minutes he sat and watched as the gap between the ship and Epun closed, as the ship's computer teased and kneaded the numbers that would bring it into a loop around the little moon, and close the loop and keep it there, orbiting in perpetual obscurity. '",
-			"time": "One ... fifty-nine \u2026",
-			"quote_latter": "'\"",
+            "time": "One ... fifty-nine \u2026",
+            "quote_latter": "'\"",
             "work": "So Long, and Thanks for All the Fish"
         }
     ],
@@ -6613,57 +6613,57 @@ const quoteMap = {
         {
             "author": "John Kennedy Toole",
             "quote_former": "'She could have fired the jig, and he could have kept on picking up his packages at the old time, ",
-			"time": "two o'clock",
-			"quote_latter": ". As it was, he had almost been arrested.'",
+            "time": "two o'clock",
+            "quote_latter": ". As it was, he had almost been arrested.'",
             "work": "A Confederacy of Dunces"
         },
         {
             "author": "Albert Camus",
             "quote_former": "\"The old people's home is at Marengo, fifty miles from Algiers. I'll catch the ",
-			"time": "two o'clock",
-			"quote_latter": " bus and get there in the afternoon.\".... \"I caught the two o'clock bus. It was very hot.\"",
+            "time": "two o'clock",
+            "quote_latter": " bus and get there in the afternoon.\".... \"I caught the two o'clock bus. It was very hot.\"",
             "work": "The Outsider"
         },
         {
             "author": "David Mitchell",
             "quote_former": "At approximately ",
-			"time": "1400 hours",
-			"quote_latter": " a pair of enemy Skyhawks came flying in at deck level out of nowhere.",
+            "time": "1400 hours",
+            "quote_latter": " a pair of enemy Skyhawks came flying in at deck level out of nowhere.",
             "work": "Black Swan Green"
         },
         {
             "author": "F. Scott Fitzgerald",
             "quote_former": "At ",
-			"time": "two o'clock",
-			"quote_latter": " Gatsby put on his bathing suit and left word with the butler that if any one phoned word was to be brought to him at the pool.",
+            "time": "two o'clock",
+            "quote_latter": " Gatsby put on his bathing suit and left word with the butler that if any one phoned word was to be brought to him at the pool.",
             "work": "The Great Gatsby"
         },
         {
             "author": "Jo Nesbo",
             "quote_former": "",
-			"time": "At two",
-			"quote_latter": ", the snowplows were in action in Lillestrom.",
+            "time": "At two",
+            "quote_latter": ", the snowplows were in action in Lillestrom.",
             "work": "The Snowman"
         },
         {
             "author": "Albert Camus",
             "quote_former": "I caught the ",
-			"time": "two o'clock",
-			"quote_latter": " bus. It was very hot. I ate at C\u00e9leste's restaurant as usual. They all felt very sorry for me and C\u00e9leste told me, 'There's no one like a mother'.",
+            "time": "two o'clock",
+            "quote_latter": " bus. It was very hot. I ate at C\u00e9leste's restaurant as usual. They all felt very sorry for me and C\u00e9leste told me, 'There's no one like a mother'.",
             "work": "The Outsider"
         },
         {
             "author": "Albert Camus",
             "quote_former": "The Home for Aged Persons is at Marengo, some fifty miles from Algiers. With the ",
-			"time": "two o'clock",
-			"quote_latter": " bus I should get there well before nightfall. Then I can spend the night there, keeping the usual vigil beside the body, and be back here by tomorrow evening.",
+            "time": "two o'clock",
+            "quote_latter": " bus I should get there well before nightfall. Then I can spend the night there, keeping the usual vigil beside the body, and be back here by tomorrow evening.",
             "work": "The Outsider"
         },
         {
             "author": "Stieg Larsson",
             "quote_former": "When Salander woke up it was ",
-			"time": "2.00",
-			"quote_latter": " on Saturday afternoon and a doctor was poking at her.",
+            "time": "2.00",
+            "quote_latter": " on Saturday afternoon and a doctor was poking at her.",
             "work": "The Girl Who Kicked the Hornets' Nest"
         }
     ],
@@ -6671,15 +6671,15 @@ const quoteMap = {
         {
             "author": "John Hershey",
             "quote_former": "At ",
-			"time": "about two o' clock",
-			"quote_latter": " the owners young wife came, carrying a handleless cup and a pot with a quilted cover, to where I was still lying disconsolate",
+            "time": "about two o' clock",
+            "quote_latter": " the owners young wife came, carrying a handleless cup and a pot with a quilted cover, to where I was still lying disconsolate",
             "work": "A Single Pebble"
         },
         {
             "author": "JL Carr",
             "quote_former": "The next day was Saturday and, now that Moon was done, I decided to bring the job to its end. So I sent word that I shouldn't be able to umpire for the team at Steeple Sinderby and, after working through the morning, came down ",
-			"time": "about two o'clock",
-			"quote_latter": ".",
+            "time": "about two o'clock",
+            "quote_latter": ".",
             "work": "A Month in the Country"
         }
     ],
@@ -6687,8 +6687,8 @@ const quoteMap = {
         {
             "author": "Jasper Fforde",
             "quote_former": "\"I'm not dead. How did that happen?\" He was right. It was ",
-			"time": "14.02",
-			"quote_latter": " and twenty-six seconds. Destiny had not been fulfilled. We all looked at each other, confused.",
+            "time": "14.02",
+            "quote_latter": " and twenty-six seconds. Destiny had not been fulfilled. We all looked at each other, confused.",
             "work": "The Woman Who Died A Lot"
         }
     ],
@@ -6696,8 +6696,8 @@ const quoteMap = {
         {
             "author": "Hans Hellmut Kirst",
             "quote_former": "",
-			"time": "2.04pm.",
-			"quote_latter": " Once again, the Quartermaster-General's office came on the line asking for Colonel Finckh, and once again Finckh heard the quiet, unemotional, unfamiliar voice",
+            "time": "2.04pm.",
+            "quote_latter": " Once again, the Quartermaster-General's office came on the line asking for Colonel Finckh, and once again Finckh heard the quiet, unemotional, unfamiliar voice",
             "work": "The Night of the Generals"
         }
     ],
@@ -6705,8 +6705,8 @@ const quoteMap = {
         {
             "author": "Mikhail Bulgakov",
             "quote_former": "...and at ",
-			"time": "five past two",
-			"quote_latter": " on 17 September of that same unforgettable year 1916, I was in the Muryovo hospital yard, standing on trampled withered grass, flattened by the September rain.",
+            "time": "five past two",
+            "quote_latter": " on 17 September of that same unforgettable year 1916, I was in the Muryovo hospital yard, standing on trampled withered grass, flattened by the September rain.",
             "work": "A Country Doctor's Notebook"
         }
     ],
@@ -6714,8 +6714,8 @@ const quoteMap = {
         {
             "author": "Hilary Mantel",
             "quote_former": "A man driving a tractor saw her, four hundred yards from her house, ",
-			"time": "six minutes past two",
-			"quote_latter": " in the afternoon.",
+            "time": "six minutes past two",
+            "quote_latter": " in the afternoon.",
             "work": "A Change of Climate"
         }
     ],
@@ -6723,8 +6723,8 @@ const quoteMap = {
         {
             "author": "Vanessa Gebbie",
             "quote_former": "Mrs Eunice Harris pulls back the sleeve of her good coat and checks her good watch. \"Indeed yes. Half twelve,\" and waves a hand at the Town Hall clock as if it was hers. \"Always ",
-			"time": "ten past two",
-			"quote_latter": ". Someone put a nail in the time years back.\"",
+            "time": "ten past two",
+            "quote_latter": ". Someone put a nail in the time years back.\"",
             "work": "The Coward's Tale"
         }
     ],
@@ -6732,8 +6732,8 @@ const quoteMap = {
         {
             "author": "Douglas Adams",
             "quote_former": "At the third stroke, it will be ",
-			"time": "two ... thirteen",
-			"quote_latter": " ... and fifty seconds.'",
+            "time": "two ... thirteen",
+            "quote_latter": " ... and fifty seconds.'",
             "work": "So Long, and Thanks for All the Fish"
         }
     ],
@@ -6741,22 +6741,22 @@ const quoteMap = {
         {
             "author": "Vladimir Nabokov",
             "quote_former": "I had a date with her next day at ",
-			"time": "2.15 P.M.",
-			"quote_latter": " In my own rooms, but it was less successful, she seemed to have grown less juvenile, more of a woman overnight.",
+            "time": "2.15 P.M.",
+            "quote_latter": " In my own rooms, but it was less successful, she seemed to have grown less juvenile, more of a woman overnight.",
             "work": "Lolita"
         },
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "2.15 p.m.",
-			"quote_latter": " Second afternoon class",
+            "time": "2.15 p.m.",
+            "quote_latter": " Second afternoon class",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "Vladimir Nabokov",
             "quote_former": "I had a date with her next day at ",
-			"time": "2.15pm",
-			"quote_latter": " in my own rooms, but it was less successful, she seemed to have grown less juvenile, more of a woman overnight. A cold I caught from her led me to cancel a fourth assignment, nor was I sorry to break an emotional series that threatened to burden me with heart-rending fantasies and peter out in dull disappointment. So let her remain, sleek, slender Monique, as she was for a minute or two",
+            "time": "2.15pm",
+            "quote_latter": " in my own rooms, but it was less successful, she seemed to have grown less juvenile, more of a woman overnight. A cold I caught from her led me to cancel a fourth assignment, nor was I sorry to break an emotional series that threatened to burden me with heart-rending fantasies and peter out in dull disappointment. So let her remain, sleek, slender Monique, as she was for a minute or two",
             "work": "Lolita"
         }
     ],
@@ -6764,8 +6764,8 @@ const quoteMap = {
         {
             "author": "Dorothy L. Sayers",
             "quote_former": "Oh, good evening. I think you were on the barrier when I came in at ",
-			"time": "2.16",
-			"quote_latter": " this afternoon. Now, do you know that you let me get past without giving up my ticket? Yes, yes he-he! I really think you ought to be more careful",
+            "time": "2.16",
+            "quote_latter": " this afternoon. Now, do you know that you let me get past without giving up my ticket? Yes, yes he-he! I really think you ought to be more careful",
             "work": "Five Red Herrings"
         }
     ],
@@ -6773,8 +6773,8 @@ const quoteMap = {
         {
             "author": "James Ellroy",
             "quote_former": "",
-			"time": "2:19",
-			"quote_latter": ": Duane Hinton walks out. He walks through the backyard. He lugs some clothes. He wore said clothes last night. He walks to the fence. He feeds the incinerator. He lights a match.",
+            "time": "2:19",
+            "quote_latter": ": Duane Hinton walks out. He walks through the backyard. He lugs some clothes. He wore said clothes last night. He walks to the fence. He feeds the incinerator. He lights a match.",
             "work": "The Cold Six Thousand"
         }
     ],
@@ -6782,22 +6782,22 @@ const quoteMap = {
         {
             "author": "Charles Dickens",
             "quote_former": "The having originated a precaution which was already in course of execution, was a great relief to Miss Pross. The necessity of composing her appearance so that it should attract no special notice in the streets, was another relief. She looked at her watch, and it was ",
-			"time": "twenty minutes past two",
-			"quote_latter": ". She had no time to lose, but must get ready at once.",
+            "time": "twenty minutes past two",
+            "quote_latter": ". She had no time to lose, but must get ready at once.",
             "work": "A tale of two cities"
         },
         {
             "author": "Charles Dickens",
             "quote_former": "She looked at her watch and it was ",
-			"time": "twenty minutes past two",
-			"quote_latter": ". She had no time to lose but must get ready at once.",
+            "time": "twenty minutes past two",
+            "quote_latter": ". She had no time to lose but must get ready at once.",
             "work": "A Tale of Two Cities"
         },
         {
             "author": "Charles Dickens",
             "quote_former": "The watch found at the Weir was challenged by the jeweller as one he had wound and set for Edwin Drood, at ",
-			"time": "twenty minutes past two",
-			"quote_latter": " on that same afternoon; and it had run down, before being cast into the water; and it was the jeweller's positive opinion that it had never been re-wound.",
+            "time": "twenty minutes past two",
+            "quote_latter": " on that same afternoon; and it had run down, before being cast into the water; and it was the jeweller's positive opinion that it had never been re-wound.",
             "work": "The Mystery of Edwin Drood"
         }
     ],
@@ -6805,8 +6805,8 @@ const quoteMap = {
         {
             "author": "Jonathan Franzen",
             "quote_former": "Gary shut himself inside his office and flipped through the messages. Caroline had called at 1:35, 1:40, 1:50, 1:55, and 2:10; it was now ",
-			"time": "2:25",
-			"quote_latter": ". He pumped his fist in triumph. Finally, finally, some evidence of desperation.",
+            "time": "2:25",
+            "quote_latter": ". He pumped his fist in triumph. Finally, finally, some evidence of desperation.",
             "work": "The Corrections"
         }
     ],
@@ -6814,8 +6814,8 @@ const quoteMap = {
         {
             "author": "Don DeLillo",
             "quote_former": "It happened to be the case that the sixty-based system coincided with our our current method of keeping time... Apparently they wanted us to know that that something might happen at ",
-			"time": "28 minutes and 57 seconds after 2pm",
-			"quote_latter": " on a day yet to be specified.",
+            "time": "28 minutes and 57 seconds after 2pm",
+            "quote_latter": " on a day yet to be specified.",
             "work": "Ratner's Star"
         }
     ],
@@ -6823,43 +6823,43 @@ const quoteMap = {
         {
             "author": "Art Spiegelman",
             "quote_former": "Ach! It's ",
-			"time": "2:30",
-			"quote_latter": ". Look how the time is flying. And it's still so much to do today.. It's dishes to clean, dinner to defrost, and my pills I haven't yet counted. I don't get it... Why didn't the Jews at least try to resist? It wasn't so easy like you think. Everybody was so starving and frightened, and tired they couldn't believe even what's in front of their eyes.",
+            "time": "2:30",
+            "quote_latter": ". Look how the time is flying. And it's still so much to do today.. It's dishes to clean, dinner to defrost, and my pills I haven't yet counted. I don't get it... Why didn't the Jews at least try to resist? It wasn't so easy like you think. Everybody was so starving and frightened, and tired they couldn't believe even what's in front of their eyes.",
             "work": "Maus"
         },
         {
             "author": "Eric Linklater",
             "quote_former": "At ",
-			"time": "2.30pm",
-			"quote_latter": " on the 13th inst. began to shadow Sir Bobadil the Ostrich, whom I suspect of being the criminal. Shadowing successful. Didn't lose sight of him once.",
+            "time": "2.30pm",
+            "quote_latter": " on the 13th inst. began to shadow Sir Bobadil the Ostrich, whom I suspect of being the criminal. Shadowing successful. Didn't lose sight of him once.",
             "work": "The Wind on the Moon"
         },
         {
             "author": "John Berger",
             "quote_former": "At ",
-			"time": "half past two",
-			"quote_latter": " the same afternoon the boy and the elderly man are standing in the room directly above the Inner Office and Waiting-Room.",
+            "time": "half past two",
+            "quote_latter": " the same afternoon the boy and the elderly man are standing in the room directly above the Inner Office and Waiting-Room.",
             "work": "Corker's Freedom"
         },
         {
             "author": "Katherine Mansfield",
             "quote_former": "It was ",
-			"time": "half-past two",
-			"quote_latter": " in the afternoon. The sun hung in the faded blue sky like a burning mirror, and away beyond the paddocks the blue mountains quivered and leapt like sea. Sid wouldn't be back until half-past ten. He had ridden over to the township with four of the boys to help hunt down the young fellow who'd murdered Mr. Williamson. Such a dreadful thing!",
+            "time": "half-past two",
+            "quote_latter": " in the afternoon. The sun hung in the faded blue sky like a burning mirror, and away beyond the paddocks the blue mountains quivered and leapt like sea. Sid wouldn't be back until half-past ten. He had ridden over to the township with four of the boys to help hunt down the young fellow who'd murdered Mr. Williamson. Such a dreadful thing!",
             "work": "Millie"
         },
         {
             "author": "Bram Stoker",
             "quote_former": "It was ",
-			"time": "half-past two",
-			"quote_latter": " o'clock when the knock came. I took my courage a deux mains and waited. In a few minutes Mary opened the door, and announced \"Dr. Van Helsing\".",
+            "time": "half-past two",
+            "quote_latter": " o'clock when the knock came. I took my courage a deux mains and waited. In a few minutes Mary opened the door, and announced \"Dr. Van Helsing\".",
             "work": "Dracula"
         },
         {
             "author": "Dorothy Wordsworth",
             "quote_former": "May 14th 1800. Wm and John set off into Yorkshire after dinner at ",
-			"time": "1/2 past 2 o'clock",
-			"quote_latter": ", cold pork in their pockets. I left them at the turning of the Low-wood bay under the trees. My heart was so full that I could barely speak to W. when I gave him a farewell kiss.",
+            "time": "1/2 past 2 o'clock",
+            "quote_latter": ", cold pork in their pockets. I left them at the turning of the Low-wood bay under the trees. My heart was so full that I could barely speak to W. when I gave him a farewell kiss.",
             "work": "The Journals of Dorothy Wordsworth"
         }
     ],
@@ -6867,8 +6867,8 @@ const quoteMap = {
         {
             "author": "Charles Bukowski",
             "quote_former": "Like ",
-			"time": "2.32 p.m.",
-			"quote_latter": ", Beecher and Avalon, L3 R2 (which meant left three blocks, right two) 2:35 p.m., and you wondered how you could pick up one box, then drive 5 blocks in 3 minutes and be finished cleaning out another box.",
+            "time": "2.32 p.m.",
+            "quote_latter": ", Beecher and Avalon, L3 R2 (which meant left three blocks, right two) 2:35 p.m., and you wondered how you could pick up one box, then drive 5 blocks in 3 minutes and be finished cleaning out another box.",
             "work": "Post Office"
         }
     ],
@@ -6876,8 +6876,8 @@ const quoteMap = {
         {
             "author": "Dorothy L. Sayers",
             "quote_former": "Noo, there's a report come in fra' the station-master at Pinwherry that there was a gentleman tuk the ",
-			"time": "2.39",
-			"quote_latter": " at Pinwherry.",
+            "time": "2.39",
+            "quote_latter": " at Pinwherry.",
             "work": "Five Red Herrings"
         }
     ],
@@ -6885,15 +6885,15 @@ const quoteMap = {
         {
             "author": "J.D. Salinger",
             "quote_former": "If a girl looks swell when she meets you, who gives a damn when she's late? 'We better hurry', I said. 'The show starts at ",
-			"time": "two-forty",
-			"quote_latter": ".'",
+            "time": "two-forty",
+            "quote_latter": ".'",
             "work": "The Catcher in the Rye"
         },
         {
             "author": "Compton Mackenzie",
             "quote_former": "Members of Big Side marked Michael and Alan as the two most promising three-quarters for Middle Side next year, and when the bell sounded at ",
-			"time": "twenty minutes to three",
-			"quote_latter": ", the members of Big Side would walk with Michael and Alan towards the changing room and encourage them by flattery and genial ragging.",
+            "time": "twenty minutes to three",
+            "quote_latter": ", the members of Big Side would walk with Michael and Alan towards the changing room and encourage them by flattery and genial ragging.",
             "work": "Sinister Street"
         }
     ],
@@ -6901,8 +6901,8 @@ const quoteMap = {
         {
             "author": "Josephine Tey",
             "quote_former": "At ",
-			"time": "2.41",
-			"quote_latter": ", when the afternoon fast train to London was pulling out of Larborough prompt to the minute, Miss Pym sat under the cedar on the lawn wondering whether she was a fool, and not caring much anyhow.",
+            "time": "2.41",
+            "quote_latter": ", when the afternoon fast train to London was pulling out of Larborough prompt to the minute, Miss Pym sat under the cedar on the lawn wondering whether she was a fool, and not caring much anyhow.",
             "work": "Miss Pym Disposes"
         }
     ],
@@ -6910,8 +6910,8 @@ const quoteMap = {
         {
             "author": "JG Ballard",
             "quote_former": "Jacobson died at ",
-			"time": "2.43pm",
-			"quote_latter": " the next day after slashing his wrists with a razor blade in the second cubicle from the left in the men's washroom on the third floor.",
+            "time": "2.43pm",
+            "quote_latter": " the next day after slashing his wrists with a razor blade in the second cubicle from the left in the men's washroom on the third floor.",
             "work": "Now: Zero"
         }
     ],
@@ -6919,22 +6919,22 @@ const quoteMap = {
         {
             "author": "George and Weedon Grossmith",
             "quote_former": "He never came down till a ",
-			"time": "quarter to three",
-			"quote_latter": ".",
+            "time": "quarter to three",
+            "quote_latter": ".",
             "work": "The Diary of a Nobody"
         },
         {
             "author": "Martin Amis",
             "quote_former": "Pull the other one, and tell it to the marines, and don't make me laugh, and fuck off out of it, and all that, but the fact remained that it was still only ",
-			"time": "two forty-five",
-			"quote_latter": "'.",
+            "time": "two forty-five",
+            "quote_latter": "'.",
             "work": "The Pregnant Window"
         },
         {
             "author": "Daniil Ivanovich Kharms",
             "quote_former": "What time is it?' 'Look for yourself,' the old woman says to me. I look, and I see the clock has no hands. 'There are no hands,' I say. The old woman looks at the clock face and says to me, 'It's a ",
-			"time": "quarter to three",
-			"quote_latter": "'.",
+            "time": "quarter to three",
+            "quote_latter": "'.",
             "work": "The Old Woman"
         }
     ],
@@ -6942,8 +6942,8 @@ const quoteMap = {
         {
             "author": "Rupert Brooke",
             "quote_former": "Stands the Church clock at ",
-			"time": "ten to three",
-			"quote_latter": "? And is there honey still for tea?",
+            "time": "ten to three",
+            "quote_latter": "? And is there honey still for tea?",
             "work": "The Old Vicarage, Grantchester"
         }
     ],
@@ -6951,8 +6951,8 @@ const quoteMap = {
         {
             "author": "JG Ballard",
             "quote_former": "",
-			"time": "2.56 P.M.",
-			"quote_latter": " Helen is alone now. Her face is out of frame, and through the viewfinder I see only a segment of the pillow, an area of crumpled sheet and the upper section of her chest and shoulders.",
+            "time": "2.56 P.M.",
+            "quote_latter": " Helen is alone now. Her face is out of frame, and through the viewfinder I see only a segment of the pillow, an area of crumpled sheet and the upper section of her chest and shoulders.",
             "work": "The 60 Minute Zoom"
         }
     ],
@@ -6960,15 +6960,15 @@ const quoteMap = {
         {
             "author": "Compton Mackenzie",
             "quote_former": "From twenty minutes past nine until twenty-seven minutes past nine, from twenty-five minutes past eleven until twenty-eight minutes past eleven, from ten minutes to three until ",
-			"time": "two minutes to three",
-			"quote_latter": " the heroes of the school met in a large familiarity whose Olympian laughter awed the fearful small boy that flitted uneasily past and chilled the slouching senior that rashly paused to examine the notices in assertion of an unearned right.",
+            "time": "two minutes to three",
+            "quote_latter": " the heroes of the school met in a large familiarity whose Olympian laughter awed the fearful small boy that flitted uneasily past and chilled the slouching senior that rashly paused to examine the notices in assertion of an unearned right.",
             "work": "Sinister Street"
         },
         {
             "author": "Mark Twain",
             "quote_former": "We betted that it would happen on the morrow; they took us up and gave us the odds of two to one; we betted that it would happen in the afternoon; we got odds of four to one on that; we betted that it would happen at ",
-			"time": "two minutes to three",
-			"quote_latter": "; they willingly granted us the odds of ten to one on that.",
+            "time": "two minutes to three",
+            "quote_latter": "; they willingly granted us the odds of ten to one on that.",
             "work": "The Chronicle of Young Satan"
         }
     ],
@@ -6976,85 +6976,85 @@ const quoteMap = {
         {
             "author": "John Kennedy Toole",
             "quote_former": "'I gotta get uptown by ",
-			"time": "three o'clock",
-			"quote_latter": ".'",
+            "time": "three o'clock",
+            "quote_latter": ".'",
             "work": "A Confederacy of Dunces"
         },
         {
             "author": "Arthur Ransome",
             "quote_former": "\"Remember,\" they shouted, \"battle at ",
-			"time": "three o'clock",
-			"quote_latter": " sharp. There's no time to lose.\"",
+            "time": "three o'clock",
+            "quote_latter": " sharp. There's no time to lose.\"",
             "work": "Swallows and Amazons"
         },
         {
             "author": "Guy de Maupassant",
             "quote_former": "At ",
-			"time": "three o'clock",
-			"quote_latter": " on the afternoon of that same day, he called on her. She held out her two hands, smiling in her usual charming, friendly way; and for a few seconds they looked deep into each other's eyes.",
+            "time": "three o'clock",
+            "quote_latter": " on the afternoon of that same day, he called on her. She held out her two hands, smiling in her usual charming, friendly way; and for a few seconds they looked deep into each other's eyes.",
             "work": "Bel-Ami"
         },
         {
             "author": "Sir Arthur Conan Doyle",
             "quote_former": "At ",
-			"time": "three o\u2019clock",
-			"quote_latter": " precisely I was at Baker Street, but Holmes had not yet returned.",
+            "time": "three o\u2019clock",
+            "quote_latter": " precisely I was at Baker Street, but Holmes had not yet returned.",
             "work": "A Scandal in Bohemia"
         },
         {
             "author": "Wilkie Collins",
             "quote_former": "",
-			"time": "At three",
-			"quote_latter": " on the Wednesday afternoon, that bit of the painting was completed.",
+            "time": "At three",
+            "quote_latter": " on the Wednesday afternoon, that bit of the painting was completed.",
             "work": "The Moonstone"
         },
         {
             "author": "Paul Auster",
             "quote_former": "He walks into the Hospital for Broken Things at ",
-			"time": "three o'clock",
-			"quote_latter": " on Monday afternoon. That was the arrangement. If he came in after six o'clock, he was to head straight for the house in Sunset Park.",
+            "time": "three o'clock",
+            "quote_latter": " on Monday afternoon. That was the arrangement. If he came in after six o'clock, he was to head straight for the house in Sunset Park.",
             "work": "Sunset Park"
         },
         {
             "author": "T.C. Boyle",
             "quote_former": "I had a ",
-			"time": "three o\u2019clock",
-			"quote_latter": " class in psychology, the first meeting of the semester, and I suspected I was going to miss it. I was right. Victoria made a real ritual of the whole thing, clothes coming off with the masturbatory dalliance of a strip show, the covers rolling back periodically to show this patch of flesh or that, strategically revealed.",
+            "time": "three o\u2019clock",
+            "quote_latter": " class in psychology, the first meeting of the semester, and I suspected I was going to miss it. I was right. Victoria made a real ritual of the whole thing, clothes coming off with the masturbatory dalliance of a strip show, the covers rolling back periodically to show this patch of flesh or that, strategically revealed.",
             "work": "Achates McNeil"
         },
         {
             "author": "George Eliot",
             "quote_former": "It was ",
-			"time": "three o'clock",
-			"quote_latter": " in the beautiful breezy autumn day when Mr. Casaubon drove off to his Rectory at Lowick, only five miles from Tipton; and Dorothea, who had on her bonnet and shawl, hurried along the shrubbery and across the park that she might wander through the bordering wood with no other visible companionship than that of Monk, the Great St. Bernard dog, who always took care of the young ladies in their walks",
+            "time": "three o'clock",
+            "quote_latter": " in the beautiful breezy autumn day when Mr. Casaubon drove off to his Rectory at Lowick, only five miles from Tipton; and Dorothea, who had on her bonnet and shawl, hurried along the shrubbery and across the park that she might wander through the bordering wood with no other visible companionship than that of Monk, the Great St. Bernard dog, who always took care of the young ladies in their walks",
             "work": "Middlemarch"
         },
         {
             "author": "Harper Lee",
             "quote_former": "Ladies bathed before noon, after their ",
-			"time": "three-o\u2019clock",
-			"quote_latter": " naps, and by nightfall were like soft teacakes with frostings of sweat and sweet talcum.",
+            "time": "three-o\u2019clock",
+            "quote_latter": " naps, and by nightfall were like soft teacakes with frostings of sweat and sweet talcum.",
             "work": "To kill a mockingbird"
         },
         {
             "author": "Victor Hugo",
             "quote_former": "M. Madeleine usually came at ",
-			"time": "three o'clock",
-			"quote_latter": ", and as punctuality was kindness, he was punctual.",
+            "time": "three o'clock",
+            "quote_latter": ", and as punctuality was kindness, he was punctual.",
             "work": "Les Miserables"
         },
         {
             "author": "Gustave Flaubert",
             "quote_former": "On Wednesday at ",
-			"time": "three o'clock",
-			"quote_latter": ", Monsieur and Madame Bovary, seated in their dog-cart, set out for Vaubyessard, with a great trunk strapped on behind and a bonnet-box in front of the apron. Besides these Charles held a bandbox between his knees.",
+            "time": "three o'clock",
+            "quote_latter": ", Monsieur and Madame Bovary, seated in their dog-cart, set out for Vaubyessard, with a great trunk strapped on behind and a bonnet-box in front of the apron. Besides these Charles held a bandbox between his knees.",
             "work": "Madame Bovary"
         },
         {
             "author": "David Lodge",
             "quote_former": "Today was the day Alex had appointed for her 'punishment'. I became increasingly nervous as the hour of ",
-			"time": "three o'clock",
-			"quote_latter": " approached. I was alone in the house, and paced restlessly from room to room, glancing at the clocks in each of them.",
+            "time": "three o'clock",
+            "quote_latter": " approached. I was alone in the house, and paced restlessly from room to room, glancing at the clocks in each of them.",
             "work": "Deaf Sentence"
         }
     ],
@@ -7062,8 +7062,8 @@ const quoteMap = {
         {
             "author": "Mark Twain",
             "quote_former": "The sun was now setting. It was ",
-			"time": "about three",
-			"quote_latter": " in the afternoon when Alisande had begun to tell me who the cowboys were; so she had made pretty good progress with it - for her. She would arrive some time or other, no doubt, but she was not a person who could be hurried.",
+            "time": "about three",
+            "quote_latter": " in the afternoon when Alisande had begun to tell me who the cowboys were; so she had made pretty good progress with it - for her. She would arrive some time or other, no doubt, but she was not a person who could be hurried.",
             "work": "A Connecticut Yankee in King Arthur's Court"
         }
     ],
@@ -7071,8 +7071,8 @@ const quoteMap = {
         {
             "author": "Brian Chikwava",
             "quote_former": "I check Shingi's mobile phone - it says it's ",
-			"time": "3.03pm.",
-			"quote_latter": " I get out of bed, open my suitcase to take clean socks out and the smell of Mother hit my nose and make me feel dizzy.",
+            "time": "3.03pm.",
+            "quote_latter": " I get out of bed, open my suitcase to take clean socks out and the smell of Mother hit my nose and make me feel dizzy.",
             "work": "Harare North"
         }
     ],
@@ -7080,8 +7080,8 @@ const quoteMap = {
         {
             "author": "Hallgr\u00edmur Helgason",
             "quote_former": "Woken at ",
-			"time": "1504",
-			"quote_latter": " by Michelangelo hammering away with his chisel.",
+            "time": "1504",
+            "quote_latter": " by Michelangelo hammering away with his chisel.",
             "work": "101 Reykjavik"
         }
     ],
@@ -7089,8 +7089,8 @@ const quoteMap = {
         {
             "author": "Truman Capote",
             "quote_former": "Ultimately, at ",
-			"time": "five minutes past three",
-			"quote_latter": " that afternoon, Smith admitted the falsity of the Fort Scott tale. \"That was only something Dick told his family. So he could stay out overnight. Do some drinking.\"",
+            "time": "five minutes past three",
+            "quote_latter": " that afternoon, Smith admitted the falsity of the Fort Scott tale. \"That was only something Dick told his family. So he could stay out overnight. Do some drinking.\"",
             "work": "In Cold Blood"
         }
     ],
@@ -7098,8 +7098,8 @@ const quoteMap = {
         {
             "author": "Patrick Hamilton",
             "quote_former": "The next day was grey, threatening rain. He was there at ",
-			"time": "seven minutes past three",
-			"quote_latter": ". The clock on the church over the way pointed to it. They had arranged to be there at three fifteen. Therefore, if she had been there when he came, she would have been eight minutes before her time.",
+            "time": "seven minutes past three",
+            "quote_latter": ". The clock on the church over the way pointed to it. They had arranged to be there at three fifteen. Therefore, if she had been there when he came, she would have been eight minutes before her time.",
             "work": "Twenty Thousand Streets Under The Sky"
         }
     ],
@@ -7107,8 +7107,8 @@ const quoteMap = {
         {
             "author": "James Joyce",
             "quote_former": "A private wireless telegraph which would transmit by dot and dash system the result of a national equine handicap (flat or steeplechase) of 1 or more miles and furlongs won by an outsider at odds of 50 to 1 at ",
-			"time": "3 hr 8 m p.m.",
-			"quote_latter": " at Ascot (Greenwich time), the message being received and available for betting purposes in Dublin at 2.59 p.m.",
+            "time": "3 hr 8 m p.m.",
+            "quote_latter": " at Ascot (Greenwich time), the message being received and available for betting purposes in Dublin at 2.59 p.m.",
             "work": "Ulysses"
         }
     ],
@@ -7116,8 +7116,8 @@ const quoteMap = {
         {
             "author": "Freeman Wills Crofts",
             "quote_former": "On the next day he boarded the London train which reaches Hull at ",
-			"time": "3.09",
-			"quote_latter": ". At Paragon Station he soon singled out Beamish from Merriman's description.",
+            "time": "3.09",
+            "quote_latter": ". At Paragon Station he soon singled out Beamish from Merriman's description.",
             "work": "The Pit-Prop Syndicate"
         }
     ],
@@ -7125,8 +7125,8 @@ const quoteMap = {
         {
             "author": "M.P. Shiel",
             "quote_former": "This time it was only the simple fact that the hands chanced to point to ",
-			"time": "3.10pm",
-			"quote_latter": ", the precise moment at which all the clocks of London had stopped.",
+            "time": "3.10pm",
+            "quote_latter": ", the precise moment at which all the clocks of London had stopped.",
             "work": "The Purple Cloud"
         }
     ],
@@ -7134,8 +7134,8 @@ const quoteMap = {
         {
             "author": "Simon Kearns",
             "quote_former": "The lift moved. It was ",
-			"time": "thirteen minutes past three",
-			"quote_latter": ". The bell gave out its ping. Two men stepped out of the lift, Alan Norman and another man. Tony Blair walked into the office.",
+            "time": "thirteen minutes past three",
+            "quote_latter": ". The bell gave out its ping. Two men stepped out of the lift, Alan Norman and another man. Tony Blair walked into the office.",
             "work": "Virtual Assassin"
         }
     ],
@@ -7143,8 +7143,8 @@ const quoteMap = {
         {
             "author": "Edith Nesbit",
             "quote_former": "A signal sounded. \"There's the ",
-			"time": "3.14",
-			"quote_latter": " up,\" said Perks. \"You lie low till she's through, and then we'll go up along to my place, and see if there's any of them strawberries ripe what I told you about.\"",
+            "time": "3.14",
+            "quote_latter": " up,\" said Perks. \"You lie low till she's through, and then we'll go up along to my place, and see if there's any of them strawberries ripe what I told you about.\"",
             "work": "The Railway Children"
         }
     ],
@@ -7152,22 +7152,22 @@ const quoteMap = {
         {
             "author": "George Orwell",
             "quote_former": "Gordon was alone. He wandered back to the door. The strawberry-nosed man glanced over his shoulder, caught Gordon's eye, and moved off, foiled. He had been on the point of slipping Edgar Wallace into his pocket. The clock over the Prince of Wales struck a ",
-			"time": "quarter past three",
-			"quote_latter": ".",
+            "time": "quarter past three",
+            "quote_latter": ".",
             "work": "Keep the Aspidistra Flying"
         },
         {
             "author": "Raymond Carver",
             "quote_former": "I got out my old clothes. I put wool socks over my regular socks and took my time lacing up the boots. I made a couple of tuna sandwiches and some double-decker peanut-butter crackers. I filled my canteen and attached the hunting knife and the canteen to my belt. As I was going out the door, I decided to leave a note. So I wrote: \"Feeling better and going to Birch Creek. Back soon. R. ",
-			"time": "3:15",
-			"quote_latter": ".\" That was about four hours from now.",
+            "time": "3:15",
+            "quote_latter": ".\" That was about four hours from now.",
             "work": "Where I'm Calling From"
         },
         {
             "author": "JG Ballard",
             "quote_former": "July 3: 5 3/4 hours. Little done today. Deepening lethargy, dragged myself over to the lab, nearly left the road twice. Concentrated enough to feed the zoo and get the log up to date. Read through the operating manuals Whitby left for the last time, decided on a delivery rate of 40 rontgens/min., target distance of 530 cm. Everything is ready now. Woke 11:05. To sleep ",
-			"time": "3:15",
-			"quote_latter": ".",
+            "time": "3:15",
+            "quote_latter": ".",
             "work": "The Voices of Time"
         }
     ],
@@ -7175,8 +7175,8 @@ const quoteMap = {
         {
             "author": "Iain Banks",
             "quote_former": "The Nimrod rendezvoused with the light aircraft at ",
-			"time": "1516",
-			"quote_latter": " GMT.",
+            "time": "1516",
+            "quote_latter": " GMT.",
             "work": "The Crow Road"
         }
     ],
@@ -7184,8 +7184,8 @@ const quoteMap = {
         {
             "author": "David Peace",
             "quote_former": "At ",
-			"time": "twenty minutes past three",
-			"quote_latter": " on Monday, 26 January 1948, in Tokyo, and I am drinking and I am drinking and I am drinking and I am drinking and I am drinking and I am drinking and I am drinking and I am drinking and I am drinking \u2026",
+            "time": "twenty minutes past three",
+            "quote_latter": " on Monday, 26 January 1948, in Tokyo, and I am drinking and I am drinking and I am drinking and I am drinking and I am drinking and I am drinking and I am drinking and I am drinking and I am drinking \u2026",
             "work": "Occupied City"
         }
     ],
@@ -7193,8 +7193,8 @@ const quoteMap = {
         {
             "author": "Tom McCarthy",
             "quote_former": "\"Hmm, let's see. It's a three-line rail-fence, a, d, g...d-a-r-l...Got it: 'Darling Hepzibah'\u2014Hepzibah? What kind of name is that?\u2014'Will meet you Reading Sunday ",
-			"time": "15.25",
-			"quote_latter": " train Didcot-Reading.' Reading you all right, you idiots.\"",
+            "time": "15.25",
+            "quote_latter": " train Didcot-Reading.' Reading you all right, you idiots.\"",
             "work": "C"
         }
     ],
@@ -7202,8 +7202,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "And she rang the Reverend Peters and he came into school at ",
-			"time": "3.27pm",
-			"quote_latter": " and he said, 'So, young man, are we ready to roll?'",
+            "time": "3.27pm",
+            "quote_latter": " and he said, 'So, young man, are we ready to roll?'",
             "work": "The Curious Incident Of The Dog In The Night-Time"
         }
     ],
@@ -7211,8 +7211,8 @@ const quoteMap = {
         {
             "author": "Aldous Huxley",
             "quote_former": "\"Good heavens!\" she said, \"it's ",
-			"time": "nearly half-past three",
-			"quote_latter": ". I must fly. Don't forget about the funeral service,\" she added, as she put on her coat. \"The tapers, the black coffin in the middle of the aisle, the nuns in their white-winged coifs, the gloomy chanting, and the poor cowering creature without any teeth, her face all caved in like an old woman's, wondering whether she wasn't really and in fact dead - wondering whether she wasn't already in hell. Goodbye.\"",
+            "time": "nearly half-past three",
+            "quote_latter": ". I must fly. Don't forget about the funeral service,\" she added, as she put on her coat. \"The tapers, the black coffin in the middle of the aisle, the nuns in their white-winged coifs, the gloomy chanting, and the poor cowering creature without any teeth, her face all caved in like an old woman's, wondering whether she wasn't really and in fact dead - wondering whether she wasn't already in hell. Goodbye.\"",
             "work": "Nuns at Luncheon"
         }
     ],
@@ -7220,22 +7220,22 @@ const quoteMap = {
         {
             "author": "Roald Dahl",
             "quote_former": "\"Before I am rrroasting the alarm-clock, I am setting it to go off, not at nine o'clock the next morning, but at ",
-			"time": "half-past thrrree",
-			"quote_latter": " the next afternoon. Vhich means half-past thrrree this afternoon. And that\", she said, glancing at her wrist-watch, \"is in prrree-cisely seven minutes' time!\"",
+            "time": "half-past thrrree",
+            "quote_latter": " the next afternoon. Vhich means half-past thrrree this afternoon. And that\", she said, glancing at her wrist-watch, \"is in prrree-cisely seven minutes' time!\"",
             "work": "The Witches"
         },
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "3.30 p.m.",
-			"quote_latter": " Catch school bus home",
+            "time": "3.30 p.m.",
+            "quote_latter": " Catch school bus home",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "Kazuo Ishiguro",
             "quote_former": "I must have completed my packing with time to spare, for when the knock came on my door at ",
-			"time": "half past three",
-			"quote_latter": " precisely, I had been sitting in my chair waiting for a good while. I opened the door to a young Chinese man, perhaps not even twenty, dressed in a gown, his hat in his hand.",
+            "time": "half past three",
+            "quote_latter": " precisely, I had been sitting in my chair waiting for a good while. I opened the door to a young Chinese man, perhaps not even twenty, dressed in a gown, his hat in his hand.",
             "work": "When We Were Orphans"
         }
     ],
@@ -7243,8 +7243,8 @@ const quoteMap = {
         {
             "author": "John Green",
             "quote_former": "At ",
-			"time": "3:32",
-			"quote_latter": " precisely, I noticed Kaitlyn striding confidently past the Wok House. She saw me the moment I raised my hand, flashed her very white and newly straightened teeth at me, and headed over.",
+            "time": "3:32",
+            "quote_latter": " precisely, I noticed Kaitlyn striding confidently past the Wok House. She saw me the moment I raised my hand, flashed her very white and newly straightened teeth at me, and headed over.",
             "work": "The Fault in Our Stars"
         }
     ],
@@ -7252,15 +7252,15 @@ const quoteMap = {
         {
             "author": "Lorrie Moore",
             "quote_former": "By ",
-			"time": "three-thirty-five",
-			"quote_latter": " business really winds down. I have already sold my ladderback chairs and my Scottish cardigans. I'm not even sure now why I've sold all these things, except perhaps so as not to be left out of this giant insult to one's life that is a yard sale, this general project of getting rid quick.",
+            "time": "three-thirty-five",
+            "quote_latter": " business really winds down. I have already sold my ladderback chairs and my Scottish cardigans. I'm not even sure now why I've sold all these things, except perhaps so as not to be left out of this giant insult to one's life that is a yard sale, this general project of getting rid quick.",
             "work": "Anagrams"
         },
         {
             "author": "Joyce Carol Oates",
             "quote_former": "If Me flashed a little crazy after a restless night of smoking & prowling the darkened house with owl-eyes alert to suspicious noises outside & on the roof, it didn\u2019t inevitably mean she\u2019d still be in such a state when the schoolbus deposited Wolfie back home at ",
-			"time": "3:35 P.M.",
-			"quote_latter": "",
+            "time": "3:35 P.M.",
+            "quote_latter": "",
             "work": "I Am No One You Know: Stories"
         }
     ],
@@ -7268,8 +7268,8 @@ const quoteMap = {
         {
             "author": "Douglas Adams",
             "quote_former": "The explosion was now officially designated an \"Act of God\". But, thought Dirk, what god? And why? What god would be hanging around Terminal Two of Heathrow Airport trying to catch the ",
-			"time": "15.37",
-			"quote_latter": " flight to Oslo?",
+            "time": "15.37",
+            "quote_latter": " flight to Oslo?",
             "work": "The Long Dark Tea Time of the Soul"
         }
     ],
@@ -7277,8 +7277,8 @@ const quoteMap = {
         {
             "author": "Stephen King",
             "quote_former": "I lived two lives in late 1965 and early 1963, one in Dallas and one in Jodie. They came together at ",
-			"time": "three thirty-nine",
-			"quote_latter": " in the afternoon of April 10.",
+            "time": "three thirty-nine",
+            "quote_latter": " in the afternoon of April 10.",
             "work": "11/22/63"
         }
     ],
@@ -7286,8 +7286,8 @@ const quoteMap = {
         {
             "author": "Dean Koontz",
             "quote_former": "At ",
-			"time": "three-forty",
-			"quote_latter": ", Cliff called to report that Dilworth and his lady friend were sitting on the deck of the Amazing Grace, eating fruit and sipping wine, reminiscing a lot, laughing a little. \u201cFrom what we can pick up with directional microphones and from what we can see, I\u2019d say they don\u2019t have any intention of going anywhere. Except maybe to bed. They sure do seem to be a randy old pair.\u201d \u201cStay with them,\u201d Lem said. \u201cI don\u2019t trust him.\u201d",
+            "time": "three-forty",
+            "quote_latter": ", Cliff called to report that Dilworth and his lady friend were sitting on the deck of the Amazing Grace, eating fruit and sipping wine, reminiscing a lot, laughing a little. \u201cFrom what we can pick up with directional microphones and from what we can see, I\u2019d say they don\u2019t have any intention of going anywhere. Except maybe to bed. They sure do seem to be a randy old pair.\u201d \u201cStay with them,\u201d Lem said. \u201cI don\u2019t trust him.\u201d",
             "work": "Watchers"
         }
     ],
@@ -7295,8 +7295,8 @@ const quoteMap = {
         {
             "author": "Iain Banks",
             "quote_former": "At ",
-			"time": "15:41",
-			"quote_latter": " GMT, the Cessna's engine began to cut out and the plane - presumably out of fuel - began to lose altitude",
+            "time": "15:41",
+            "quote_latter": " GMT, the Cessna's engine began to cut out and the plane - presumably out of fuel - began to lose altitude",
             "work": "The Crow Road"
         }
     ],
@@ -7304,8 +7304,8 @@ const quoteMap = {
         {
             "author": "Stieg Larsson",
             "quote_former": "The armed response team hastily assembled from Str\u00e4ngn\u00e4s arrived at Bjurman's summer cabin at ",
-			"time": "3.44 p.m.",
-			"quote_latter": "",
+            "time": "3.44 p.m.",
+            "quote_latter": "",
             "work": "The Girl who Played with Fire"
         }
     ],
@@ -7313,15 +7313,15 @@ const quoteMap = {
         {
             "author": "Stephen King",
             "quote_former": "I opened my notebook, flipped almost to the end before I found a blank page, and wrote \"October 5th, ",
-			"time": "3.45pm",
-			"quote_latter": ", Dunning to Longview Cem, puts flowers on parents' (?) graves. Rain.\" I had what I wanted.",
+            "time": "3.45pm",
+            "quote_latter": ", Dunning to Longview Cem, puts flowers on parents' (?) graves. Rain.\" I had what I wanted.",
             "work": "11/22/63"
         },
         {
             "author": "JG Ballard",
             "quote_former": "One meal is enough now, topped up with a glucose shot. Sleep is still 'black', completely unrefreshing. Last night I took a 16 mm. film of the first three hours, screened it this morning at the lab. The first true-horror movie. I looked like a half-animated corpse. Woke 10:25. To sleep ",
-			"time": "3:45",
-			"quote_latter": ".",
+            "time": "3:45",
+            "quote_latter": ".",
             "work": "The Voices of Time"
         }
     ],
@@ -7329,15 +7329,15 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "3.49 p.m.",
-			"quote_latter": " Get off school bus at home",
+            "time": "3.49 p.m.",
+            "quote_latter": " Get off school bus at home",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "Mark Haddon",
             "quote_former": "But there were more bad things than good things. And one of them was that Mother didn't get back from work til 5.30 pm so I had to go to Father's house between ",
-			"time": "3.49 pm",
-			"quote_latter": " and 5.30 pm because I wasn't allowed to be on my own and Mother said I didn't have a choice so I pushed the bed against the door in case Father tried to come in.",
+            "time": "3.49 pm",
+            "quote_latter": " and 5.30 pm because I wasn't allowed to be on my own and Mother said I didn't have a choice so I pushed the bed against the door in case Father tried to come in.",
             "work": "The Curious Incident of the Dog in the Night-time"
         }
     ],
@@ -7345,8 +7345,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "3.50 p.m.",
-			"quote_latter": " Have juice and snack",
+            "time": "3.50 p.m.",
+            "quote_latter": " Have juice and snack",
             "work": "The Curious Incident Of The Dog In The Night-Time"
         }
     ],
@@ -7354,8 +7354,8 @@ const quoteMap = {
         {
             "author": "Mark Twain",
             "quote_former": "Date of the telegram, Rome, November 24, ten minutes before twenty-three o'clock. The telegram seems to say, \"The Sovereigns and the Royal Children expect themselves at Rome tomorrow at ",
-			"time": "fifty-one minutes after fifteen o'clock",
-			"quote_latter": ".\"",
+            "time": "fifty-one minutes after fifteen o'clock",
+            "quote_latter": ".\"",
             "work": "Italian Without a Master"
         }
     ],
@@ -7363,8 +7363,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "3.55 p.m.",
-			"quote_latter": " Give Toby food and water",
+            "time": "3.55 p.m.",
+            "quote_latter": " Give Toby food and water",
             "work": "The Curious Incident of the Dog in the Night-time"
         }
     ],
@@ -7372,8 +7372,8 @@ const quoteMap = {
         {
             "author": "Arthur Conan Doyle",
             "quote_former": "It was ",
-			"time": "close upon four ",
-			"quote_latter": "before the door opened, and a drunken-looking groom, ill-kempt and side-whiskered with an inflamed face and disreputable clothes, walked into the room. Accustomed as I was to my friend's amazing powers in the use of disguises, I had to look three times before I was certain that it was indeed he.",
+            "time": "close upon four ",
+            "quote_latter": "before the door opened, and a drunken-looking groom, ill-kempt and side-whiskered with an inflamed face and disreputable clothes, walked into the room. Accustomed as I was to my friend's amazing powers in the use of disguises, I had to look three times before I was certain that it was indeed he.",
             "work": "The Adventures of Sherlock Holmes"
         }
     ],
@@ -7381,8 +7381,8 @@ const quoteMap = {
         {
             "author": "Victor Hugo",
             "quote_former": "",
-			"time": "Towards four o'clock",
-			"quote_latter": " the condition of the English army was serious. The Prince of Orange was in command of the centre, Hill of the right wing, Picton of the left wing. The Prince of Orange, desperate and intrepid, shouted to the Hollando-Belgians: \"Nassau! Brunswick! Never retreat!\"",
+            "time": "Towards four o'clock",
+            "quote_latter": " the condition of the English army was serious. The Prince of Orange was in command of the centre, Hill of the right wing, Picton of the left wing. The Prince of Orange, desperate and intrepid, shouted to the Hollando-Belgians: \"Nassau! Brunswick! Never retreat!\"",
             "work": "Les Miserables"
         }
     ],
@@ -7390,8 +7390,8 @@ const quoteMap = {
         {
             "author": "William Boyd",
             "quote_former": "He looked at his watch: it was ",
-			"time": "nearly 4",
-			"quote_latter": ". He helped Delphine to her feet and led her down a passage to a rear door that gave on to the hospital garden.",
+            "time": "nearly 4",
+            "quote_latter": ". He helped Delphine to her feet and led her down a passage to a rear door that gave on to the hospital garden.",
             "work": "The Blue Afternoon"
         }
     ],
@@ -7399,85 +7399,85 @@ const quoteMap = {
         {
             "author": "Jane Austen",
             "quote_former": "... when they all sat down to table at ",
-			"time": "four o'clock",
-			"quote_latter": ", about three hours after his arrival, he had secured his lady, engaged her mother's consent, and was not only in the rapturous profession of the lover, but, in the reality of reason and truth, one of the happiest of men.",
+            "time": "four o'clock",
+            "quote_latter": ", about three hours after his arrival, he had secured his lady, engaged her mother's consent, and was not only in the rapturous profession of the lover, but, in the reality of reason and truth, one of the happiest of men.",
             "work": "Sense and Sensibility"
         },
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "4.00 p.m.",
-			"quote_latter": " Take Toby out of his cage",
+            "time": "4.00 p.m.",
+            "quote_latter": " Take Toby out of his cage",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "Val McDermid",
             "quote_former": "As he turned off towards the fishing village of Cellardyke, the familiar pips announced the ",
-			"time": "four o'clock",
-			"quote_latter": " news. The comforting voice of the newsreader began the bulletin. 'The convicted serial killer and former TV chat show host Jacko Vance has begun his appeal against conviction.",
+            "time": "four o'clock",
+            "quote_latter": " news. The comforting voice of the newsreader began the bulletin. 'The convicted serial killer and former TV chat show host Jacko Vance has begun his appeal against conviction.",
             "work": "The Last Temptation"
         },
         {
             "author": "Walter Hartwright VII",
             "quote_former": "",
-			"time": "Four o\u2019clock",
-			"quote_latter": " has just struck. Good! Arrangement, revision, reading from four to five. Short snooze of restoration for myself, from five to six. Affair of agent and sealed letter from seven to eight. At eight, en route.",
+            "time": "Four o\u2019clock",
+            "quote_latter": " has just struck. Good! Arrangement, revision, reading from four to five. Short snooze of restoration for myself, from five to six. Affair of agent and sealed letter from seven to eight. At eight, en route.",
             "work": "The Woman in White - The Story Continued"
         },
         {
             "author": "Steven Galloway",
             "quote_former": "He played for twenty-two days, just as he said he would. Every day at ",
-			"time": "four o'clock",
-			"quote_latter": " in the afternoon, regardless of how much fighting was going on around him.",
+            "time": "four o'clock",
+            "quote_latter": " in the afternoon, regardless of how much fighting was going on around him.",
             "work": "The Cellist Of Sarajevo"
         },
         {
             "author": "Susan May Gudge",
             "quote_former": "Her eyes caught the kryptonite glow of the digital clock on the front of the microwave. Honest and true, the numbers spelled out the time although she, for a moment, found its calculation to be somehow erroneous. It was ",
-			"time": "four o\u2019clock",
-			"quote_latter": " in the afternoon.",
+            "time": "four o\u2019clock",
+            "quote_latter": " in the afternoon.",
             "work": "Blood Bride"
         },
         {
             "author": "Anthony Trollope",
             "quote_former": "I doubt whether anyone was commissioned to send the news along the actual telegraph, and yet Mrs. Proudie knew it before ",
-			"time": "four o'clock",
-			"quote_latter": ". But she did not know it quite accurately.'Bishop', she said, standing at her husband's study door. 'They have committed that man to gaol. There was no help for them unless they had forsworn themselves.'",
+            "time": "four o'clock",
+            "quote_latter": ". But she did not know it quite accurately.'Bishop', she said, standing at her husband's study door. 'They have committed that man to gaol. There was no help for them unless they had forsworn themselves.'",
             "work": "The Last Chronicle of Barset"
         },
         {
             "author": "Susan May Gudge",
             "quote_former": "I only found out much later that those flowers were called ",
-			"time": "Four O\u2019clock",
-			"quote_latter": ", and were not magic at all. The magic was in the seed, waiting to be watered and cared for, the real magic was life.",
+            "time": "Four O\u2019clock",
+            "quote_latter": ", and were not magic at all. The magic was in the seed, waiting to be watered and cared for, the real magic was life.",
             "work": "Ghost Generations"
         },
         {
             "author": "Douglas Adams",
             "quote_former": "In the end, it was the Sunday afternoons he couldn\u2019t cope with, and that terrible listlessness that starts to set in about 2.55, when you know you\u2019ve had all the baths you can usefully have that day, that however hard you stare at any given paragraph in the newspaper you will never actually read it, or use the revolutionary new pruning technique it describes, and that as you stare at the clock the hands will move relentlessly on to ",
-			"time": "four o\u2019clock",
-			"quote_latter": ", and you will enter the long dark teatime of the soul.",
+            "time": "four o\u2019clock",
+            "quote_latter": ", and you will enter the long dark teatime of the soul.",
             "work": "Life, the universe and everything"
         },
         {
             "author": "Aldous Huxley",
             "quote_former": "In the four thousand rooms of the Centre the four thousand electric clocks simultaneously ",
-			"time": "struck four",
-			"quote_latter": ". Discarnate voices called from the trumpet mouths. \"Main Day-shift off duty. Second Day-shift take over. Main Day-shift off \u2026\"",
+            "time": "struck four",
+            "quote_latter": ". Discarnate voices called from the trumpet mouths. \"Main Day-shift off duty. Second Day-shift take over. Main Day-shift off \u2026\"",
             "work": "Brave New World"
         },
         {
             "author": "David Lodge",
             "quote_former": "It was my turn to cook the evening meal so I didn't linger in the common room. It was exactly ",
-			"time": "4 o'clock",
-			"quote_latter": " as I made my way out of the building, and doors opened behind and before me, discharging salvos of vocal babble and the noise of chair-legs scraping on wooden floors.",
+            "time": "4 o'clock",
+            "quote_latter": " as I made my way out of the building, and doors opened behind and before me, discharging salvos of vocal babble and the noise of chair-legs scraping on wooden floors.",
             "work": "Deaf Sentence"
         },
         {
             "author": "David Foster Wallace",
             "quote_former": "The horrifying R.N. wipes Gately's face off as best she can with her hand and says she'll try to fit him in for a sponge bath before she goes off shift at ",
-			"time": "1600h.",
-			"quote_latter": ", at which Gately goes rigid with dread.",
+            "time": "1600h.",
+            "quote_latter": ", at which Gately goes rigid with dread.",
             "work": "Infinite Jest"
         }
     ],
@@ -7485,8 +7485,8 @@ const quoteMap = {
         {
             "author": "Hallgr\u00edmur Helgason",
             "quote_former": "Light is coming in through the curtains. Suddenly the digits on the clock radio look like a year. ",
-			"time": "1601",
-			"quote_latter": ". I woke up a bit early, don't have to be born for another 400 years.",
+            "time": "1601",
+            "quote_latter": ". I woke up a bit early, don't have to be born for another 400 years.",
             "work": "101 Reykjavik"
         }
     ],
@@ -7494,8 +7494,8 @@ const quoteMap = {
         {
             "author": "Carolyn G Hart",
             "quote_former": "I'd just looked up at the clock, to make sure time wasn't getting away from me, when I heard the shot. It was ",
-			"time": "two minutes after four",
-			"quote_latter": ". I didn't know what to do.",
+            "time": "two minutes after four",
+            "quote_latter": ". I didn't know what to do.",
             "work": "Southern Ghost"
         }
     ],
@@ -7503,8 +7503,8 @@ const quoteMap = {
         {
             "author": "Catherine O'Flynn",
             "quote_former": "She read the page carefully and then said, '",
-			"time": "16.03",
-			"quote_latter": " - cat goes to the toilet in front garden.'",
+            "time": "16.03",
+            "quote_latter": " - cat goes to the toilet in front garden.'",
             "work": "What was Lost"
         }
     ],
@@ -7512,8 +7512,8 @@ const quoteMap = {
         {
             "author": "Rebecca Miller",
             "quote_former": "",
-			"time": "A little after four o'clock",
-			"quote_latter": ", Pippa meandered over to Dot's house carrying a bottle of wine she had been keeping in reserve and wondering if she could possibly be pregnant in spite of the vestigial coil still lodged in her uterus like astronaut litter abandoned on the moon.",
+            "time": "A little after four o'clock",
+            "quote_latter": ", Pippa meandered over to Dot's house carrying a bottle of wine she had been keeping in reserve and wondering if she could possibly be pregnant in spite of the vestigial coil still lodged in her uterus like astronaut litter abandoned on the moon.",
             "work": "The Private Lives of Pippa Lee"
         }
     ],
@@ -7521,8 +7521,8 @@ const quoteMap = {
         {
             "author": "Mary Elizabeth Braddon",
             "quote_former": "IT was exactly ",
-			"time": "five minutes past four",
-			"quote_latter": " as Mr. Robert Audley stepped out upon the platform at Shoreditch, and waited placidly \u2026 it took a long while to make matters agreeable to all claimants, and even the barrister's seraphic indifference to mundane affairs nearly gave way.",
+            "time": "five minutes past four",
+            "quote_latter": " as Mr. Robert Audley stepped out upon the platform at Shoreditch, and waited placidly \u2026 it took a long while to make matters agreeable to all claimants, and even the barrister's seraphic indifference to mundane affairs nearly gave way.",
             "work": "Lady Audley's Secret"
         }
     ],
@@ -7530,8 +7530,8 @@ const quoteMap = {
         {
             "author": "Joanna Scott",
             "quote_former": "At ",
-			"time": "six minutes after four",
-			"quote_latter": ", Benny's Cadillac pulled up in front of Mr. Botelia's store, and Benny's mother stepped out of the car with Penelope, who was gnawing on the tip of an ice cream cone.",
+            "time": "six minutes after four",
+            "quote_latter": ", Benny's Cadillac pulled up in front of Mr. Botelia's store, and Benny's mother stepped out of the car with Penelope, who was gnawing on the tip of an ice cream cone.",
             "work": "Follow Me: A Novel"
         }
     ],
@@ -7539,8 +7539,8 @@ const quoteMap = {
         {
             "author": "Gabriel Garc\u00eda M\u00e1rquez",
             "quote_former": "But he released him immediately because the ladder slipped from under his feet and for an instant he was suspended in air and then he realised that he had died without Communion, without time to repent of anything or to say goodbye to anyone, at ",
-			"time": "seven minutes after four",
-			"quote_latter": " on Pentecost Sunday.",
+            "time": "seven minutes after four",
+            "quote_latter": " on Pentecost Sunday.",
             "work": "Love in the Time of Cholera"
         }
     ],
@@ -7548,8 +7548,8 @@ const quoteMap = {
         {
             "author": "Robert Crais",
             "quote_former": "It was ",
-			"time": "eight minutes after four",
-			"quote_latter": ". I still don't have a plan. Maybe the guys in the Nova, maybe they had a plan.",
+            "time": "eight minutes after four",
+            "quote_latter": ". I still don't have a plan. Maybe the guys in the Nova, maybe they had a plan.",
             "work": "The Monkey's Raincoat"
         }
     ],
@@ -7557,8 +7557,8 @@ const quoteMap = {
         {
             "author": "Ira Levin",
             "quote_former": "I have to hang up now, Rosemary said. \"I just wanted to know if there was any improvement.\" \"No, there isn't. It was nice of you to call.\" She hung up. It was ",
-			"time": "nine minutes after four",
-			"quote_latter": ".",
+            "time": "nine minutes after four",
+            "quote_latter": ".",
             "work": "Rosemary's Baby"
         }
     ],
@@ -7566,15 +7566,15 @@ const quoteMap = {
         {
             "author": "David Foster Wallace",
             "quote_former": "",
-			"time": "1610h.",
-			"quote_latter": " E.T.A Weight room. Freestyle circuits. The clank and click of various resistance systems.",
+            "time": "1610h.",
+            "quote_latter": " E.T.A Weight room. Freestyle circuits. The clank and click of various resistance systems.",
             "work": "Infinite Jest"
         },
         {
             "author": "Roddy Doyle",
             "quote_former": "She looks at the clock. She's in the kitchen. A minute left. She waits. It's ",
-			"time": "ten-past four",
-			"quote_latter": ". She picks up the eclair. She licks the cream out of it. She watches herself.It's fuckin' stupid. But. She bites into the chocolate, and the pastry that's been softened by the cream. Jack's not home yet. Leannes's at work. Paula will be leaving, herself, in a bit. She's a year off the drink. Exactly a year. She looks at the clock. A year and a minute.",
+            "time": "ten-past four",
+            "quote_latter": ". She picks up the eclair. She licks the cream out of it. She watches herself.It's fuckin' stupid. But. She bites into the chocolate, and the pastry that's been softened by the cream. Jack's not home yet. Leannes's at work. Paula will be leaving, herself, in a bit. She's a year off the drink. Exactly a year. She looks at the clock. A year and a minute.",
             "work": "Paula Spencer"
         }
     ],
@@ -7582,8 +7582,8 @@ const quoteMap = {
         {
             "author": "Denis Johnson",
             "quote_former": "",
-			"time": "4:11 P.M.",
-			"quote_latter": " Thurs. A Huey helicopter flies east overhead as the last of the U.S. Marines make ready to leave the beach; a buzzard dangles in the thermals closer over the town.",
+            "time": "4:11 P.M.",
+            "quote_latter": " Thurs. A Huey helicopter flies east overhead as the last of the U.S. Marines make ready to leave the beach; a buzzard dangles in the thermals closer over the town.",
             "work": "Seek"
         }
     ],
@@ -7591,8 +7591,8 @@ const quoteMap = {
         {
             "author": "J Sydney Jones",
             "quote_former": "At precisely ",
-			"time": "twelve minutes after four",
-			"quote_latter": " a body of cavalry rode into the square, four abreast, clearing a way for the funeral cortege.",
+            "time": "twelve minutes after four",
+            "quote_latter": " a body of cavalry rode into the square, four abreast, clearing a way for the funeral cortege.",
             "work": "The Empty Mirror"
         }
     ],
@@ -7600,8 +7600,8 @@ const quoteMap = {
         {
             "author": "Mario Vargas Llosa",
             "quote_former": "But at precisely ",
-			"time": "4.13pm",
-			"quote_latter": ", the fifty thousand spectators saw the totally unexpected happen, before their very eyes. From the most crowded section of the southern grandstand, an apparition suddenly emerged.",
+            "time": "4.13pm",
+            "quote_latter": ", the fifty thousand spectators saw the totally unexpected happen, before their very eyes. From the most crowded section of the southern grandstand, an apparition suddenly emerged.",
             "work": "Aunt Julia and the Scriptwriter"
         }
     ],
@@ -7609,8 +7609,8 @@ const quoteMap = {
         {
             "author": "Denis Johnson",
             "quote_former": "Then at ",
-			"time": "4.14pm",
-			"quote_latter": " on March 12 I moved behind zinc-zirconium-not-to-be-revealed-compounds protecting me in this hill, and God have mercy but the struggle is just exchanged for the next one, which is exhausting me further as I say, to separate the true from the false.",
+            "time": "4.14pm",
+            "quote_latter": " on March 12 I moved behind zinc-zirconium-not-to-be-revealed-compounds protecting me in this hill, and God have mercy but the struggle is just exchanged for the next one, which is exhausting me further as I say, to separate the true from the false.",
             "work": "Already Dead"
         }
     ],
@@ -7618,36 +7618,36 @@ const quoteMap = {
         {
             "author": "John Betjeman",
             "quote_former": "I remember the dread with which I at ",
-			"time": "quarter past four",
-			"quote_latter": "/ Let go with a bang behind me our house front door",
+            "time": "quarter past four",
+            "quote_latter": "/ Let go with a bang behind me our house front door",
             "work": "False Security"
         },
         {
             "author": "Jane Austen",
             "quote_former": "It is only a ",
-			"time": "quarter past four",
-			"quote_latter": ", (shewing his watch) and you are not now in Bath. No theatre, no rooms to prepare for. Half an hour at Northanger must be enough.",
+            "time": "quarter past four",
+            "quote_latter": ", (shewing his watch) and you are not now in Bath. No theatre, no rooms to prepare for. Half an hour at Northanger must be enough.",
             "work": "Northanger Abbey"
         },
         {
             "author": "JG Ballard",
             "quote_former": "Must have the phone disconnected. Some contractor keeps calling me up about payment for 50 bags of cement he claims I collected ten days ago. Says he helped me load them onto a truck himself. I did drive Whitby's pick-up into town but only to get some lead screening. What does he think I'd do with all that cement? Just the sort of irritating thing you don't expect to hang over your final exit. (Moral: don't try too hard to forget Eniwetok.) Woke 9:40. To sleep ",
-			"time": "4:15",
-			"quote_latter": ".",
+            "time": "4:15",
+            "quote_latter": ".",
             "work": "The Voices of Time"
         },
         {
             "author": "Joan Didion",
             "quote_former": "On the tenth day of October at ",
-			"time": "quarter past four",
-			"quote_latter": " in the afternoon with a dry hot wind blowing through the passed Maria found herself in Baker. She had never meant to go as far as Baker, had started out that day as every day, her only destination the freeway. But she had driven out of San Bernadino and up the Barstow and instead of turning back at Barstow (she had been out that far before but never that late in the day, it was past time to navigate back, she was out too far too late, the rhythm was lost ) she kept driving.",
+            "time": "quarter past four",
+            "quote_latter": " in the afternoon with a dry hot wind blowing through the passed Maria found herself in Baker. She had never meant to go as far as Baker, had started out that day as every day, her only destination the freeway. But she had driven out of San Bernadino and up the Barstow and instead of turning back at Barstow (she had been out that far before but never that late in the day, it was past time to navigate back, she was out too far too late, the rhythm was lost ) she kept driving.",
             "work": "Play it as it Lays"
         },
         {
             "author": "Haruki Murakami",
             "quote_former": "The sun had begun to sink in the west, and the shadow of an oak branch had crept across my knees. My watch said it was ",
-			"time": "4.15",
-			"quote_latter": ".",
+            "time": "4.15",
+            "quote_latter": ".",
             "work": "The Wind-up Bird Chronicle"
         }
     ],
@@ -7655,8 +7655,8 @@ const quoteMap = {
         {
             "author": "Paulo Coelho",
             "quote_former": "",
-			"time": "4.16pm",
-			"quote_latter": " The terrace outside the bar is packed, and Igor feels proud of his ability to plan things, because even though he's never been to Cannes before, he had foreseen precisely this situation and reserved a table.",
+            "time": "4.16pm",
+            "quote_latter": " The terrace outside the bar is packed, and Igor feels proud of his ability to plan things, because even though he's never been to Cannes before, he had foreseen precisely this situation and reserved a table.",
             "work": "The Winner Stands Alone"
         }
     ],
@@ -7664,15 +7664,15 @@ const quoteMap = {
         {
             "author": "P.G. Wodehouse",
             "quote_former": "Apparently the great Percy has no sense of humour, for at ",
-			"time": "four-seventeen",
-			"quote_latter": " he got tired of it, and hit Skinner crisply in the right eyeball, blacking the same as per illustration.",
+            "time": "four-seventeen",
+            "quote_latter": " he got tired of it, and hit Skinner crisply in the right eyeball, blacking the same as per illustration.",
             "work": "A Prefect's Uncle"
         },
         {
             "author": "Joy Fielding",
             "quote_former": "In the next instant she was running toward her house, unmindful of the bags she had dropped, seeing only the police cars, knowing as she glanced down at her watch and saw that it was ",
-			"time": "seventeen minutes after four",
-			"quote_latter": ", that for her time had stopped.",
+            "time": "seventeen minutes after four",
+            "quote_latter": ", that for her time had stopped.",
             "work": "Life Penalty"
         }
     ],
@@ -7680,8 +7680,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "4.18 p.m.",
-			"quote_latter": " Put Toby into his cage",
+            "time": "4.18 p.m.",
+            "quote_latter": " Put Toby into his cage",
             "work": "The Curious Incident of the Dog in the Night-time"
         }
     ],
@@ -7689,8 +7689,8 @@ const quoteMap = {
         {
             "author": "Eric Jerome Dickey",
             "quote_former": "Jessica [",
-			"time": "4:19 PM",
-			"quote_latter": "] Don't tease me like that. I haven't been to a play in years. Charles [4:19 PM] Then it'll be my treat. You and the hubby can have big fun on me.",
+            "time": "4:19 PM",
+            "quote_latter": "] Don't tease me like that. I haven't been to a play in years. Charles [4:19 PM] Then it'll be my treat. You and the hubby can have big fun on me.",
             "work": "The Other Woman"
         }
     ],
@@ -7698,15 +7698,15 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "4.20 p.m.",
-			"quote_latter": " Watch television or a video",
+            "time": "4.20 p.m.",
+            "quote_latter": " Watch television or a video",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "J. D. Salinger",
             "quote_former": "At ",
-			"time": "twenty minutes past four",
-			"quote_latter": " - or, to put it another, blunter way, an hour and twenty minutes past what seemed to be all reasonable hope - the unmarried bride, her head down, a parent stationed on either side of her, was helped out of the building...",
+            "time": "twenty minutes past four",
+            "quote_latter": " - or, to put it another, blunter way, an hour and twenty minutes past what seemed to be all reasonable hope - the unmarried bride, her head down, a parent stationed on either side of her, was helped out of the building...",
             "work": "Raise High the Roof Beam, Carpenters"
         }
     ],
@@ -7714,8 +7714,8 @@ const quoteMap = {
         {
             "author": "Richard Matheson",
             "quote_former": "",
-			"time": "4.21pm",
-			"quote_latter": " As they started on, Doug picked up a twig and after rubbing it off, started to move one end of it inside his mouth. \"What are you doing?\" Bob asked. \"Brushing my teeth, nature style,\" Doug answered. Bob grunted, smiling slightly. \"I'll use my toothbrush,\" he said.",
+            "time": "4.21pm",
+            "quote_latter": " As they started on, Doug picked up a twig and after rubbing it off, started to move one end of it inside his mouth. \"What are you doing?\" Bob asked. \"Brushing my teeth, nature style,\" Doug answered. Bob grunted, smiling slightly. \"I'll use my toothbrush,\" he said.",
             "work": "Hunted Past Reason"
         }
     ],
@@ -7723,8 +7723,8 @@ const quoteMap = {
         {
             "author": "Tom Clancy, Steve Pieczenik, and Jeff Rovin",
             "quote_former": "Monday, ",
-			"time": "4.22pm",
-			"quote_latter": " Washington, D.C. Paul Hood took his daily late-afternoon look at the list of names on his computer monitor.",
+            "time": "4.22pm",
+            "quote_latter": " Washington, D.C. Paul Hood took his daily late-afternoon look at the list of names on his computer monitor.",
             "work": "Balance of Power: Op-Center 05"
         }
     ],
@@ -7732,8 +7732,8 @@ const quoteMap = {
         {
             "author": "Jennifer Egan",
             "quote_former": "They were hurrying west, trying to reach the river before sunset. The warming-related 'adjustments' to Earth's orbit had shortened the winter days, so that now, in January, sunset was taking place at ",
-			"time": "4.23",
-			"quote_latter": ".",
+            "time": "4.23",
+            "quote_latter": ".",
             "work": "A Visit from the Goon Squad"
         }
     ],
@@ -7741,8 +7741,8 @@ const quoteMap = {
         {
             "author": "Travis Thrasher",
             "quote_former": "Mike winked at Ashley and continued with the remaining greetings and hugs and handshakes. The time was ",
-			"time": "4:24",
-			"quote_latter": ". Six hours to go. The minutes seemed to just melt away.",
+            "time": "4:24",
+            "quote_latter": ". Six hours to go. The minutes seemed to just melt away.",
             "work": "Teardrop"
         }
     ],
@@ -7750,8 +7750,8 @@ const quoteMap = {
         {
             "author": "Arthur Conan Doyle",
             "quote_former": "As I dressed I glanced at my watch. It was no wonder that no one was stirring. It was ",
-			"time": "twenty-five minutes past four",
-			"quote_latter": ". I had hardly finished when Holmes returned with the news that the boy was putting in the horse.",
+            "time": "twenty-five minutes past four",
+            "quote_latter": ". I had hardly finished when Holmes returned with the news that the boy was putting in the horse.",
             "work": "The Man with the Twisted Lip"
         }
     ],
@@ -7759,8 +7759,8 @@ const quoteMap = {
         {
             "author": "Charlotte Armstrong",
             "quote_former": "It seemed all wrong to have thought of such a thing. She thought, \"I don't know him. Nor does he know me. Nor ever shall we.\u201d She put her bare hand in the sun, where the wind would weather it. It was ",
-			"time": "twenty-six minutes after four",
-			"quote_latter": ".",
+            "time": "twenty-six minutes after four",
+            "quote_latter": ".",
             "work": "Catch-As-Catch-Can"
         }
     ],
@@ -7768,8 +7768,8 @@ const quoteMap = {
         {
             "author": "Kobo Abe",
             "quote_former": "Same day: ",
-			"time": "4.28pm",
-			"quote_latter": "- Right turn at the second bus stop after the gas station. I stopped the car at the first ward post office and inquired at the corner tobacconists. Mr. M's house was the one to the right of the post office, visible diagonally in front of me.",
+            "time": "4.28pm",
+            "quote_latter": "- Right turn at the second bus stop after the gas station. I stopped the car at the first ward post office and inquired at the corner tobacconists. Mr. M's house was the one to the right of the post office, visible diagonally in front of me.",
             "work": "The Ruined Map: A Novel"
         }
     ],
@@ -7777,8 +7777,8 @@ const quoteMap = {
         {
             "author": "Mark Lavorato",
             "quote_former": "October 21, 2007, ",
-			"time": "4:29 pm.",
-			"quote_latter": " The phone was red. And what William hated most about it, besides the fact that it was inconveniently mounted on a wall in a tight corner (and at a strange angle), was that when it rang it was so gratingly loud that you could actually see the cherry receiver quavering as you picked it up.",
+            "time": "4:29 pm.",
+            "quote_latter": " The phone was red. And what William hated most about it, besides the fact that it was inconveniently mounted on a wall in a tight corner (and at a strange angle), was that when it rang it was so gratingly loud that you could actually see the cherry receiver quavering as you picked it up.",
             "work": "Believing Cedric"
         }
     ],
@@ -7786,22 +7786,22 @@ const quoteMap = {
         {
             "author": "Dean Koontz",
             "quote_former": "At ",
-			"time": "four-thirty",
-			"quote_latter": " that afternoon in late January when I stepped into the parlour with Boo, my dog, Hutch was in his favourite armchair, scowling at the television, which he had muted.",
+            "time": "four-thirty",
+            "quote_latter": " that afternoon in late January when I stepped into the parlour with Boo, my dog, Hutch was in his favourite armchair, scowling at the television, which he had muted.",
             "work": "Odd Hours"
         },
         {
             "author": "Bret Easton Ellis",
             "quote_former": "I leave the office at ",
-			"time": "four thirty",
-			"quote_latter": ", head up to Xclusive where I work out on free weights for an hour, then taxi across the park to Gio's in the Pierre Room for a facial, a manicure and, if time permits, a pedicure.",
+            "time": "four thirty",
+            "quote_latter": ", head up to Xclusive where I work out on free weights for an hour, then taxi across the park to Gio's in the Pierre Room for a facial, a manicure and, if time permits, a pedicure.",
             "work": "American Psycho"
         },
         {
             "author": "Alain de Botton",
             "quote_former": "She hung up on me at first, then asked me whether I made a point of behaving like a 'small-time suburban punk' with women I had slept with. But after apologies, insults, laughter, and tears, Romeo and Juliet were to be seen together later that afternoon, mushily holding hands in the dark at a ",
-			"time": "four-thirty",
-			"quote_latter": " screening of L ove and Death at the National Film Theatre. Happy endings \u2013 for now at least.",
+            "time": "four-thirty",
+            "quote_latter": " screening of L ove and Death at the National Film Theatre. Happy endings \u2013 for now at least.",
             "work": "Essays in Love"
         }
     ],
@@ -7809,8 +7809,8 @@ const quoteMap = {
         {
             "author": "Lisa Becker",
             "quote_former": "From: Renee Greene \u2013 August 5, 2011 \u2013 ",
-			"time": "4:31 PM",
-			"quote_latter": " To: Shelley Manning Subject: Re: All Access What should I be worried about, then? JUST KIDDING. You're right. Well, I gotta run, my groupie friend. I actually have REAL work to do. I'll talk to you tonight.",
+            "time": "4:31 PM",
+            "quote_latter": " To: Shelley Manning Subject: Re: All Access What should I be worried about, then? JUST KIDDING. You're right. Well, I gotta run, my groupie friend. I actually have REAL work to do. I'll talk to you tonight.",
             "work": "Click: An Online Love Story"
         }
     ],
@@ -7818,8 +7818,8 @@ const quoteMap = {
         {
             "author": "Denis Johnson",
             "quote_former": "",
-			"time": "4.32pm.",
-			"quote_latter": " Now the eight Marines next to us leave their emplacement and file quickly past, the last saying, \"Go! Go! Go!\" They break into a run.",
+            "time": "4.32pm.",
+            "quote_latter": " Now the eight Marines next to us leave their emplacement and file quickly past, the last saying, \"Go! Go! Go!\" They break into a run.",
             "work": "Seek"
         }
     ],
@@ -7827,8 +7827,8 @@ const quoteMap = {
         {
             "author": "Jos\u00e9 Latour",
             "quote_former": "At ",
-			"time": "4.33pm",
-			"quote_latter": ", a short bald man puffing on a cigar arrived at the library. He approached a huge cabinet storing thousands of alphabetically arranged cards and slid a drawer out. The tips of his fingers were bandaged.",
+            "time": "4.33pm",
+            "quote_latter": ", a short bald man puffing on a cigar arrived at the library. He approached a huge cabinet storing thousands of alphabetically arranged cards and slid a drawer out. The tips of his fingers were bandaged.",
             "work": "Havana World Series"
         }
     ],
@@ -7836,8 +7836,8 @@ const quoteMap = {
         {
             "author": "Steven Hall",
             "quote_former": "A bedroom stocked with all the ordinary, usual things. There was a wardrobe in the corner. A bedside table with a collection of water glasses of varying ages and an alarm clock with red digital numbers- ",
-			"time": "4.34 p.m.",
-			"quote_latter": "",
+            "time": "4.34 p.m.",
+            "quote_latter": "",
             "work": "The Raw Shark Texts"
         }
     ],
@@ -7845,8 +7845,8 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "The Voice shut itself off with a click, and then reopened conversation by announcing the arrival at Platform 9 of the ",
-			"time": "4.35",
-			"quote_latter": " from Birmingham and Wolverhampton.",
+            "time": "4.35",
+            "quote_latter": " from Birmingham and Wolverhampton.",
             "work": "4.50 from Paddington"
         }
     ],
@@ -7854,8 +7854,8 @@ const quoteMap = {
         {
             "author": "Hallgr\u00edmur Helgason",
             "quote_former": "She should have been home by now. ",
-			"time": "1637.",
-			"quote_latter": " Yes. It's as if I had the date of a year on my arm. Every day is a piece of world history.",
+            "time": "1637.",
+            "quote_latter": " Yes. It's as if I had the date of a year on my arm. Every day is a piece of world history.",
             "work": "101 Reykjavik"
         }
     ],
@@ -7863,8 +7863,8 @@ const quoteMap = {
         {
             "author": "Teddy Hayes",
             "quote_former": "Harlem enjoys lazy Sabbath mornings, although the pace picks up again in the afternoon, after church. My watch read ",
-			"time": "4:39 p.m.",
-			"quote_latter": ", and I realized that I hadn't eaten all day. I bought two slices of pizza from a sidewalk vendor on 122nd and Lenox Avenue and washed it down with a grape Snapple.",
+            "time": "4:39 p.m.",
+            "quote_latter": ", and I realized that I hadn't eaten all day. I bought two slices of pizza from a sidewalk vendor on 122nd and Lenox Avenue and washed it down with a grape Snapple.",
             "work": "Blood Red Blues"
         }
     ],
@@ -7872,8 +7872,8 @@ const quoteMap = {
         {
             "author": "Haruki Murakami",
             "quote_former": "I'm always happy when I reach the finish line of a long-distance race, but this time it really struck me hard. I pumped my right fist into the air. The time was ",
-			"time": "4:42pm.",
-			"quote_latter": " Eleven hours and forty-two minutes since the start of the race.",
+            "time": "4:42pm.",
+            "quote_latter": " Eleven hours and forty-two minutes since the start of the race.",
             "work": "What I Talk About When I Talk About Running"
         }
     ],
@@ -7881,15 +7881,15 @@ const quoteMap = {
         {
             "author": "EM Forster",
             "quote_former": "At ",
-			"time": "four-forty-five",
-			"quote_latter": " Miss Haddon went to tea with the Principal, who explained why she desired all the pupils to learn the same duet. It was part of her new co-ordinative system.",
+            "time": "four-forty-five",
+            "quote_latter": " Miss Haddon went to tea with the Principal, who explained why she desired all the pupils to learn the same duet. It was part of her new co-ordinative system.",
             "work": "Co-ordination"
         },
         {
             "author": "Raymond Carver",
             "quote_former": "The next day Bill took only ten minutes of the twenty-minute break allotted for the afternoon and left at ",
-			"time": "fifteen minutes before five",
-			"quote_latter": ". He parked the car in the lot just as Arlene hopped down from the bus.",
+            "time": "fifteen minutes before five",
+            "quote_latter": ". He parked the car in the lot just as Arlene hopped down from the bus.",
             "work": "Where I'm Calling From"
         }
     ],
@@ -7897,8 +7897,8 @@ const quoteMap = {
         {
             "author": "Jos\u00e9 Latour",
             "quote_former": "At ",
-			"time": "4:46",
-			"quote_latter": " an obese, middle-aged man shuffled in. Wearing a starched guayabera and dark green pants, Ure\u00f1a asked for a book on confectionery, then took a seat at the end of the same reading room. Evelina and Leticia exchanged astonished glances. It definitely was one of those days.",
+            "time": "4:46",
+            "quote_latter": " an obese, middle-aged man shuffled in. Wearing a starched guayabera and dark green pants, Ure\u00f1a asked for a book on confectionery, then took a seat at the end of the same reading room. Evelina and Leticia exchanged astonished glances. It definitely was one of those days.",
             "work": "The Havana World Series"
         }
     ],
@@ -7906,8 +7906,8 @@ const quoteMap = {
         {
             "author": "Chad Harbach",
             "quote_former": "But maybe it was more than that, maybe Affenlight had erred badly somehow, because here it was 4:49 by his watch, ",
-			"time": "4:47",
-			"quote_latter": " by the wall clock, and Owen had not yet come.",
+            "time": "4:47",
+            "quote_latter": " by the wall clock, and Owen had not yet come.",
             "work": "The Art of Fielding"
         }
     ],
@@ -7915,8 +7915,8 @@ const quoteMap = {
         {
             "author": "Dave Eggers",
             "quote_former": "Thinking about the card warms me to the idea of walking under the arched doorway of the Newtons' home, but when I arrive at their house, the plan seems ridiculous. What am I doing? It's ",
-			"time": "4:48 a.m.",
-			"quote_latter": ", and I'm parked outside their darkened house.",
+            "time": "4:48 a.m.",
+            "quote_latter": ", and I'm parked outside their darkened house.",
             "work": "What is the What"
         }
     ],
@@ -7924,8 +7924,8 @@ const quoteMap = {
         {
             "author": "Ridley Pearson",
             "quote_former": "",
-			"time": "4:49 p.m.",
-			"quote_latter": ", a bald-headed man wearing khakis and ankle-high deck shoes came out through the front door of the purple house on 21st Avenue East. The detectives had nicknamed him the General.",
+            "time": "4:49 p.m.",
+            "quote_latter": ", a bald-headed man wearing khakis and ankle-high deck shoes came out through the front door of the purple house on 21st Avenue East. The detectives had nicknamed him the General.",
             "work": "Beyond Recognition"
         }
     ],
@@ -7933,22 +7933,22 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "\"The train standing at Platform 3,\" the Voice told her, \"is the ",
-			"time": "4.50",
-			"quote_latter": " for Brackhampton, Milchester, Waverton, Carvil Junction, Roxeter and stations to Chadmouth. Passengers for Brackhampton and Milchester travel at the rear of the train. Passengers for Vanequay change at Roxeter.\" The voice shut itself off with a click,",
+            "time": "4.50",
+            "quote_latter": " for Brackhampton, Milchester, Waverton, Carvil Junction, Roxeter and stations to Chadmouth. Passengers for Brackhampton and Milchester travel at the rear of the train. Passengers for Vanequay change at Roxeter.\" The voice shut itself off with a click,",
             "work": "4.50 from Paddington"
         },
         {
             "author": "James Thurber",
             "quote_former": "They had all frozen at the same time, on a snowy night, seven years before, and after that it was always ",
-			"time": "ten minutes to five",
-			"quote_latter": " in the castle.",
+            "time": "ten minutes to five",
+            "quote_latter": " in the castle.",
             "work": "The 13 Clocks"
         },
         {
             "author": "Roald Dahl",
             "quote_former": "When the clock said ",
-			"time": "ten minutes to five",
-			"quote_latter": ", she began to listen, and a few moments later, punctually as always, she heard the tires on the gravel outside, and the car door slamming, the footsteps passing the window, the key turning in the lock. She laid aside her sewing, stood up, and went forward to kiss him as he came in.",
+            "time": "ten minutes to five",
+            "quote_latter": ", she began to listen, and a few moments later, punctually as always, she heard the tires on the gravel outside, and the car door slamming, the footsteps passing the window, the key turning in the lock. She laid aside her sewing, stood up, and went forward to kiss him as he came in.",
             "work": "Lamb to the Slaughter"
         }
     ],
@@ -7956,8 +7956,8 @@ const quoteMap = {
         {
             "author": "Henry De Montherlant",
             "quote_former": "The corrida was to begin at five o'clock. The five-footed beasts make a point of arriving at the latest at eight or seven minutes to: ritual again. At ",
-			"time": "eight minutes to five",
-			"quote_latter": ", there they were. The urchins gave them a tap on the shoulder: another bit of ritual.",
+            "time": "eight minutes to five",
+            "quote_latter": ", there they were. The urchins gave them a tap on the shoulder: another bit of ritual.",
             "work": "Chaos and Night"
         }
     ],
@@ -7965,8 +7965,8 @@ const quoteMap = {
         {
             "author": "Rita Leganski",
             "quote_former": "It was so quiet in the post office that Trinidad could hear the soft tick of the clock's second hand every time it moved. It was now ",
-			"time": "seven minutes before five",
-			"quote_latter": ".",
+            "time": "seven minutes before five",
+            "quote_latter": ".",
             "work": "The Silence of Bonaventure Arrow"
         }
     ],
@@ -7974,15 +7974,15 @@ const quoteMap = {
         {
             "author": "Charlotte Armstrong",
             "quote_former": "At ",
-			"time": "six minutes before five",
-			"quote_latter": " o'clock, Daisy Robinson, about to reach her own apartment door, paused to look and to listen. Something was out of order. Tess Rogan's door was standing wide open and, from within, Daisy could hear something being broken.",
+            "time": "six minutes before five",
+            "quote_latter": " o'clock, Daisy Robinson, about to reach her own apartment door, paused to look and to listen. Something was out of order. Tess Rogan's door was standing wide open and, from within, Daisy could hear something being broken.",
             "work": "The Seventeen Widows of Sans Souci"
         },
         {
             "author": "Tom Clancy",
             "quote_former": "It was ",
-			"time": "1654",
-			"quote_latter": " local time when the Red October broke the surface of the Atlantic Ocean for the first time, forty-seven miles southeast of Norfolk. There was no other ship in sight.",
+            "time": "1654",
+            "quote_latter": " local time when the Red October broke the surface of the Atlantic Ocean for the first time, forty-seven miles southeast of Norfolk. There was no other ship in sight.",
             "work": "The Hunt for Red October"
         }
     ],
@@ -7990,8 +7990,8 @@ const quoteMap = {
         {
             "author": "Robert Tressell",
             "quote_former": "About ",
-			"time": "five minutes to five",
-			"quote_latter": ", just as they were all putting their things away for the night, Nimrod suddenly appeared in the house. He had come hoping to find some of them ready dressed to go home before the proper time.",
+            "time": "five minutes to five",
+            "quote_latter": ", just as they were all putting their things away for the night, Nimrod suddenly appeared in the house. He had come hoping to find some of them ready dressed to go home before the proper time.",
             "work": "The Ragged Trousered Philanthropists"
         }
     ],
@@ -7999,8 +7999,8 @@ const quoteMap = {
         {
             "author": "John Green",
             "quote_former": "And when that final Friday came, when my packing was mostly done, she sat with my dad and me on the living-room couch at ",
-			"time": "4:56 P.M.",
-			"quote_latter": " and patiently awaited the arrival of the Good-bye to Miles Cavalry.",
+            "time": "4:56 P.M.",
+            "quote_latter": " and patiently awaited the arrival of the Good-bye to Miles Cavalry.",
             "work": "Looking for Alaska"
         }
     ],
@@ -8008,15 +8008,15 @@ const quoteMap = {
         {
             "author": "John Hershey",
             "quote_former": "It was ",
-			"time": "nearly five",
-			"quote_latter": " in the evening when the cook came aboard. He did not have the cabbages.",
+            "time": "nearly five",
+            "quote_latter": " in the evening when the cook came aboard. He did not have the cabbages.",
             "work": "A Single Pebble"
         },
         {
             "author": "John Le Carr\u00e9",
             "quote_former": "Then at ",
-			"time": "three minutes to five",
-			"quote_latter": " \u2014 Pendel had somehow never doubted that Osnard would be punctual \u2014 along comes a brown Ford hatchback with an Avis sticker on the back window and pulls into the space reserved for customers.",
+            "time": "three minutes to five",
+            "quote_latter": " \u2014 Pendel had somehow never doubted that Osnard would be punctual \u2014 along comes a brown Ford hatchback with an Avis sticker on the back window and pulls into the space reserved for customers.",
             "work": "The Tailor of Panama"
         }
     ],
@@ -8024,8 +8024,8 @@ const quoteMap = {
         {
             "author": "Isaac Bashevis Singer",
             "quote_former": "I was told that in his vest pocket he kept a chronometer instead of a watch. If someone asked him what time it was, he would say, \"",
-			"time": "A minute and twenty-one seconds to five",
-			"quote_latter": ".\"",
+            "time": "A minute and twenty-one seconds to five",
+            "quote_latter": ".\"",
             "work": "The Collected Stories"
         }
     ],
@@ -8033,8 +8033,8 @@ const quoteMap = {
         {
             "author": "Nicholas Royle",
             "quote_former": "The rain stopped ",
-			"time": "around 5 p.m.",
-			"quote_latter": " and a few of those people who were out and about expressed mild surprise when the rainbow failed to fade.",
+            "time": "around 5 p.m.",
+            "quote_latter": " and a few of those people who were out and about expressed mild surprise when the rainbow failed to fade.",
             "work": "Mortality -- 'The Rainbow'"
         }
     ],
@@ -8042,78 +8042,78 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "5.00 p.m.",
-			"quote_latter": " Read a book",
+            "time": "5.00 p.m.",
+            "quote_latter": " Read a book",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "Christina Stead",
             "quote_former": "About ",
-			"time": "five",
-			"quote_latter": ", the Abbot, a young Manchester terrier, began chirruping. He stood on the body of his owner, Flora, with his forepaws on the sill of the balcony, stared through the green rattan blinds, and trembled. He could see the farmer in the field, and Edward asleep on the next balcony.",
+            "time": "five",
+            "quote_latter": ", the Abbot, a young Manchester terrier, began chirruping. He stood on the body of his owner, Flora, with his forepaws on the sill of the balcony, stared through the green rattan blinds, and trembled. He could see the farmer in the field, and Edward asleep on the next balcony.",
             "work": "The People With the Dogs"
         },
         {
             "author": "William Maxwell",
             "quote_former": "At ",
-			"time": "five o'clock",
-			"quote_latter": " that afternoon, while Barbara waited in a taxi, Harold went into the convent in Auteuil and explained to the nun who sat in the concierge's glass cage that Mme. Straus-Muguet was expecting them. He assumed that men were not permitted any further, and that they would all three go out for tea.",
+            "time": "five o'clock",
+            "quote_latter": " that afternoon, while Barbara waited in a taxi, Harold went into the convent in Auteuil and explained to the nun who sat in the concierge's glass cage that Mme. Straus-Muguet was expecting them. He assumed that men were not permitted any further, and that they would all three go out for tea.",
             "work": "The Chateau"
         },
         {
             "author": "H. P. Lovecraft",
             "quote_former": "At ",
-			"time": "five o\u2019clock",
-			"quote_latter": " adieux were waved, and the ponderous liner edged away from the long pier, slowly turned its nose seaward, discarded its tug, and headed for the widening water spaces that led to old world wonders. By night the outer harbour was cleared, and late passengers watched the stars twinkling above an unpolluted ocean.",
+            "time": "five o\u2019clock",
+            "quote_latter": " adieux were waved, and the ponderous liner edged away from the long pier, slowly turned its nose seaward, discarded its tug, and headed for the widening water spaces that led to old world wonders. By night the outer harbour was cleared, and late passengers watched the stars twinkling above an unpolluted ocean.",
             "work": "The Horror at Red Hook"
         },
         {
             "author": "Scarlett Thomas",
             "quote_former": "But I took the mixture at ",
-			"time": "five o'clock",
-			"quote_latter": " in the afternoon. I run my tongue over my dry mouth. I feel dizzy. I know this dizziness: it's because I haven't had a cigarette for hours.",
+            "time": "five o'clock",
+            "quote_latter": " in the afternoon. I run my tongue over my dry mouth. I feel dizzy. I know this dizziness: it's because I haven't had a cigarette for hours.",
             "work": "The End of Mr Y"
         },
         {
             "author": "Charlotte Bront\u00eb",
             "quote_former": "ERE THE HALF-HOUR ended, ",
-			"time": "five o'clock",
-			"quote_latter": " struck; school was dismissed, and all were gone into the refectory to tea. I now ventured to descend; it was deep dusk; I retired into a corner and sat down on the floor.",
+            "time": "five o'clock",
+            "quote_latter": " struck; school was dismissed, and all were gone into the refectory to tea. I now ventured to descend; it was deep dusk; I retired into a corner and sat down on the floor.",
             "work": "Jane Eyre"
         },
         {
             "author": "Henry James",
             "quote_former": "From ",
-			"time": "five o'clock",
-			"quote_latter": " to eight is on certain occasions a little eternity; but on such an occasion as this the interval could be only an eternity of pleasure.",
+            "time": "five o'clock",
+            "quote_latter": " to eight is on certain occasions a little eternity; but on such an occasion as this the interval could be only an eternity of pleasure.",
             "work": "The Portrait of a Lady"
         },
         {
             "author": "JK Rowling",
             "quote_former": "He found it harder to concentrate on drills that afternoon and when he left the building at ",
-			"time": "five o'clock",
-			"quote_latter": ", he was still so worried that he walked straight into someone just outside the door.",
+            "time": "five o'clock",
+            "quote_latter": ", he was still so worried that he walked straight into someone just outside the door.",
             "work": "Harry Potter and the Philosopher's Stone"
         },
         {
             "author": "Henry James",
             "quote_former": "She had not seen her yet, as Osmond had given her to understand that it was too soon to begin. She drove at ",
-			"time": "five o'clock",
-			"quote_latter": " to a high floor in a narrow street in the quarter of the Piazza Navona, and was admitted by the portress of the convent, a genial and obsequious person. Isabel had been at this institution before; she had come with Pansy to see the sisters.",
+            "time": "five o'clock",
+            "quote_latter": " to a high floor in a narrow street in the quarter of the Piazza Navona, and was admitted by the portress of the convent, a genial and obsequious person. Isabel had been at this institution before; she had come with Pansy to see the sisters.",
             "work": "The Portrait of a Lady"
         },
         {
             "author": "Sandor Marai",
             "quote_former": "Until ",
-			"time": "five o'clock",
-			"quote_latter": " there was no sign of life from the room. Then he rang for his servant and ordered a cold bath.",
+            "time": "five o'clock",
+            "quote_latter": " there was no sign of life from the room. Then he rang for his servant and ordered a cold bath.",
             "work": "Embers"
         },
         {
             "author": "Daphne du Maurier",
             "quote_former": "We motored, I remember, leaving London in the morning in a heavy shower of rain, coming to Manderley about ",
-			"time": "five o'clock",
-			"quote_latter": ", in time for tea. I can see myself now, unsuitably dressed as usual, although a bride of seven weeks, in a tan-coloured stockinette frock, a small fur known as a stone marten round my neck, and over all a shapeless mackintosh, far too big for me and dragging to my ankles.",
+            "time": "five o'clock",
+            "quote_latter": ", in time for tea. I can see myself now, unsuitably dressed as usual, although a bride of seven weeks, in a tan-coloured stockinette frock, a small fur known as a stone marten round my neck, and over all a shapeless mackintosh, far too big for me and dragging to my ankles.",
             "work": "Rebecca"
         }
     ],
@@ -8121,8 +8121,8 @@ const quoteMap = {
         {
             "author": "Tip \"T.I.\" Harris with David Ritz",
             "quote_former": "",
-			"time": "One minute after five.",
-			"quote_latter": " The seated guests were told that the ceremony would begin shortly. A little more patience was required.",
+            "time": "One minute after five.",
+            "quote_latter": " The seated guests were told that the ceremony would begin shortly. A little more patience was required.",
             "work": "Trouble & Triumph: A Novel of Power & Beauty"
         }
     ],
@@ -8130,8 +8130,8 @@ const quoteMap = {
         {
             "author": "Jane Smiley",
             "quote_former": "She stood up, shook her hair into place, smoothed her skirt and turned on the light. It was ",
-			"time": "two minutes past five",
-			"quote_latter": ". She would have thought it midnight or five in the morning.",
+            "time": "two minutes past five",
+            "quote_latter": ". She would have thought it midnight or five in the morning.",
             "work": "Duplicate Keys"
         }
     ],
@@ -8139,8 +8139,8 @@ const quoteMap = {
         {
             "author": "Jos\u00e9 Latour",
             "quote_former": "\"Good evening, Mrs. Scheindlin,\" the man said before departing. \"Good evening, Chris. Say hello to the wife for me.\" \"I sure will. Thanks. Bye,\" he said, waving to Elliot, who returned the goodbye. It was ",
-			"time": "5:03",
-			"quote_latter": " when Elliot rested the handset in its cradle.",
+            "time": "5:03",
+            "quote_latter": " when Elliot rested the handset in its cradle.",
             "work": "Comrades in Miami: A Novel"
         }
     ],
@@ -8148,8 +8148,8 @@ const quoteMap = {
         {
             "author": "John A. Keel",
             "quote_former": "Frank Wamsley spotted his cousin Barbara and her husband and waved to them. Just ahead, he saw Marvin and his two friends. Suddenly the whole bridge convulsed. The time was ",
-			"time": "5:04 P.M.",
-			"quote_latter": " Steel screamed.",
+            "time": "5:04 P.M.",
+            "quote_latter": " Steel screamed.",
             "work": "The Mothman Prophecies"
         }
     ],
@@ -8157,8 +8157,8 @@ const quoteMap = {
         {
             "author": "Charles Cumming",
             "quote_former": "At approximately ",
-			"time": "5:05 p.m.",
-			"quote_latter": " Joe became aware of a man standing close to the table, about two metres away, talking in Mandarin into a mobile phone. He was a middle-aged Han wearing cheap leather slip-on shoes, high-waisted black trousers and a white short-sleeved shirt.",
+            "time": "5:05 p.m.",
+            "quote_latter": " Joe became aware of a man standing close to the table, about two metres away, talking in Mandarin into a mobile phone. He was a middle-aged Han wearing cheap leather slip-on shoes, high-waisted black trousers and a white short-sleeved shirt.",
             "work": "Typhoon"
         }
     ],
@@ -8166,8 +8166,8 @@ const quoteMap = {
         {
             "author": "Nicholas Royle",
             "quote_former": "The rain stopped ",
-			"time": "around 5 p.m.",
-			"quote_latter": " and a few of those people who were out and about expressed mild surprise when the rainbow failed to fade.",
+            "time": "around 5 p.m.",
+            "quote_latter": " and a few of those people who were out and about expressed mild surprise when the rainbow failed to fade.",
             "work": "Mortality -- 'The Rainbow'"
         }
     ],
@@ -8175,8 +8175,8 @@ const quoteMap = {
         {
             "author": "Dean Koontz",
             "quote_former": "Hours later, at ",
-			"time": "ten minutes past five",
-			"quote_latter": ", Saturday afternoon, Nora and Travis and Jim Keene crowded in front of the mattress on which Einstein lay. The dog had just taken a few more ounces of water. He looked at them with interest, too. Travis tried to decide if those large brown eyes still had the strange depth, uncanny alertness, and undoglike awareness that he had seen in them so many times before.",
+            "time": "ten minutes past five",
+            "quote_latter": ", Saturday afternoon, Nora and Travis and Jim Keene crowded in front of the mattress on which Einstein lay. The dog had just taken a few more ounces of water. He looked at them with interest, too. Travis tried to decide if those large brown eyes still had the strange depth, uncanny alertness, and undoglike awareness that he had seen in them so many times before.",
             "work": "Watchers"
         }
     ],
@@ -8184,8 +8184,8 @@ const quoteMap = {
         {
             "author": "Daphne du Maurier",
             "quote_former": "\"Well, here we are,\" said Colonel Julyan, \"and it's exactly ",
-			"time": "twelve minutes past five",
-			"quote_latter": ". We shall catch them in the middle of their tea. Better wait for a bit\" Maxim lit a cigarette, and then stretched out his hand to me. He did not speak.",
+            "time": "twelve minutes past five",
+            "quote_latter": ". We shall catch them in the middle of their tea. Better wait for a bit\" Maxim lit a cigarette, and then stretched out his hand to me. He did not speak.",
             "work": "Rebecca"
         }
     ],
@@ -8193,8 +8193,8 @@ const quoteMap = {
         {
             "author": "Harper Lee",
             "quote_former": "\"Do you know what time it is, Atticus?\" she said. \"Exactly ",
-			"time": "fourteen minutes past five",
-			"quote_latter": ". The alarm clock's set for five-thirty. I want you to know that.\"",
+            "time": "fourteen minutes past five",
+            "quote_latter": ". The alarm clock's set for five-thirty. I want you to know that.\"",
             "work": "To Kill a Mockingbird"
         }
     ],
@@ -8202,8 +8202,8 @@ const quoteMap = {
         {
             "author": "Len Deighton",
             "quote_former": "When August Bach emerged from the gloomy chill of the air-conditioned Divisional Fighter Control bunker it was ",
-			"time": "17:15 hrs",
-			"quote_latter": " CET. The day had ripened into one of those mellow summer afternoons when the air is warm and sweet like soft toffee",
+            "time": "17:15 hrs",
+            "quote_latter": " CET. The day had ripened into one of those mellow summer afternoons when the air is warm and sweet like soft toffee",
             "work": "Bomber"
         }
     ],
@@ -8211,8 +8211,8 @@ const quoteMap = {
         {
             "author": "Maurice LeBlanc",
             "quote_former": "Lupin rose, without breaking his contemptuous silence, and took the sheet of paper. I remembered soon after that, at this moment, I happened to look at the clock. It was ",
-			"time": "eighteen minutes past five",
-			"quote_latter": ".",
+            "time": "eighteen minutes past five",
+            "quote_latter": ".",
             "work": "The Confessions of Ars\u00e8ne Lupin"
         }
     ],
@@ -8220,8 +8220,8 @@ const quoteMap = {
         {
             "author": "Henning Mankell",
             "quote_former": "The call came at ",
-			"time": "5.19 p.m.",
-			"quote_latter": " The line was surprisingly clear. A man introduced himself as Major Liepa from the Riga police. Wallander made notes as he listened, occasionally answering a question.",
+            "time": "5.19 p.m.",
+            "quote_latter": " The line was surprisingly clear. A man introduced himself as Major Liepa from the Riga police. Wallander made notes as he listened, occasionally answering a question.",
             "work": "The Dogs of Riga"
         }
     ],
@@ -8229,8 +8229,8 @@ const quoteMap = {
         {
             "author": "David Foster Wallace",
             "quote_former": "The Meeting was listed as starting at 1730, and it was only around ",
-			"time": "1720",
-			"quote_latter": ", and Hal thought the voices might signify some sort of pre-Meeting orientation for people who've come for the first time, sort of tentatively, just to scout the whole enterprise out, so he doesn't knock.",
+            "time": "1720",
+            "quote_latter": ", and Hal thought the voices might signify some sort of pre-Meeting orientation for people who've come for the first time, sort of tentatively, just to scout the whole enterprise out, so he doesn't knock.",
             "work": "Infinite Jest"
         }
     ],
@@ -8238,8 +8238,8 @@ const quoteMap = {
         {
             "author": "David Foster Wallace",
             "quote_former": "The Meeting was listed as starting at 1730, and it was only ",
-			"time": "around 1720",
-			"quote_latter": ", and Hal thought the voices might signify some sort of pre-Meeting orientation for people who've come for the first time, sort of tentatively, just to scout the whole enterprise out, so he doesn't knock.",
+            "time": "around 1720",
+            "quote_latter": ", and Hal thought the voices might signify some sort of pre-Meeting orientation for people who've come for the first time, sort of tentatively, just to scout the whole enterprise out, so he doesn't knock.",
             "work": "Infinite Jest"
         }
     ],
@@ -8247,15 +8247,15 @@ const quoteMap = {
         {
             "author": "Haruki Murakami",
             "quote_former": "It was ",
-			"time": "five-twenty-five",
-			"quote_latter": " when I pulled up in front of the library. Still early for our date, so I got out of the car and took a stroll down the misty streets. In a coffee shop, watched a golf match on television, then I went to an entertainment center and played a video game. The object of the game was to wipe out tanks invading from across the river. I was winning at first, but as the game went on, the enemy tanks bred like lemmings, crushing me by sheer number and destroying my base. An on-screen nuclear blast took care of everything, followed by the message game over insert coin.",
+            "time": "five-twenty-five",
+            "quote_latter": " when I pulled up in front of the library. Still early for our date, so I got out of the car and took a stroll down the misty streets. In a coffee shop, watched a golf match on television, then I went to an entertainment center and played a video game. The object of the game was to wipe out tanks invading from across the river. I was winning at first, but as the game went on, the enemy tanks bred like lemmings, crushing me by sheer number and destroying my base. An on-screen nuclear blast took care of everything, followed by the message game over insert coin.",
             "work": "Hard Boiled Wonderland and the End of the World"
         },
         {
             "author": "Ngaio Marsh",
             "quote_former": "Now said Handsley, when Angela had poured out the last cup, \"it's ",
-			"time": "twenty-five minutes past five",
-			"quote_latter": ", At half-past the Murder game is on\"",
+            "time": "twenty-five minutes past five",
+            "quote_latter": ", At half-past the Murder game is on\"",
             "work": "A Man Lay Dead"
         }
     ],
@@ -8263,15 +8263,15 @@ const quoteMap = {
         {
             "author": "Leo Tolstoy",
             "quote_former": "He went up to his coachman, who was dozing on the box in the shadow, already lengthening, of a thick lime-tree; he admired the shifting clouds of midges circling over the hot horses, and, waking the coachman, he jumped into the carriage, and told him to drive to Bryansky\u2019s. It was only after driving nearly five miles that he had sufficiently recovered himself to look at his watch, and realise that it was ",
-			"time": "half-past five",
-			"quote_latter": ", and he was late.",
+            "time": "half-past five",
+            "quote_latter": ", and he was late.",
             "work": "Anna Karenina"
         },
         {
             "author": "Arthur Conan Doyle",
             "quote_former": "It was ",
-			"time": "half-past five",
-			"quote_latter": " before Holmes returned. He was bright, eager, and in excellent spirits, a mood which in his case alternated with fits of the blackest depression.",
+            "time": "half-past five",
+            "quote_latter": " before Holmes returned. He was bright, eager, and in excellent spirits, a mood which in his case alternated with fits of the blackest depression.",
             "work": "The Sign Of Four"
         }
     ],
@@ -8279,8 +8279,8 @@ const quoteMap = {
         {
             "author": "Lydia Davis",
             "quote_former": "At ",
-			"time": "5:33 p.m.",
-			"quote_latter": " there is a blast of two deep, resonant notes a major third apart. On another day there is the same blast at 12:54 p.m. On another, exactly 8:00 a.m.",
+            "time": "5:33 p.m.",
+            "quote_latter": " there is a blast of two deep, resonant notes a major third apart. On another day there is the same blast at 12:54 p.m. On another, exactly 8:00 a.m.",
             "work": "Varieties of Disturbance"
         }
     ],
@@ -8288,8 +8288,8 @@ const quoteMap = {
         {
             "author": "Helen DeWitt",
             "quote_former": "Look, Lucille, said Joe when Lucille strolled into the office at ",
-			"time": "5:37",
-			"quote_latter": ". \"I don't know what you said to this gal, but it seems to have had exactly the opposite of the desired effect. She's got some bee in her bonnet about Harvard Law School.\"",
+            "time": "5:37",
+            "quote_latter": ". \"I don't know what you said to this gal, but it seems to have had exactly the opposite of the desired effect. She's got some bee in her bonnet about Harvard Law School.\"",
             "work": "Lightning Rods"
         }
     ],
@@ -8297,15 +8297,15 @@ const quoteMap = {
         {
             "author": "Zhu Wen",
             "quote_former": "Hey, young man, what time is it? 'What?' I said, is it 5:30 yet? 'Er, ",
-			"time": "5:40",
-			"quote_latter": ".' Heavens, they'll be starving. But then that's a good thing. Let them.'",
+            "time": "5:40",
+            "quote_latter": ".' Heavens, they'll be starving. But then that's a good thing. Let them.'",
             "work": "I Love Dollars"
         },
         {
             "author": "Sophie Kinsella",
             "quote_former": "It's ",
-			"time": "five-forty",
-			"quote_latter": " now. The party's at six. By about ten past, the eleventh floor should be clearing. Arnold is a very popular partner; no one's going to miss his farewell speech if they can help it. Plus, at Carter Spink parties, the speeches always happen early on, so people can get back to work if they need to. And while everyone's listening I'll slip down to Arnold's office. It should work. It has to work. As I stare at my own bizarre reflection, I feel a grim resolve hardening inside me. He's not going to get away with everyone thinking he's a cheery, harmless old teddy bear. He's not going to get away with it.",
+            "time": "five-forty",
+            "quote_latter": " now. The party's at six. By about ten past, the eleventh floor should be clearing. Arnold is a very popular partner; no one's going to miss his farewell speech if they can help it. Plus, at Carter Spink parties, the speeches always happen early on, so people can get back to work if they need to. And while everyone's listening I'll slip down to Arnold's office. It should work. It has to work. As I stare at my own bizarre reflection, I feel a grim resolve hardening inside me. He's not going to get away with everyone thinking he's a cheery, harmless old teddy bear. He's not going to get away with it.",
             "work": "The Undomestic Goddess"
         }
     ],
@@ -8313,8 +8313,8 @@ const quoteMap = {
         {
             "author": "John Updike",
             "quote_former": "Janice is not waiting for him in the lounge or beside the pool when at last ",
-			"time": "around 5.45",
-			"quote_latter": " they come home from playing the par-5 eighteenth. Instead one of the girls in their green and white uniforms comes over and tells him that his wife wants him to call home.",
+            "time": "around 5.45",
+            "quote_latter": " they come home from playing the par-5 eighteenth. Instead one of the girls in their green and white uniforms comes over and tells him that his wife wants him to call home.",
             "work": "Rabbit Is Rich"
         }
     ],
@@ -8322,8 +8322,8 @@ const quoteMap = {
         {
             "author": "John Updike",
             "quote_former": "Janice is not waiting for him in the lounge or beside the pool when at last around ",
-			"time": "5.45",
-			"quote_latter": " they come home from playing the par-5 eighteenth. Instead one of the girls in their green and white uniforms comes over and tells him that his wife wants him to call home.",
+            "time": "5.45",
+            "quote_latter": " they come home from playing the par-5 eighteenth. Instead one of the girls in their green and white uniforms comes over and tells him that his wife wants him to call home.",
             "work": "Rabbit Is Rich"
         }
     ],
@@ -8331,8 +8331,8 @@ const quoteMap = {
         {
             "author": "P.G. Wodehouse",
             "quote_former": "Through the curtained windows of the furnished apartment which Mrs. Horace Hignett had rented for her stay in New York rays of golden sunlight peeped in like the foremost spies of some advancing army. It was a fine summer morning. The hands of the Dutch clock in the hall pointed to thirteen minutes past nine; those of the ormolu clock in the sitting-room to eleven minutes past ten; those of the carriage clock on the bookshelf to ",
-			"time": "fourteen minutes to six",
-			"quote_latter": ". In other words, it was exactly eight; and Mrs. Hignett acknowledged the fact by moving her head on the pillow, opening her eyes, and sitting up in bed. She always woke at eight precisely.",
+            "time": "fourteen minutes to six",
+            "quote_latter": ". In other words, it was exactly eight; and Mrs. Hignett acknowledged the fact by moving her head on the pillow, opening her eyes, and sitting up in bed. She always woke at eight precisely.",
             "work": "Three Men and a Maid"
         }
     ],
@@ -8340,8 +8340,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "Father came home at ",
-			"time": "5:48 p.m.",
-			"quote_latter": " I heard him come through the front door. Then he came into the living room. He was wearing a lime green and sky blue check shirt and there was a double knot on one of his shoes but not on the other.",
+            "time": "5:48 p.m.",
+            "quote_latter": " I heard him come through the front door. Then he came into the living room. He was wearing a lime green and sky blue check shirt and there was a double knot on one of his shoes but not on the other.",
             "work": "The Curious Incident Of The Dog In The Night-Time"
         }
     ],
@@ -8349,8 +8349,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "It was ",
-			"time": "5:54 pm",
-			"quote_latter": " when Father came back into the living room. He said, 'What is this?\" but he said it very quietly and I didn't realise that he was angry because he wasn't shouting.",
+            "time": "5:54 pm",
+            "quote_latter": " when Father came back into the living room. He said, 'What is this?\" but he said it very quietly and I didn't realise that he was angry because he wasn't shouting.",
             "work": "The Curious Incident of the Dog in the Night-time"
         }
     ],
@@ -8358,8 +8358,8 @@ const quoteMap = {
         {
             "author": "Algernon Blackwood",
             "quote_former": "The wind moaned and sang dismally, catching the ears and lifting the shabby coat-tails of Mr Mortimer Jenkyn, 'Photographic Artist', as he stood outside and put the shutters up with this own cold hands in despair of further trade. It was ",
-			"time": "five minutes to six",
-			"quote_latter": ".",
+            "time": "five minutes to six",
+            "quote_latter": ".",
             "work": "The Deferred Appointment"
         }
     ],
@@ -8367,8 +8367,8 @@ const quoteMap = {
         {
             "author": "Bram Stoker",
             "quote_former": "When he arrived it was ",
-			"time": "nearly six o'clock",
-			"quote_latter": ", and the sun was setting full and warm, and the red light streamed in through the window and gave more colour to the pale cheeks.",
+            "time": "nearly six o'clock",
+            "quote_latter": ", and the sun was setting full and warm, and the red light streamed in through the window and gave more colour to the pale cheeks.",
             "work": "Dracula"
         }
     ],
@@ -8376,8 +8376,8 @@ const quoteMap = {
         {
             "author": "George Orwell",
             "quote_former": "It was ",
-			"time": "nearly six o'clock",
-			"quote_latter": " in the evening, and the absurd bell in the six-foot tin steeple of the church went clank-clank, clank- clank! as old Mattu pulled the rope within.'",
+            "time": "nearly six o'clock",
+            "quote_latter": " in the evening, and the absurd bell in the six-foot tin steeple of the church went clank-clank, clank- clank! as old Mattu pulled the rope within.'",
             "work": "Burmese Days"
         }
     ],
@@ -8385,8 +8385,8 @@ const quoteMap = {
         {
             "author": "Bram Stoker",
             "quote_former": "When he arrived it was ",
-			"time": "nearly six o'clock",
-			"quote_latter": ", and the sun was setting full and warm, and the red light streamed in through the window and gave more colour to the pale cheeks.",
+            "time": "nearly six o'clock",
+            "quote_latter": ", and the sun was setting full and warm, and the red light streamed in through the window and gave more colour to the pale cheeks.",
             "work": "Dracula"
         }
     ],
@@ -8394,50 +8394,50 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "6.00 p.m.",
-			"quote_latter": " Have tea",
+            "time": "6.00 p.m.",
+            "quote_latter": " Have tea",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "Th\u00e9ophile Gautier",
             "quote_former": "Although it was only ",
-			"time": "six o'clock",
-			"quote_latter": ", the night was already dark. The fog, made thicker by its proximity to the Seine, blurred every detail with its ragged veils, punctured at various distances by the reddish glow of lanterns and bars of light escaping from illuminated windows.",
+            "time": "six o'clock",
+            "quote_latter": ", the night was already dark. The fog, made thicker by its proximity to the Seine, blurred every detail with its ragged veils, punctured at various distances by the reddish glow of lanterns and bars of light escaping from illuminated windows.",
             "work": "Le Club des Hachichins"
         },
         {
             "author": "L.P. Hartley",
             "quote_former": "Did you go down to the farm while I was away?' 'No,' I said 'but I saw Ted.' 'Did he have a message for me ?' she asked. 'He said today was no good as he was going to Norwich. But Friday at ",
-			"time": "six o'clock",
-			"quote_latter": ", same as usual.' 'Are you sure he said six o'clock?' she asked, puzzled. 'Quite sure.'",
+            "time": "six o'clock",
+            "quote_latter": ", same as usual.' 'Are you sure he said six o'clock?' she asked, puzzled. 'Quite sure.'",
             "work": "The Go-Between"
         },
         {
             "author": "William Shakespeare",
             "quote_former": "King Richard: What is o'clock? Catesby: It is ",
-			"time": "six o'clock",
-			"quote_latter": ", full supper time. King Richard: I will not sup tonight. Give me some ink and paper.",
+            "time": "six o'clock",
+            "quote_latter": ", full supper time. King Richard: I will not sup tonight. Give me some ink and paper.",
             "work": "Richard III"
         },
         {
             "author": "Gustave Flaubert",
             "quote_former": "Leon waited all day for ",
-			"time": "six o'clock",
-			"quote_latter": " to arrive; when he got to the inn, he found no one there but Monsieur Binet, already at the table.",
+            "time": "six o'clock",
+            "quote_latter": " to arrive; when he got to the inn, he found no one there but Monsieur Binet, already at the table.",
             "work": "Madame Bovary"
         },
         {
             "author": "Muriel Spark",
             "quote_former": "The newspaper snaked through the door and there was suddenly a ",
-			"time": "six o'clock",
-			"quote_latter": " feeling in the house",
+            "time": "six o'clock",
+            "quote_latter": " feeling in the house",
             "work": "The Prime of Miss Jean Brodie"
         },
         {
             "author": "Jed Rubenfeld",
             "quote_former": "When the bells of Calvary Church struck ",
-			"time": "six",
-			"quote_latter": ", she saw Mr and Mrs Biggs hurrying down the front stoop, rushing off to the shops before they closed.",
+            "time": "six",
+            "quote_latter": ", she saw Mr and Mrs Biggs hurrying down the front stoop, rushing off to the shops before they closed.",
             "work": "The Interpretation Of Murder"
         }
     ],
@@ -8445,8 +8445,8 @@ const quoteMap = {
         {
             "author": "John Wyndham",
             "quote_former": "Above it all rose the Houses of Parliament, with the hands of the clock stopped at ",
-			"time": "three minutes past six",
-			"quote_latter": ". It was difficult to believe that all that meant nothing any more, that now it was just a pretentious confection that could decay in peace.",
+            "time": "three minutes past six",
+            "quote_latter": ". It was difficult to believe that all that meant nothing any more, that now it was just a pretentious confection that could decay in peace.",
             "work": "The Day of the Triffids"
         }
     ],
@@ -8454,8 +8454,8 @@ const quoteMap = {
         {
             "author": "Mark Twain",
             "quote_former": "\"We will make record of it, my Rosannah; every year, as this dear hour chimes from the clock, we will celebrate it with thanksgivings, all the years of our life.\" \"We will, we will, Alonzo!\" \"",
-			"time": "Four minutes after six",
-			"quote_latter": ", in the evening, my Rosannah...\u201d",
+            "time": "Four minutes after six",
+            "quote_latter": ", in the evening, my Rosannah...\u201d",
             "work": "The Loves of Alonzo Fitz Clarence and Rosannah Ethelton"
         }
     ],
@@ -8463,8 +8463,8 @@ const quoteMap = {
         {
             "author": "Barbara Pym",
             "quote_former": "At about ",
-			"time": "five past six",
-			"quote_latter": " Piers came in carrying an evening paper and a few books.",
+            "time": "five past six",
+            "quote_latter": " Piers came in carrying an evening paper and a few books.",
             "work": "A Glass of Blessings"
         }
     ],
@@ -8472,8 +8472,8 @@ const quoteMap = {
         {
             "author": "Hans Hellmut Kirst",
             "quote_former": "",
-			"time": "6:08 p.m.",
-			"quote_latter": " The code-word \"Valkyrie\" reached von Seydlitz Gabler's headquarters",
+            "time": "6:08 p.m.",
+            "quote_latter": " The code-word \"Valkyrie\" reached von Seydlitz Gabler's headquarters",
             "work": "The Night of the Generals"
         }
     ],
@@ -8481,8 +8481,8 @@ const quoteMap = {
         {
             "author": "Graham Greene",
             "quote_former": "'Let me see now. You had a drink at the Continental at ",
-			"time": "six ten",
-			"quote_latter": ".' 'Yes.' 'And at six forty-five you were talking to another journalist at the door of the Majestic?' 'Yes, Wilkins. I told you all this, Vigot, before. That night.'",
+            "time": "six ten",
+            "quote_latter": ".' 'Yes.' 'And at six forty-five you were talking to another journalist at the door of the Majestic?' 'Yes, Wilkins. I told you all this, Vigot, before. That night.'",
             "work": "The Quiet American"
         }
     ],
@@ -8490,15 +8490,15 @@ const quoteMap = {
         {
             "author": "Penelope Lively",
             "quote_former": "At a ",
-			"time": "quarter past six",
-			"quote_latter": " he was through with them.",
+            "time": "quarter past six",
+            "quote_latter": " he was through with them.",
             "work": "The Photograph"
         },
         {
             "author": "Sophie McKenzie",
             "quote_former": "I checked the time on the corner of my screen. ",
-			"time": "6.15 pm.",
-			"quote_latter": " I was never going to finisah my essay in forty-five minutes",
+            "time": "6.15 pm.",
+            "quote_latter": " I was never going to finisah my essay in forty-five minutes",
             "work": "Girl Missing"
         }
     ],
@@ -8506,8 +8506,8 @@ const quoteMap = {
         {
             "author": "Jhumpa Lahiri",
             "quote_former": "By the time Elliot's mother arrived at ",
-			"time": "twenty past six",
-			"quote_latter": ", Mrs Sen always made sure all evidence of her chopping was disposed of.",
+            "time": "twenty past six",
+            "quote_latter": ", Mrs Sen always made sure all evidence of her chopping was disposed of.",
             "work": "Interpreter of Maladies"
         }
     ],
@@ -8515,8 +8515,8 @@ const quoteMap = {
         {
             "author": "Winifred Watson",
             "quote_former": "5.20pm - ",
-			"time": "6.21pm",
-			"quote_latter": ": Miss Pettigrew found herself wafted into the passage. She was past remonstrance now, past bewilderment, surprise, expostulation. Her eyes shone. Her face glowed. Her spirits soared. Everything was happening too quickly. She couldn't keep up with things, but, by golly, she could enjoy them.",
+            "time": "6.21pm",
+            "quote_latter": ": Miss Pettigrew found herself wafted into the passage. She was past remonstrance now, past bewilderment, surprise, expostulation. Her eyes shone. Her face glowed. Her spirits soared. Everything was happening too quickly. She couldn't keep up with things, but, by golly, she could enjoy them.",
             "work": "Miss Pettigrew Lives for a Day"
         }
     ],
@@ -8524,15 +8524,15 @@ const quoteMap = {
         {
             "author": "Stan Barstow",
             "quote_former": "At ",
-			"time": "twenty-five past six",
-			"quote_latter": " I go into the bathroom and have a wash, then while the Old Lady's busy in the kitchen helping Chris with the washing up I get my coat and nip out down the stairs.",
+            "time": "twenty-five past six",
+            "quote_latter": " I go into the bathroom and have a wash, then while the Old Lady's busy in the kitchen helping Chris with the washing up I get my coat and nip out down the stairs.",
             "work": "A Kind of Loving"
         },
         {
             "author": "Bram Stoker",
             "quote_former": "I have this moment, while writing, had a wire from Jonathan saying that he leaves by the ",
-			"time": "6.25",
-			"quote_latter": " tonight from Launceston and will be here at 10.18, so that I shall have no fear tonight.",
+            "time": "6.25",
+            "quote_latter": " tonight from Launceston and will be here at 10.18, so that I shall have no fear tonight.",
             "work": "Dracula"
         }
     ],
@@ -8540,8 +8540,8 @@ const quoteMap = {
         {
             "author": "Eugene O'Neill",
             "quote_former": "It is ",
-			"time": "around half past six",
-			"quote_latter": " in the evening. Dusk is gathering in the living room, an early dusk due to the fog which has rolled in from the Sound and is like a white curtain drawn down outside the windows.",
+            "time": "around half past six",
+            "quote_latter": " in the evening. Dusk is gathering in the living room, an early dusk due to the fog which has rolled in from the Sound and is like a white curtain drawn down outside the windows.",
             "work": "Long Day's Journey Into Night"
         }
     ],
@@ -8549,43 +8549,43 @@ const quoteMap = {
         {
             "author": "Hunter S. Thompson",
             "quote_former": "At ",
-			"time": "six-thirty",
-			"quote_latter": " I left the bar and walked outside. It was getting dark and the big Avenida looked cool and graceful. On the other side were homes that once looked out on the beach. Now they looked out on hotels and most of them had retreated behind tall hedges and walls that cut them off from the street.",
+            "time": "six-thirty",
+            "quote_latter": " I left the bar and walked outside. It was getting dark and the big Avenida looked cool and graceful. On the other side were homes that once looked out on the beach. Now they looked out on hotels and most of them had retreated behind tall hedges and walls that cut them off from the street.",
             "work": "The Rum Diary"
         },
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "6.30 p.m.",
-			"quote_latter": " Watch television or a video",
+            "time": "6.30 p.m.",
+            "quote_latter": " Watch television or a video",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "L.P. Hartley",
             "quote_former": "As I was turning away, grieved to be parting from him, a thought started up in me and I turned back. 'Shall I take one more message for you?' 'That's good of you' he said, 'but do you want to?' 'Yes, just this once.' It could do no harm, I thought; and I should be far away when the message takes effect, and I wanted to say something to show we were friends. 'Well,' he said, once more across the gap, 'say tomorrow's no good, I'm going to Norwich, but Friday at ",
-			"time": "half-past six",
-			"quote_latter": ", same as usual.'",
+            "time": "half-past six",
+            "quote_latter": ", same as usual.'",
             "work": "The Go-Between"
         },
         {
             "author": "Jane Austen",
             "quote_former": "At five o'clock the two ladies retired to dress, and at ",
-			"time": "half past six",
-			"quote_latter": " Elizabeth was summoned to dinner.",
+            "time": "half past six",
+            "quote_latter": " Elizabeth was summoned to dinner.",
             "work": "Pride and Prejudice"
         },
         {
             "author": "Alain Robbe-Grillet",
             "quote_former": "It is ",
-			"time": "six thirty",
-			"quote_latter": ". Now the dark night and the deafening racket of the crickets again engulf the garden and the veranda, all around the house",
+            "time": "six thirty",
+            "quote_latter": ". Now the dark night and the deafening racket of the crickets again engulf the garden and the veranda, all around the house",
             "work": "Jealousy"
         },
         {
             "author": "Georgette Heyer",
             "quote_former": "To a casual visitor it might have seemed that Mr Penicuik, who owned the house, had fallen upon evil days; but two of the three gentlemen assembled in the Saloon at ",
-			"time": "half-past six",
-			"quote_latter": " on a wintry evening of late February were in no danger of falling into this error.",
+            "time": "half-past six",
+            "quote_latter": " on a wintry evening of late February were in no danger of falling into this error.",
             "work": "Cotillion"
         }
     ],
@@ -8593,8 +8593,8 @@ const quoteMap = {
         {
             "author": "Arthur Conan Doyle",
             "quote_former": "I had been delayed at a case and it was ",
-			"time": "a little after half past six",
-			"quote_latter": " when I found myself at Baker Street once more",
+            "time": "a little after half past six",
+            "quote_latter": " when I found myself at Baker Street once more",
             "work": "The Adventure of The Blue Carbuncle"
         }
     ],
@@ -8602,8 +8602,8 @@ const quoteMap = {
         {
             "author": "Eugene O'Neill",
             "quote_former": "It is ",
-			"time": "around half past six",
-			"quote_latter": " in the evening. Dusk is gathering in the living room, an early dusk due to the fog which has rolled in from the Sound and is like a white curtain drawn down outside the windows.",
+            "time": "around half past six",
+            "quote_latter": " in the evening. Dusk is gathering in the living room, an early dusk due to the fog which has rolled in from the Sound and is like a white curtain drawn down outside the windows.",
             "work": "Long Day's Journey Into Night"
         }
     ],
@@ -8611,8 +8611,8 @@ const quoteMap = {
         {
             "author": "Michel Houellebecq",
             "quote_former": "Every evening, Michel took the train home, changed at Esbly and usually arrived in Cr\u00e9cy on the ",
-			"time": "6.33pm",
-			"quote_latter": " train where Annabelle would be waiting at the station.",
+            "time": "6.33pm",
+            "quote_latter": " train where Annabelle would be waiting at the station.",
             "work": "Atomised"
         }
     ],
@@ -8620,8 +8620,8 @@ const quoteMap = {
         {
             "author": "Eugene O'Neill",
             "quote_former": "It is ",
-			"time": "around half past six",
-			"quote_latter": " in the evening. Dusk is gathering in the living room, an early dusk due to the fog which has rolled in from the Sound and is like a white curtain drawn down outside the windows.",
+            "time": "around half past six",
+            "quote_latter": " in the evening. Dusk is gathering in the living room, an early dusk due to the fog which has rolled in from the Sound and is like a white curtain drawn down outside the windows.",
             "work": "Long Day's Journey Into Night"
         }
     ],
@@ -8629,8 +8629,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "And then it was ",
-			"time": "6.35 pm",
-			"quote_latter": " and I heard Father come home in his van and I moved the bed up against the door so he couldn't get in and he came into the house and he and Mother shouted at each other.",
+            "time": "6.35 pm",
+            "quote_latter": " and I heard Father come home in his van and I moved the bed up against the door so he couldn't get in and he came into the house and he and Mother shouted at each other.",
             "work": "The Curious Incident Of The Dog In The Night-Time"
         }
     ],
@@ -8638,8 +8638,8 @@ const quoteMap = {
         {
             "author": "JG Ballard",
             "quote_former": "Kaldren pursues me like luminescent shadow. He has chalked up on the gateway '96,688,365,498,702'. Should confuse the mail man. Woke 9:05. To sleep ",
-			"time": "6:36",
-			"quote_latter": ".",
+            "time": "6:36",
+            "quote_latter": ".",
             "work": "The Voices of Time"
         }
     ],
@@ -8647,15 +8647,15 @@ const quoteMap = {
         {
             "author": "TS Eliot",
             "quote_former": "Amy: What's that? I thought I saw someone pass the window. What time is it? Charles: Nearly ",
-			"time": "twenty to seven",
-			"quote_latter": ".",
+            "time": "twenty to seven",
+            "quote_latter": ".",
             "work": "The Family Reunion"
         },
         {
             "author": "George and Weedon Grossmith",
             "quote_former": "Having to change 'buses, I allowed plenty of time \u2014 in fact, too much; for we arrived at ",
-			"time": "twenty minutes to seven",
-			"quote_latter": ", and Franching, so the servant said, had only just gone up to dress.",
+            "time": "twenty minutes to seven",
+            "quote_latter": ", and Franching, so the servant said, had only just gone up to dress.",
             "work": "Diary of a Nobody"
         }
     ],
@@ -8663,8 +8663,8 @@ const quoteMap = {
         {
             "author": "Paul Auster",
             "quote_former": "He made it to Grand Central well in advance. Stillman's train was not due to arrive until ",
-			"time": "six forty-one",
-			"quote_latter": ", but Quinn wanted time to study the geography of the place, to make sure that Stillman would not be able to slip away from him.",
+            "time": "six forty-one",
+            "quote_latter": ", but Quinn wanted time to study the geography of the place, to make sure that Stillman would not be able to slip away from him.",
             "work": "The New York Trilogy"
         }
     ],
@@ -8672,15 +8672,15 @@ const quoteMap = {
         {
             "author": "Graham Greene",
             "quote_former": "'Let me see now. You had a drink at the Continental at six ten.' 'Yes.' 'And at ",
-			"time": "six forty-five",
-			"quote_latter": " you were talking to another journalist at the door of the Majestic?' 'Yes, Wilkins. I told you all this, Vigot, before. That night.'",
+            "time": "six forty-five",
+            "quote_latter": " you were talking to another journalist at the door of the Majestic?' 'Yes, Wilkins. I told you all this, Vigot, before. That night.'",
             "work": "The Quiet American"
         },
         {
             "author": "Raymond Chandler",
             "quote_former": "It was a ",
-			"time": "quarter to seven",
-			"quote_latter": " when I let myself into the office and clicked the light on and picked a piece of paper off the floor. It was a notice from the Green Feather Messenger Service ...",
+            "time": "quarter to seven",
+            "quote_latter": " when I let myself into the office and clicked the light on and picked a piece of paper off the floor. It was a notice from the Green Feather Messenger Service ...",
             "work": "The High Window"
         }
     ],
@@ -8688,8 +8688,8 @@ const quoteMap = {
         {
             "author": "Hans Hellmut Kirst",
             "quote_former": "",
-			"time": "6:49 p.m.",
-			"quote_latter": " Lieutenant-General Tanz escorted by a motorized unit, drove to Corps headquarters",
+            "time": "6:49 p.m.",
+            "quote_latter": " Lieutenant-General Tanz escorted by a motorized unit, drove to Corps headquarters",
             "work": "The Night of the Generals"
         }
     ],
@@ -8697,22 +8697,22 @@ const quoteMap = {
         {
             "author": "O. Henry",
             "quote_former": "At ",
-			"time": "ten minutes to seven",
-			"quote_latter": " Dulcie was ready. She looked at herself in the wrinkly mirror. The reflection was satisfactory. The dark blue dress, fitting without a wrinkle, the hat with its jaunty black feather, the but-slightly-soiled gloves--all representing self- denial, even of food itself--were vastly becoming. Dulcie forgot everything else for a moment except that she was beautiful, and that life was about to lift a corner of its mysterious veil for her to observe its wonders. No gentleman had ever asked her out before. Now she was going for a brief moment into the glitter and exalted show.",
+            "time": "ten minutes to seven",
+            "quote_latter": " Dulcie was ready. She looked at herself in the wrinkly mirror. The reflection was satisfactory. The dark blue dress, fitting without a wrinkle, the hat with its jaunty black feather, the but-slightly-soiled gloves--all representing self- denial, even of food itself--were vastly becoming. Dulcie forgot everything else for a moment except that she was beautiful, and that life was about to lift a corner of its mysterious veil for her to observe its wonders. No gentleman had ever asked her out before. Now she was going for a brief moment into the glitter and exalted show.",
             "work": "The Four Million"
         },
         {
             "author": "Robert R. McCammon",
             "quote_former": "It was time to go see the Lady. When we arrived at her house at ",
-			"time": "ten minutes before seven",
-			"quote_latter": " o'clock, Damaronde answered the door.",
+            "time": "ten minutes before seven",
+            "quote_latter": " o'clock, Damaronde answered the door.",
             "work": "Boy's Life"
         },
         {
             "author": "Robert R. McCammon",
             "quote_former": "It was time to go see the Lady. When we arrived at her house at ",
-			"time": "ten minutes before seven",
-			"quote_latter": " o'clock, Damaronde answered the door.",
+            "time": "ten minutes before seven",
+            "quote_latter": " o'clock, Damaronde answered the door.",
             "work": "Boy's Life"
         }
     ],
@@ -8720,8 +8720,8 @@ const quoteMap = {
         {
             "author": "Stephen King",
             "quote_former": "The square of light in the kitchen doorway had faded to thin purple; his watch said ",
-			"time": "6:51",
-			"quote_latter": ".",
+            "time": "6:51",
+            "quote_latter": ".",
             "work": "Salem's Lot"
         }
     ],
@@ -8729,8 +8729,8 @@ const quoteMap = {
         {
             "author": "Edward P Jones",
             "quote_former": "It was ",
-			"time": "near on seven o'clock",
-			"quote_latter": " when I got to Mr. and Mrs. Fleming's house on 6th Street, where I was renting a room. It was late September, and though there was some sun left, I didn't want to visit a dead man's place with night coming on.",
+            "time": "near on seven o'clock",
+            "quote_latter": " when I got to Mr. and Mrs. Fleming's house on 6th Street, where I was renting a room. It was late September, and though there was some sun left, I didn't want to visit a dead man's place with night coming on.",
             "work": "All Aunt Hagar's Children"
         }
     ],
@@ -8738,15 +8738,15 @@ const quoteMap = {
         {
             "author": "Graham Greene",
             "quote_former": "... You had no reason to think the times important. Indeed how suspicious it would be if you had been completely accurate. ''Haven't I been?'' Not quite. It was ",
-			"time": "five to seven",
-			"quote_latter": " that you talked to Wilkins. ''Another ten minutes.\"",
+            "time": "five to seven",
+            "quote_latter": " that you talked to Wilkins. ''Another ten minutes.\"",
             "work": "The Quiet American"
         },
         {
             "author": "Jeffrey Eugenides",
             "quote_former": "The play was set to begin at seven o'clock and finish before sunset. It was ",
-			"time": "6:55",
-			"quote_latter": ". Beyond the flats we could hear the hockey field filling up. the low rumble got steadily louder - voices, footsteps, the creaking of bleachers, the slamming of car doors in the parking lot.",
+            "time": "6:55",
+            "quote_latter": ". Beyond the flats we could hear the hockey field filling up. the low rumble got steadily louder - voices, footsteps, the creaking of bleachers, the slamming of car doors in the parking lot.",
             "work": "Middlesex"
         }
     ],
@@ -8754,8 +8754,8 @@ const quoteMap = {
         {
             "author": "Rupert Thomson",
             "quote_former": "Then it was ",
-			"time": "6.56",
-			"quote_latter": ". A black Rover - a Rover 90, registration PYX 520 - turned into the street that ran down the left-hand side of The Bunker. It parked. The door on the driver's side opened. A man got out.",
+            "time": "6.56",
+            "quote_latter": ". A black Rover - a Rover 90, registration PYX 520 - turned into the street that ran down the left-hand side of The Bunker. It parked. The door on the driver's side opened. A man got out.",
             "work": "Dreams of leaving"
         }
     ],
@@ -8763,15 +8763,15 @@ const quoteMap = {
         {
             "author": "Max Apple",
             "quote_former": "\"I feel a little awkward,\" Kay Randall said on the phone, \"asking a man to do these errands ... but that's my problem, not yours. Just bring the supplies and try to be at the church meeting room ",
-			"time": "a few minutes before seven",
-			"quote_latter": ".\"",
+            "time": "a few minutes before seven",
+            "quote_latter": ".\"",
             "work": "Bridging"
         },
         {
             "author": "Virginia Woolf",
             "quote_former": "Folded in this triple melody, the audience sat gazing; and beheld gently and approvingly without interrogation, for it seemed inevitable, a box tree in a green tub take the place of the ladies\u2019 dressing-room; while on what seemed to be a wall, was hung a great clock face; the hands pointing to ",
-			"time": "three minutes to the hour; which was seven",
-			"quote_latter": ".'",
+            "time": "three minutes to the hour; which was seven",
+            "quote_latter": ".'",
             "work": "Between the Acts"
         }
     ],
@@ -8779,8 +8779,8 @@ const quoteMap = {
         {
             "author": "O. Henry",
             "quote_former": "\"Walk fast,\" says Perry, \"it's ",
-			"time": "two minutes to seven",
-			"quote_latter": ", and I got to be home by\u2014' \"Oh, shut up,\" says I. \"I had an appointment as chief performer at an inquest at seven, and I'm not kicking about not keeping it.\"",
+            "time": "two minutes to seven",
+            "quote_latter": ", and I got to be home by\u2014' \"Oh, shut up,\" says I. \"I had an appointment as chief performer at an inquest at seven, and I'm not kicking about not keeping it.\"",
             "work": "Roads of Destiny"
         }
     ],
@@ -8788,8 +8788,8 @@ const quoteMap = {
         {
             "author": "H. P. Lovecraft",
             "quote_former": "",
-			"time": "About seven o\u2019clock",
-			"quote_latter": " in the evening she had died, and her frantic husband had made a frightful scene in his efforts to kill West, whom he wildly blamed for not saving her life. Friends had held him when he drew a stiletto, but West departed amidst his inhuman shrieks, curses, and oaths of vengeance.",
+            "time": "About seven o\u2019clock",
+            "quote_latter": " in the evening she had died, and her frantic husband had made a frightful scene in his efforts to kill West, whom he wildly blamed for not saving her life. Friends had held him when he drew a stiletto, but West departed amidst his inhuman shrieks, curses, and oaths of vengeance.",
             "work": "Herbert West - Reanimator"
         }
     ],
@@ -8797,50 +8797,50 @@ const quoteMap = {
         {
             "author": "Marcel Proust",
             "quote_former": "\u2026 in a word, seen always at the same evening hour, isolated from all its possible surroundings, detached and solitary against its shadowy background, the bare minimum of scenery necessary .. to the drama of my undressing, as though all Combray had consisted of but two floors joined by a slender staircase, and as though there had been no time there but ",
-			"time": "seven o'clock",
-			"quote_latter": " at night.",
+            "time": "seven o'clock",
+            "quote_latter": " at night.",
             "work": "In Search of Lost Time: Swann's Way"
         },
         {
             "author": "Ray Bradbury",
             "quote_former": "The town clock struck ",
-			"time": "seven",
-			"quote_latter": ". The echoes of the great chime wandered in the unlit halls of the library. An autumn leaf, very crisp, fell somewhere in the dark. But it was only the page of a book, turning.",
+            "time": "seven",
+            "quote_latter": ". The echoes of the great chime wandered in the unlit halls of the library. An autumn leaf, very crisp, fell somewhere in the dark. But it was only the page of a book, turning.",
             "work": "Something Wicked This Way Comes"
         },
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "7.00 p.m.",
-			"quote_latter": " Do maths practice",
+            "time": "7.00 p.m.",
+            "quote_latter": " Do maths practice",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "F. Scott Fitzgerald",
             "quote_former": "By ",
-			"time": "seven o'clock",
-			"quote_latter": " the orchestra has arrived--no thin five-piece affair but a whole pitful of oboes and trombones and saxophones and viols and cornets and piccolos and low and high drums.",
+            "time": "seven o'clock",
+            "quote_latter": " the orchestra has arrived--no thin five-piece affair but a whole pitful of oboes and trombones and saxophones and viols and cornets and piccolos and low and high drums.",
             "work": "The Great Gatsby"
         },
         {
             "author": "Stephenie Meyer",
             "quote_former": "Edward had been allowed to see me only from ",
-			"time": "seven ",
-			"quote_latter": "till nine-thirty pm, always inside the confines of my home and under the supervision of my dad's unfailingly crabby glare.",
+            "time": "seven ",
+            "quote_latter": "till nine-thirty pm, always inside the confines of my home and under the supervision of my dad's unfailingly crabby glare.",
             "work": "New Moon"
         },
         {
             "author": "George Eliot",
             "quote_former": "It was ",
-			"time": "seven o'clock",
-			"quote_latter": " and by this time she was not very far from Raveloe, but she was not familiar enough with those monotonous lanes to know how near she was to her journey's end. She needed comfort, and she knew but one comforter - the familiar demon in her bosom; but she hesitated a moment, after drawing out the black remnant, before she raised it to her lips.",
+            "time": "seven o'clock",
+            "quote_latter": " and by this time she was not very far from Raveloe, but she was not familiar enough with those monotonous lanes to know how near she was to her journey's end. She needed comfort, and she knew but one comforter - the familiar demon in her bosom; but she hesitated a moment, after drawing out the black remnant, before she raised it to her lips.",
             "work": "Silas Marner"
         },
         {
             "author": "F. Scott Fitzgerald",
             "quote_former": "It was ",
-			"time": "seven o'clock",
-			"quote_latter": " when we got into the coup\u00e9 with him and started for Long Island. [...] So we drove on toward death through the cooling twilight.",
+            "time": "seven o'clock",
+            "quote_latter": " when we got into the coup\u00e9 with him and started for Long Island. [...] So we drove on toward death through the cooling twilight.",
             "work": "The Great Gatsby"
         }
     ],
@@ -8848,8 +8848,8 @@ const quoteMap = {
         {
             "author": "Patricia Highsmith",
             "quote_former": "He waited until nearly eight, because ",
-			"time": "around seven",
-			"quote_latter": " there were always more people coming in and out of the house than at other times.",
+            "time": "around seven",
+            "quote_latter": " there were always more people coming in and out of the house than at other times.",
             "work": "The Talented Mr Ripley"
         }
     ],
@@ -8857,8 +8857,8 @@ const quoteMap = {
         {
             "author": "William McGonagall",
             "quote_former": "Twas ",
-			"time": "about seven o'clock",
-			"quote_latter": " at night, And the wind it blew with all its might, And the rain came pouring down, And the dark clouds seem'd to frown,",
+            "time": "about seven o'clock",
+            "quote_latter": " at night, And the wind it blew with all its might, And the rain came pouring down, And the dark clouds seem'd to frown,",
             "work": "The Tay Bridge Disaster"
         }
     ],
@@ -8866,8 +8866,8 @@ const quoteMap = {
         {
             "author": "James Furner",
             "quote_former": "It was ",
-			"time": "eight minutes past seven",
-			"quote_latter": " and still no girl. I waited impatiently. I watched another crowd surge through the barriers and move quickly down the steps. My eyes were alert for the faintest recognition.",
+            "time": "eight minutes past seven",
+            "quote_latter": " and still no girl. I waited impatiently. I watched another crowd surge through the barriers and move quickly down the steps. My eyes were alert for the faintest recognition.",
             "work": "The Girl from East Berlin"
         }
     ],
@@ -8875,15 +8875,15 @@ const quoteMap = {
         {
             "author": "Franz Kafka",
             "quote_former": "He had already got to the point where, by rocking more strongly, he maintained his equilibrium with difficulty, and very soon he would finally have to make a final decision, for ",
-			"time": "in five minutes it would be a quarter past seven",
-			"quote_latter": ". Then there was a ring at the door of the apartment. \u201cThat\u2019s someone from the office,\u201d he told himself, and he almost froze, while his small limbs only danced around all the faster. For one moment everything remained still. \u201cThey aren\u2019t opening,\u201d Gregor said to himself, caught up in some absurd hope.",
+            "time": "in five minutes it would be a quarter past seven",
+            "quote_latter": ". Then there was a ring at the door of the apartment. \u201cThat\u2019s someone from the office,\u201d he told himself, and he almost froze, while his small limbs only danced around all the faster. For one moment everything remained still. \u201cThey aren\u2019t opening,\u201d Gregor said to himself, caught up in some absurd hope.",
             "work": "Metamorphosis"
         },
         {
             "author": "Jorge Luis Borges",
             "quote_former": "The party was to begin at seven. The invitations gave the hour as six-thirty because the family knew everyone would come a little late, so as not to be the first to arrive. At ",
-			"time": "seven-ten",
-			"quote_latter": " not a soul had come; somewhat acrimoniously, the family discussed the advantages and disadvantages of tardiness",
+            "time": "seven-ten",
+            "quote_latter": " not a soul had come; somewhat acrimoniously, the family discussed the advantages and disadvantages of tardiness",
             "work": "The Elderly Lady"
         }
     ],
@@ -8891,8 +8891,8 @@ const quoteMap = {
         {
             "author": "Ali Smith",
             "quote_former": "Good, you said. Run, or you won't get a seat. See you soon. Your voice was reassuring. ",
-			"time": "19:11",
-			"quote_latter": ":00, the clock said. I put the phone back on its hook and I ran. The seat I got, almost the last one in the carriage, was opposite a girl who started coughing as soon as there weren't any other free seats I could move to. She looked pale and the cough rattled deep in her chest as she punched numbers into her mobile. Hi, she said (cough). I'm on the train. No, I've got a cold. A cold (cough). Yeah, really bad. Yeah, awful actually. Hello? (cough) Hello?",
+            "time": "19:11",
+            "quote_latter": ":00, the clock said. I put the phone back on its hook and I ran. The seat I got, almost the last one in the carriage, was opposite a girl who started coughing as soon as there weren't any other free seats I could move to. She looked pale and the cough rattled deep in her chest as she punched numbers into her mobile. Hi, she said (cough). I'm on the train. No, I've got a cold. A cold (cough). Yeah, really bad. Yeah, awful actually. Hello? (cough) Hello?",
             "work": "The Whole Story and Other Stories"
         }
     ],
@@ -8900,8 +8900,8 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "He taught me that if I had to meet someone for an appointment, I must refuse to follow the 'stupid human habit' of arbitrarily choosing a time based on fifteen-minute intervals. \"Never meet people at 7:45 or 6:30, Jasper, but pick times like ",
-			"time": "7:12",
-			"quote_latter": " and 8:03!\"",
+            "time": "7:12",
+            "quote_latter": " and 8:03!\"",
             "work": "A Fraction of the Whole"
         }
     ],
@@ -8909,8 +8909,8 @@ const quoteMap = {
         {
             "author": "Andrew O'Hagan",
             "quote_former": "If he'd lived in New York and worked in an office, he might have thrived as the typical, over-martini'd, cheating husband, leaving every night on the ",
-			"time": "7:14",
-			"quote_latter": " to White Plains, a smudge of lipstick high on his neck, and a tide of lies to see him through to the next day.",
+            "time": "7:14",
+            "quote_latter": " to White Plains, a smudge of lipstick high on his neck, and a tide of lies to see him through to the next day.",
             "work": "The Life and Opinions of Maf the Dog, and of his friend Marilyn Monroe"
         }
     ],
@@ -8918,22 +8918,22 @@ const quoteMap = {
         {
             "author": "JG Ballard",
             "quote_former": "Cell count down to 400,000. Woke 8:10. To sleep ",
-			"time": "7:15",
-			"quote_latter": ". (Appear to have lost my watch without realising it, had to drive into town to buy another.)",
+            "time": "7:15",
+            "quote_latter": ". (Appear to have lost my watch without realising it, had to drive into town to buy another.)",
             "work": "The Voices of Time"
         },
         {
             "author": "Alan Hollinghurst",
             "quote_former": "Nick had a large wild plan of his own for the night, but for now he let Leo take charge: they were going to go back to Notting Hill and catch the ",
-			"time": "seven fifteen",
-			"quote_latter": " screening of Scarface at the Gate.",
+            "time": "seven fifteen",
+            "quote_latter": " screening of Scarface at the Gate.",
             "work": "The Line of Beauty"
         },
         {
             "author": "Jorge Luis Borges",
             "quote_former": "The party was to begin at seven. The invitations gave the hour as six-thirty because the famly knew everyone would come a little late, so as not to be the first to arrive. .. By ",
-			"time": "seven-fifteen",
-			"quote_latter": " not another soul could squeeze into the house.",
+            "time": "seven-fifteen",
+            "quote_latter": " not another soul could squeeze into the house.",
             "work": "The elderly lady"
         }
     ],
@@ -8941,8 +8941,8 @@ const quoteMap = {
         {
             "author": "Henning Mankell",
             "quote_former": "Colonel Putnis knocked on his door at ",
-			"time": "7.17 p.m.",
-			"quote_latter": " The car was waiting in front of the hotel, and they drove through the dark streets to police headquarters. It had grown much colder during the evening, and the city was almost deserted.",
+            "time": "7.17 p.m.",
+            "quote_latter": " The car was waiting in front of the hotel, and they drove through the dark streets to police headquarters. It had grown much colder during the evening, and the city was almost deserted.",
             "work": "The Dogs of Riga"
         }
     ],
@@ -8950,8 +8950,8 @@ const quoteMap = {
         {
             "author": "Sophie Kinsella",
             "quote_former": "And it was me who spent about three hours this afternoon arguing one single contract. The term was best endeavors. The other side wanted to use reasonable efforts. In the end we won the point- but I can't feel my usual triumph. All I know is, it's ",
-			"time": "seven-nineteen",
-			"quote_latter": ", and in eleven minutes I'm supposed to be halfway across town, sitting down to dinner at Maxim's with my mother and brother Daniel. I'll have to cancel. My own birthday dinner.",
+            "time": "seven-nineteen",
+            "quote_latter": ", and in eleven minutes I'm supposed to be halfway across town, sitting down to dinner at Maxim's with my mother and brother Daniel. I'll have to cancel. My own birthday dinner.",
             "work": "The Undomestic Goddess"
         }
     ],
@@ -8959,15 +8959,15 @@ const quoteMap = {
         {
             "author": "Haruki Murakami",
             "quote_former": "The clock read ",
-			"time": "seven-twenty",
-			"quote_latter": ", but I felt no hunger. You'd think I might have wanted to eat something after the day I'd had, but I cringed at the very thought of food. I was short of sleep, my gut was slashed, and my apartment was gutted. There was no room for appetite.",
+            "time": "seven-twenty",
+            "quote_latter": ", but I felt no hunger. You'd think I might have wanted to eat something after the day I'd had, but I cringed at the very thought of food. I was short of sleep, my gut was slashed, and my apartment was gutted. There was no room for appetite.",
             "work": "Hard Boiled Wonderland and the End of the World"
         },
         {
             "author": "C Northcote Parkinson",
             "quote_former": "The pause, we finally concluded, was to allow the other important people to catch up, those who had arrived at 7:10 waiting for those who had arrived at ",
-			"time": "7:20",
-			"quote_latter": ".",
+            "time": "7:20",
+            "quote_latter": ".",
             "work": "Parkinson's Law or the Pursuit of Progress"
         }
     ],
@@ -8975,8 +8975,8 @@ const quoteMap = {
         {
             "author": "Haruki Murakami",
             "quote_former": "Gripping her gym bag in her right hand, Aomame, like Buzzcut, was waiting for something to happen. The clock display changed to ",
-			"time": "7:21",
-			"quote_latter": ", then 7:22, then 7:23.",
+            "time": "7:21",
+            "quote_latter": ", then 7:22, then 7:23.",
             "work": "1Q84"
         }
     ],
@@ -8984,8 +8984,8 @@ const quoteMap = {
         {
             "author": "Haruki Murakami",
             "quote_former": "Gripping her gym bag in her right hand, Aomame, like Buzzcut, was waiting for something to happen. The clock display changed to 7:21, then ",
-			"time": "7:22",
-			"quote_latter": ", then 7:23.",
+            "time": "7:22",
+            "quote_latter": ", then 7:23.",
             "work": "1Q84"
         }
     ],
@@ -8993,8 +8993,8 @@ const quoteMap = {
         {
             "author": "Haruki Murakami",
             "quote_former": "Gripping her gym bag in her right hand, Aomame, like Buzzcut, was waiting for something to happen. The clock display changed to 7:21, then 7:22, then ",
-			"time": "7:23",
-			"quote_latter": ".",
+            "time": "7:23",
+            "quote_latter": ".",
             "work": "1Q84"
         }
     ],
@@ -9002,8 +9002,8 @@ const quoteMap = {
         {
             "author": "James Thurber",
             "quote_former": "He picked up his hat and coat and Clarice said hello to him and he said hello and looked at the clock and it was ",
-			"time": "almost twenty-five after seven",
-			"quote_latter": ".",
+            "time": "almost twenty-five after seven",
+            "quote_latter": ".",
             "work": "The Evening's at Seven"
         }
     ],
@@ -9011,8 +9011,8 @@ const quoteMap = {
         {
             "author": "James Thurber",
             "quote_former": "He picked up his hat and coat and Clarice said hello to him and he said hello and looked at the clock and it was almost ",
-			"time": "twenty-five after seven",
-			"quote_latter": ".",
+            "time": "twenty-five after seven",
+            "quote_latter": ".",
             "work": "The Evening's at Seven"
         }
     ],
@@ -9020,29 +9020,29 @@ const quoteMap = {
         {
             "author": "Fyodor Dostoyevsky",
             "quote_former": "But now he was close - here was the house, here were the gates. Somewhere a clock beat a single chime. 'What, is it really ",
-			"time": "half-past seven",
-			"quote_latter": "? That's impossible, it must be fast!\u2019",
+            "time": "half-past seven",
+            "quote_latter": "? That's impossible, it must be fast!\u2019",
             "work": "Crime and Punishment"
         },
         {
             "author": "Christoph Ransmayr",
             "quote_former": "On July 25th, 8:30 a.m. the bitch Novaya dies whelping. At 10 o'clock she is lowered into her cool grave, at ",
-			"time": "7:30",
-			"quote_latter": " that same evening we see our first floes and greet them wishing they were the last.",
+            "time": "7:30",
+            "quote_latter": " that same evening we see our first floes and greet them wishing they were the last.",
             "work": "The Terrors of Ice and Darkness"
         },
         {
             "author": "Roald Dahl",
             "quote_former": "The clock showed ",
-			"time": "half-past seven",
-			"quote_latter": ". This was the twilight time. He would be there now. I pictured him in his old navy-blue sweater and peaked cap, walking soft-footed up the track towards the wood. He told me he wore the sweater because navy-blue barely showed up in the dark, black was even better, he said. The peaked cap was important too, he explained, because the peak casts a shadow over one's face.",
+            "time": "half-past seven",
+            "quote_latter": ". This was the twilight time. He would be there now. I pictured him in his old navy-blue sweater and peaked cap, walking soft-footed up the track towards the wood. He told me he wore the sweater because navy-blue barely showed up in the dark, black was even better, he said. The peaked cap was important too, he explained, because the peak casts a shadow over one's face.",
             "work": "Danny, the Champion of the World"
         },
         {
             "author": "Leonardo Sciascia",
             "quote_former": "The telephone call came at ",
-			"time": "7.30",
-			"quote_latter": " on the evening of March 18th, a Saturday, the eve of the noisy, colourful festival that the town held in honour of Saint Joseph the carpenter -",
+            "time": "7.30",
+            "quote_latter": " on the evening of March 18th, a Saturday, the eve of the noisy, colourful festival that the town held in honour of Saint Joseph the carpenter -",
             "work": "A Simple Story"
         }
     ],
@@ -9050,8 +9050,8 @@ const quoteMap = {
         {
             "author": "Edmund Crispin",
             "quote_former": "",
-			"time": "7.35",
-			"quote_latter": "-40. Yseut arrives at 'M. and S.', puts through phone call.",
+            "time": "7.35",
+            "quote_latter": "-40. Yseut arrives at 'M. and S.', puts through phone call.",
             "work": "The Case of the Gilded Fly"
         }
     ],
@@ -9059,8 +9059,8 @@ const quoteMap = {
         {
             "author": "Robert Coover",
             "quote_former": "She arrives at ",
-			"time": "7.40",
-			"quote_latter": ", ten minutes late, but the children, Jimmy and Bitsy, are still eating supper and their parents are not ready to go yet. From other rooms come the sound of a baby screaming, water running, a television musical (no words: probably a dance number - patterns of gliding figures come to mind).",
+            "time": "7.40",
+            "quote_latter": ", ten minutes late, but the children, Jimmy and Bitsy, are still eating supper and their parents are not ready to go yet. From other rooms come the sound of a baby screaming, water running, a television musical (no words: probably a dance number - patterns of gliding figures come to mind).",
             "work": "The Babysitter"
         }
     ],
@@ -9068,15 +9068,15 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "He taught me that if I had to meet someone for an appointment, I must refuse to follow the 'stupid human habit' of arbitrarily choosing a time based on fifteen-minute intervals. \"Never meet people at ",
-			"time": "7:45",
-			"quote_latter": " or 6:30, Jasper, but pick times like 7:12 and 8:03!\"",
+            "time": "7:45",
+            "quote_latter": " or 6:30, Jasper, but pick times like 7:12 and 8:03!\"",
             "work": "A Fraction of the Whole"
         },
         {
             "author": "Justin Cartwright",
             "quote_former": "He tells his old friend the train times and they settle on the ",
-			"time": "19.45",
-			"quote_latter": " arriving at 23.27. 'I'll book us into the ultra-luxurious Francis Drake Lodge. Running water in several rooms. Have you got a mobile?\"",
+            "time": "19.45",
+            "quote_latter": " arriving at 23.27. 'I'll book us into the ultra-luxurious Francis Drake Lodge. Running water in several rooms. Have you got a mobile?\"",
             "work": "Other People's Money"
         }
     ],
@@ -9084,8 +9084,8 @@ const quoteMap = {
         {
             "author": "J. S. Fletcher",
             "quote_former": "There's a big, old-fashioned clock in the surgery. Just as Dr. Wellesley went out I heard the Moot Hall clock chime half-past seven, and then the chimes of St. Hathelswide's Church. I noticed that our clock was a couple of minutes slow, and I put it right.\" When did you next see Dr. Wellesley?\" \"At just ",
-			"time": "eleven minutes to eight",
-			"quote_latter": ".\" \"Where?\" \"In the surgery.\" \"He came back there?\" \"Yes.\" \"How do you fix that precise time--eleven minutes to eight?\" \"Because he'd arranged to see a patient in Meadow Gate at ten minutes to eight. I glanced at the clock as he came in, saw what time it was, and reminded him of the appointment.\"",
+            "time": "eleven minutes to eight",
+            "quote_latter": ".\" \"Where?\" \"In the surgery.\" \"He came back there?\" \"Yes.\" \"How do you fix that precise time--eleven minutes to eight?\" \"Because he'd arranged to see a patient in Meadow Gate at ten minutes to eight. I glanced at the clock as he came in, saw what time it was, and reminded him of the appointment.\"",
             "work": "In the Mayor's Parlour"
         }
     ],
@@ -9093,8 +9093,8 @@ const quoteMap = {
         {
             "author": "Patricia Highsmith",
             "quote_former": "At ",
-			"time": "ten to eight",
-			"quote_latter": ", he strolled downstairs, to make sure that Signora Buffi was not pottering around in the hall and that her door was not open, and to make sure there really was no one in Freddie's car",
+            "time": "ten to eight",
+            "quote_latter": ", he strolled downstairs, to make sure that Signora Buffi was not pottering around in the hall and that her door was not open, and to make sure there really was no one in Freddie's car",
             "work": "The Talented Mr Ripley"
         }
     ],
@@ -9102,8 +9102,8 @@ const quoteMap = {
         {
             "author": "Patricia Highsmith",
             "quote_former": "He waited until ",
-			"time": "nearly eight",
-			"quote_latter": ", because around seven there were always more people coming in and out of the house than at other times. At ten to eight, he strolled downstairs, to make sure that Signora Buffi was not pottering around in the hall and that her door was not open, and to make sure there really was no one in Freddie's car, though he had gone down in the middle of the afternoon to look at the car and see if it was Freddie's.",
+            "time": "nearly eight",
+            "quote_latter": ", because around seven there were always more people coming in and out of the house than at other times. At ten to eight, he strolled downstairs, to make sure that Signora Buffi was not pottering around in the hall and that her door was not open, and to make sure there really was no one in Freddie's car, though he had gone down in the middle of the afternoon to look at the car and see if it was Freddie's.",
             "work": "The Talented Mr Ripley"
         }
     ],
@@ -9111,8 +9111,8 @@ const quoteMap = {
         {
             "author": "Val McDermid",
             "quote_former": "Wednesday, 11 th December 1963. ",
-			"time": "7.53 p.m.",
-			"quote_latter": " \"Help me. You've got to help me.\" The woman's voice quavered on the edge of tears. The duty constable who had picked up the phone heard a hiccuping gulp, as if the caller was struggling to speak.",
+            "time": "7.53 p.m.",
+            "quote_latter": " \"Help me. You've got to help me.\" The woman's voice quavered on the edge of tears. The duty constable who had picked up the phone heard a hiccuping gulp, as if the caller was struggling to speak.",
             "work": "A Place of Execution"
         }
     ],
@@ -9120,8 +9120,8 @@ const quoteMap = {
         {
             "author": "Ngaio Marsh",
             "quote_former": "The body was found at ",
-			"time": "six minutes to eight",
-			"quote_latter": ". Doctor Young arrived some thirty minutes later. Just let me get that clear - I've a filthy memory.",
+            "time": "six minutes to eight",
+            "quote_latter": ". Doctor Young arrived some thirty minutes later. Just let me get that clear - I've a filthy memory.",
             "work": "A Man Lay Dead"
         }
     ],
@@ -9129,8 +9129,8 @@ const quoteMap = {
         {
             "author": "Stella Gibbons",
             "quote_former": "Flora drew her coat round her, and looked up into the darkening vault of the sky. Then she glanced at her watch. It was ",
-			"time": "five to eight",
-			"quote_latter": ".",
+            "time": "five to eight",
+            "quote_latter": ".",
             "work": "Cold Comfort Farm"
         }
     ],
@@ -9138,8 +9138,8 @@ const quoteMap = {
         {
             "author": "Jorge Luis Borges",
             "quote_former": "I remember the cigarette in his hard face, against the now limitless storm cloud. Bernardo cried to him unexpectedly: 'What time is it, Ireno?' Without consulting the sky, without stopping, he replied: 'It's ",
-			"time": "four minutes to eight",
-			"quote_latter": ", young Bernardo Juan Franciso.' His voice was shrill, mocking.",
+            "time": "four minutes to eight",
+            "quote_latter": ", young Bernardo Juan Franciso.' His voice was shrill, mocking.",
             "work": "Funes the Memorious-Labyrinths"
         }
     ],
@@ -9147,8 +9147,8 @@ const quoteMap = {
         {
             "author": "Glen David Gold",
             "quote_former": "At ",
-			"time": "three minutes till eight",
-			"quote_latter": ", Laszlo and His Yankee Hussars set up onstage. While the band played their Sousa medley, Carter thoroughly checked his kit, stuffing his pockets with scarves, examining the seals on decks of cards. He glanced toward his levitation device. \"Good luck, Carter.\" The voice was quiet.",
+            "time": "three minutes till eight",
+            "quote_latter": ", Laszlo and His Yankee Hussars set up onstage. While the band played their Sousa medley, Carter thoroughly checked his kit, stuffing his pockets with scarves, examining the seals on decks of cards. He glanced toward his levitation device. \"Good luck, Carter.\" The voice was quiet.",
             "work": "Carter Beats The Devil"
         }
     ],
@@ -9156,8 +9156,8 @@ const quoteMap = {
         {
             "author": "Dan Brown",
             "quote_former": "Robert Langdon stole an anxious glance at his wristwatch: ",
-			"time": "7.58pm.",
-			"quote_latter": " The smiling face of Mickey Mouse did little to cheer him up.",
+            "time": "7.58pm.",
+            "quote_latter": " The smiling face of Mickey Mouse did little to cheer him up.",
             "work": "The Lost Symbol"
         }
     ],
@@ -9165,15 +9165,15 @@ const quoteMap = {
         {
             "author": "Daniel Vare",
             "quote_former": "Kuniang made her appearance in my study ",
-			"time": "just before eight o' clock",
-			"quote_latter": ", arrayed in what had once ben a \"party frock\".",
+            "time": "just before eight o' clock",
+            "quote_latter": ", arrayed in what had once ben a \"party frock\".",
             "work": "The Maker of Heavenly Trousers"
         },
         {
             "author": "Diane Setterfield",
             "quote_former": "Quickly, quickly. ",
-			"time": "A minute to eight.",
-			"quote_latter": " My hot water bottle was ready, and I filled a glass with water from the tap. Time was of the essence.",
+            "time": "A minute to eight.",
+            "quote_latter": " My hot water bottle was ready, and I filled a glass with water from the tap. Time was of the essence.",
             "work": "The Thirteenth Tale"
         }
     ],
@@ -9181,64 +9181,64 @@ const quoteMap = {
         {
             "author": "William Wordsworth",
             "quote_former": "'TIS ",
-			"time": "eight o'clock",
-			"quote_latter": ",--a clear March night, The moon is up,--the sky is blue, The owlet, in the moonlight air, Shouts from nobody knows where; He lengthens out his lonely shout, Halloo! halloo! a long halloo!",
+            "time": "eight o'clock",
+            "quote_latter": ",--a clear March night, The moon is up,--the sky is blue, The owlet, in the moonlight air, Shouts from nobody knows where; He lengthens out his lonely shout, Halloo! halloo! a long halloo!",
             "work": "The Idiot Boy"
         },
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "8.00 p.m.",
-			"quote_latter": " Have a bath",
+            "time": "8.00 p.m.",
+            "quote_latter": " Have a bath",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "Douglas Adams",
             "quote_former": "Arthur thought he could even bear to listen to the album of bagpipe music he had won. It was ",
-			"time": "eight o'clock",
-			"quote_latter": " and he decided he would make himself, force himself, to listen to the whole record before he phoned her.",
+            "time": "eight o'clock",
+            "quote_latter": " and he decided he would make himself, force himself, to listen to the whole record before he phoned her.",
             "work": "So Long, and Thanks for All the Fish"
         },
         {
             "author": "Salman Rushdie",
             "quote_former": "At ",
-			"time": "eight o'clock",
-			"quote_latter": " that evening, a Saturday, Pamela Chamcha stood with Jumpy Joshi - who had refused to let her go unaccompanied - next to the Photo-Me machine in a corner of the main concourse of Euston station, feeling ridiculously conspiratorial.",
+            "time": "eight o'clock",
+            "quote_latter": " that evening, a Saturday, Pamela Chamcha stood with Jumpy Joshi - who had refused to let her go unaccompanied - next to the Photo-Me machine in a corner of the main concourse of Euston station, feeling ridiculously conspiratorial.",
             "work": "Satanic Verses"
         },
         {
             "author": "Jed Rubenfeld",
             "quote_former": "Freud had me knock on Jung's door, to no avail. They waited until ",
-			"time": "eight",
-			"quote_latter": ", then set off for Brill's without him.",
+            "time": "eight",
+            "quote_latter": ", then set off for Brill's without him.",
             "work": "The Interpretation Of Murder"
         },
         {
             "author": "F. Scott Fitzgerald",
             "quote_former": "I have been drunk just twice in my life, and the second time was that afternoon; so everything that happened has a dim, hazy cast over it. although until after ",
-			"time": "eight o'clock",
-			"quote_latter": " the apartment was full of cheerful sun.",
+            "time": "eight o'clock",
+            "quote_latter": " the apartment was full of cheerful sun.",
             "work": "The Great Gatsby"
         },
         {
             "author": "Georges Perec",
             "quote_former": "It's the twenty-third of June nineteen seventy-five, and it is ",
-			"time": "eight o'clock",
-			"quote_latter": " in the evening, seated at his jigsaw puzzle, Bartlebooth has just died.",
+            "time": "eight o'clock",
+            "quote_latter": " in the evening, seated at his jigsaw puzzle, Bartlebooth has just died.",
             "work": "Life: A User's Manual"
         },
         {
             "author": "F. Scott Fitzgerald",
             "quote_former": "She looked at her watch- it was ",
-			"time": "eight o'clock",
-			"quote_latter": "",
+            "time": "eight o'clock",
+            "quote_latter": "",
             "work": "The Beautiful and Damned"
         },
         {
             "author": "Jane Austen",
             "quote_former": "The clock struck ",
-			"time": "eight",
-			"quote_latter": ". Had it been ten, Elinor would have been convinced that at that moment she heard a carriage driving up to the house; and so strong was the persuasion that she did, in spite of the almost impossibility of their being already come, that she moved into the adjoining dressing-closet and opened a window-shutter, to be satisfied of the truth. She instantly saw that her ears had not deceived her.",
+            "time": "eight",
+            "quote_latter": ". Had it been ten, Elinor would have been convinced that at that moment she heard a carriage driving up to the house; and so strong was the persuasion that she did, in spite of the almost impossibility of their being already come, that she moved into the adjoining dressing-closet and opened a window-shutter, to be satisfied of the truth. She instantly saw that her ears had not deceived her.",
             "work": "Sense and Sensibility"
         }
     ],
@@ -9246,8 +9246,8 @@ const quoteMap = {
         {
             "author": "Kurt Vonnegut",
             "quote_former": "It was only ",
-			"time": "a little after eight o'clock",
-			"quote_latter": ", so all the shows were about silliness or murder.",
+            "time": "a little after eight o'clock",
+            "quote_latter": ", so all the shows were about silliness or murder.",
             "work": "Slaughterhouse 5"
         }
     ],
@@ -9255,8 +9255,8 @@ const quoteMap = {
         {
             "author": "Leo Tolstoy",
             "quote_former": "\"Yes, I must go to the railway station, and if he's not there, then go there and catch him.\" Anna looked at the railway timetable in the newspapers. An evening train went at ",
-			"time": "two minutes past eight",
-			"quote_latter": ". \"Yes, I shall be in time.\"",
+            "time": "two minutes past eight",
+            "quote_latter": ". \"Yes, I shall be in time.\"",
             "work": "Anna Karenina"
         }
     ],
@@ -9264,8 +9264,8 @@ const quoteMap = {
         {
             "author": "Steve Toltz",
             "quote_former": "He taught me that if I had to meet someone for an appointment, I must refuse to follow the 'stupid human habit' of arbitrarily choosing a time based on fifteen-minute intervals. 'Never meet people at 7:45 or 6:30, Jasper, but pick times like 7:12 and ",
-			"time": "8:03",
-			"quote_latter": "!'",
+            "time": "8:03",
+            "quote_latter": "!'",
             "work": "A Fraction of the Whole"
         }
     ],
@@ -9273,8 +9273,8 @@ const quoteMap = {
         {
             "author": "John Updike",
             "quote_former": "The earth seems to cast its darkness upward into the air. The farm country is somber at night. He is grateful when the lights of Lankaster merge with his dim beams. He stops at a diner who's clock says ",
-			"time": "8.04",
-			"quote_latter": ".",
+            "time": "8.04",
+            "quote_latter": ".",
             "work": "Rabbit, Run"
         }
     ],
@@ -9282,15 +9282,15 @@ const quoteMap = {
         {
             "author": "Mikhail Bulgakov",
             "quote_former": "December 23rd At ",
-			"time": "8.05 pm",
-			"quote_latter": " Prof. Preobrazhensky commenced the first operation of its kind to be performed in Europe: removal under anaesthesia of a dog's testicles and their replacement by implanted human testes, with appendages and seminal ducts, taken from a 28-year-old human male",
+            "time": "8.05 pm",
+            "quote_latter": " Prof. Preobrazhensky commenced the first operation of its kind to be performed in Europe: removal under anaesthesia of a dog's testicles and their replacement by implanted human testes, with appendages and seminal ducts, taken from a 28-year-old human male",
             "work": "The Heart of a Dog"
         },
         {
             "author": "Henry James",
             "quote_former": "Ransom took out his watch, which he had adapted, on purpose, several hours before, to Boston time, and saw that the minutes had sped with increasing velocity during this interview, and that it now marked ",
-			"time": "five minutes past eight",
-			"quote_latter": ".",
+            "time": "five minutes past eight",
+            "quote_latter": ".",
             "work": "The Bostonians"
         }
     ],
@@ -9298,8 +9298,8 @@ const quoteMap = {
         {
             "author": "F. Scott Fitzgerald",
             "quote_former": "I have been drunk just twice in my life, and the second time was that afternoon; so everything that happened has a dim, hazy cast over it, although until ",
-			"time": "after eight o\u2019clock",
-			"quote_latter": " the apartment was full of cheerful sun.",
+            "time": "after eight o\u2019clock",
+            "quote_latter": " the apartment was full of cheerful sun.",
             "work": "The Great Gatsby"
         }
     ],
@@ -9307,15 +9307,15 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "And I could hear that there were fewer people in the little station when the train wasn't there, so I opened my eyes and I looked at my watch and it said ",
-			"time": "8:07 pm",
-			"quote_latter": " and I had been sitting on the bench for approximately 5 hours but it hadn't seemed like approximately 5 hours, except that my bottom hurt and I was hungry and thirsty.",
+            "time": "8:07 pm",
+            "quote_latter": " and I had been sitting on the bench for approximately 5 hours but it hadn't seemed like approximately 5 hours, except that my bottom hurt and I was hungry and thirsty.",
             "work": "The Curious Incident of the Dog in the Night-Time"
         },
         {
             "author": "Lisa Scottoline",
             "quote_former": "Bennie pulled the transcripts for that night. The first call had come in at ",
-			"time": "8:07",
-			"quote_latter": ", with a positive ID.",
+            "time": "8:07",
+            "quote_latter": ", with a positive ID.",
             "work": "Mistaken Identity"
         }
     ],
@@ -9323,8 +9323,8 @@ const quoteMap = {
         {
             "author": "David Foster Wallace",
             "quote_former": "At ",
-			"time": "2010h.",
-			"quote_latter": " on 1 April Y.D.A.U., the medical attache is still watching the unlabelled entertainment cartridge.",
+            "time": "2010h.",
+            "quote_latter": " on 1 April Y.D.A.U., the medical attache is still watching the unlabelled entertainment cartridge.",
             "work": "Infinite Jest"
         }
     ],
@@ -9332,8 +9332,8 @@ const quoteMap = {
         {
             "author": "Dean Koontz",
             "quote_former": "When a call came through to Dilworth\u2019s home number at ",
-			"time": "fourteen minutes past eight",
-			"quote_latter": " o\u2019clock, Olbier and Jones reacted with far more excitement than the situation warranted because they were desperate for action.",
+            "time": "fourteen minutes past eight",
+            "quote_latter": " o\u2019clock, Olbier and Jones reacted with far more excitement than the situation warranted because they were desperate for action.",
             "work": "Watchers"
         }
     ],
@@ -9341,22 +9341,22 @@ const quoteMap = {
         {
             "author": "Helen Fielding",
             "quote_former": "",
-			"time": "8:15 p.m.",
-			"quote_latter": " Cannot locate operating instructions (for video)",
+            "time": "8:15 p.m.",
+            "quote_latter": " Cannot locate operating instructions (for video)",
             "work": "Bridget Jones's Diary"
         },
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "8.15 p.m.",
-			"quote_latter": " Get changed into pyjamas",
+            "time": "8.15 p.m.",
+            "quote_latter": " Get changed into pyjamas",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "Anton Chekhov",
             "quote_former": "Natsha: I was looking to see if there wasn't a fire. It's Shrovetide, and the servant is simply beside herself; I must look out that something doesn't happen. When I came through the dining-room yesterday midnight, there was a candle burning. I couldn't get her to tell me who had lighted it. [Puts down her candle] What's the time? Andrey: [Looks at his watch] A ",
-			"time": "quarter past eight",
-			"quote_latter": ". Natasha: And Olga and Irina aren't in yet. The poor things are still at work. Olga at the teachers' council, Irina at the telegraph office...[sighs] I said to your sister this morning, \"Irina, darling, you must take care of yourself.\" But she pays no attention. Did you say it was a quarter past eight?",
+            "time": "quarter past eight",
+            "quote_latter": ". Natasha: And Olga and Irina aren't in yet. The poor things are still at work. Olga at the teachers' council, Irina at the telegraph office...[sighs] I said to your sister this morning, \"Irina, darling, you must take care of yourself.\" But she pays no attention. Did you say it was a quarter past eight?",
             "work": "The Three Sisters"
         }
     ],
@@ -9364,8 +9364,8 @@ const quoteMap = {
         {
             "author": "Jonathan Coe",
             "quote_former": "He kissed her hand and after a while went to get two more drinks. When he got back, it was ",
-			"time": "sixteen minutes past eight",
-			"quote_latter": ", and Lois was humming softly along with the jukebox",
+            "time": "sixteen minutes past eight",
+            "quote_latter": ", and Lois was humming softly along with the jukebox",
             "work": "The Rotters' Club"
         }
     ],
@@ -9373,8 +9373,8 @@ const quoteMap = {
         {
             "author": "Grant Naylor",
             "quote_former": "",
-			"time": "20.17",
-			"quote_latter": " A red warning light failed to go on in the Drive Room, beginning a chain of events which would lead, in a further twenty-three minutes, to the total annihilation of the entire crew of Red Dwarf.",
+            "time": "20.17",
+            "quote_latter": " A red warning light failed to go on in the Drive Room, beginning a chain of events which would lead, in a further twenty-three minutes, to the total annihilation of the entire crew of Red Dwarf.",
             "work": "Red Dwarf"
         }
     ],
@@ -9382,8 +9382,8 @@ const quoteMap = {
         {
             "author": "John le Carre",
             "quote_former": "",
-			"time": "2018 hrs",
-			"quote_latter": " Katya has arrived at the Odessa Hotel. Barley and Katya are talking in the canteen. Wicklow and one irregular observing. More.",
+            "time": "2018 hrs",
+            "quote_latter": " Katya has arrived at the Odessa Hotel. Barley and Katya are talking in the canteen. Wicklow and one irregular observing. More.",
             "work": "The Russia House"
         }
     ],
@@ -9391,22 +9391,22 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "8.20 p.m.",
-			"quote_latter": " Play computer games",
+            "time": "8.20 p.m.",
+            "quote_latter": " Play computer games",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "Alistair MacLean",
             "quote_former": "At ",
-			"time": "20.20",
-			"quote_latter": " all ships had completed oiling. Hove to, they had had the utmost difficulty in keeping position in that great wind; but they were infinitely safer than in the open sea",
+            "time": "20.20",
+            "quote_latter": " all ships had completed oiling. Hove to, they had had the utmost difficulty in keeping position in that great wind; but they were infinitely safer than in the open sea",
             "work": "H.M.S. Ulysses"
         },
         {
             "author": "George and Weedon Grossmith",
             "quote_former": "Knowing that the dinner was only for us six, we never dreamed it would be a full dress affair. I had no appetite. It was quite ",
-			"time": "twenty minutes past eight",
-			"quote_latter": " before we sat down to dinner.",
+            "time": "twenty minutes past eight",
+            "quote_latter": " before we sat down to dinner.",
             "work": "Diary of a Nobody"
         }
     ],
@@ -9414,8 +9414,8 @@ const quoteMap = {
         {
             "author": "Len Deighton",
             "quote_former": "At ",
-			"time": "8.21",
-			"quote_latter": ", after a knock at the door, a constable said a military police vehicle had just driven into the courtyard, the driver asking for \"Mr.\" Murray.",
+            "time": "8.21",
+            "quote_latter": ", after a knock at the door, a constable said a military police vehicle had just driven into the courtyard, the driver asking for \"Mr.\" Murray.",
             "work": "The Ipcress File"
         }
     ],
@@ -9423,8 +9423,8 @@ const quoteMap = {
         {
             "author": "Margaret Drabble",
             "quote_former": "",
-			"time": "20.23.",
-			"quote_latter": " In a few minutes she would go down.She could have borrowed some mascara from her daughter Sally, but it was too late. She could have rung her mother in Northam, but it was too late. Seven minutes of solitude she had, and then she would descend.",
+            "time": "20.23.",
+            "quote_latter": " In a few minutes she would go down.She could have borrowed some mascara from her daughter Sally, but it was too late. She could have rung her mother in Northam, but it was too late. Seven minutes of solitude she had, and then she would descend.",
             "work": "The Radiant Way"
         }
     ],
@@ -9432,8 +9432,8 @@ const quoteMap = {
         {
             "author": "Rupert Thomson",
             "quote_former": "Peach checked his watch. ",
-			"time": "8.24.",
-			"quote_latter": " If he wasn't in a taxi in twenty minutes he'd be done for.",
+            "time": "8.24.",
+            "quote_latter": " If he wasn't in a taxi in twenty minutes he'd be done for.",
             "work": "Dreams of Leaving"
         }
     ],
@@ -9441,8 +9441,8 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "She sat down in her usual seat and smiled at her husband as he sank into his own chair opposite her. She was saved. It was only ",
-			"time": "five and twenty past eight",
-			"quote_latter": ".",
+            "time": "five and twenty past eight",
+            "quote_latter": ".",
             "work": "The Listerdale Mystery"
         }
     ],
@@ -9450,8 +9450,8 @@ const quoteMap = {
         {
             "author": "Mary Elizabeth Braddon",
             "quote_former": "At ",
-			"time": "seven-and-twenty minutes past eight",
-			"quote_latter": " Mrs Lofthouse was seated at Aurora's piano, in the first agonies of a prelude in six flats; a prelude which demanded such extraordinary uses of the left hand across the right, and the right over the left, and such exercise of the thumbs in all positions",
+            "time": "seven-and-twenty minutes past eight",
+            "quote_latter": " Mrs Lofthouse was seated at Aurora's piano, in the first agonies of a prelude in six flats; a prelude which demanded such extraordinary uses of the left hand across the right, and the right over the left, and such exercise of the thumbs in all positions",
             "work": "Aurora Floyd"
         }
     ],
@@ -9459,8 +9459,8 @@ const quoteMap = {
         {
             "author": "O. Henry",
             "quote_former": "\"",
-			"time": "Twenty-nine and a half minutes past eight",
-			"quote_latter": ", sir.\" And then, from habit, he glanced at the clock in the tower, and made further oration. \"By George! that clock's half an hour fast! First time in ten years I've known it to be off. This watch of mine never varies a--\" But the citizen was talking to vacancy. He turned and saw his hearer, a fast receding black shadow, flying in the direction of a house with three lighted upper windows.",
+            "time": "Twenty-nine and a half minutes past eight",
+            "quote_latter": ", sir.\" And then, from habit, he glanced at the clock in the tower, and made further oration. \"By George! that clock's half an hour fast! First time in ten years I've known it to be off. This watch of mine never varies a--\" But the citizen was talking to vacancy. He turned and saw his hearer, a fast receding black shadow, flying in the direction of a house with three lighted upper windows.",
             "work": "The Four Million"
         }
     ],
@@ -9468,8 +9468,8 @@ const quoteMap = {
         {
             "author": "O. Henry",
             "quote_former": "At the station he captured Miss Lantry out of the gadding mob at ",
-			"time": "eight thirty-two",
-			"quote_latter": ". \"We mustn't keep mamma and the others waiting,\" said she. \"To Wallack's Theatre as fast as you can drive!\"",
+            "time": "eight thirty-two",
+            "quote_latter": ". \"We mustn't keep mamma and the others waiting,\" said she. \"To Wallack's Theatre as fast as you can drive!\"",
             "work": "The Four Million"
         }
     ],
@@ -9477,8 +9477,8 @@ const quoteMap = {
         {
             "author": "Grant Naylor",
             "quote_former": "",
-			"time": "20.33",
-			"quote_latter": " Navigation officer Henri DuBois knocked his black cona coffee with four sugars over his computer console keyboard. As he mopped up the coffee, he noticed three red warning blips on his monitor screen, which he wrongly assumed were the result of his spillage.",
+            "time": "20.33",
+            "quote_latter": " Navigation officer Henri DuBois knocked his black cona coffee with four sugars over his computer console keyboard. As he mopped up the coffee, he noticed three red warning blips on his monitor screen, which he wrongly assumed were the result of his spillage.",
             "work": "Red Dwarf"
         }
     ],
@@ -9486,22 +9486,22 @@ const quoteMap = {
         {
             "author": "Helen Fielding",
             "quote_former": "",
-			"time": "8:35pm.",
-			"quote_latter": " Found operating instructions under Hello.",
+            "time": "8:35pm.",
+            "quote_latter": " Found operating instructions under Hello.",
             "work": "Bridget Jones's Diary"
         },
         {
             "author": "Bram Stoker",
             "quote_former": "Left Munich at ",
-			"time": "8.35 p.m.",
-			"quote_latter": " on 1st May, arriving at Vienna early the next morning",
+            "time": "8.35 p.m.",
+            "quote_latter": " on 1st May, arriving at Vienna early the next morning",
             "work": "Dracula"
         },
         {
             "author": "Agatha Christie",
             "quote_former": "She paused reflectively. He was keenly interested now, not a doubt of it. The murderer is bound to have an interest in murder. She had gambled on that, and succeeded. She stole a glance at the clock. It was ",
-			"time": "five and twenty to nine",
-			"quote_latter": ".",
+            "time": "five and twenty to nine",
+            "quote_latter": ".",
             "work": "The Listerdale mystery"
         }
     ],
@@ -9509,8 +9509,8 @@ const quoteMap = {
         {
             "author": "Grant Naylor",
             "quote_former": "",
-			"time": "20.36",
-			"quote_latter": " Rimmer stood in the main wash-room on the stasis deck and combed his hair.",
+            "time": "20.36",
+            "quote_latter": " Rimmer stood in the main wash-room on the stasis deck and combed his hair.",
             "work": "Red Dwarf"
         }
     ],
@@ -9518,15 +9518,15 @@ const quoteMap = {
         {
             "author": "Charles Dickens",
             "quote_former": "It was when I stood before her, avoiding her eyes, that I took note of the surrounding objects in detail, and saw that her watch had stopped at ",
-			"time": "twenty minutes to nine",
-			"quote_latter": ", and that a clock in the room had stopped at twenty minutes to nine.",
+            "time": "twenty minutes to nine",
+            "quote_latter": ", and that a clock in the room had stopped at twenty minutes to nine.",
             "work": "Great Expectations"
         },
         {
             "author": "Agatha Christie",
             "quote_former": "The letter had been brought in at ",
-			"time": "twenty minutes to nine",
-			"quote_latter": ".",
+            "time": "twenty minutes to nine",
+            "quote_latter": ".",
             "work": "The Murder of Roger Ackroyd"
         }
     ],
@@ -9534,8 +9534,8 @@ const quoteMap = {
         {
             "author": "Jules Verne",
             "quote_former": "The hand at this moment pointed to ",
-			"time": "8.42",
-			"quote_latter": ". The players took up their cards, but their eyes were constantly on the clock. One may safely say that, however secure they might feel, never had minutes seemed so long to them.",
+            "time": "8.42",
+            "quote_latter": ". The players took up their cards, but their eyes were constantly on the clock. One may safely say that, however secure they might feel, never had minutes seemed so long to them.",
             "work": "Around the World in Eighty Days"
         }
     ],
@@ -9543,8 +9543,8 @@ const quoteMap = {
         {
             "author": "Jules Verne",
             "quote_former": "'",
-			"time": "8.43",
-			"quote_latter": ",' said Thomas Flanagan, as he cut the cards placed before him by Gauthier Ralph. There was a moment's pause, during which the spacious room was perfectly silent.",
+            "time": "8.43",
+            "quote_latter": ",' said Thomas Flanagan, as he cut the cards placed before him by Gauthier Ralph. There was a moment's pause, during which the spacious room was perfectly silent.",
             "work": "Around the world in eighty days"
         }
     ],
@@ -9552,8 +9552,8 @@ const quoteMap = {
         {
             "author": "Jules Verne",
             "quote_former": "The clock's pendulum beat every second with mathematical regularity, and each player could count every sixtieth of a minute as it struck his ear.\"",
-			"time": "8.44!",
-			"quote_latter": "\" said John Sullivan, in a voice that betrayed his emotion.Only one minute more and the wager would be won.",
+            "time": "8.44!",
+            "quote_latter": "\" said John Sullivan, in a voice that betrayed his emotion.Only one minute more and the wager would be won.",
             "work": "Around the World in Eighty Days"
         }
     ],
@@ -9561,15 +9561,15 @@ const quoteMap = {
         {
             "author": "Jules Verne",
             "quote_former": "'It's not impossible,' Phileas said quietly.'I bet you 20,000 pounds I could do it. If I leave this evening on the ",
-			"time": "8.45",
-			"quote_latter": " train to Dover, I can be back here at the Reform Club by 8.45 on Saturday 21 December. I'll get my passport stamped at every place i stop to prove I've been around the world.'",
+            "time": "8.45",
+            "quote_latter": " train to Dover, I can be back here at the Reform Club by 8.45 on Saturday 21 December. I'll get my passport stamped at every place i stop to prove I've been around the world.'",
             "work": "Around the World in Eighty Days"
         },
         {
             "author": "Evelyn Waugh",
             "quote_former": "Beaver arrived at ",
-			"time": "quarter to nine",
-			"quote_latter": " in a state of high self-approval; he had refused two invitations for dinner while dressing that evening; he had cashed a cheque for ten pounds at his club; he had booked a Divan table at Espinosa's.",
+            "time": "quarter to nine",
+            "quote_latter": " in a state of high self-approval; he had refused two invitations for dinner while dressing that evening; he had cashed a cheque for ten pounds at his club; he had booked a Divan table at Espinosa's.",
             "work": "A Handful of Dust"
         }
     ],
@@ -9577,8 +9577,8 @@ const quoteMap = {
         {
             "author": "Tom Lichtenberg",
             "quote_former": "At the tone, the time will be ",
-			"time": "eight forty six",
-			"quote_latter": ", exactly. One cubic mile of seawater contains about 50 pounds of gold.",
+            "time": "eight forty six",
+            "quote_latter": ", exactly. One cubic mile of seawater contains about 50 pounds of gold.",
             "work": "Macedonia"
         }
     ],
@@ -9586,8 +9586,8 @@ const quoteMap = {
         {
             "author": "Ilona Andrews",
             "quote_former": "",
-			"time": "8.49",
-			"quote_latter": ". I took the phone, cleared my throat, and dialled the keep, the packs stronghold on the outskirts of Atlanta. Just keep it professional. Less pathetic that way.",
+            "time": "8.49",
+            "quote_latter": ". I took the phone, cleared my throat, and dialled the keep, the packs stronghold on the outskirts of Atlanta. Just keep it professional. Less pathetic that way.",
             "work": "Magic Bleeds"
         }
     ],
@@ -9595,36 +9595,36 @@ const quoteMap = {
         {
             "author": "Helen Fielding",
             "quote_former": "",
-			"time": "8.50pm.",
-			"quote_latter": " Ah Diagram \"Buttons for IMC functions\". But what are IMC functions?",
+            "time": "8.50pm.",
+            "quote_latter": " Ah Diagram \"Buttons for IMC functions\". But what are IMC functions?",
             "work": "Bridget Jones's Diary"
         },
         {
             "author": "Jules Verne",
             "quote_former": "all the clocks in London were striking ",
-			"time": "ten minutes before nine",
-			"quote_latter": ".",
+            "time": "ten minutes before nine",
+            "quote_latter": ".",
             "work": "Around the world in eighty days"
         },
         {
             "author": "Georgette Heyer",
             "quote_former": "He glanced at the bracket-clock on the mantelpiece, but as this had stopped, drew out his watch. 'It is already too late,' he said. 'It wants only ",
-			"time": "ten minutes to nine",
-			"quote_latter": ".' 'Good God!' she exclaimed, turning quite pale. 'What am I to do?'",
+            "time": "ten minutes to nine",
+            "quote_latter": ".' 'Good God!' she exclaimed, turning quite pale. 'What am I to do?'",
             "work": "The Reluctant Widow"
         },
         {
             "author": "David Foster Wallace",
             "quote_former": "He was, yes, always home from work by ",
-			"time": "2050",
-			"quote_latter": " on Thursdays.",
+            "time": "2050",
+            "quote_latter": " on Thursdays.",
             "work": "Infinite Jest"
         },
         {
             "author": "Joseph Conrad",
             "quote_former": "What did it mean by beginning to tick so loudly all of a sudden? Its face indicated ",
-			"time": "ten minutes to nine",
-			"quote_latter": ". Mrs Verloc cared nothing for time, and the ticking went on.",
+            "time": "ten minutes to nine",
+            "quote_latter": ". Mrs Verloc cared nothing for time, and the ticking went on.",
             "work": "The Secret Agent"
         }
     ],
@@ -9632,8 +9632,8 @@ const quoteMap = {
         {
             "author": "Sophie Kinsella",
             "quote_former": "Only ",
-			"time": "eight fifty-three",
-			"quote_latter": ". The partners' decision meeting starts in seven minutes. I'm not sure I can bear this.",
+            "time": "eight fifty-three",
+            "quote_latter": ". The partners' decision meeting starts in seven minutes. I'm not sure I can bear this.",
             "work": "The Undomestic Goddess"
         }
     ],
@@ -9641,8 +9641,8 @@ const quoteMap = {
         {
             "author": "Chris Cole",
             "quote_former": "And the past. The clock on the dash said ",
-			"time": "8:55pm.",
-			"quote_latter": " And the last pink shard of the sun was reaching up into the night sky, desperately trying to hold on for just one more minute.",
+            "time": "8:55pm.",
+            "quote_latter": " And the last pink shard of the sun was reaching up into the night sky, desperately trying to hold on for just one more minute.",
             "work": "Such Great Heights"
         }
     ],
@@ -9650,8 +9650,8 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "\u201cNo. 7 berth\u2014a second-class. The gentleman has not yet come, and it is ",
-			"time": "four minutes to nine",
-			"quote_latter": ".\"",
+            "time": "four minutes to nine",
+            "quote_latter": ".\"",
             "work": "Murder on the Orient Express"
         }
     ],
@@ -9659,8 +9659,8 @@ const quoteMap = {
         {
             "author": "O. Henry",
             "quote_former": "\"Wait,\" he said solemnly, \"till the clock strikes. I have wealth and power and knowledge above most men, but when the clock strikes I am afraid. Stay by me until then. This woman shall be yours. You have the word of the hereditary Prince of Valleluna. On the day of your marriage I will give you $100,000 and a palace on the Hudson. But there must be no clocks in that palace--they measure our follies and limit our pleasures. Do you agree to that?\" \"Of course,\" said the young man, cheerfully, \"they're a nuisance, anyway--always ticking and striking and getting you late for dinner.\" He glanced again at the clock in the tower. The hands stood at ",
-			"time": "three minutes to nine",
-			"quote_latter": ".",
+            "time": "three minutes to nine",
+            "quote_latter": ".",
             "work": "The Four Million"
         }
     ],
@@ -9668,64 +9668,64 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "9.00 p.m.",
-			"quote_latter": " Watch television or a video",
+            "time": "9.00 p.m.",
+            "quote_latter": " Watch television or a video",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "David Foster Wallace",
             "quote_former": "At ",
-			"time": "2100",
-			"quote_latter": " at night it's cold out.",
+            "time": "2100",
+            "quote_latter": " at night it's cold out.",
             "work": "Infinite Jest"
         },
         {
             "author": "Arthur Conan Doyle",
             "quote_former": "It was ",
-			"time": "nine o'clock",
-			"quote_latter": " at night upon the second of August\u2014the most terrible August in the history of the world. One might have thought already that God's curse hung heavy over a degenerate world, for there was an awesome hush and a feeling of vague expectancy in the sultry and stagnant air",
+            "time": "nine o'clock",
+            "quote_latter": " at night upon the second of August\u2014the most terrible August in the history of the world. One might have thought already that God's curse hung heavy over a degenerate world, for there was an awesome hush and a feeling of vague expectancy in the sultry and stagnant air",
             "work": "His Last Bow An Epilogue of Sherlock Holmes"
         },
         {
             "author": "Franz Kafka",
             "quote_former": "On the evening before K.'s thirty-first birthday - it was about ",
-			"time": "nine o'clock",
-			"quote_latter": ", when there is a lull in the streets - two gentlemen came to his apartment.",
+            "time": "nine o'clock",
+            "quote_latter": ", when there is a lull in the streets - two gentlemen came to his apartment.",
             "work": "The Trial"
         },
         {
             "author": "Katherine Mansfield",
             "quote_former": "On the stroke of ",
-			"time": "nine o\u2019clock",
-			"quote_latter": " Mr. and Mrs. De Voted took their places on either side of the drawing-room fire, in attitudes of gracefully combined hospitality and unconcern, Vivian De Voted wearing a black beard and black velvet jacket buttoned over his Bohemian bosom, his lady in a flowing purple gown embroidered in divers appropriate places with pomegranates and their leaves.",
+            "time": "nine o\u2019clock",
+            "quote_latter": " Mr. and Mrs. De Voted took their places on either side of the drawing-room fire, in attitudes of gracefully combined hospitality and unconcern, Vivian De Voted wearing a black beard and black velvet jacket buttoned over his Bohemian bosom, his lady in a flowing purple gown embroidered in divers appropriate places with pomegranates and their leaves.",
             "work": "A Marriage of Passion"
         },
         {
             "author": "Leo Tolstoy",
             "quote_former": "Shortly after ",
-			"time": "nine o'clock",
-			"quote_latter": " that evening, Weyrother drove with his plans to Kutuzov's quarters where the council of war was to be held. All the commanders of columns were summoned to the commander in chief's and with the exception of Prince Bagration, who declined to come, were all there at the appointed time.",
+            "time": "nine o'clock",
+            "quote_latter": " that evening, Weyrother drove with his plans to Kutuzov's quarters where the council of war was to be held. All the commanders of columns were summoned to the commander in chief's and with the exception of Prince Bagration, who declined to come, were all there at the appointed time.",
             "work": "War and Peace"
         },
         {
             "author": "Michael Chabon",
             "quote_former": "Standing in the chrome-and-tile desolation of the Polar-Shtern Kafeteria at ",
-			"time": "nine o'clock",
-			"quote_latter": " on a Friday night, in a snowstorm, he's the loneliest Jew in the Sitka District.",
+            "time": "nine o'clock",
+            "quote_latter": " on a Friday night, in a snowstorm, he's the loneliest Jew in the Sitka District.",
             "work": "The Yiddish Policemen's Union"
         },
         {
             "author": "Antonio Tabucchi",
             "quote_former": "Then he put on a grey jacket and left the flat to make his way to Praca da Alegria. It was already ",
-			"time": "nine o'clock",
-			"quote_latter": ", Pereira maintains.",
+            "time": "nine o'clock",
+            "quote_latter": ", Pereira maintains.",
             "work": "Pereira Maintains"
         },
         {
             "author": "Mervyn Peake",
             "quote_former": "This time, the putting on of her best hat at ",
-			"time": "nine o'clock",
-			"quote_latter": " at night with the idea of sallying forth from the castle, down the long drive and then northwards along the acacia avenue, had been enough to send her to her own doorway as though she suspected someone might be there, someone who was listening to her thoughts.",
+            "time": "nine o'clock",
+            "quote_latter": " at night with the idea of sallying forth from the castle, down the long drive and then northwards along the acacia avenue, had been enough to send her to her own doorway as though she suspected someone might be there, someone who was listening to her thoughts.",
             "work": "Titus Groan"
         }
     ],
@@ -9733,8 +9733,8 @@ const quoteMap = {
         {
             "author": "Franz Kafka",
             "quote_former": "On the evening before K.'s thirty-first birthday - it was ",
-			"time": "about nine o'clock",
-			"quote_latter": ", when there is a lull in the streets - two gentlemen came to his apartment.",
+            "time": "about nine o'clock",
+            "quote_latter": ", when there is a lull in the streets - two gentlemen came to his apartment.",
             "work": "The Trial"
         }
     ],
@@ -9742,8 +9742,8 @@ const quoteMap = {
         {
             "author": "Mark Twain",
             "quote_former": "The good Brants did not allow the boys to play out ",
-			"time": "after nine",
-			"quote_latter": " in summer evenings; they were sent to bed at that hour; Eddie honorably remained, but Georgie usually slipped out of the window toward ten, and enjoyed himself until midnight.",
+            "time": "after nine",
+            "quote_latter": " in summer evenings; they were sent to bed at that hour; Eddie honorably remained, but Georgie usually slipped out of the window toward ten, and enjoyed himself until midnight.",
             "work": "Edward Mills and George Benton: A Tale"
         }
     ],
@@ -9751,8 +9751,8 @@ const quoteMap = {
         {
             "author": "Roald Dahl",
             "quote_former": "Billy Weaver had travelled down from London on the slow afternoon train, with a change at Swindon on the way, and by the time he got to Bath it was ",
-			"time": "about nine o\u2019clock",
-			"quote_latter": " in the evening and the moon was coming up out of a clear starry sky over the houses opposite the station entrance. But the air was deadly cold and the wind was like a flat blade of ice on his cheeks.",
+            "time": "about nine o\u2019clock",
+            "quote_latter": " in the evening and the moon was coming up out of a clear starry sky over the houses opposite the station entrance. But the air was deadly cold and the wind was like a flat blade of ice on his cheeks.",
             "work": "\u201cThe Landlady\u201d"
         }
     ],
@@ -9760,8 +9760,8 @@ const quoteMap = {
         {
             "author": "Bill Bryson",
             "quote_former": "At ",
-			"time": "9.04pm",
-			"quote_latter": " trilobites swim onto the scene, followed more or less immediately by the shapely creatures of the Burgess Shale.",
+            "time": "9.04pm",
+            "quote_latter": " trilobites swim onto the scene, followed more or less immediately by the shapely creatures of the Burgess Shale.",
             "work": "A Short History of Nearly Everything"
         }
     ],
@@ -9769,8 +9769,8 @@ const quoteMap = {
         {
             "author": "Rupert Thomson",
             "quote_former": "",
-			"time": "9.09",
-			"quote_latter": ". Too late to turn around and go back. Too late, too dangerous.",
+            "time": "9.09",
+            "quote_latter": ". Too late to turn around and go back. Too late, too dangerous.",
             "work": "Dreams of Leaving"
         }
     ],
@@ -9778,8 +9778,8 @@ const quoteMap = {
         {
             "author": "Helen Fielding",
             "quote_former": "",
-			"time": "10.10pm.",
-			"quote_latter": " When you turn your recorder on you must adjust clock and the calendar.......Press red and nothing happens. Press numbers and nothing happens. Wish stupid video had never been invented.",
+            "time": "10.10pm.",
+            "quote_latter": " When you turn your recorder on you must adjust clock and the calendar.......Press red and nothing happens. Press numbers and nothing happens. Wish stupid video had never been invented.",
             "work": "Bridget Jones's Diary"
         }
     ],
@@ -9787,8 +9787,8 @@ const quoteMap = {
         {
             "author": "Len Deighton",
             "quote_former": "Every few seconds the house changed character, at one time menacing and sinister, and again the innocent abode of law-abiding citizens about to be attacked by my private army. The luminous watch said ",
-			"time": "9.11",
-			"quote_latter": ".",
+            "time": "9.11",
+            "quote_latter": ".",
             "work": "The Ipcress File"
         }
     ],
@@ -9796,8 +9796,8 @@ const quoteMap = {
         {
             "author": "Nicola Barker",
             "quote_former": "The crime was reported to us (with almost indecent alacrity, Rog) at ",
-			"time": "21.12",
-			"quote_latter": ", by Susan Trott - of Black Grouse Cottage - who had been, I quote_former: 'out looking for hedgehogs when I was horrified to notice the postbox door had fallen off and was just lying there, on the ground'.",
+            "time": "21.12",
+            "quote_latter": ", by Susan Trott - of Black Grouse Cottage - who had been, I quote_former: 'out looking for hedgehogs when I was horrified to notice the postbox door had fallen off and was just lying there, on the ground'.",
             "work": "Burley Cross Postbox Theft"
         }
     ],
@@ -9805,15 +9805,15 @@ const quoteMap = {
         {
             "author": "James Joyce",
             "quote_former": "",
-			"time": "9.15",
-			"quote_latter": ". Did Roberts pay you yet?",
+            "time": "9.15",
+            "quote_latter": ". Did Roberts pay you yet?",
             "work": "Ulysses"
         },
         {
             "author": "Sophie Kinsella",
             "quote_former": "What are we going to do? Should we try to walk to Clapham High Street? But it's bloody miles away. I glance at my watch and am shocked to see that it's ",
-			"time": "nine-fifteen",
-			"quote_latter": ". We've spent over an hour faffing about and we haven't even had a drink. And it's all my fault. I can't even organize one simple evening without its going catastrophically wrong.",
+            "time": "nine-fifteen",
+            "quote_latter": ". We've spent over an hour faffing about and we haven't even had a drink. And it's all my fault. I can't even organize one simple evening without its going catastrophically wrong.",
             "work": "Can You Keep a Secret?"
         }
     ],
@@ -9821,8 +9821,8 @@ const quoteMap = {
         {
             "author": "John Ajvide Lindqvist",
             "quote_former": "",
-			"time": "21:17",
-			"quote_latter": ", Sunday Evening, Angbyplan. A man is observed outside the hair salon. He presses his face and hands against the glass, and appears extremely intoxicated.",
+            "time": "21:17",
+            "quote_latter": ", Sunday Evening, Angbyplan. A man is observed outside the hair salon. He presses his face and hands against the glass, and appears extremely intoxicated.",
             "work": "Let The Right One In"
         }
     ],
@@ -9830,8 +9830,8 @@ const quoteMap = {
         {
             "author": "James Thurber",
             "quote_former": "The same thing would hold true if there were someone in her apartment. In that case he would just say that he had been passing by, recognized her charming house, and thought to drop in. It was ",
-			"time": "eighteen minutes after nine",
-			"quote_latter": " when Mr. Martin turned into Twelfth Street.",
+            "time": "eighteen minutes after nine",
+            "quote_latter": " when Mr. Martin turned into Twelfth Street.",
             "work": "The Catbird Seat"
         }
     ],
@@ -9839,8 +9839,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "9.20 p.m.",
-			"quote_latter": " Have juice and a snack",
+            "time": "9.20 p.m.",
+            "quote_latter": " Have juice and a snack",
             "work": "The Curious Incident of the Dog in the Night-time"
         }
     ],
@@ -9848,8 +9848,8 @@ const quoteMap = {
         {
             "author": "Nicola Barker",
             "quote_former": "Fifteen minutes later (",
-			"time": "21.22 hrs",
-			"quote_latter": "), Miss Squire arrives in Skipton where she is booked into a local B&B. This B&B is located directly across the road from Mhairi Callaghan's Feathercuts.",
+            "time": "21.22 hrs",
+            "quote_latter": "), Miss Squire arrives in Skipton where she is booked into a local B&B. This B&B is located directly across the road from Mhairi Callaghan's Feathercuts.",
             "work": "Burley Cross Postbox Theft"
         }
     ],
@@ -9857,8 +9857,8 @@ const quoteMap = {
         {
             "author": "Sue Townsend",
             "quote_former": "My father met me at the station, the dog jumped up to meet me, missed, and nearly fell in front of the ",
-			"time": "9.23pm",
-			"quote_latter": " Birmingham express.",
+            "time": "9.23pm",
+            "quote_latter": " Birmingham express.",
             "work": "The Secret Diary of Adrian Mole Aged 13 3/4"
         }
     ],
@@ -9866,8 +9866,8 @@ const quoteMap = {
         {
             "author": "Helen Fielding",
             "quote_former": "",
-			"time": "9:25 p.m.",
-			"quote_latter": " Aargh. Suddenly main menu is on TV saying Press 6. Realize was using telly remote control by mistake. Now News has come on",
+            "time": "9:25 p.m.",
+            "quote_latter": " Aargh. Suddenly main menu is on TV saying Press 6. Realize was using telly remote control by mistake. Now News has come on",
             "work": "Bridget Jones's Diary"
         }
     ],
@@ -9875,8 +9875,8 @@ const quoteMap = {
         {
             "author": "Jonathan Safran Foer",
             "quote_former": "From that moment on--",
-			"time": "9:28",
-			"quote_latter": " in the evening, June 18, 1941--everything was different.",
+            "time": "9:28",
+            "quote_latter": " in the evening, June 18, 1941--everything was different.",
             "work": "Everything is Illuminated"
         }
     ],
@@ -9884,29 +9884,29 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "",
-			"time": "9.30 p.m.",
-			"quote_latter": " Go to bed",
+            "time": "9.30 p.m.",
+            "quote_latter": " Go to bed",
             "work": "The Curious Incident of the Dog in the Night-time"
         },
         {
             "author": "Ian McEwan",
             "quote_former": "Forty-eight years old, profoundly asleep at ",
-			"time": "nine thirty",
-			"quote_latter": " on a Friday night - this is modern professional life.",
+            "time": "nine thirty",
+            "quote_latter": " on a Friday night - this is modern professional life.",
             "work": "Saturday"
         },
         {
             "author": "Art Spiegelman",
             "quote_former": "It's ",
-			"time": "9:30 p.m.",
-			"quote_latter": " already. I've gotta head uptown for my appointment with Pavel. Pavel is my shrink. He sees patients at night. He's a Czech Jew, a survivor of Terezin and Auswitz. I see him once a week.",
+            "time": "9:30 p.m.",
+            "quote_latter": " already. I've gotta head uptown for my appointment with Pavel. Pavel is my shrink. He sees patients at night. He's a Czech Jew, a survivor of Terezin and Auswitz. I see him once a week.",
             "work": "Maus"
         },
         {
             "author": "Suzanne Berne",
             "quote_former": "The light in Mr. Green's kitchen snapped off at ",
-			"time": "nine-thirty",
-			"quote_latter": ", followed by the light in his bedroom at his usual ten o'clock. His house was the first on the street to go dark.",
+            "time": "nine-thirty",
+            "quote_latter": ", followed by the light in his bedroom at his usual ten o'clock. His house was the first on the street to go dark.",
             "work": "A crime in the neighborhood"
         }
     ],
@@ -9914,8 +9914,8 @@ const quoteMap = {
         {
             "author": "Haruki Murakami",
             "quote_former": "I took some juice out of the refrigerator and sat down at the kitchen table with it. On the table was a note from my girlfriend: \"Gone out to eat. Back by 9:30.\" The digital clock on the table read 9:30. I watched it flip over to ",
-			"time": "9:31",
-			"quote_latter": ", then to 9:32.",
+            "time": "9:31",
+            "quote_latter": ", then to 9:32.",
             "work": "A Wild Sheep Chase"
         }
     ],
@@ -9923,8 +9923,8 @@ const quoteMap = {
         {
             "author": "Haruki Murakami",
             "quote_former": "I took some juice out of the refrigerator and sat down at the kitchen table with it. On the table was a note from my girlfriend: \"Gone out to eat. Back by 9:30.\" The digital clock on the table read 9:30. I watched it flip over to 9:31, then to ",
-			"time": "9:32",
-			"quote_latter": ".",
+            "time": "9:32",
+            "quote_latter": ".",
             "work": "A Wild Sheep Chase"
         }
     ],
@@ -9932,8 +9932,8 @@ const quoteMap = {
         {
             "author": "Erskine Childers",
             "quote_former": "Thanks; expect me ",
-			"time": "9.34 p.m.",
-			"quote_latter": " 26th'; which produced, three hours later, a reply: 'Delighted; please bring a No. 3 Rippingille stove' - a perplexing and ominous direction, which somehow chilled me in spite of its subject matter.",
+            "time": "9.34 p.m.",
+            "quote_latter": " 26th'; which produced, three hours later, a reply: 'Delighted; please bring a No. 3 Rippingille stove' - a perplexing and ominous direction, which somehow chilled me in spite of its subject matter.",
             "work": "The Riddle of the Sands"
         }
     ],
@@ -9941,8 +9941,8 @@ const quoteMap = {
         {
             "author": "Georgette Heyer",
             "quote_former": "The Sergeant jotted it down on a piece of paper. 'That checks up with his own story: ",
-			"time": "9.35 p.m.",
-			"quote_latter": " Budd leaves; the North dame arrives.'",
+            "time": "9.35 p.m.",
+            "quote_latter": " Budd leaves; the North dame arrives.'",
             "work": "A Blunt Instrument"
         }
     ],
@@ -9950,8 +9950,8 @@ const quoteMap = {
         {
             "author": "Jonathan Safran Foer",
             "quote_former": "My backpack was already packed, and I'd already gotten the other supplies together, like the altimeter and the granola bars and the Swiss army knife I'd dug up in Central Park, so there was nothing else to do. Mom tucked me in at ",
-			"time": "9:36",
-			"quote_latter": ".",
+            "time": "9:36",
+            "quote_latter": ".",
             "work": "Extremely Loud and Incredibly Close"
         }
     ],
@@ -9959,8 +9959,8 @@ const quoteMap = {
         {
             "author": "David Footman",
             "quote_former": "At ",
-			"time": "nine thirty-eight",
-			"quote_latter": " the waiter came back and offered us a second helping of cheese,salami and sardines, and Mr Yoshogi who had been converting sterling into yen looked extremely puzzled and said he had no idea that British Honduras had so large an export trade",
+            "time": "nine thirty-eight",
+            "quote_latter": " the waiter came back and offered us a second helping of cheese,salami and sardines, and Mr Yoshogi who had been converting sterling into yen looked extremely puzzled and said he had no idea that British Honduras had so large an export trade",
             "work": "Pig and Pepper"
         }
     ],
@@ -9968,8 +9968,8 @@ const quoteMap = {
         {
             "author": "Dan Brown",
             "quote_former": "Langdon looked at his Mickey Mouse watch. ",
-			"time": "9:42 P.M.",
-			"quote_latter": "",
+            "time": "9:42 P.M.",
+            "quote_latter": "",
             "work": "The Lost Symbol"
         }
     ],
@@ -9977,8 +9977,8 @@ const quoteMap = {
         {
             "author": "T. C. Boyle",
             "quote_former": "But for some unfathomable reason-birth, death, the end of the universe and all things available to man-Cody Menhoff's was closed at ",
-			"time": "9:45 PM",
-			"quote_latter": " on a Thursday...",
+            "time": "9:45 PM",
+            "quote_latter": " on a Thursday...",
             "work": "Riven Rock"
         }
     ],
@@ -9986,8 +9986,8 @@ const quoteMap = {
         {
             "author": "CJ Driver",
             "quote_former": "For Hunter, who was trained to note times exactly, the final emergency started at ",
-			"time": "thirteen minutes to ten",
-			"quote_latter": ".",
+            "time": "thirteen minutes to ten",
+            "quote_latter": ".",
             "work": "Elegy for a Revolutionary"
         }
     ],
@@ -9995,8 +9995,8 @@ const quoteMap = {
         {
             "author": "James Joyce",
             "quote_former": "I passed out on to the road and saw by the lighted dial of a clock that it was ",
-			"time": "ten minutes to ten",
-			"quote_latter": ". In front of me was a large building which displayed the magical name.",
+            "time": "ten minutes to ten",
+            "quote_latter": ". In front of me was a large building which displayed the magical name.",
             "work": "Dubliners"
         }
     ],
@@ -10004,8 +10004,8 @@ const quoteMap = {
         {
             "author": "David Mitchell",
             "quote_former": "Second to last, the inset clock blinks from ",
-			"time": "21:57",
-			"quote_latter": " to 21:58. Napier's eyes sink, newborn sunshine slants through ancient oaks and on a lost river. Look, Joe, herons",
+            "time": "21:57",
+            "quote_latter": " to 21:58. Napier's eyes sink, newborn sunshine slants through ancient oaks and on a lost river. Look, Joe, herons",
             "work": "Cloud Atlas"
         }
     ],
@@ -10013,8 +10013,8 @@ const quoteMap = {
         {
             "author": "David Mitchell",
             "quote_former": "Second to last, the inset clock blinks from 21:57 to ",
-			"time": "21:58",
-			"quote_latter": ". Napier's eyes sink, newborn sunshine slants through ancient oaks and on a lost river. Look, Joe, herons",
+            "time": "21:58",
+            "quote_latter": ". Napier's eyes sink, newborn sunshine slants through ancient oaks and on a lost river. Look, Joe, herons",
             "work": "Cloud Atlas"
         }
     ],
@@ -10022,57 +10022,57 @@ const quoteMap = {
         {
             "author": "E. Annie Proulx",
             "quote_former": "By ",
-			"time": "ten",
-			"quote_latter": ", Quoyle was drunk. The crowd was enormous, crushed together so densely that Nutbeem could not force his way down the hall or to the door and urinated on the remaining potato chips in the blue barrel, setting a popular example.",
+            "time": "ten",
+            "quote_latter": ", Quoyle was drunk. The crowd was enormous, crushed together so densely that Nutbeem could not force his way down the hall or to the door and urinated on the remaining potato chips in the blue barrel, setting a popular example.",
             "work": "The Shipping News"
         },
         {
             "author": "Robert Louis Stevenson",
             "quote_former": "I could not doubt that this was the BLACK SPOT; and taking it up, I found writ",
-			"time": "ten ",
-			"quote_latter": "on the other side, in a very good, clear hand, this short message: \"You have till ten tonight.\"",
+            "time": "ten ",
+            "quote_latter": "on the other side, in a very good, clear hand, this short message: \"You have till ten tonight.\"",
             "work": "Treasure Island"
         },
         {
             "author": "Daphne du Maurier",
             "quote_former": "I went back into the library, limp and exhausted. In a few minutes the telephone began ringing again. I did not do anything. I let it ring. I went and sat down at Maxim's feet. It went on ringing. I did not move. Presently it stopped, as though cut suddenly in exasperation. The clock on the mantelpiece struck ",
-			"time": "ten o'clock",
-			"quote_latter": ". Maxim put his arms round me and lifted me against him. We began to kiss one another, feverishly, desperately, like guilty lovers who have not kissed before.",
+            "time": "ten o'clock",
+            "quote_latter": ". Maxim put his arms round me and lifted me against him. We began to kiss one another, feverishly, desperately, like guilty lovers who have not kissed before.",
             "work": "Rebecca"
         },
         {
             "author": "Louisa May Alcott",
             "quote_former": "No one wanted to go to bed when at ",
-			"time": "ten o'clock",
-			"quote_latter": " Mrs. March put by the last finished job, and said, \"Come girls.\" Beth went to the piano and played the father's favorite hymn.",
+            "time": "ten o'clock",
+            "quote_latter": " Mrs. March put by the last finished job, and said, \"Come girls.\" Beth went to the piano and played the father's favorite hymn.",
             "work": "Little Women"
         },
         {
             "author": "David Mitchell",
             "quote_former": "The grandfather clock in the State Room strikes ",
-			"time": "ten ",
-			"quote_latter": "times.",
+            "time": "ten ",
+            "quote_latter": "times.",
             "work": "The Thousand Autumns of Jacob de Zoet"
         },
         {
             "author": "Suzanne Berne",
             "quote_former": "The light in Mr. Green's kitchen snapped off at nine-thirty, followed by the light in his bedroom at his usual ",
-			"time": "ten o'clock",
-			"quote_latter": ". His house was the first on the street to go dark.",
+            "time": "ten o'clock",
+            "quote_latter": ". His house was the first on the street to go dark.",
             "work": "A crime in the neighborhood"
         },
         {
             "author": "Ian McEwan",
             "quote_former": "They were alone then, and theoretically free to do whatever they wanted, but they went on eating the dinner they had no appetite for. Florence set down her knife and reached for Edward's hand and squeezed. From downstairs they heard the wireless, the chimes of Big Ben at the start of the ",
-			"time": "ten o'clock",
-			"quote_latter": " news.",
+            "time": "ten o'clock",
+            "quote_latter": " news.",
             "work": "On Chesil Beach"
         },
         {
             "author": "Anne Frank",
             "quote_former": "We let our upstairs room to a certain Mr. Goudsmit, a divorced man in his thirties, who appeared to have nothing to do on this particular evening; we simply could not get rid of him without being rude; he hung about until ",
-			"time": "ten o'clock",
-			"quote_latter": ".",
+            "time": "ten o'clock",
+            "quote_latter": ".",
             "work": "Anne Frank: The Diary of a Young Girl"
         }
     ],
@@ -10080,8 +10080,8 @@ const quoteMap = {
         {
             "author": "Dan Brown",
             "quote_former": "It was now ",
-			"time": "10.02pm.",
-			"quote_latter": " He has less than two hours.",
+            "time": "10.02pm.",
+            "quote_latter": " He has less than two hours.",
             "work": "The Lost Symbol"
         }
     ],
@@ -10089,8 +10089,8 @@ const quoteMap = {
         {
             "author": "Joan Didion",
             "quote_former": "The A-B elevator was our elevator, the elevator on which the paramedics came up at 9:20 p.m., the elevator on which they took John (and me) downstairs to the ambulance at ",
-			"time": "10:05 p.m.",
-			"quote_latter": "",
+            "time": "10:05 p.m.",
+            "quote_latter": "",
             "work": "The Year of Magical Thinking"
         }
     ],
@@ -10098,8 +10098,8 @@ const quoteMap = {
         {
             "author": "James Joyce",
             "quote_former": "Of course, they had good reason to be fussy on such a night. And then it was long ",
-			"time": "after ten o'clock",
-			"quote_latter": " and yet there was no sign of Gabriel and his wife. Besides they were dreadfully afraid that Freddy Malins might turn up screwed.",
+            "time": "after ten o'clock",
+            "quote_latter": " and yet there was no sign of Gabriel and his wife. Besides they were dreadfully afraid that Freddy Malins might turn up screwed.",
             "work": "The Dead"
         }
     ],
@@ -10107,8 +10107,8 @@ const quoteMap = {
         {
             "author": "Emile Zola",
             "quote_former": "That was the past, and now I had just died on the narrow couch of a Paris lodging house, and my wife was crouching on the floor, crying bitterly. The white light before my left eye was growing dim, but I remembered the room perfectly. On the left there was a chest of drawers, on the right a mantelpiece surmounted by a damaged clock without a pendulum, the hands of which marked ",
-			"time": "ten minutes past ten",
-			"quote_latter": ". The window overlooked the Rue Dauphine, a long, dark street. All Paris seemed to pass below, and the noise was so great that the window shook.",
+            "time": "ten minutes past ten",
+            "quote_latter": ". The window overlooked the Rue Dauphine, a long, dark street. All Paris seemed to pass below, and the noise was so great that the window shook.",
             "work": "The Death of Olivier Becaille"
         }
     ],
@@ -10116,8 +10116,8 @@ const quoteMap = {
         {
             "author": "Lee Child",
             "quote_former": "Therefore a sergeant called Trifonov had been on post all day or all week and then he had left at ",
-			"time": "eleven minutes past ten",
-			"quote_latter": " in the evening.",
+            "time": "eleven minutes past ten",
+            "quote_latter": " in the evening.",
             "work": "The Enemy"
         }
     ],
@@ -10125,8 +10125,8 @@ const quoteMap = {
         {
             "author": "David Foster Wallace",
             "quote_former": "The Chinese women scuttled at an amazing rate, given their size and the bags' size. It was c. ",
-			"time": "2212",
-			"quote_latter": ":30-40h., smack in the middle of the former Interval of Issues Resolution.",
+            "time": "2212",
+            "quote_latter": ":30-40h., smack in the middle of the former Interval of Issues Resolution.",
             "work": "Infinite Jest"
         }
     ],
@@ -10134,8 +10134,8 @@ const quoteMap = {
         {
             "author": "David Foster Wallace",
             "quote_former": "The shopping bags looked heavy and impressive, their weight making the Chinese women lean in slightly towards each other. Call it ",
-			"time": "2214",
-			"quote_latter": ":10h.",
+            "time": "2214",
+            "quote_latter": ":10h.",
             "work": "Infinite Jest"
         }
     ],
@@ -10143,8 +10143,8 @@ const quoteMap = {
         {
             "author": "Helen Fielding",
             "quote_former": "",
-			"time": "10:15 p.m.",
-			"quote_latter": " Aargh Newsnight on in 15 minutes",
+            "time": "10:15 p.m.",
+            "quote_latter": " Aargh Newsnight on in 15 minutes",
             "work": "Bridget Jones's Diary"
         }
     ],
@@ -10152,8 +10152,8 @@ const quoteMap = {
         {
             "author": "Helen Fielding",
             "quote_former": "",
-			"time": "10:17 p. m.",
-			"quote_latter": " Casette will not go in",
+            "time": "10:17 p. m.",
+            "quote_latter": " Casette will not go in",
             "work": "Bridget Jones's Diary"
         }
     ],
@@ -10161,8 +10161,8 @@ const quoteMap = {
         {
             "author": "Helen Fielding",
             "quote_former": "",
-			"time": "10:18pm.",
-			"quote_latter": " Ah. Thelma and Louise is in there",
+            "time": "10:18pm.",
+            "quote_latter": " Ah. Thelma and Louise is in there",
             "work": "Bridget Jones's Diary"
         }
     ],
@@ -10170,8 +10170,8 @@ const quoteMap = {
         {
             "author": "Haruki Murakami",
             "quote_former": "At ",
-			"time": "10:20",
-			"quote_latter": " she returned with a shopping bag from the supermarket. In the bag were three scrub brushes, one box of paperclips and a well-chilled six-pack of canned beer. So I had another beer. \"It was about sheep,\" I said. \"Didn't I tell you?\" she said.",
+            "time": "10:20",
+            "quote_latter": " she returned with a shopping bag from the supermarket. In the bag were three scrub brushes, one box of paperclips and a well-chilled six-pack of canned beer. So I had another beer. \"It was about sheep,\" I said. \"Didn't I tell you?\" she said.",
             "work": "A Wild Sheep Chase"
         }
     ],
@@ -10179,29 +10179,29 @@ const quoteMap = {
         {
             "author": "Helen Fielding",
             "quote_former": "",
-			"time": "10:21pm.",
-			"quote_latter": " Frenziedly press all buttons. Cassette comes out and goes back in again",
+            "time": "10:21pm.",
+            "quote_latter": " Frenziedly press all buttons. Cassette comes out and goes back in again",
             "work": "Bridget Jones's Diary"
         },
         {
             "author": "Helen Fielding",
             "quote_former": "",
-			"time": "10:21pm.",
-			"quote_latter": " Thelma and Louise will not come out",
+            "time": "10:21pm.",
+            "quote_latter": " Thelma and Louise will not come out",
             "work": "Bridget Jones's Diary"
         },
         {
             "author": "David Foster Wallace",
             "quote_former": "On a Saturday c. ",
-			"time": "2221h",
-			"quote_latter": "., Lenz found a miniature bird that had fallen out of some nest and was sitting bald and pencil-necked on the lawn of Unit #3 flapping ineffectually, and went in with Green and ducked Green and went back outside to # 3's lawn and put the thing in a pocket and went in and put it down the garbage disposal in the kitchen sink of the kitchen, but still felt largely impotent and unresolved.",
+            "time": "2221h",
+            "quote_latter": "., Lenz found a miniature bird that had fallen out of some nest and was sitting bald and pencil-necked on the lawn of Unit #3 flapping ineffectually, and went in with Green and ducked Green and went back outside to # 3's lawn and put the thing in a pocket and went in and put it down the garbage disposal in the kitchen sink of the kitchen, but still felt largely impotent and unresolved.",
             "work": "Infinite Jest"
         },
         {
             "author": "David Foster Wallace",
             "quote_former": "On a Saturday c. ",
-			"time": "2221h",
-			"quote_latter": "., Lenz found a miniature bird that had fallen out of some nest and was sitting bald and pencil-necked on the lawn of Unit #3 flapping ineffectually...",
+            "time": "2221h",
+            "quote_latter": "., Lenz found a miniature bird that had fallen out of some nest and was sitting bald and pencil-necked on the lawn of Unit #3 flapping ineffectually...",
             "work": "Infinite Jest"
         }
     ],
@@ -10209,8 +10209,8 @@ const quoteMap = {
         {
             "author": "Bill Bryson",
             "quote_former": "Thanks to ten minutes or so of balmy weather, by ",
-			"time": "10:24",
-			"quote_latter": " the Earth is covered in the great carboniferous forests whose residues give us all our coal, and the first winged insects are evident.",
+            "time": "10:24",
+            "quote_latter": " the Earth is covered in the great carboniferous forests whose residues give us all our coal, and the first winged insects are evident.",
             "work": "A Short History of Nearly Everything"
         }
     ],
@@ -10218,8 +10218,8 @@ const quoteMap = {
         {
             "author": "Helen Fielding",
             "quote_former": "",
-			"time": "10:25pm.",
-			"quote_latter": " Got new cassette in now. Right. Turn to \"Recording.................. Aargh Newsnight is starting",
+            "time": "10:25pm.",
+            "quote_latter": " Got new cassette in now. Right. Turn to \"Recording.................. Aargh Newsnight is starting",
             "work": "Bridget Jones's Diary"
         }
     ],
@@ -10227,8 +10227,8 @@ const quoteMap = {
         {
             "author": "Haruki Murakami",
             "quote_former": "As always, consciousness returned to me progressively from the edges of my field of vision. The first things to claim recognition were the bathroom door emerging from the far right and a lamp from the far left, from which my awareness gradually drifted inward like ice flowing together toward the middle of a lake. In the exact center of my visual field was the alarm clock, hands pointing to ",
-			"time": "ten-twenty-six",
-			"quote_latter": ".",
+            "time": "ten-twenty-six",
+            "quote_latter": ".",
             "work": "Hard Boiled Wonderland and the End of the World"
         }
     ],
@@ -10236,8 +10236,8 @@ const quoteMap = {
         {
             "author": "AG Macdonell",
             "quote_former": "Mr Harcourt woke up with mysterious suddenness at ",
-			"time": "twenty-seven minutes past 10",
-			"quote_latter": ", and, by a curious coincidence, it was at that very instant that the butler came in with two footmen laden with trays of whisky, brandy, syphons, glasses and biscuits.",
+            "time": "twenty-seven minutes past 10",
+            "quote_latter": ", and, by a curious coincidence, it was at that very instant that the butler came in with two footmen laden with trays of whisky, brandy, syphons, glasses and biscuits.",
             "work": "England, Their England"
         }
     ],
@@ -10245,15 +10245,15 @@ const quoteMap = {
         {
             "author": "Colm Toibin",
             "quote_former": "She looked at the clock; it was ",
-			"time": "ten thirty",
-			"quote_latter": ". If she could get there quickly on the subway, then she could be at his house in less than an hour, maybe a bit longer if the late trains did not come so often.",
+            "time": "ten thirty",
+            "quote_latter": ". If she could get there quickly on the subway, then she could be at his house in less than an hour, maybe a bit longer if the late trains did not come so often.",
             "work": "Brooklyn"
         },
         {
             "author": "John Le Carre",
             "quote_former": "The time was ",
-			"time": "ten-thirty",
-			"quote_latter": " but it could have been three in the morning, because along its borders, West Berlin goes to bed with the dark",
+            "time": "ten-thirty",
+            "quote_latter": " but it could have been three in the morning, because along its borders, West Berlin goes to bed with the dark",
             "work": "Smiley's People"
         }
     ],
@@ -10261,15 +10261,15 @@ const quoteMap = {
         {
             "author": "Helen Fielding",
             "quote_former": "",
-			"time": "10.31pm.",
-			"quote_latter": " Ok OK. Calm. Penny Husbands-Bosworth, so asbestos leukaemia item is not on yet.",
+            "time": "10.31pm.",
+            "quote_latter": " Ok OK. Calm. Penny Husbands-Bosworth, so asbestos leukaemia item is not on yet.",
             "work": "Bridget Jones's Diary"
         },
         {
             "author": "Mark Haddon",
             "quote_former": "And, later on, at ",
-			"time": "10.31 pm",
-			"quote_latter": ", I went out onto the balcony to find out whether I could see any stars, but there weren't any because of all the clouds and what is called Light Pollution which is light from streetlights and car headlights and floodlights and lights in buildings reflecting off tiny particles in the atmosphere and getting in the way of light from the stars. So I went back inside.",
+            "time": "10.31 pm",
+            "quote_latter": ", I went out onto the balcony to find out whether I could see any stars, but there weren't any because of all the clouds and what is called Light Pollution which is light from streetlights and car headlights and floodlights and lights in buildings reflecting off tiny particles in the atmosphere and getting in the way of light from the stars. So I went back inside.",
             "work": "The Curious Incident of the Dog in the Night-time"
         }
     ],
@@ -10277,15 +10277,15 @@ const quoteMap = {
         {
             "author": "Helen Fielding",
             "quote_former": "",
-			"time": "10:33 p.m.",
-			"quote_latter": " Yessss, yessss. RECORDING CURRENT PROGRAMME. Have done it. Aargh. All going mad. Cassette has started rewinding and now stopped and ejected. Why? Shit. Shit. Realize in excitement have sat on remote control.",
+            "time": "10:33 p.m.",
+            "quote_latter": " Yessss, yessss. RECORDING CURRENT PROGRAMME. Have done it. Aargh. All going mad. Cassette has started rewinding and now stopped and ejected. Why? Shit. Shit. Realize in excitement have sat on remote control.",
             "work": "Bridget Jones's Diary"
         },
         {
             "author": "Helen Fielding",
             "quote_former": "",
-			"time": "10:33pm.",
-			"quote_latter": " Yessss, yessss. RECORDING CURRENT PROGRAMME. Have done it. Aargh. All going mad. Cassette has started rewinding and now stopped and ejected. Why? Shit. Shit. Realize in excitement have sat on remote control.",
+            "time": "10:33pm.",
+            "quote_latter": " Yessss, yessss. RECORDING CURRENT PROGRAMME. Have done it. Aargh. All going mad. Cassette has started rewinding and now stopped and ejected. Why? Shit. Shit. Realize in excitement have sat on remote control.",
             "work": "Bridget Jones's Diary"
         }
     ],
@@ -10293,8 +10293,8 @@ const quoteMap = {
         {
             "author": "Helen Fielding",
             "quote_former": "",
-			"time": "10:35 p.m.",
-			"quote_latter": " Frantic now. Have rung Sahzzer, Rebecca, Simon, Magda. Nobody knows how to programme their videos. Only person I know who knows how to do it is Daniel.",
+            "time": "10:35 p.m.",
+            "quote_latter": " Frantic now. Have rung Sahzzer, Rebecca, Simon, Magda. Nobody knows how to programme their videos. Only person I know who knows how to do it is Daniel.",
             "work": "Bridget Jones's Diary"
         }
     ],
@@ -10302,8 +10302,8 @@ const quoteMap = {
         {
             "author": "Georges Simenon",
             "quote_former": "The station clock told him the time: ",
-			"time": "twenty to eleven",
-			"quote_latter": ". He went to the booking office and asked the clerk in a polite tone when was the next train to Paris. 'In twelve minutes.'",
+            "time": "twenty to eleven",
+            "quote_latter": ". He went to the booking office and asked the clerk in a polite tone when was the next train to Paris. 'In twelve minutes.'",
             "work": "The Man Who Watched the Trains Go By"
         }
     ],
@@ -10311,8 +10311,8 @@ const quoteMap = {
         {
             "author": "John O'Hara",
             "quote_former": "He climbed into the front seat and started the car. It started with a merry powerful hum, ready to go. \"There, the bastards\", said Julian, and smashed the clock with the bottom of the bottle, to give them an approximate time. It was ",
-			"time": "10:41",
-			"quote_latter": "",
+            "time": "10:41",
+            "quote_latter": "",
             "work": "Appointment in Samarra"
         }
     ],
@@ -10320,8 +10320,8 @@ const quoteMap = {
         {
             "author": "Carola Dunn",
             "quote_former": "Alec pricked up his ears. \"When was that?\" \"Oh, yesterday evening.\" \"What time?\" \"",
-			"time": "About a quarter to eleven.",
-			"quote_latter": " I was playing bridge.\"",
+            "time": "About a quarter to eleven.",
+            "quote_latter": " I was playing bridge.\"",
             "work": "Dead in the Water"
         }
     ],
@@ -10329,15 +10329,15 @@ const quoteMap = {
         {
             "author": "Helen Fielding",
             "quote_former": "",
-			"time": "10.45pm.",
-			"quote_latter": " Oh God Daniel fell about laughing when I said I could not programme video. Said he would do it for me. Still at least I have done best for Mum. It is exciting and historic when one's friends are on TV.",
+            "time": "10.45pm.",
+            "quote_latter": " Oh God Daniel fell about laughing when I said I could not programme video. Said he would do it for me. Still at least I have done best for Mum. It is exciting and historic when one's friends are on TV.",
             "work": "Bridget Jones's Diary"
         },
         {
             "author": "Ogden Nash",
             "quote_former": "So the Lackadaisical Broadcasting Co. bids you farewell with the message that if you aren't grateful to be living in a world where so many things to be grateful for are yours as a matter of course. Why it is now five seconds until ",
-			"time": "fifteen minutes before eleven",
-			"quote_latter": " o'clock and you are just an old Trojan Horse.",
+            "time": "fifteen minutes before eleven",
+            "quote_latter": " o'clock and you are just an old Trojan Horse.",
             "work": "Good Intentions"
         }
     ],
@@ -10345,8 +10345,8 @@ const quoteMap = {
         {
             "author": "Erskine Childers",
             "quote_former": "The 'night train' tallied to perfection, for high tide in the creek would be, as Davies estimated, between 10.30 and 11.00 p.m.on the night of the 25th; and the time-table showed that the only night train arriving at Norden was one from the south at ",
-			"time": "10.46 p.m.",
-			"quote_latter": "",
+            "time": "10.46 p.m.",
+            "quote_latter": "",
             "work": "The Riddle of the Sands"
         }
     ],
@@ -10354,8 +10354,8 @@ const quoteMap = {
         {
             "author": "Agatha Christie",
             "quote_former": "\"Oh! I don't know about that,\" said Mr. Satterthwaite, warming to his subject. \"I was down there for a bit last summer. I found it quite convenient for town. Of course the trains only go every hour. 48 minutes past the hour from Waterloo-up to ",
-			"time": "10.48",
-			"quote_latter": ".\"",
+            "time": "10.48",
+            "quote_latter": ".\"",
             "work": "The Sign in the Sky"
         }
     ],
@@ -10363,8 +10363,8 @@ const quoteMap = {
         {
             "author": "David Foster Wallace",
             "quote_former": "It's ",
-			"time": "well after 2245h",
-			"quote_latter": ". The dog's leash slides hissing to the end of the Day-Glo line and stops the dog a couple of paces from the inside of the gate, where Lenz is standing, inclined in the slight forward way of somebody who's talking baby-talk to a dog.",
+            "time": "well after 2245h",
+            "quote_latter": ". The dog's leash slides hissing to the end of the Day-Glo line and stops the dog a couple of paces from the inside of the gate, where Lenz is standing, inclined in the slight forward way of somebody who's talking baby-talk to a dog.",
             "work": "Infinite Jest"
         }
     ],
@@ -10372,22 +10372,22 @@ const quoteMap = {
         {
             "author": "Sir Arthur Conan Doyle",
             "quote_former": "",
-			"time": "10.50 P. M.",
-			"quote_latter": " This diary-keeping of mine is, I fancy, the outcome of that scientific habit of mind about which I wrote this morning. I like to register impressions while they are fresh.",
+            "time": "10.50 P. M.",
+            "quote_latter": " This diary-keeping of mine is, I fancy, the outcome of that scientific habit of mind about which I wrote this morning. I like to register impressions while they are fresh.",
             "work": "The Parasite"
         },
         {
             "author": "Graham Swift",
             "quote_former": "Saturday night. And I said, 'It's a hundred this year, ain't anybody noticed?'\"Jack said, 'What's a hundred?' I said, 'Pub is. Coach is. Look at the clock.' Jack said, \u2018It's ",
-			"time": "ten to eleven",
-			"quote_latter": "\u2019.",
+            "time": "ten to eleven",
+            "quote_latter": "\u2019.",
             "work": "Last Orders"
         },
         {
             "author": "A. L. Kennedy",
             "quote_former": "So think yourself lucky while you're awake and remember a happy crew. Think of Hamburg on the Magic Night. ",
-			"time": "22.50",
-			"quote_latter": " and they went out neatly, just as they should - you couldn't fault Parks, he was always on his route.",
+            "time": "22.50",
+            "quote_latter": " and they went out neatly, just as they should - you couldn't fault Parks, he was always on his route.",
             "work": "Day"
         }
     ],
@@ -10395,8 +10395,8 @@ const quoteMap = {
         {
             "author": "Gaston Leroux",
             "quote_former": "\"It is eleven o'clock! ",
-			"time": "Eleven o'clock, all but five minutes!",
-			"quote_latter": "\" \"But which eleven o'clock?\" \"The eleven o'clock that is to decide life or death!...He told me so just before he went....He is terrible....He is quite mad: he tore off his mask and his yellow eyes shot flames!...\"",
+            "time": "Eleven o'clock, all but five minutes!",
+            "quote_latter": "\" \"But which eleven o'clock?\" \"The eleven o'clock that is to decide life or death!...He told me so just before he went....He is terrible....He is quite mad: he tore off his mask and his yellow eyes shot flames!...\"",
             "work": "The Phantom of the Opera"
         }
     ],
@@ -10404,8 +10404,8 @@ const quoteMap = {
         {
             "author": "Emily Bront\u00eb",
             "quote_former": "Then it grew dark; she would have had them to bed, but they begged sadly to be allowed to stay up; and, ",
-			"time": "just about eleven o\u2019clock",
-			"quote_latter": ", the door-latch was raised quietly, and in stepped the master.",
+            "time": "just about eleven o\u2019clock",
+            "quote_latter": ", the door-latch was raised quietly, and in stepped the master.",
             "work": "Wuthering Heights"
         }
     ],
@@ -10413,8 +10413,8 @@ const quoteMap = {
         {
             "author": "Ian Rankin",
             "quote_former": "They parked the car outside Lowther's at precisely ",
-			"time": "one minute to eleven",
-			"quote_latter": ". People were leaving, not all of them happy at having their evening curtailed. But the grumbling was muted, and even then it only started once they were safely on the street.",
+            "time": "one minute to eleven",
+            "quote_latter": ". People were leaving, not all of them happy at having their evening curtailed. But the grumbling was muted, and even then it only started once they were safely on the street.",
             "work": "The Complaints"
         }
     ],
@@ -10422,50 +10422,50 @@ const quoteMap = {
         {
             "author": "Thomas Hardy",
             "quote_former": "At ",
-			"time": "eleven o'clock",
-			"quote_latter": " that night, having secured a bed at one of the hotels and telegraphed his address to his father immediately on his arrival, he walked out into the streets of Sandbourne.",
+            "time": "eleven o'clock",
+            "quote_latter": " that night, having secured a bed at one of the hotels and telegraphed his address to his father immediately on his arrival, he walked out into the streets of Sandbourne.",
             "work": "Tess of the d'Urbervilles"
         },
         {
             "author": "Wilkie Collins",
             "quote_former": "At ",
-			"time": "eleven o'clock",
-			"quote_latter": ", I rang the bell for Betteredge, and told Mr. Blake that he might at last prepare himself for bed.",
+            "time": "eleven o'clock",
+            "quote_latter": ", I rang the bell for Betteredge, and told Mr. Blake that he might at last prepare himself for bed.",
             "work": "The Moonstone"
         },
         {
             "author": "Italo Calvino",
             "quote_former": "He says, \"They've killed Jan. Clear out.\" \"The suitcase?\" I ask. \"Take it away again. We want nothing to do with it now. Catch the ",
-			"time": "eleven o'clock",
-			"quote_latter": " express.\" \"But it doesn't stop here....\" \"It will. Go to track six. Opposite the freight station. You have three minutes.\" \"But...\" \"Move, or I'll have to arrest you.\"",
+            "time": "eleven o'clock",
+            "quote_latter": " express.\" \"But it doesn't stop here....\" \"It will. Go to track six. Opposite the freight station. You have three minutes.\" \"But...\" \"Move, or I'll have to arrest you.\"",
             "work": "If on a winter's night a traveller"
         },
         {
             "author": "Charlotte Bront\u00eb",
             "quote_former": "The clock struck ",
-			"time": "eleven",
-			"quote_latter": ". I looked at Adele, whose head leant against my shoulder; her eyes were waxing heavy, so I took her up in my arms and carried her off to bed. It was near one before the gentlemen and ladies sought their chambers.",
+            "time": "eleven",
+            "quote_latter": ". I looked at Adele, whose head leant against my shoulder; her eyes were waxing heavy, so I took her up in my arms and carried her off to bed. It was near one before the gentlemen and ladies sought their chambers.",
             "work": "Jane Eyre"
         },
         {
             "author": "Charlotte Bront\u00eb",
             "quote_former": "The clock struck ",
-			"time": "eleven",
-			"quote_latter": ". I looked at Adele, whose head leant against my shoulder; her eyes were waxing heavy, so I took her up in my arms and carried her off to bed. It was near one before the gentlemen and ladies sought their chambers.",
+            "time": "eleven",
+            "quote_latter": ". I looked at Adele, whose head leant against my shoulder; her eyes were waxing heavy, so I took her up in my arms and carried her off to bed. It was near one before the gentlemen and ladies sought their chambers.",
             "work": "Jane Eyre"
         },
         {
             "author": "David Foster Wallace",
             "quote_former": "They didn't even sit down to eat until ",
-			"time": "2300h",
-			"quote_latter": ".",
+            "time": "2300h",
+            "quote_latter": ".",
             "work": "Infinite Jest"
         },
         {
             "author": "JK Rowling",
             "quote_former": "When they reached the top of the Astronomy Tower at ",
-			"time": "eleven o'clock",
-			"quote_latter": ", they found a perfect night for stargazing, cloudless and still.",
+            "time": "eleven o'clock",
+            "quote_latter": ", they found a perfect night for stargazing, cloudless and still.",
             "work": "Harry Potter and the Order of the Phoenix"
         }
     ],
@@ -10473,8 +10473,8 @@ const quoteMap = {
         {
             "author": "Christopher Buckley",
             "quote_former": "\"What makes you think it's for real?\" \"Just a hunch, really. He sounded for real. Sometimes you can just tell about people\"-he smiled-\"even if you're a dull old WASP.\" \"I think it's a setup.\" \"Why?\" \"I just do. Why would someone from the government want to help you?\" \"Good question. Guess I'll find out.\" She went back into the kitchen.\"What time are you meeting him?\" she called out. \"",
-			"time": "Eleven oh-three",
-			"quote_latter": ",\" he said. \"That made me think he's for real. Military and intelligence types set precise appointment times to eliminate confusion and ambiguity. Nothing ambiguous about eleven oh-three.\"",
+            "time": "Eleven oh-three",
+            "quote_latter": ",\" he said. \"That made me think he's for real. Military and intelligence types set precise appointment times to eliminate confusion and ambiguity. Nothing ambiguous about eleven oh-three.\"",
             "work": "Little Green Men"
         }
     ],
@@ -10482,22 +10482,22 @@ const quoteMap = {
         {
             "author": "L.P.Hartley",
             "quote_former": "It was ",
-			"time": "11.05",
-			"quote_latter": ", five minutes later than my habitual bedtime. I felt. I felt guilty at being still up, but the past kept pricking at me and I knew that all the events of those nineteen days in July were astir within me, like the loosening phlegm in an attack of bronchitis",
+            "time": "11.05",
+            "quote_latter": ", five minutes later than my habitual bedtime. I felt. I felt guilty at being still up, but the past kept pricking at me and I knew that all the events of those nineteen days in July were astir within me, like the loosening phlegm in an attack of bronchitis",
             "work": "The Go-Between"
         },
         {
             "author": "Sir Arthur Conan Doyle",
             "quote_former": "It was ",
-			"time": "five minutes past eleven",
-			"quote_latter": " when I made my last entry. I remember winding up my watch and noting the time. So I have wasted some five hours of the little span still left to us. Who would have believed it possible? But I feel very much fresher, and ready for my fate--or try to persuade myself that I am. And yet, the fitter a man is, and the higher his tide of life, the more must he shrink from death. How wise and how merciful is that provision of nature by which his earthly anchor is usually loosened by many little imperceptible tugs, until his consciousness has drifted out of its untenable earthly harbor into the great sea beyond!",
+            "time": "five minutes past eleven",
+            "quote_latter": " when I made my last entry. I remember winding up my watch and noting the time. So I have wasted some five hours of the little span still left to us. Who would have believed it possible? But I feel very much fresher, and ready for my fate--or try to persuade myself that I am. And yet, the fitter a man is, and the higher his tide of life, the more must he shrink from death. How wise and how merciful is that provision of nature by which his earthly anchor is usually loosened by many little imperceptible tugs, until his consciousness has drifted out of its untenable earthly harbor into the great sea beyond!",
             "work": "The Poison Belt"
         },
         {
             "author": "Stanley Donwood",
             "quote_former": "My watch says ",
-			"time": "11:05",
-			"quote_latter": ". But whether AM or PM I don't know.",
+            "time": "11:05",
+            "quote_latter": ". But whether AM or PM I don't know.",
             "work": "Household Worms"
         }
     ],
@@ -10505,8 +10505,8 @@ const quoteMap = {
         {
             "author": "Michael Crichton",
             "quote_former": "At ",
-			"time": "11.07 pm",
-			"quote_latter": ", Samuel \"Gunner\" Wilson was moving at 645 miles per hour over the Mojave Desert. Up ahead in the moonlinght, he saw the twin lead jets, their afterburners glowing angrily in the night sky.",
+            "time": "11.07 pm",
+            "quote_latter": ", Samuel \"Gunner\" Wilson was moving at 645 miles per hour over the Mojave Desert. Up ahead in the moonlinght, he saw the twin lead jets, their afterburners glowing angrily in the night sky.",
             "work": "The Andromeda Strain"
         }
     ],
@@ -10514,15 +10514,15 @@ const quoteMap = {
         {
             "author": "David Lodge",
             "quote_former": "Another Christmas day is nearly over. It's ",
-			"time": "ten past eleven",
-			"quote_latter": ". Richard declined with thanks my offer to make up a bed for him here in my study, and has driven off back to Cambridge, so I am able to make some notes on the day before going to bed myself.",
+            "time": "ten past eleven",
+            "quote_latter": ". Richard declined with thanks my offer to make up a bed for him here in my study, and has driven off back to Cambridge, so I am able to make some notes on the day before going to bed myself.",
             "work": "Deaf Sentence"
         },
         {
             "author": "John O'Hara",
             "quote_former": "He had not the strength to help himself, and at ",
-			"time": "ten minutes past eleven",
-			"quote_latter": " no one could have helped him, no one in the world",
+            "time": "ten minutes past eleven",
+            "quote_latter": " no one could have helped him, no one in the world",
             "work": "Appointment in Samarra"
         }
     ],
@@ -10530,8 +10530,8 @@ const quoteMap = {
         {
             "author": "Joan Didion",
             "quote_former": "Life changes fast Life changes in an instant You sit down to dinner and life as you know it ends. The Question of self-pity. Those were the first words I wrote after it happened. The computer dating on the Microsoft Word file (\"Notes on change.doc\") reads \"May 20, 2004, ",
-			"time": "11:11 p.m.",
-			"quote_latter": ",\" but that would have been a case of my opening the file and reflexively pressing save when I closed it. I had made no changes to that file since I wrote the words, in January 2004, a day or two after the fact. For a long time I wrote nothing else. Life changes in the instant. The ordinary instant.",
+            "time": "11:11 p.m.",
+            "quote_latter": ",\" but that would have been a case of my opening the file and reflexively pressing save when I closed it. I had made no changes to that file since I wrote the words, in January 2004, a day or two after the fact. For a long time I wrote nothing else. Life changes in the instant. The ordinary instant.",
             "work": "The Year of Magical Thinking"
         }
     ],
@@ -10539,8 +10539,8 @@ const quoteMap = {
         {
             "author": "Sergio De La Pava",
             "quote_former": "There was a confirmatory identification done by undercover officer 6475 at ",
-			"time": "23:12",
-			"quote_latter": " hours at the corner of 147th and Amsterdam.",
+            "time": "23:12",
+            "quote_latter": " hours at the corner of 147th and Amsterdam.",
             "work": "A Naked Singularity"
         }
     ],
@@ -10548,15 +10548,15 @@ const quoteMap = {
         {
             "author": "Helen Fielding",
             "quote_former": "",
-			"time": "11.15pm. ",
-			"quote_latter": "Humph. Mum just rang \"Sorry, darling. It isn't Newsnigtht, it's Breakfast News tomorrow. Could you set it for seven o'clock tomorrow morning, BBC1?\"",
+            "time": "11.15pm. ",
+            "quote_latter": "Humph. Mum just rang \"Sorry, darling. It isn't Newsnigtht, it's Breakfast News tomorrow. Could you set it for seven o'clock tomorrow morning, BBC1?\"",
             "work": "Bridget Jones's Diary"
         },
         {
             "author": "George and Weedon Grossmith",
             "quote_former": "On arriving home at a ",
-			"time": "quarter-past eleven",
-			"quote_latter": ", we found a hansom cab, which had been waiting for me for two hours with a letter. Sarah said she did not know what to do, as we had not left the address where we had gone.",
+            "time": "quarter-past eleven",
+            "quote_latter": ", we found a hansom cab, which had been waiting for me for two hours with a letter. Sarah said she did not know what to do, as we had not left the address where we had gone.",
             "work": "Dairy of a Nobody"
         }
     ],
@@ -10564,8 +10564,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "But I couldn't get out of the house straight away because he would see me, so I would have to wait until he was asleep. The time was ",
-			"time": "11.16 pm.",
-			"quote_latter": " I tried doubling 2s again, but I couldn't get past 2(15) which was 32,768. So I groaned to make the time pass quicker and not think.",
+            "time": "11.16 pm.",
+            "quote_latter": " I tried doubling 2s again, but I couldn't get past 2(15) which was 32,768. So I groaned to make the time pass quicker and not think.",
             "work": "The Curious Incident of the Dog in the Night-time"
         }
     ],
@@ -10573,8 +10573,8 @@ const quoteMap = {
         {
             "author": "Jackie Kay",
             "quote_former": "It is ",
-			"time": "11.18",
-			"quote_latter": ". A row of bungalows in a round with a clump of larch tree in the middle.",
+            "time": "11.18",
+            "quote_latter": ". A row of bungalows in a round with a clump of larch tree in the middle.",
             "work": "Trumpet"
         }
     ],
@@ -10582,8 +10582,8 @@ const quoteMap = {
         {
             "author": "Connie Willis",
             "quote_former": "A whistle cut sharply across his words. Peter got onto his knees to look out the window, and Miss Fuller glared at him. Polly looked down at her watch: ",
-			"time": "11:19",
-			"quote_latter": ". The train. But the stationmaster had said it was always late.",
+            "time": "11:19",
+            "quote_latter": ". The train. But the stationmaster had said it was always late.",
             "work": "Blackout"
         }
     ],
@@ -10591,15 +10591,15 @@ const quoteMap = {
         {
             "author": "Dean Koontz",
             "quote_former": "From Balboa Island, he drove south to Laguna Beach. At ",
-			"time": "eleven-twenty",
-			"quote_latter": ", he parked his van across the street from the Hudston house.",
+            "time": "eleven-twenty",
+            "quote_latter": ", he parked his van across the street from the Hudston house.",
             "work": "Watchers"
         },
         {
             "author": "Rudyard Kipling",
             "quote_former": "Harvey looked at the clock, which marked ",
-			"time": "twenty past eleven",
-			"quote_latter": ". \"Then I'll sleep here till three and catch the four o'clock freight. They let us men from the Fleet ride free as a rule.\"",
+            "time": "twenty past eleven",
+            "quote_latter": ". \"Then I'll sleep here till three and catch the four o'clock freight. They let us men from the Fleet ride free as a rule.\"",
             "work": "Captains Courageous"
         }
     ],
@@ -10607,8 +10607,8 @@ const quoteMap = {
         {
             "author": "Robert Thomson",
             "quote_former": "At ",
-			"time": "11.22",
-			"quote_latter": " he handed his ticket to a yawning guard and walked down a long flight of wooden steps to the car-park. A breeze lifted and dropped the leaves of a tree, and he thought of the girl with the blonde hair. His bicycle lay where he had left it.",
+            "time": "11.22",
+            "quote_latter": " he handed his ticket to a yawning guard and walked down a long flight of wooden steps to the car-park. A breeze lifted and dropped the leaves of a tree, and he thought of the girl with the blonde hair. His bicycle lay where he had left it.",
             "work": "Dreams of leaving"
         }
     ],
@@ -10616,15 +10616,15 @@ const quoteMap = {
         {
             "author": "Justin Cartwright",
             "quote_former": "\"OK, Estelle, I willl be at Nice Airport at ",
-			"time": "11.25 p.m.",
-			"quote_latter": " on Saturday, BA: Could you send the driver?\"",
+            "time": "11.25 p.m.",
+            "quote_latter": " on Saturday, BA: Could you send the driver?\"",
             "work": "Other People's Money"
         },
         {
             "author": "Ambrose Bierce",
             "quote_former": "To test the intensity of the light whose nature and cause he could not determine, he took out his watch to see if he could make out the figures on the dial. They were plainly visible, and the hands indicated the hour of ",
-			"time": "eleven o'clock and twenty-five minutes",
-			"quote_latter": ". At that moment the mysterious illumination suddenly flared to an intense, an almost blinding splendor\u2026",
+            "time": "eleven o'clock and twenty-five minutes",
+            "quote_latter": ". At that moment the mysterious illumination suddenly flared to an intense, an almost blinding splendor\u2026",
             "work": "A Wireless Message"
         }
     ],
@@ -10632,8 +10632,8 @@ const quoteMap = {
         {
             "author": "Neil Gaiman",
             "quote_former": "Los Angeles. ",
-			"time": "11:26 p.m.",
-			"quote_latter": " In a dark red room- the color of the walls is close to that of raw liver- is a tall woman dressed cartoonishly in too-tight silk shorts, her breasts pulled up and pressed forward by the yellow blouse tied beneath them.",
+            "time": "11:26 p.m.",
+            "quote_latter": " In a dark red room- the color of the walls is close to that of raw liver- is a tall woman dressed cartoonishly in too-tight silk shorts, her breasts pulled up and pressed forward by the yellow blouse tied beneath them.",
             "work": "American Gods"
         }
     ],
@@ -10641,8 +10641,8 @@ const quoteMap = {
         {
             "author": "Justin Cartwright",
             "quote_former": "He tells his old friend the train times and they settle on the 19.45 arriving at ",
-			"time": "23.27",
-			"quote_latter": ". \"I'll book us into the ultra-luxurious Francis Drake Lodge. Running water in several rooms. Have you got a mobile?\"",
+            "time": "23.27",
+            "quote_latter": ". \"I'll book us into the ultra-luxurious Francis Drake Lodge. Running water in several rooms. Have you got a mobile?\"",
             "work": "Other People's Money"
         }
     ],
@@ -10650,29 +10650,29 @@ const quoteMap = {
         {
             "author": "David Foster Wallace",
             "quote_former": "He loaded the player and turned on the viewer, his knees popping again as he squatted to set the cue to ",
-			"time": "2330",
-			"quote_latter": ".",
+            "time": "2330",
+            "quote_latter": ".",
             "work": "Infinite Jest"
         },
         {
             "author": "Paul Bowles",
             "quote_former": "He would catch the night bus for Casablanca, the one that left the beach at ",
-			"time": "half past eleven",
-			"quote_latter": ".",
+            "time": "half past eleven",
+            "quote_latter": ".",
             "work": "'The Dismissal', in Midnight Mass & Other Stories"
         },
         {
             "author": "Katherine Mansfield",
             "quote_former": "The Picton boat was due to leave at ",
-			"time": "half-past eleven",
-			"quote_latter": ". It was a beautiful night, mild, starry, only when they got out of the cab and started to walk down the Old Wharf that jutted out into the harbour, a faint wind blowing off the water ruffled under Fenella's hat, and she put up her hand to keep it on.",
+            "time": "half-past eleven",
+            "quote_latter": ". It was a beautiful night, mild, starry, only when they got out of the cab and started to walk down the Old Wharf that jutted out into the harbour, a faint wind blowing off the water ruffled under Fenella's hat, and she put up her hand to keep it on.",
             "work": "\u201cThe Voyage\u201d"
         },
         {
             "author": "Dylan Thomas",
             "quote_former": "The ship's clock in the bar says ",
-			"time": "half past eleven",
-			"quote_latter": ". Half past eleven is opening time. The hands of the clock have stayed still at half past eleven for fifty years.",
+            "time": "half past eleven",
+            "quote_latter": ". Half past eleven is opening time. The hands of the clock have stayed still at half past eleven for fifty years.",
             "work": "Under Milk Wood"
         }
     ],
@@ -10680,8 +10680,8 @@ const quoteMap = {
         {
             "author": "Salman Rushdie",
             "quote_former": "It is ",
-			"time": "twenty-nine minutes to midnight",
-			"quote_latter": ". Dr Narlikar's Nursing Home is running on a skeleton staff; there are many absentees, many employees who have preferred to celebrate the imminent birth of the nation, and will not assist tonight at the births of children.",
+            "time": "twenty-nine minutes to midnight",
+            "quote_latter": ". Dr Narlikar's Nursing Home is running on a skeleton staff; there are many absentees, many employees who have preferred to celebrate the imminent birth of the nation, and will not assist tonight at the births of children.",
             "work": "Midnight's Children"
         }
     ],
@@ -10689,15 +10689,15 @@ const quoteMap = {
         {
             "author": "Gerard Reve",
             "quote_former": "\"This is the evening. This is the night. It is New Year\u00b4s Eve. ",
-			"time": "In about twenty-eight minutes it will be midnight.",
-			"quote_latter": " I still have twenty-eight minutes left. I have to recollect my thoughts. At twelve o\u00b4clock, I should be done thinking.\" He looked at his father. \"Help those that are depressed and consider themselves lost in this world,\" he thought. \"Old fart.\"",
+            "time": "In about twenty-eight minutes it will be midnight.",
+            "quote_latter": " I still have twenty-eight minutes left. I have to recollect my thoughts. At twelve o\u00b4clock, I should be done thinking.\" He looked at his father. \"Help those that are depressed and consider themselves lost in this world,\" he thought. \"Old fart.\"",
             "work": "The Evenings"
         },
         {
             "author": "Mark Haddon",
             "quote_former": "And then it started to rain and I got wet and I started shivering because I was cold. And then it was ",
-			"time": "11.32 pm",
-			"quote_latter": " and I heard voices of people walking along the street. And a voice said, 'I don't care whether you thought it was funny or not,' and it was a lady's voice.",
+            "time": "11.32 pm",
+            "quote_latter": " and I heard voices of people walking along the street. And a voice said, 'I don't care whether you thought it was funny or not,' and it was a lady's voice.",
             "work": "The Curious Incident of the Dog in the Night-time"
         }
     ],
@@ -10705,8 +10705,8 @@ const quoteMap = {
         {
             "author": "Salman Rushdie",
             "quote_former": "We are on Colaba Causeway now, just for a moment, to reveal that at ",
-			"time": "twenty-seven minutes to midnight",
-			"quote_latter": ", the police are hunting for a dangerous criminal. His name: Joseph D'Costa. The orderly is absent, has been absent for several days, from his work at the Nursing Home, from his room near the slaughterhouse, and from the life of a distraught virginal Mary",
+            "time": "twenty-seven minutes to midnight",
+            "quote_latter": ", the police are hunting for a dangerous criminal. His name: Joseph D'Costa. The orderly is absent, has been absent for several days, from his work at the Nursing Home, from his room near the slaughterhouse, and from the life of a distraught virginal Mary",
             "work": "Midnight's Children"
         }
     ],
@@ -10714,8 +10714,8 @@ const quoteMap = {
         {
             "author": "Lee Child",
             "quote_former": "Reacher retrieved his G36 from under the saloon bar window at ",
-			"time": "eleven thirty-four",
-			"quote_latter": " precisely and set out to walk back on the road, which he figured would make the return trip faster.",
+            "time": "eleven thirty-four",
+            "quote_latter": " precisely and set out to walk back on the road, which he figured would make the return trip faster.",
             "work": "The Hard Way"
         }
     ],
@@ -10723,8 +10723,8 @@ const quoteMap = {
         {
             "author": "Michael Innes",
             "quote_former": "Then at ",
-			"time": "eleven thirty-five",
-			"quote_latter": " the door at the rear of the hall opened and a police sergeant and three constables entered, ushered by Bagot.",
+            "time": "eleven thirty-five",
+            "quote_latter": " the door at the rear of the hall opened and a police sergeant and three constables entered, ushered by Bagot.",
             "work": "Hamlet, Revenge!"
         }
     ],
@@ -10732,8 +10732,8 @@ const quoteMap = {
         {
             "author": "David Foster Wallace",
             "quote_former": "Then Green knocks at the front door at ",
-			"time": "2336",
-			"quote_latter": " - Gately has to Log the exact time and then it's his call whether to unlock the door.",
+            "time": "2336",
+            "quote_latter": " - Gately has to Log the exact time and then it's his call whether to unlock the door.",
             "work": "Infinite Jest"
         }
     ],
@@ -10741,8 +10741,8 @@ const quoteMap = {
         {
             "author": "T S Eliot",
             "quote_former": "There's a whisper down the line at ",
-			"time": "11.39",
-			"quote_latter": " When the Night Mail's ready to depart, Saying \"Skimble where is Skimble has he gone to hunt the thimble? We must find him or the train can't start.\"",
+            "time": "11.39",
+            "quote_latter": " When the Night Mail's ready to depart, Saying \"Skimble where is Skimble has he gone to hunt the thimble? We must find him or the train can't start.\"",
             "work": "Old Possum's Book of Practical Cats"
         }
     ],
@@ -10750,8 +10750,8 @@ const quoteMap = {
         {
             "author": "Bram Stoker",
             "quote_former": "We all have the maps and appliances of various kinds that can be had. Professor Van Helsing and I are to leave by the ",
-			"time": "11:40",
-			"quote_latter": " train tonight for Veresti, where we are to get a carriage to drive to the Borgo Pass. We are bringing a good deal of ready money, as we are to buy a carriage and horses.",
+            "time": "11:40",
+            "quote_latter": " train tonight for Veresti, where we are to get a carriage to drive to the Borgo Pass. We are bringing a good deal of ready money, as we are to buy a carriage and horses.",
             "work": "Dracula"
         }
     ],
@@ -10759,8 +10759,8 @@ const quoteMap = {
         {
             "author": "James Clavell",
             "quote_former": "In a little while his mind cleared, but his head ached, arms ached, body ached. The phosphorescent figures on his watch attracted his attention. He peered at them. The time was ",
-			"time": "11:41",
-			"quote_latter": ". I remember...what do I remember?",
+            "time": "11:41",
+            "quote_latter": ". I remember...what do I remember?",
             "work": "Noble House"
         }
     ],
@@ -10768,8 +10768,8 @@ const quoteMap = {
         {
             "author": "TS Eliot",
             "quote_former": "At ",
-			"time": "11.42",
-			"quote_latter": " then the signal's nearly due And the passengers are frantic to a man- Then Skimble will appear and he'll saunter to the rear:",
+            "time": "11.42",
+            "quote_latter": " then the signal's nearly due And the passengers are frantic to a man- Then Skimble will appear and he'll saunter to the rear:",
             "work": "Old Possum's Book of Practical Cats"
         }
     ],
@@ -10777,8 +10777,8 @@ const quoteMap = {
         {
             "author": "Ruth Rendell",
             "quote_former": "The clock told him it was ",
-			"time": "eleven forty-three",
-			"quote_latter": " and in that moment, in a flash of illumination, Mungo understood what the numbers at the end of Moscow Centre's messages were",
+            "time": "eleven forty-three",
+            "quote_latter": " and in that moment, in a flash of illumination, Mungo understood what the numbers at the end of Moscow Centre's messages were",
             "work": "Talking to Strange Men"
         }
     ],
@@ -10786,8 +10786,8 @@ const quoteMap = {
         {
             "author": "Ben Elton",
             "quote_former": "'At ",
-			"time": "eleven forty-four",
-			"quote_latter": " last night somebody stabbed this girl in the neck with a kitchen knife and immediately thereafter plunged the same knife through her skull, where it remained.\u2019",
+            "time": "eleven forty-four",
+            "quote_latter": " last night somebody stabbed this girl in the neck with a kitchen knife and immediately thereafter plunged the same knife through her skull, where it remained.\u2019",
             "work": "Dead Famous"
         }
     ],
@@ -10795,15 +10795,15 @@ const quoteMap = {
         {
             "author": "Charles Dickens",
             "quote_former": "The church clocks chimed ",
-			"time": "three quarters past eleven",
-			"quote_latter": ", as two figures emerged on London Bridge. One, which advanced with a swift and rapid step, was that of a woman who looked eagerly about her as though in quest of some expected object; the other figure was that of a man...",
+            "time": "three quarters past eleven",
+            "quote_latter": ", as two figures emerged on London Bridge. One, which advanced with a swift and rapid step, was that of a woman who looked eagerly about her as though in quest of some expected object; the other figure was that of a man...",
             "work": "Oliver Twist"
         },
         {
             "author": "Jerome K. Jerome",
             "quote_former": "We struck the tow-path at length, and that made us happy because prior to this we had not been sure whether we were walking towards the river or away from it, and when you are tired and want to go to bed, uncertainties like that worry you. We passed Shiplake as the clock was striking the ",
-			"time": "quarter to twelve",
-			"quote_latter": " and then George said thoughtfully: 'You don't happen to remember which of the islands it was, do you?'",
+            "time": "quarter to twelve",
+            "quote_latter": " and then George said thoughtfully: 'You don't happen to remember which of the islands it was, do you?'",
             "work": "Three Men in a Boat"
         }
     ],
@@ -10811,8 +10811,8 @@ const quoteMap = {
         {
             "author": "Joyce Carol Oates",
             "quote_former": "In the Kismet Lounge, Mr. Early sees suddenly to his horror it's ",
-			"time": "11:46 p.m.",
-			"quote_latter": " He's been in this place far longer than he'd planned, and he's had more to drink than he'd planned. Shame! What if, back at the E-Z, his little girl is crying piteously for him?",
+            "time": "11:46 p.m.",
+            "quote_latter": " He's been in this place far longer than he'd planned, and he's had more to drink than he'd planned. Shame! What if, back at the E-Z, his little girl is crying piteously for him?",
             "work": "Doll: A Romance of the Mississippi"
         }
     ],
@@ -10820,8 +10820,8 @@ const quoteMap = {
         {
             "author": "Rudolf Ja\u0161\u00edk",
             "quote_former": "If he had glanced at his watch, he would have seen that it was ",
-			"time": "thirteen minutes to midnight",
-			"quote_latter": ". And if he had been interested in what was going on, he would have heard the voices and bawling of terrified men.",
+            "time": "thirteen minutes to midnight",
+            "quote_latter": ". And if he had been interested in what was going on, he would have heard the voices and bawling of terrified men.",
             "work": "Dead Soldiers Don't Sing"
         }
     ],
@@ -10829,8 +10829,8 @@ const quoteMap = {
         {
             "author": "James Ellroy",
             "quote_former": "Littell arranged a private charter.He told the pilot to fly balls-to-the-wall.The little two-seater rattled and shook-Kemper couldn't believe it. It was ",
-			"time": "11.48pm.",
-			"quote_latter": " They were thirty-six hours short of GO.",
+            "time": "11.48pm.",
+            "quote_latter": " They were thirty-six hours short of GO.",
             "work": "American Tabloid"
         }
     ],
@@ -10838,8 +10838,8 @@ const quoteMap = {
         {
             "author": "The Patricia Highsmith",
             "quote_former": "Tom shrugged. He pushed his pinkish ruffled sleeve back, and saw that it was ",
-			"time": "eleven minutes to midnight",
-			"quote_latter": ". Tom finished his coffee.",
+            "time": "eleven minutes to midnight",
+            "quote_latter": ". Tom finished his coffee.",
             "work": "The Boy Who Followed Ripley"
         }
     ],
@@ -10847,8 +10847,8 @@ const quoteMap = {
         {
             "author": "Jonathan Safran Foer",
             "quote_former": "At ",
-			"time": "11.50pm",
-			"quote_latter": ", I got up extremely quietly, took my things from under the bed, and opened the door one millimeter at a time, so it wouldn't make any noise.",
+            "time": "11.50pm",
+            "quote_latter": ", I got up extremely quietly, took my things from under the bed, and opened the door one millimeter at a time, so it wouldn't make any noise.",
             "work": "Extremely Loud and Incredibly Close"
         }
     ],
@@ -10856,8 +10856,8 @@ const quoteMap = {
         {
             "author": "Sax Rohmer",
             "quote_former": "\"Due at Waterloo at ",
-			"time": "eleven-fifty-one",
-			"quote_latter": ",\" panted Smith.\"That gives us thirty-nine minutes to get to the other side of the river and reach his hotel.\"",
+            "time": "eleven-fifty-one",
+            "quote_latter": ",\" panted Smith.\"That gives us thirty-nine minutes to get to the other side of the river and reach his hotel.\"",
             "work": "The Mystery of Dr Fu Manchu"
         }
     ],
@@ -10865,8 +10865,8 @@ const quoteMap = {
         {
             "author": "Kingsley Amis",
             "quote_former": "It was ",
-			"time": "eight minutes to midnight",
-			"quote_latter": ". Just nice time, I said to myself. Indoors, everything was quiet and in darkness. Splendid. I went to the bar and fetched a tumbler, a siphon of soda and a bottle of Glen Grant, took a weak drink and a pill, and settled down in the public dining-room to wait the remaining two minutes.",
+            "time": "eight minutes to midnight",
+            "quote_latter": ". Just nice time, I said to myself. Indoors, everything was quiet and in darkness. Splendid. I went to the bar and fetched a tumbler, a siphon of soda and a bottle of Glen Grant, took a weak drink and a pill, and settled down in the public dining-room to wait the remaining two minutes.",
             "work": "The Green Man"
         }
     ],
@@ -10874,8 +10874,8 @@ const quoteMap = {
         {
             "author": "Mark Haddon",
             "quote_former": "It was ",
-			"time": "7 minutes to midnight",
-			"quote_latter": ". The dog was lying on the grass in the middle of the lawn in front of Mrs. Shears' house.",
+            "time": "7 minutes to midnight",
+            "quote_latter": ". The dog was lying on the grass in the middle of the lawn in front of Mrs. Shears' house.",
             "work": "The Curious Incident of the Dog in the Night-time"
         }
     ],
@@ -10883,8 +10883,8 @@ const quoteMap = {
         {
             "author": "Greg Tobin",
             "quote_former": "His watch read ",
-			"time": "11.54pm",
-			"quote_latter": " Eastern Standard Time. Already it was nearly 6.00am in Rome. He had left a city frozen by a harsh January storm, after a bleak, wet Christmas season.",
+            "time": "11.54pm",
+            "quote_latter": " Eastern Standard Time. Already it was nearly 6.00am in Rome. He had left a city frozen by a harsh January storm, after a bleak, wet Christmas season.",
             "work": "Conclave"
         }
     ],
@@ -10892,15 +10892,15 @@ const quoteMap = {
         {
             "author": "J. K. Rowling",
             "quote_former": "\"I am going to lock you in. It is-\" he consulted his watch, \"",
-			"time": "five minutes to midnight",
-			"quote_latter": ". Miss Granger, three turns should do it. Good luck.\"",
+            "time": "five minutes to midnight",
+            "quote_latter": ". Miss Granger, three turns should do it. Good luck.\"",
             "work": "Harry Potter and the Prisoner of Azkaban"
         },
         {
             "author": "Wilkie Collins",
             "quote_former": "I looked at my watch. It wanted ",
-			"time": "five minutes to twelve",
-			"quote_latter": ", when the premonitory symptoms of the working of the laudanum first showed themselves to me.\nAt this time, no unpractised eyes would have detected any change in him. But, as the minutes of the new morning wore away, the swiftly-subtle progress of the influence began to show itself more plainly. The sublime intoxication of opium gleamed in his eyes; the dew of a stealthy perspiration began to glisten on his face. In five minutes more, the talk which he still kept up with me, failed in coherence.",
+            "time": "five minutes to twelve",
+            "quote_latter": ", when the premonitory symptoms of the working of the laudanum first showed themselves to me.\nAt this time, no unpractised eyes would have detected any change in him. But, as the minutes of the new morning wore away, the swiftly-subtle progress of the influence began to show itself more plainly. The sublime intoxication of opium gleamed in his eyes; the dew of a stealthy perspiration began to glisten on his face. In five minutes more, the talk which he still kept up with me, failed in coherence.",
             "work": "The Moonstone"
         }
     ],
@@ -10908,8 +10908,8 @@ const quoteMap = {
         {
             "author": "Fay Weldon",
             "quote_former": "The human race is at the end of the line, the doomsday clock ticks on. It's stopped for a decade at ",
-			"time": "four minutes to midnight",
-			"quote_latter": ", but there the hands still stand. Any minute now they'll begin to move again.",
+            "time": "four minutes to midnight",
+            "quote_latter": ", but there the hands still stand. Any minute now they'll begin to move again.",
             "work": "Wicked Women"
         }
     ],
@@ -10917,8 +10917,8 @@ const quoteMap = {
         {
             "author": "Bill Bryson",
             "quote_former": "Humans emerge ",
-			"time": "one minute and seventeen seconds before midnight",
-			"quote_latter": ". The whole of our recorded history, on this scale, would be no more than a few seconds, a single human lifetime barely an instant.",
+            "time": "one minute and seventeen seconds before midnight",
+            "quote_latter": ". The whole of our recorded history, on this scale, would be no more than a few seconds, a single human lifetime barely an instant.",
             "work": "A Short History of Nearly Everything"
         }
     ],
@@ -10926,8 +10926,8 @@ const quoteMap = {
         {
             "author": "Cormac McCarthy",
             "quote_former": "Chigurgh rose and picked up the empty casing off the rug and blew into it and put it in his pocket and looked at his watch. The ",
-			"time": "new day was still a minute away",
-			"quote_latter": ".",
+            "time": "new day was still a minute away",
+            "quote_latter": ".",
             "work": "No Country for Old Men"
         }
     ]
