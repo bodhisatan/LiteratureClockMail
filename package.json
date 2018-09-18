@@ -1,0 +1,16 @@
+{
+    "name": "literature-clock-mail",
+    "version": "1.0.0",
+    "description": "send an email with literature-clock by node to remind the time every hour",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Bodhisatan",
+    "license": "ISC",
+    "dependencies": {
+      "ejs": "^2.5.7",
+      "node-schedule": "^1.2.5",
+      "nodemailer": "^4.4.0"
+    }
+  }
