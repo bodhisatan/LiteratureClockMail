@@ -5,7 +5,7 @@ A script written by node.js to send email with Literature-Clock, based on work a
 Also Thanks for the picture source coming from another developer's [open-source-code](https://github.com/boramalper/literary-clock).
 
 ### *preview first*
-![image][https://github.com/bodhisatan/LiteratureClockMail/preview.png]
+![image][https://github.com/bodhisatan/LiteratureClockMail/blob/master/preview.png]
 
 ### *how to use it*
 * first you have to deploy the environment of node.js
