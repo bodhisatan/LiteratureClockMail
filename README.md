@@ -4,9 +4,6 @@
 A script written by node.js to send email with Literature-Clock, based on work and idea by [Jaap Meijers](https://www.instructables.com/id/Literary-Clock-Made-From-E-reader/).
 Also Thanks for the picture source coming from another developer's [open-source-code](https://github.com/boramalper/literary-clock).
 
-### *preview first*
-![image](https://github.com/bodhisatan/LiteratureClockMail/blob/master/preview.png)
-
 ### *how to use it*
 * first you have to deploy the environment of node.js
 * then you should git clone or download the repository
@@ -32,7 +29,7 @@ let EmailTo = "email address of recipient";
 let EmailSubject = "the email theme";
 ```
 ### 中文文档
-这是一个node.js写的小脚本，采用EJS模版引擎生成HTML，并将此HTML通过nodemailer发送给自己的小女友，定时功能采用node-schedule模块实现
+这是一个node.js写的小脚本，采用EJS模版引擎生成HTML，并将此HTML通过nodemailer发送邮件，定时功能采用node-schedule模块实现
 
 * 如何使用 
     * 第一步：在本地配置node环境
